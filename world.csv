@@ -1,0 +1,771 @@
+,track,artist,album,popularity,time,release_date,track_number,danceability,energy,key,loudness,mode,speechiness,acoustincess,instrumentalness,liveness,valence,tempo,time_signature,genre
+0,Lucid Dreams (Forget Me),Juice WRLD,Lucid Dreams (Forget Me),0,240013,2018-04-24,1,0.507,0.477,6,-10.087,0,0.171,0.346,0.0,0.328,0.223,83.939,4,world
+1,All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,82,165819,2018-12-10,2,0.671,0.529,0,-7.226,1,0.307,0.0769,0.000335,0.0856,0.203,161.989,4,world
+2,Flaws And Sins,Juice WRLD,Death Race For Love,75,218348,2019-03-08,9,0.709,0.662,8,-4.55,1,0.0766,0.00966,0.0,0.108,0.439,150.046,4,world
+3,Hear Me Calling,Juice WRLD,Hear Me Calling,54,189977,2019-03-01,1,0.648,0.701,10,-3.546,1,0.186,0.417,9.9e-06,0.103,0.588,177.943,4,world
+4,Robbery,Juice WRLD,Robbery,47,240437,2019-02-13,1,0.669,0.683,2,-5.17,1,0.054,0.278,0.0,0.268,0.579,159.996,4,world
+5,Armed And Dangerous,Juice WRLD,Armed And Dangerous,29,169999,2018-11-09,1,0.736,0.67,10,-6.702,1,0.311,0.186,0.0,0.114,0.845,130.032,4,world
+6,1400 / 999 Freestyle,Trippie Redd,A Love Letter To You 3,77,175954,2018-11-09,13,0.825,0.572,6,-6.067,0,0.0864,0.0079,0.0,0.113,0.568,141.991,4,world
+7,Make It Back,Future,Future & Juice WRLD Present... WRLD ON DRUGS,66,102560,2018-10-19,5,0.75,0.387,1,-10.123,0,0.487,0.122,0.0,0.0993,0.739,143.019,4,world
+8,Black & White,Juice WRLD,Goodbye & Good Riddance,78,186945,2018-12-10,6,0.776,0.736,7,-4.612,1,0.247,0.0802,0.0,0.159,0.233,147.946,4,world
+9,I'm Still,Juice WRLD,Goodbye & Good Riddance,69,192859,2018-12-10,13,0.631,0.672,11,-4.583,1,0.0347,0.0811,0.0,0.154,0.282,119.948,4,world
+10,Lean Wit Me,Juice WRLD,Goodbye & Good Riddance,4,175755,2018-05-23,4,0.665,0.651,1,-5.515,1,0.156,0.0414,0.0,0.0896,0.237,163.935,4,world
+11,Scared Of Love,Juice WRLD,Goodbye & Good Riddance,72,170538,2018-12-10,11,0.642,0.562,11,-4.869,0,0.0812,0.032,0.0,0.168,0.177,158.001,4,world
+12,Rich And Blind,Juice WRLD,Rich And Blind,74,228720,2018-06-22,1,0.638,0.624,10,-5.37,1,0.0798,0.0102,0.0,0.0944,0.445,159.937,4,world
+13,Candles,Juice WRLD,Goodbye & Good Riddance,72,183703,2018-12-10,10,0.715,0.574,7,-6.236,1,0.0817,0.373,0.0,0.174,0.337,157.0,4,world
+14,Legends,Juice WRLD,Legends,77,191840,2018-06-22,1,0.594,0.798,4,-5.244,1,0.0844,0.115,0.0,0.143,0.381,142.049,4,world
+15,Used To,Juice WRLD,Goodbye & Good Riddance,1,176443,2018-05-23,9,0.631,0.709,2,-4.666,1,0.0505,0.0963,0.0,0.376,0.2,84.504,4,world
+16,End Of The Road,Juice WRLD,Goodbye & Good Riddance,68,162981,2018-12-10,14,0.373,0.717,1,-5.833,0,0.083,0.0568,0.0,0.114,0.293,109.977,5,world
+17,Wasted (feat. Lil Uzi Vert),Juice WRLD,Wasted (feat. Lil Uzi Vert),21,258475,2018-07-10,1,0.742,0.579,0,-5.024,1,0.202,0.0381,0.0,0.0952,0.502,144.994,4,world
+18,Yacht Club (feat. Juice WRLD),Lil Yachty,Nuthin' 2 Prove,75,166343,2018-10-19,5,0.721,0.508,7,-7.496,1,0.394,0.317,0.0,0.153,0.457,159.911,4,world
+19,Honestly (feat. Juice WRLD),G Herbo,Swervo,54,214344,2018-07-27,11,0.541,0.888,0,-3.104,0,0.0662,0.0145,0.0,0.203,0.604,138.043,4,world
+20,Realer N Realer,Future,Future & Juice WRLD Present... WRLD ON DRUGS,68,170920,2018-10-19,10,0.73,0.465,1,-6.29,1,0.278,0.0117,0.0,0.28,0.367,148.028,4,world
+21,NO BYSTANDERS,Travis Scott,ASTROWORLD,73,218283,2018-08-03,6,0.731,0.811,1,-3.225,1,0.0712,0.0204,0.0,0.411,0.426,147.045,4,world
+22,Demons and Angels (feat. Juice WRLD),A Boogie Wit da Hoodie,Hoodie SZN,77,214592,2018-12-21,6,0.81,0.55,2,-7.46,0,0.17,0.0114,5.69e-06,0.107,0.183,76.503,4,world
+23,Nuketown (feat. Juice WRLD),Ski Mask The Slump God,STOKELEY,78,166400,2018-11-30,2,0.808,0.617,10,-9.32,0,0.442,0.113,0.0,0.734,0.632,149.962,4,world
+24,Roses (with Juice WRLD feat. Brendon Urie),benny blanco,Roses (with Juice WRLD feat. Brendon Urie),78,223542,2018-12-05,1,0.613,0.6,8,-7.097,1,0.154,0.166,0.0,0.117,0.532,147.059,4,world
+25,Without Me (with Juice WRLD),Halsey,Without Me (with Juice WRLD),74,228816,2019-01-09,1,0.742,0.515,6,-6.103,1,0.0747,0.351,0.0,0.184,0.452,136.02,4,world
+26,Moonlight,XXXTENTACION,?,87,135090,2018-03-16,3,0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,4,world
+27,Nowadays (feat. Landon Cube),Lil Skies,Nowadays (feat. Landon Cube),75,203907,2017-12-20,1,0.745,0.646,6,-6.987,0,0.17,0.157,0.0,0.338,0.46,79.993,4,world
+28,Lust,Lil Skies,Life of a Dark Rose,79,156000,2017-12-12,4,0.718,0.767,9,-5.641,1,0.166,0.138,0.0,0.114,0.519,160.084,4,world
+29,SAD!,XXXTENTACION,?,87,166605,2018-03-16,4,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,4,world
+30,Juice WRLD Bag,soundclout,Juice WRLD Bag,0,195082,2018,1,0.845,0.432,8,-12.465,1,0.206,0.145,8.09e-06,0.129,0.392,159.977,4,world
+31,Forever Ever,Trippie Redd,LIFE'S A TRIP,62,237983,2018-08-10,5,0.689,0.426,0,-9.449,0,0.0368,0.388,0.0,0.129,0.411,90.049,4,world
+32,Noticed,Lil Mosey,Northsbest,83,165000,2018-10-19,3,0.699,0.558,11,-7.622,1,0.0603,0.462,0.0,0.116,0.493,79.992,4,world
+33,Through The Storm,YoungBoy Never Broke Again,Through The Storm,64,163566,2018-06-08,1,0.881,0.581,5,-5.162,1,0.0901,0.631,0.0,0.0986,0.876,78.508,4,world
+34,Kamikaze,Lil Mosey,Northsbest,79,139200,2018-10-19,1,0.792,0.571,8,-7.539,0,0.094,0.301,0.0,0.1,0.556,99.999,4,world
+35,Topanga,Trippie Redd,Topanga,16,215364,2018-10-22,1,0.755,0.615,4,-8.245,1,0.0454,0.00587,1.75e-06,0.109,0.039,105.955,4,world
+36,That's My Bitch,Lil Mosey,Northsbest,60,184615,2018-10-19,8,0.693,0.563,8,-8.553,0,0.0675,0.0507,0.0021,0.112,0.618,155.962,4,world
+37,Burberry Headband,Lil Mosey,Northsbest,73,146225,2018-10-19,6,0.714,0.647,8,-6.865,1,0.037,0.598,0.0,0.0943,0.67,150.992,4,world
+38,Close Friends (Lil Baby & Gunna),Lil Baby,Drip Harder,79,203881,2018-10-05,11,0.665,0.585,10,-5.077,0,0.366,0.044,0.0,0.0789,0.658,158.953,4,world
+39,Real Ties,Lil Skies,Real Ties,72,142669,2019-01-17,1,0.819,0.616,1,-5.534,1,0.167,0.0599,0.0,0.143,0.524,87.493,4,world
+40,Bleed It,Blueface,Bleed It,77,145520,2019-01-11,1,0.845,0.76,1,-6.007,0,0.357,0.221,0.0,0.107,0.558,101.865,4,world
+41,Sex with My Ex,Lil Peep,"Come Over When You're Sober, Pt. 2",69,213640,2018-11-09,3,0.497,0.77,6,-4.298,1,0.0757,0.0472,0.0,0.102,0.47,167.892,4,world
+42,JAPAN,Famous Dex,Dex Meets Dexter,77,142000,2018-04-06,3,0.733,0.678,6,-7.771,1,0.438,0.121,0.0,0.344,0.841,175.985,4,world
+43,Leave Me Alone,Flipp Dinero,Leave Me Alone,12,195637,2018-03-14,1,0.792,0.743,7,-2.806,1,0.0851,0.107,0.0,0.183,0.742,150.024,4,world
+44,Bounce Out With That,YBN Nahmir,Bounce Out With That,69,97343,2018-05-18,1,0.865,0.624,8,-8.224,1,0.103,0.033,0.0,0.0984,0.396,94.94,4,world
+45,Sold Out Dates (feat. Lil Baby),Gunna,Sold Out Dates (feat. Lil Baby),55,166297,2018-04-16,1,0.824,0.554,4,-7.118,0,0.115,0.433,0.0,0.124,0.316,127.003,4,world
+46,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Sunflower (Spider-Man: Into the Spider-Verse),41,158053,2018-10-18,1,0.753,0.498,2,-5.61,1,0.0504,0.551,0.0,0.0706,0.927,89.95,4,world
+47,DrIP DrIp Drip (feat. Meek Mill),Tory Lanez,LoVE me NOw,68,230439,2018-10-26,4,0.71,0.814,10,-4.575,1,0.0561,0.162,0.0,0.16,0.714,155.02,4,world
+48,Finer Things,Polo G,Finer Things,0,179072,2018-09-12,1,0.595,0.536,2,-10.685,1,0.0837,0.0665,0.000183,0.0952,0.195,178.006,4,world
+49,Rubbin Off The Paint,YBN Nahmir,Rubbin Off The Paint,67,157504,2018-01-26,1,0.596,0.699,1,-8.709,1,0.348,0.00582,0.0,0.174,0.435,108.031,5,world
+50,Wat U On (feat. Gunna),Moneybagg Yo,Bet On Me,58,163819,2018-08-03,3,0.835,0.468,1,-6.97,1,0.239,0.029,0.0,0.245,0.401,126.072,4,world
+51,Yes Indeed,Lil Baby,Harder Than Ever,82,142273,2018-05-18,5,0.964,0.346,5,-9.309,0,0.53,0.035,0.0,0.108,0.562,119.958,4,world
+52,Falling Down - Bonus Track,Lil Peep,Falling Down (Bonus Track),28,196400,2018-09-19,1,0.669,0.574,4,-6.442,0,0.0286,0.0175,0.00294,0.146,0.273,120.013,4,world
+53,F Cancer (Boosie) [feat. Quavo],Young Thug,I'm Up,51,249639,2016-02-05,1,0.802,0.718,10,-6.921,0,0.0992,0.0229,0.0,0.338,0.658,160.031,4,world
+54,Never Ever Land,Trippie Redd,A Love Letter To You,57,146510,2017-05-14,12,0.395,0.398,0,-13.085,0,0.0775,0.691,0.0365,0.281,0.189,94.135,4,world
+55,When I Was Yung,Yung Pinch,714Ever,2,223384,2016-10-10,9,0.838,0.564,1,-12.486,0,0.0683,0.174,0.000225,0.0615,0.832,129.972,4,world
+56,Po'ed Up (feat. Gunna),Paris Shadows,Po'ed Up (feat. Gunna),67,163906,2018-04-04,1,0.753,0.78,9,-5.835,1,0.0826,0.0258,0.0,0.0694,0.534,163.962,4,world
+57,Yoppa (with BlocBoy JB),Lil Mosey,Yoppa (with BlocBoy JB),4,163404,2018-10-04,1,0.814,0.495,9,-7.405,0,0.0772,0.125,0.0,0.11,0.347,140.885,4,world
+58,Underdog (Lil Baby & Gunna),Lil Baby,Drip Harder,58,211853,2018-10-05,6,0.788,0.726,5,-4.9,0,0.198,0.0413,0.0,0.121,0.488,144.983,4,world
+59,Deep End (Lil Baby & Gunna),Lil Baby,Drip Harder,60,174661,2018-10-05,4,0.669,0.54,11,-8.118,1,0.5,0.269,0.0,0.0982,0.415,150.18,4,world
+60,ZEZE (feat. Travis Scott & Offset),Kodak Black,ZEZE (feat. Travis Scott & Offset),43,228653,2018-10-12,1,0.861,0.637,8,-5.692,0,0.24,0.0515,3.35e-06,0.0967,0.474,98.044,4,world
+61,Global Gang,Global Dan,Global Gang,40,146326,2017-05-19,1,0.562,0.756,4,-5.545,1,0.207,0.259,0.0,0.584,0.386,73.311,4,world
+62,Blessings,The Kid LAROI,Blessings,54,161832,2018-09-27,1,0.801,0.567,8,-8.098,1,0.214,0.0827,2.71e-05,0.099,0.518,135.06,4,world
+63,Rarri,Lil Mosey,Northsbest,66,105346,2018-10-19,4,0.763,0.583,1,-7.315,0,0.0838,0.0977,1.45e-06,0.15,0.809,82.982,4,world
+64,Fu shit,Lil Mosey,Northsbest,64,158048,2018-10-19,2,0.666,0.609,1,-7.567,1,0.0466,0.382,0.0,0.128,0.541,82.024,4,world
+65,Murda (feat. Trippie Redd),YoungBoy Never Broke Again,Decided,72,183681,2018-09-21,5,0.691,0.566,4,-5.213,0,0.227,0.28,0.0,0.106,0.291,147.982,4,world
+66,Diamond Minds,Trippie Redd,A Love Letter To You 3,63,185828,2018-11-09,15,0.678,0.477,7,-9.626,1,0.0836,0.567,0.0,0.11,0.481,92.963,4,world
+67,Space Cadet (feat. Gunna),Metro Boomin,NOT ALL HEROES WEAR CAPES,21,203266,2018-11-02,5,0.901,0.464,5,-9.789,0,0.0645,0.368,1.71e-05,0.238,0.638,109.004,4,world
+68,Kickback (feat. Lil Mosey),Pimp Tobi,Kickback (feat. Lil Mosey),48,147450,2018-06-20,1,0.706,0.589,8,-8.309,1,0.0327,0.0617,4.77e-06,0.105,0.767,96.001,4,world
+69,White Girl,Lil Peep,"Come Over When You're Sober, Pt. 2",63,201333,2018-11-09,10,0.588,0.698,11,-7.057,0,0.0434,0.0724,1.23e-05,0.673,0.121,109.973,4,world
+70,Dreamcatcher (feat. Swae Lee & Travis Scott),Metro Boomin,NOT ALL HEROES WEAR CAPES,15,211920,2018-11-02,4,0.675,0.23,1,-10.363,0,0.204,0.191,0.0,0.104,0.101,173.962,4,world
+71,KIKA (feat. Tory Lanez),6ix9ine,DUMMY BOY,81,136031,2018-11-27,4,0.745,0.715,1,-3.368,0,0.245,0.128,0.0,0.182,0.342,94.513,4,world
+72,TIC TOC (feat. Lil Baby),6ix9ine,DUMMY BOY,73,135739,2018-11-27,3,0.82,0.691,6,-6.646,0,0.0723,0.0115,0.0,0.344,0.683,142.027,4,world
+73,WAKA (feat. A Boogie Wit da Hoodie),6ix9ine,DUMMY BOY,74,128769,2018-11-27,6,0.772,0.812,0,-3.995,0,0.153,0.0834,0.0,0.115,0.655,97.407,4,world
+74,Opps Want Me Dead,Lil Skies,Opps Want Me Dead,70,167441,2018-11-28,1,0.779,0.591,8,-8.504,1,0.344,0.0508,0.0,0.1,0.501,86.02,4,world
+75,K For Christmas,Lil Mosey,K For Christmas,58,102161,2018-12-07,1,0.707,0.53,2,-9.471,1,0.0789,0.234,0.0044,0.112,0.471,189.008,4,world
+76,Match Hunters (feat. Madeintyo),Xavier Wulf,East Memphis Maniac,45,148531,2018-07-26,6,0.743,0.628,9,-7.834,1,0.455,0.208,0.0,0.0852,0.295,160.007,4,world
+77,"MAMA (feat. Nicki Minaj, Kanye West)",6ix9ine,DUMMY BOY,74,192405,2018-11-27,5,0.761,0.672,1,-5.887,1,0.212,0.0893,9.77e-06,0.14,0.437,160.077,3,world
+78,Erase Your Social,Lil Uzi Vert,The Perfect LUV Tape,73,199993,2016-08-10,8,0.705,0.609,3,-5.728,1,0.0729,0.694,0.0,0.234,0.718,140.058,4,world
+79,Georgia Peach,WillGotTheJuice,Georgia Peach,44,174500,2018-08-17,1,0.508,0.552,8,-6.604,1,0.425,0.147,0.0,0.102,0.885,82.999,5,world
+80,Fuck Love (feat. Trippie Redd),XXXTENTACION,17,83,146520,2017-08-25,8,0.797,0.533,0,-9.74,0,0.0412,0.0172,0.000152,0.103,0.329,131.036,4,world
+81,Vroom (feat. Yung Pinch & 03 Greedo),Hit-Boy,Tony Fontana,43,214614,2018-05-22,7,0.687,0.754,7,-6.118,1,0.265,0.129,0.0,0.0758,0.711,160.055,4,world
+82,Off The Gas (feat. Lil Skies),6 Dogs,Off The Gas (feat. Lil Skies),61,192223,2018-04-18,1,0.669,0.42,10,-12.441,1,0.373,0.577,2.22e-06,0.0998,0.573,159.88,4,world
+83,Overweight,Trippie Redd,A Love Letter To You 2,50,197721,2017-10-06,11,0.695,0.708,0,-5.74,1,0.12,0.00234,0.0,0.131,0.337,156.068,4,world
+84,Creeping (feat. Rich the Kid),Lil Skies,Creeping (feat. Rich the Kid),76,179830,2018-03-23,1,0.729,0.687,8,-8.06,0,0.25,0.0108,0.0,0.162,0.683,160.085,4,world
+85,Better Off (Dying),Lil Peep,"Come Over When You're Sober, Pt. 1",72,154814,2017-08-15,5,0.521,0.766,3,-4.693,1,0.0409,0.00835,0.0,0.155,0.196,74.987,4,world
+86,Saturday,Hella Sketchy,Saturday,35,144019,2018-04-18,1,0.652,0.689,9,-6.769,1,0.0869,0.231,4.81e-06,0.174,0.554,159.931,4,world
+87,Off-White (feat. Mongo),Global Dan,Global Warming,60,165182,2017-05-26,2,0.656,0.518,1,-7.722,1,0.0998,0.307,0.0,0.231,0.503,155.079,4,world
+88,Tostitos,hooligan chase,Suburban Nightmare,37,159559,2018-06-05,1,0.794,0.526,8,-9.599,1,0.147,0.201,0.0,0.131,0.384,87.995,4,world
+89,Dust Em Off,Lil Wintr,WINTRSZN,25,227578,2017-12-30,5,0.667,0.832,1,-2.917,0,0.0355,0.0142,0.000134,0.235,0.553,151.987,4,world
+90,Round n Round,Landon Cube,Round n Round,60,184528,2018-04-24,1,0.581,0.474,6,-10.554,0,0.0466,0.0666,2.72e-05,0.106,0.185,77.976,4,world
+91,Pull Up,Lil Mosey,Northsbest,72,183624,2018-10-19,5,0.655,0.607,7,-5.815,0,0.0862,0.554,0.0,0.115,0.2,149.033,4,world
+92,Dark Out ft. AzN (prod. Drago),Global Dan,Dark Out ft. AzN (prod. Drago),37,180015,2018-03-07,1,0.592,0.537,6,-13.115,1,0.199,0.0208,0.0,0.0734,0.315,160.05,4,world
+93,World Rage,Lil Skies,World Rage,66,135418,2018-06-22,1,0.7,0.556,7,-8.356,1,0.128,0.261,0.0,0.144,0.351,77.943,4,world
+94,I Know You (feat. Yung Pinch),Lil Skies,I Know You (feat. Yung Pinch),68,211200,2018-05-31,1,0.773,0.602,10,-6.384,1,0.108,0.194,0.000443,0.141,0.442,74.896,4,world
+95,Love Scars,Trippie Redd,A Love Letter To You,74,143969,2017-05-14,1,0.659,0.614,9,-7.32,0,0.0541,0.000404,0.0,0.123,0.26,119.405,4,world
+96,Spent a Check,Hella Sketchy,Spent a Check,35,154857,2017-01-13,1,0.706,0.631,1,-7.864,1,0.0674,0.0252,5.93e-06,0.0851,0.77,162.09,4,world
+97,Insomnia,LiveLikeDavis,Insomnia,33,180061,2018-05-18,1,0.678,0.443,2,-11.74,1,0.199,0.374,0.0,0.089,0.402,159.986,4,world
+98,she ready,Lil Yachty,Lil Boat 2,61,185986,2018-03-09,7,0.825,0.718,0,-3.482,1,0.0838,0.0572,0.0,0.104,0.69,145.028,4,world
+99,Me Likey,Trippie Redd,Me Likey,62,161110,2018-06-22,1,0.702,0.561,0,-6.051,0,0.0491,0.157,0.0,0.166,0.295,144.127,4,world
+100,シーソーゲーム~勇敢な恋の歌~,Mr.Children,BOLERO,51,269866,1997-03-05,6,0.594,0.851,4,-5.652,1,0.0292,0.142,0.0,0.358,0.783,135.051,4,world
+101,CENTER OF UNIVERSE,Mr.Children,Q,41,332760,2000-09-27,1,0.444,0.786,7,-6.647,1,0.0467,0.0105,0.0,0.137,0.409,149.776,4,world
+102,ニシエヒガシエ,Mr.Children,DISCOVERY,42,297226,1999-02-03,5,0.581,0.853,0,-7.684,1,0.041,0.000175,0.0265,0.104,0.707,101.991,4,world
+103,innocent world,Mr.Children,innocent world,53,345266,1994-06-01,1,0.62,0.55,4,-9.418,1,0.0273,0.316,0.0,0.344,0.634,119.923,4,world
+104,HANABI,Mr.Children,SUPERMARKET FANTASY,61,342773,2008-12-10,2,0.638,0.766,1,-5.541,1,0.0268,0.156,0.0,0.124,0.595,112.0,4,world
+105,Sign,Mr.Children,I ♥ U,53,321800,2005-09-21,9,0.601,0.51,7,-6.273,1,0.0259,0.263,0.0,0.124,0.382,105.016,4,world
+106,fanfare,Mr.Children,SENSE,43,375533,2010-12-01,9,0.448,0.876,11,-2.413,1,0.042,0.0266,0.0,0.242,0.383,127.856,4,world
+107,雨のち晴れ,Mr.Children,Atomic Heart,41,334360,1994-09-01,10,0.685,0.772,5,-7.048,0,0.0575,0.207,0.0,0.13,0.865,98.352,4,world
+108,Marshmallow day,Mr.Children,[(an imitation) blood orange],42,257493,2012-11-28,2,0.45,0.928,4,-4.289,1,0.0426,0.0245,0.0,0.224,0.811,159.961,4,world
+109,エソラ,Mr.Children,SUPERMARKET FANTASY,44,304213,2008-12-10,3,0.547,0.899,8,-4.709,1,0.0434,0.00643,2.45e-05,0.198,0.702,127.014,4,world
+110,常套句,Mr.Children,[(an imitation) blood orange],43,245213,2012-11-28,4,0.557,0.418,9,-7.242,1,0.026,0.464,9.8e-06,0.0923,0.203,134.069,4,world
+111,箒星,Mr.Children,HOME,43,310866,2007-03-14,4,0.522,0.868,9,-5.649,1,0.0351,0.000944,3.64e-06,0.0998,0.784,130.027,4,world
+112,PADDLE,Mr.Children,シフクノオト,41,284866,2004-04-07,2,0.591,0.83,3,-5.568,1,0.0321,0.00226,0.0,0.104,0.507,134.961,4,world
+113,All by myself,Mr.Children,Kind of Love,38,271640,1992-12-01,2,0.659,0.881,7,-8.956,1,0.0411,0.0219,3.78e-06,0.141,0.925,113.041,4,world
+114,Tomorrow never knows,Mr.Children,Tomorrow never knows,53,308293,1994-11-10,1,0.638,0.484,0,-10.265,1,0.0245,0.173,0.0,0.122,0.405,109.033,4,world
+115,旅立ちの唄,Mr.Children,SUPERMARKET FANTASY,44,334800,2008-12-10,6,0.502,0.549,3,-5.869,1,0.0259,0.28,0.0,0.128,0.275,97.056,4,world
+116,CROSS ROAD,Mr.Children,CROSS ROAD,46,273160,1993-11-10,1,0.457,0.615,2,-9.191,1,0.0255,0.163,0.0,0.106,0.715,173.88,4,world
+117,口笛,Mr.Children,Q,43,348866,2000-09-27,11,0.573,0.716,2,-5.61,1,0.0235,0.00436,3.26e-05,0.126,0.443,96.992,4,world
+118,himawari,Mr.Children,himawari,51,357160,2017-07-26,1,0.372,0.93,2,-3.595,1,0.0509,0.000545,1.12e-05,0.146,0.375,169.89,4,world
+119,365日,Mr.Children,SENSE,52,336946,2010-12-01,5,0.4,0.494,3,-6.519,1,0.0296,0.529,0.0,0.307,0.194,135.646,4,world
+120,CANDY,Mr.Children,I ♥ U,42,283960,2005-09-21,7,0.514,0.45,9,-7.811,1,0.0255,0.293,7.87e-06,0.221,0.229,138.062,4,world
+121,車の中でかくれてキスをしよう,Mr.Children,Kind of Love,39,319266,1992-12-01,7,0.278,0.172,7,-15.625,1,0.0316,0.823,0.000378,0.108,0.134,181.283,4,world
+122,君が好き,Mr.Children,It's a wonderful world,44,270000,2002-05-10,12,0.483,0.51,2,-7.682,1,0.0242,0.16,0.0,0.234,0.314,78.916,4,world
+123,空風の帰り道,Mr.Children,シフクノオト,38,248933,2004-04-07,8,0.438,0.341,0,-10.536,1,0.0301,0.704,0.000235,0.0856,0.165,139.73,4,world
+124,靴ひも,Mr.Children,I ♥ U,38,262373,2005-09-21,6,0.663,0.824,5,-5.616,1,0.026,0.0401,0.0,0.12,0.475,122.016,4,world
+125,Another Story,Mr.Children,HOME,39,316880,2007-03-14,5,0.601,0.593,5,-5.614,1,0.0233,0.102,0.0,0.105,0.416,90.941,4,world
+126,君がいた夏,Mr.Children,EVERYTHING,40,351306,1992-05-10,3,0.638,0.588,7,-8.718,1,0.0257,0.0699,0.0,0.463,0.601,112.98,4,world
+127,思春期の夏~君との恋が今も牧場に~,Mr.Children,Kind of Love,35,217800,1992-12-01,8,0.626,0.642,4,-8.182,1,0.0288,0.595,1.4e-06,0.343,0.892,134.285,4,world
+128,彩り,Mr.Children,HOME,42,323720,2007-03-14,3,0.669,0.677,7,-6.663,1,0.0252,0.144,0.0,0.145,0.57,107.96,4,world
+129,未完,Mr.Children,REFLECTION{Drip},39,290506,2015-06-04,1,0.576,0.94,2,-4.004,1,0.043,0.00369,0.0,0.179,0.36,126.927,4,world
+130,抱きしめたい,Mr.Children,Kind of Love,48,324440,1992-12-01,4,0.525,0.526,5,-8.647,1,0.0265,0.131,7.58e-06,0.107,0.379,144.027,4,world
+131,花 -Mémento-Mori-,Mr.Children,深海,39,282533,1996-06-24,13,0.55,0.533,5,-6.598,1,0.0232,0.0224,0.0,0.22,0.43,84.88,4,world
+132,Prism,Mr.Children,DISCOVERY,36,280373,1999-02-03,3,0.583,0.535,0,-9.21,1,0.0256,0.045,1.95e-05,0.182,0.0977,97.059,4,world
+133,掌,Mr.Children,シフクノオト,41,303226,2004-04-07,3,0.543,0.853,7,-5.196,1,0.0322,0.0463,0.0,0.276,0.751,91.956,4,world
+134,Any,Mr.Children,シフクノオト,41,306133,2004-04-07,9,0.631,0.643,3,-5.528,1,0.0299,0.12,0.0,0.0892,0.5,114.876,4,world
+135,くるみ,Mr.Children,シフクノオト,44,330306,2004-04-07,4,0.568,0.685,0,-6.428,1,0.024,0.0573,0.0,0.11,0.286,95.972,4,world
+136,名もなき詩,Mr.Children,深海,50,328173,1996-06-24,7,0.555,0.852,7,-5.094,1,0.0375,0.0415,0.0,0.2,0.7,125.899,4,world
+137,ヒカリノアトリエ,Mr.Children,ヒカリノアトリエ,44,277226,2017-01-11,1,0.652,0.819,1,-3.724,1,0.0286,0.292,0.0,0.0526,0.702,111.02,4,world
+138,タガタメ,Mr.Children,シフクノオト,39,412200,2004-04-07,11,0.264,0.672,2,-5.858,1,0.0352,0.0834,0.0,0.134,0.391,160.721,4,world
+139,かぞえうた,Mr.Children,[(an imitation) blood orange],36,282080,2012-11-28,7,0.33,0.563,10,-7.37,1,0.031,0.152,9.26e-06,0.122,0.434,136.537,4,world
+140,跳べ,Mr.Children,I ♥ U,36,399400,2005-09-21,11,0.536,0.959,7,-5.31,1,0.0399,0.0135,6e-06,0.333,0.709,133.979,4,world
+141,虹の彼方へ,Mr.Children,Kind of Love,36,215026,1992-12-01,1,0.502,0.801,7,-7.652,1,0.0312,0.0273,0.0,0.362,0.428,138.995,4,world
+142,Heavenly kiss,Mr.Children,口笛,36,353400,2000-01-13,2,0.524,0.592,4,-7.687,1,0.0248,0.0175,0.00312,0.0992,0.503,167.76,4,world
+143,旅人,Mr.Children,マシンガンをぶっ放せ -Mr.Children Bootleg-,36,198666,1996-08-08,3,0.465,0.954,9,-4.612,1,0.048,0.00297,0.0,0.36,0.68,147.098,4,world
+144,ひびき,Mr.Children,しるし,36,193733,2006-11-15,2,0.449,0.67,2,-6.333,1,0.0263,0.0262,0.0,0.349,0.599,177.674,4,world
+145,マシンガンをぶっ放せ,Mr.Children,深海,37,266706,1996-06-24,10,0.562,0.954,0,-4.776,1,0.0631,0.0071,4.25e-06,0.72,0.614,136.751,4,world
+146,ロックンロールは生きている,Mr.Children,SENSE,36,289866,2010-12-01,6,0.518,0.87,0,-7.142,1,0.0699,0.00297,0.0,0.164,0.714,120.969,4,world
+147,光の射す方へ,Mr.Children,DISCOVERY,37,409226,1999-02-03,2,0.661,0.753,4,-9.054,0,0.033,0.0169,6.93e-05,0.359,0.872,117.918,4,world
+148,Dance Dance Dance,Mr.Children,Atomic Heart,37,296960,1994-09-01,2,0.586,0.918,10,-5.2,0,0.0454,0.000135,1.3e-05,0.174,0.72,121.73,4,world
+149,Over,Mr.Children,Atomic Heart,42,282440,1994-09-01,12,0.576,0.678,10,-4.472,1,0.023,0.118,0.0,0.137,0.633,87.834,4,world
+150,斜陽,Mr.Children,REFLECTION{Drip},36,228533,2015-06-04,3,0.467,0.859,4,-4.866,0,0.0348,0.000845,1.06e-06,0.341,0.671,128.176,4,world
+151,Mirror,Mr.Children,深海,36,178733,1996-06-24,5,0.647,0.527,0,-8.453,1,0.0273,0.236,0.0,0.098,0.659,110.619,4,world
+152,花言葉,Mr.Children,シフクノオト,37,200533,2004-04-07,5,0.616,0.623,9,-6.877,1,0.0261,0.346,0.000957,0.179,0.583,114.941,4,world
+153,進化論,Mr.Children,REFLECTION{Drip},37,342880,2015-06-04,12,0.571,0.586,5,-6.437,1,0.0235,0.291,0.0,0.0994,0.255,76.019,4,world
+154,Starting Over,Mr.Children,REFLECTION{Drip},44,299880,2015-06-04,6,0.406,0.789,1,-4.897,1,0.0312,0.00655,0.0,0.101,0.5,153.97,4,world
+155,【es】~Theme of es~,Mr.Children,BOLERO,38,349440,1997-03-05,5,0.445,0.563,6,-6.241,0,0.0271,0.0555,0.0,0.101,0.36,74.916,4,world
+156,and I love you,Mr.Children,I ♥ U,38,304840,2005-09-21,5,0.527,0.612,2,-6.863,1,0.0281,0.183,0.0,0.125,0.332,103.012,4,world
+157,祈り ~涙の軌道,Mr.Children,祈り ~涙の軌道 / End of the day / pieces,43,344026,2012-04-18,1,0.497,0.508,2,-4.359,1,0.0254,0.109,0.0,0.076,0.332,140.039,4,world
+158,花の匂い,Mr.Children,SUPERMARKET FANTASY,38,310906,2008-12-10,14,0.428,0.531,2,-7.118,1,0.0285,0.448,0.0,0.0723,0.281,143.991,4,world
+159,しるし,Mr.Children,HOME,46,431613,2007-03-14,12,0.435,0.489,1,-6.301,1,0.0285,0.0483,5.77e-06,0.0864,0.299,73.992,4,world
+160,つよがり,Mr.Children,Q,37,306493,2000-09-27,6,0.522,0.397,0,-8.262,1,0.0262,0.463,0.0,0.108,0.253,130.06,4,world
+161,足音 ~Be Strong,Mr.Children,REFLECTION{Drip},47,299760,2015-06-04,14,0.47,0.757,5,-4.761,1,0.0313,0.00998,0.0,0.159,0.42,146.004,4,world
+162,1999年、夏、沖縄,Mr.Children,NOT FOUND,35,460466,2000-08-09,2,0.48,0.361,0,-11.565,1,0.031,0.195,1.68e-05,0.0991,0.256,129.074,4,world
+163,GIFT,Mr.Children,SUPERMARKET FANTASY,46,344800,2008-12-10,13,0.462,0.726,2,-5.491,1,0.0296,0.203,0.0,0.25,0.483,148.214,4,world
+164,Drawing,Mr.Children,It's a wonderful world,36,341133,2002-05-10,11,0.65,0.353,9,-10.602,1,0.0262,0.62,0.0,0.067,0.266,126.089,4,world
+165,hypnosis,Mr.Children,[(an imitation) blood orange],37,358120,2012-11-28,1,0.441,0.524,7,-6.605,1,0.0261,0.139,0.0,0.107,0.241,77.051,4,world
+166,擬態,Mr.Children,SENSE,39,349560,2010-12-01,2,0.503,0.87,5,-4.366,1,0.0372,0.0546,6.07e-06,0.11,0.265,130.031,4,world
+167,あんまり覚えてないや,Mr.Children,HOME,36,324440,2007-03-14,14,0.579,0.58,4,-8.418,1,0.0288,0.165,8.19e-06,0.273,0.649,114.929,4,world
+168,NOT FOUND,Mr.Children,Q,39,294000,2000-09-27,3,0.325,0.696,2,-6.352,1,0.0393,0.0073,0.0,0.115,0.274,121.872,3,world
+169,youthful days,Mr.Children,youthful days,45,317066,2001-11-07,1,0.471,0.932,4,-5.309,1,0.0604,0.00659,2.45e-05,0.036,0.483,148.257,4,world
+170,and I close to you,Mr.Children,Versus,35,251960,1993-09-01,3,0.666,0.882,1,-5.238,1,0.032,0.155,3.08e-05,0.0511,0.935,131.989,4,world
+171,fantasy,Mr.Children,REFLECTION{Drip},37,261839,2015-06-04,9,0.538,0.802,2,-4.43,0,0.0349,0.0201,0.0,0.199,0.588,116.006,4,world
+172,I'll be,Mr.Children,DISCOVERY,36,549640,1999-02-03,7,0.291,0.511,3,-10.641,1,0.0305,0.14,9.09e-05,0.144,0.205,90.984,4,world
+173,ファスナー,Mr.Children,It's a wonderful world,37,290800,2002-05-10,7,0.742,0.571,7,-8.557,1,0.0286,0.342,3.12e-06,0.118,0.454,116.76,4,world
+174,ロードムービー,Mr.Children,Q,38,254733,2000-09-27,9,0.676,0.69,7,-8.114,1,0.0272,0.0559,3.64e-05,0.128,0.741,115.009,4,world
+175,HERO,Mr.Children,シフクノオト,43,341093,2004-04-07,12,0.552,0.564,9,-7.658,1,0.0239,0.0921,0.0,0.135,0.658,80.895,4,world
+176,フェイク,Mr.Children,HOME,39,293333,2007-03-14,9,0.62,0.552,9,-6.15,0,0.0342,0.0249,0.0,0.0403,0.502,124.964,4,world
+177,未来,Mr.Children,I ♥ U,38,320426,2005-09-21,3,0.593,0.93,4,-4.743,1,0.0332,0.031,1.23e-06,0.157,0.594,109.981,4,world
+178,Everything (It's you),Mr.Children,Everything (It's you),42,322133,1997-02-05,1,0.521,0.539,7,-9.641,1,0.0262,0.00458,0.0,0.103,0.392,139.937,4,world
+179,Simple,Mr.Children,DISCOVERY,39,270626,1999-02-03,6,0.677,0.419,4,-9.854,1,0.0245,0.314,1.39e-05,0.104,0.566,95.006,4,world
+180,星になれたら,Mr.Children,Kind of Love,41,301826,1992-12-01,9,0.6,0.893,9,-7.971,1,0.0343,0.00354,1.46e-06,0.119,0.708,123.997,4,world
+181,優しい歌,Mr.Children,It's a wonderful world,39,214106,2002-05-10,14,0.482,0.739,10,-5.731,1,0.0396,0.0111,2.15e-06,0.158,0.335,125.008,4,world
+182,everybody goes~秩序のない現代にドロップキック~,Mr.Children,BOLERO,38,277040,1997-03-05,10,0.468,0.942,2,-5.137,1,0.0713,0.00113,0.0,0.0779,0.439,123.901,4,world
+183,ランニングハイ,Mr.Children,I ♥ U,36,318493,2005-09-21,8,0.53,0.842,7,-3.428,1,0.0337,0.00636,0.0,0.311,0.421,125.918,4,world
+184,CHILDREN'S WORLD,Mr.Children,EVERYTHING,35,307640,1992-05-10,7,0.516,0.878,9,-8.289,1,0.0339,0.00818,7.71e-05,0.306,0.888,139.909,4,world
+185,REM,Mr.Children,REFLECTION{Naked},35,270280,2015-06-04,15,0.491,0.807,11,-5.238,0,0.0467,0.00638,0.0,0.196,0.252,160.049,4,world
+186,Worlds end,Mr.Children,I ♥ U,38,329533,2005-09-21,1,0.421,0.942,0,-4.011,1,0.0606,0.000503,0.000445,0.641,0.274,129.954,4,world
+187,overture,Mr.Children,It's a wonderful world,34,115600,2002-05-10,1,0.296,0.283,0,-15.943,1,0.0317,0.753,0.955,0.573,0.202,151.245,4,world
+188,蘇生,Mr.Children,It's a wonderful world,38,368026,2002-05-10,2,0.486,0.851,0,-6.302,1,0.0561,0.0115,0.0,0.34,0.237,124.726,4,world
+189,終わりなき旅,Mr.Children,DISCOVERY,48,424360,1999-02-03,10,0.389,0.568,4,-7.535,1,0.0283,0.00148,0.0,0.0805,0.166,147.902,4,world
+190,15 Preludes: XIII. Andante cantabile,Jimmy Brière,"Corigliano, Rota, Korngold: Works for Piano",49,114706,2010-09-07,17,0.396,0.0856,7,-24.822,0,0.0554,0.993,0.895,0.0996,0.0327,77.083,3,world
+191,"Pini di Roma, P. 141: I. I pini di Villa Borghese (The Pines of the Villa Borghese)",Ottorino Respighi,"Respighi: Belkis, Regina di Saba, Ballata delle gnomidi & Pini di Roma",34,175200,2012-03-01,9,0.282,0.317,5,-18.784,1,0.0392,0.913,0.759,0.156,0.394,103.637,4,world
+192,Norma (1987 - Remaster): Casta diva,Maria Callas,The Very Best of Maria Callas,40,335026,2003-02-15,9,0.174,0.113,5,-17.468,1,0.049,0.979,7.92e-05,0.0985,0.0612,80.102,4,world
+193,"The Four Seasons, Violin Concerto No. 2 in G Minor, RV 315 ""Summer"": III. Presto",Antonio Vivaldi,Sinkovsky Plays and Sings Vivaldi,59,153573,2014,6,0.333,0.465,7,-18.452,1,0.0462,0.837,0.797,0.291,0.641,169.952,3,world
+194,"Turandot / Act 3: ""Nessun dorma!""",Luciano Pavarotti,Luciano Pavarotti - The Best,3,180480,2005-01-01,17,0.245,0.315,2,-11.555,1,0.0364,0.955,0.00156,0.095,0.126,85.807,4,world
+195,Rossini: Il barbiere di Siviglia: Overture,Gioachino Rossini,Rossini: Overtures (SD),33,435266,2014-10-06,3,0.387,0.0652,4,-25.26,1,0.0546,0.868,0.134,0.149,0.348,93.427,4,world
+196,Ave Maria,Elina Garanca,Meditation,36,341253,2014-01-01,14,0.0766,0.0195,5,-32.469,0,0.0473,0.964,0.602,0.102,0.0343,79.851,4,world
+197,"Sonata In E, Kk.380: Andante commodo",Domenico Scarlatti,"Scarlatti, D.: Sonatas",1,299000,1992-01-01,15,0.364,0.0469,11,-27.621,1,0.0487,0.99,0.93,0.142,0.223,88.03,4,world
+198,"L'elisir d'amore, Act II: Una furtiva lagrima",Vittorio Grigolo,The Italian Tenor,34,292213,2010-09-17,2,0.242,0.0554,10,-19.163,0,0.0437,0.981,1.2e-05,0.113,0.0507,79.787,3,world
+199,"Concerto in D minor, S. Z799: 1. Andante e spiccato",Håkan Hardenberger,The Art of the Trumpet (5 CDs),2,191933,2007-01-01,16,0.434,0.192,2,-16.304,0,0.0494,0.985,0.848,0.0988,0.471,78.07,4,world
+200,"Rigoletto, Act III: La donna è mobile (Duca/Sparafucile/Rigoletto)",Giuseppe Di Stefano,Icon: Giuseppe Di Stefano,31,158866,2008-06-02,3,0.369,0.0963,11,-13.806,1,0.0384,0.984,3.81e-05,0.0825,0.236,111.005,3,world
+201,La Gioconda / Act 3: Dance Of The Hours,Berliner Philharmoniker,"Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",43,162613,2012-01-01,18,0.554,0.00761,4,-30.566,1,0.0499,0.914,0.00097,0.221,0.156,117.276,4,world
+202,"Pergolesi: Stabat Mater, P. 77: I. Stabat Mater dolorosa",Giovanni Battista Pergolesi,"Pergolesi: Stabat Mater, Laudate pueri & Confitebor",40,269360,2013-10-28,1,0.172,0.0362,4,-22.325,0,0.0414,0.982,0.0235,0.111,0.0366,138.045,3,world
+203,Mascagni: Cavalleria rusticana: Intermezzo,Riccardo Muti,Mascagni: Cavalleria Rusticana/Leoncavallo: I Pagliacci,44,223786,1979,16,0.101,0.115,5,-17.553,1,0.0392,0.769,0.891,0.406,0.0374,84.976,4,world
+204,Miserere Mei,Armonico Consort,Naked Byrd,31,459626,2010-01-01,4,0.184,0.074,7,-24.296,0,0.0487,0.989,0.000331,0.123,0.0357,137.45,3,world
+205,"Concerto grosso No. 1 in D Major, Op. 6: II. Largo - Allegro",Arcangelo Corelli,Corelli: The Complete Concerti Grossi,30,144680,2013-09-10,33,0.282,0.185,1,-14.474,1,0.0393,0.848,0.161,0.103,0.246,146.315,3,world
+206,Psalmus 109. dixit dominus,Claudio Monteverdi,Monteverdi: Vespro della beata vergine,1,437160,2004-09-28,2,0.184,0.157,9,-17.417,0,0.044,0.979,0.000423,0.167,0.0805,170.643,5,world
+207,Gabriel's Oboe - 2016 Version,Ennio Morricone,Morricone 60,1,125080,2016-11-11,1,0.15,0.205,2,-13.56,1,0.0335,0.906,0.876,0.113,0.076,97.454,4,world
+208,"""Caldo Sangue""",Cecilia Bartoli,Opera Proibita (Bonus Track Version),26,325933,2005-01-01,6,0.182,0.0464,10,-20.726,0,0.0553,0.986,0.00691,0.106,0.0374,82.492,4,world
+209,Six Encores: Wasserklavier,Luciano Berio,Berio: Piano Music,30,122920,2007-02-19,4,0.408,0.00195,1,-41.513,1,0.047,0.979,0.766,0.0715,0.106,82.42,4,world
+210,Missa Papae Marcelli: Kyrie,Giovanni Pierluigi da Palestrina,Palestrina,0,213093,2016-10-07,1,0.165,0.169,9,-25.429,1,0.0398,0.992,0.937,0.0908,0.108,129.561,5,world
+211,"24 Caprices For Violin, Op.1, MS. 25: No. 24 In A Minor",Niccolò Paganini,Paganini: 24 Capricci,0,265000,1990-01-01,24,0.465,0.103,9,-19.361,0,0.0662,0.982,0.157,0.11,0.416,90.294,3,world
+212,"Piano Sonatina No. 6 super Carmen, ""Kammerfantasie""",Ferruccio Busoni,"Busoni: Piano Music, Vol. 7",32,472786,2010-12-14,6,0.3,0.109,1,-25.884,1,0.0379,0.99,0.882,0.0675,0.0773,80.692,4,world
+213,3 Danze Antiche: No. 2. Minuetto: Carezzevole,Gian Francesco Malipiero,Malipiero: Piano Works,23,219386,2014-07-01,16,0.228,0.0109,7,-35.799,1,0.0491,0.994,0.949,0.194,0.222,168.982,4,world
+214,Requiem No. 1 in C Minor: Agnus Dei,Luigi Cherubini,Cherubini: Requiem / Marche Funebre,24,444626,2000-08-24,8,0.167,0.0144,0,-26.425,1,0.0483,0.98,0.704,0.0571,0.037,127.883,5,world
+215,"Boccherini: String Quintet in E Major, Op. 11 No. 5, G. 275: III. Minuetto ""Con un poco di moto""",Luigi Boccherini,Boccherini - String Quintets,28,217759,2001,13,0.317,0.0249,1,-28.941,0,0.0454,0.927,0.0715,0.104,0.359,170.878,4,world
+216,"Euridice, Scena I: Per quel vago boschetto",Jacopo Peri,Peri: Euridice,23,586533,1997-01-01,10,0.282,0.0139,7,-28.407,1,0.0513,0.968,0.0,0.137,0.0559,100.665,3,world
+217,Tartiniana seconda: I. Pastorale,Luigi Dallapiccola,Dallapiccola: Sonatina Canonica - Tartiniana Seconda,22,140600,2005,24,0.127,0.0117,9,-29.657,0,0.0495,0.981,2.47e-06,0.161,0.133,173.297,3,world
+218,O vos omnes,Daarler Vocal Consort,Lost in Transition,26,231706,2014-09-02,1,0.166,0.0125,9,-32.135,0,0.0426,0.99,0.123,0.107,0.0349,128.171,3,world
+219,"6 Pezzi, Op. 44: VI. Tarantella. Allegro molto",Giuseppe Martucci,"Martucci: 6 Piano Pieces, Novella, Fantasia, 2 Nocturnes",22,383996,2016-08-05,6,0.307,0.175,8,-19.68,1,0.0341,0.987,0.845,0.151,0.102,76.293,4,world
+220,"In ecclesiis (a 14), C78",Giovanni Gabrieli,1615 Gabrieli in Venice,0,464893,2015-10-30,1,0.176,0.106,9,-21.006,0,0.0378,0.98,0.175,0.186,0.0398,141.355,5,world
+221,Clementi : Keyboard Sonata in F minor Op.13 No.6 : III Presto,Andreas Staier,Andreas Staier - Concertos & Solo Works for Fortepiano,22,290199,2007-10-19,13,0.219,0.145,0,-24.528,0,0.031,0.971,0.854,0.122,0.273,146.017,1,world
+222,Nella partita,Francesco Landini,The Second Circle - Love Songs of Francesco Landini,21,225266,2001,4,0.248,0.0174,9,-29.087,1,0.0594,0.991,0.0,0.0762,0.0969,113.584,5,world
+223,Piano Concerto in C (1773): 2. Larghetto,Antonio Salieri,Salieri: The 2 Piano Concertos etc.,23,438040,1996-01-01,3,0.319,0.0238,9,-29.561,0,0.0502,0.986,0.864,0.0729,0.131,68.146,4,world
+224,Marian Antiphons. Alma Redemptoris. Ave Regina Caelorum. Regina Caeli. Salve Regina,Gregorian Chant,The World of Gregorian Chant,22,380933,1961-01-01,10,0.261,0.0716,7,-24.277,1,0.0564,0.993,0.0,0.104,0.0498,124.269,5,world
+225,Saltarello sesto,Vincenzo Galilei,Vincenzo Galilei: Fronimo (Dialogo sopra l'arte del bene intavolare et rettamente sonare la musica),0,143066,2010-04-04,7,0.552,0.104,0,-21.881,1,0.0456,0.992,0.939,0.101,0.677,92.18,4,world
+226,Il Maestro di Capella: Sinfonia,Gaetano Donizetti,Donizetti: Don Pasquale,0,139813,1991-01-01,1,0.54,0.225,2,-19.331,1,0.0351,0.855,0.87,0.111,0.697,147.55,4,world
+227,Mefistofele: Giunto sul passo estremo,Roberto Alagna,Opera Arias,0,250293,2006-01-01,9,0.162,0.059,8,-25.918,1,0.0453,0.98,0.0,0.148,0.0583,75.991,3,world
+228,Partita for Orchestra: I. Gagliarda,Goffredo Petrassi,Petrassi: Works for Voices & Orchestra,20,320973,2015,1,0.355,0.124,9,-21.44,0,0.044,0.957,0.903,0.038,0.24,137.876,4,world
+229,"Adriana Lecouvreur / Act 1: ""Ecco: respiro appena ... Io son l'umile ancella""",Anna Netrebko,Verismo,2,222893,2016-09-02,1,0.21,0.12,8,-18.615,1,0.0475,0.98,0.0104,0.107,0.0359,82.046,4,world
+230,"Sonata for Violin and Continuo in G minor, B. g5 - ""Il trillo del diavolo"": 1. Larghetto affettuoso",Arthur Grumiaux,Baroque Violin Sonatas,22,173600,2013-01-01,1,0.288,0.232,7,-15.508,0,0.0389,0.992,0.839,0.208,0.112,100.542,3,world
+231,'A vucchella,Mario Lanza,Serenade - A Mario Lanza Songbook,22,169333,1949,3,0.15,0.24,5,-10.295,1,0.0384,0.972,0.057,0.104,0.0769,174.004,3,world
+232,"Fedora / Act 2: ""Amor ti vieta"" - Remastered",Andrea Bocelli,Opera - The Ultimate Collection,17,109933,2014-01-01,6,0.241,0.264,0,-12.293,1,0.0358,0.941,0.0369,0.12,0.145,86.33,3,world
+233,Cardillo: Core 'ngrato,Beniamino Gigli,Icon: Beniamino Gigli,22,235866,2010-02-22,6,0.293,0.217,3,-13.194,1,0.0371,0.983,0.0136,0.197,0.213,86.958,4,world
+234,Stella del mattino,Ludovico Einaudi,I giorni,36,133493,2001,5,0.105,0.0392,2,-29.48,1,0.0468,0.991,0.798,0.113,0.188,178.232,1,world
+235,Perduto in una citta d'acque,Salvatore Sciarrino,Sciarrino: Piano Works,20,532320,2013-10-18,4,0.516,0.000277,0,-43.868,1,0.249,0.881,0.8,0.117,0.405,138.888,4,world
+236,Adagio For Strings And Organ In G Minor,Berliner Philharmoniker,Respighi: The Fountains of Rome; The Pines of Rome; Ancient Airs and Dances - Suite III / Boccherini: Quintettino / Albinoni: Adagio in G Minor,0,602250,1996-01-01,18,0.0693,0.0656,0,-23.081,0,0.0382,0.884,0.62,0.166,0.0367,76.844,4,world
+237,Serenata per un satellite,Tammittam Percussion Ensemble,Berio: Linea / Sequenza Viii / Chamber Music / Maderna: Serenata Per Un Satellite / Giardino Religioso / Oboe Concerto No. 2,20,579106,1996-01-01,4,0.243,0.149,1,-25.816,1,0.102,0.955,0.302,0.669,0.056,87.361,4,world
+238,....Sofferte onde serene....for piano and magnetic tape,Maurizio Pollini,20th Century,0,838746,2011-01-01,8,0.387,0.0264,1,-22.397,1,0.0432,0.911,0.793,0.254,0.117,87.617,3,world
+239,Mattinata - 2008 Remastered Version,Enrico Caruso,Enrico Caruso 190204,19,129173,2008-09-05,21,0.368,0.248,4,-9.733,1,0.0493,0.996,0.0,0.693,0.387,84.735,4,world
+240,Dangerous Woman,Ariana Grande,Dangerous Woman,78,235946,2016-05-20,2,0.662,0.602,4,-5.369,0,0.0401,0.0529,0.0,0.356,0.29,133.969,3,world
+241,"Jumpin', Jumpin'",Destiny's Child,The Writing's On The Wall,70,230200,1999-07-27,11,0.771,0.685,1,-4.639,1,0.0567,0.00543,0.00157,0.0537,0.683,88.997,4,world
+242,Firework,Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,72,227880,2012-03-12,4,0.638,0.826,8,-4.968,1,0.0479,0.139,0.0,0.0803,0.649,124.072,4,world
+243,Boyfriend,Justin Bieber,Believe,62,171333,2012-01-01,2,0.717,0.55,10,-6.019,0,0.0521,0.0358,0.00196,0.126,0.332,96.976,4,world
+244,Anaconda,Nicki Minaj,The Pinkprint (Deluxe),63,260240,2014-12-15,12,0.964,0.605,9,-6.223,1,0.179,0.0668,7.78e-06,0.214,0.646,129.994,4,world
+245,Treat You Better,Shawn Mendes,Treat You Better,15,187973,2016-06-03,1,0.448,0.817,10,-4.069,0,0.386,0.128,0.0,0.105,0.709,83.015,4,world
+246,Worth It,Fifth Harmony,Reflection (Deluxe),74,224573,2015-01-30,4,0.884,0.765,8,-3.865,1,0.0882,0.063,7.04e-06,0.118,0.594,99.987,4,world
+247,Gone,*NSYNC,Celebrity,53,292000,2001-07-24,6,0.704,0.409,11,-8.581,0,0.0597,0.43,0.0,0.109,0.495,113.863,4,world
+248,Me Too,Meghan Trainor,Thank You (Deluxe),38,181240,2016-05-13,2,0.934,0.694,11,-5.849,0,0.1,0.0963,1.21e-06,0.479,0.835,123.822,4,world
+249,Poison,Bell Biv DeVoe,Poison,66,261853,1990-01-01,6,0.829,0.573,6,-10.316,0,0.224,0.00216,0.00432,0.612,0.803,111.848,4,world
+250,Everybody (Backstreet's Back) - Extended Version,Backstreet Boys,Backstreet Boys,58,287293,1996,4,0.792,0.811,10,-5.198,0,0.0367,0.00602,0.000155,0.224,0.509,108.054,4,world
+251,Confident,Demi Lovato,Confident (Deluxe Edition),75,205745,2015-01-01,1,0.606,0.763,10,-6.197,0,0.0669,0.00182,0.000159,0.116,0.309,130.018,4,world
+252,Love Myself,Hailee Steinfeld,HAIZ,75,218773,2016-02-26,1,0.617,0.759,0,-6.785,0,0.0677,0.0026,0.0,0.419,0.324,122.925,4,world
+253,Perfect,One Direction,Made In The A.M. (Deluxe Edition),71,230333,2015-11-13,3,0.647,0.823,2,-5.231,1,0.0762,0.0598,0.0,0.119,0.396,99.933,4,world
+254,No Scrubs,TLC,Fanmail,79,214400,1999-02-23,5,0.743,0.675,8,-4.267,0,0.0953,0.0251,0.000717,0.0685,0.59,92.909,4,world
+255,Love You Like A Love Song,Selena Gomez & The Scene,When The Sun Goes Down,73,188453,2011-01-01,1,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,4,world
+256,S.O.S.,Jonas Brothers,Jonas Brothers,50,153346,2007-08-07,1,0.598,0.685,7,-3.873,1,0.0679,0.000628,0.0,0.149,0.712,137.035,4,world
+257,Bye Bye Bye,*NSYNC,No Strings Attached,71,200400,2000-03-21,1,0.61,0.926,8,-4.843,0,0.0479,0.031,0.0012,0.0821,0.861,172.638,4,world
+258,On My Mind,Ellie Goulding,Delirium (Deluxe),61,213445,2015-11-13,5,0.702,0.705,0,-6.666,1,0.0543,0.258,5.93e-06,0.0879,0.743,154.911,4,world
+259,See You Again - Rock Mafia Remix,Miley Cyrus,Breakout,23,196093,2008-01-01,12,0.676,0.959,9,-5.344,0,0.0613,0.00686,1.36e-05,0.123,0.806,138.986,4,world
+260,Fix You,Music Lab Collective,Piano EP1,4,329906,2014-01-01,3,0.677,0.149,3,-13.668,1,0.0529,0.983,0.891,0.106,0.0455,125.101,4,world
+261,The Scientist,Piano Tribute Players,Tribute to Coldplay,25,247146,2011-10-11,8,0.691,0.397,5,-17.919,1,0.0448,0.987,0.89,0.127,0.194,145.993,4,world
+262,Everglow,Piano Tribute Players,Piano Tribute to Coldplay,39,238426,2016-04-15,5,0.729,0.174,4,-18.112,1,0.09,0.993,0.94,0.127,0.308,145.946,4,world
+263,Hold Back the River,Nazareno Aversa,Piano Cover 9,41,241450,2015-05-29,2,0.582,0.143,5,-18.144,1,0.0561,0.923,0.906,0.0708,0.108,136.04,4,world
+264,You'll Be In My Heart - Instrumental,Fred Mollin,Disney's Lullaby Album Vol. 2,33,270093,2005,9,0.218,0.0638,1,-19.464,1,0.032,0.98,0.891,0.111,0.0528,80.482,4,world
+265,Clocks,Eklipse,A Night in Strings,42,312293,2012-03-30,10,0.609,0.303,5,-9.833,0,0.0343,0.948,0.91,0.13,0.343,119.936,4,world
+266,Here Comes the Sun,The O'Neill Brothers Group,Folk Rock: Dust in the Wind Piano Instrumental,29,164813,2013-04-29,5,0.444,0.2,9,-19.555,1,0.0376,0.995,0.919,0.104,0.46,138.96,4,world
+267,Ironic,Instrumental Players,Popular Instrumental Love Songs: My Heart Will Go On,37,232010,2012-04-18,8,0.533,0.342,11,-8.931,1,0.0556,0.875,0.876,0.0956,0.316,165.905,4,world
+268,Faded,Daniel Jang,Faded,42,212777,2016-05-16,1,0.19,0.388,7,-5.835,1,0.0318,0.844,0.0482,0.108,0.108,87.174,4,world
+269,Photograph (Instrumental Version),Ultimate Pop Hits,Acoustic Covers of Today's Hit Songs,26,255237,2016-06-10,11,0.658,0.402,4,-7.516,1,0.0404,0.895,0.925,0.0996,0.303,108.015,4,world
+270,See You Again,Sandor Enyedi,Top Hit Guitar Covers VI,43,262754,2015-11-06,6,0.46,0.317,7,-10.725,1,0.0442,0.919,0.884,0.12,0.352,145.676,3,world
+271,7 Years (Acoustic) - Recorded at Spotify Studios Nyc,Lindsey Stirling,Spotify Singles,57,147427,2016-11-30,2,0.366,0.493,10,-7.414,1,0.0503,0.736,0.000457,0.106,0.306,116.031,4,world
+272,Rather Be - Acoustic Guitar Version,Various Artists,Top 80 Acoustic Chart Hits Unplugged,31,230000,2014-08-22,23,0.79,0.569,8,-6.117,0,0.0554,0.812,0.899,0.0975,0.435,122.04,4,world
+273,Somewhere Only We Know,Vitamin String Quartet,"The Modern Wedding Collection, Vol. 2",39,222546,2013-04-16,1,0.608,0.146,9,-12.025,1,0.0322,0.95,0.00116,0.127,0.492,88.0,4,world
+274,Thinking Out Loud,Daniel Jang,Violin Covers Pt. III,52,311922,2016-01-22,1,0.225,0.291,2,-7.541,1,0.0363,0.817,0.0163,0.105,0.226,159.493,4,world
+275,Closer,Brooklyn Duo,Brooklyn Sessions V,45,193798,2016-09-23,1,0.727,0.352,8,-8.795,1,0.0297,0.929,0.844,0.109,0.427,95.996,4,world
+276,Hello,Daniel Jang,Hello,33,295569,2015-12-04,1,0.245,0.361,5,-5.994,0,0.0383,0.647,0.0825,0.0902,0.127,77.515,4,world
+277,I'm Not the Only One,Jun Sung Ahn,I'm Not the Only One,45,239500,2015-02-11,1,0.578,0.422,5,-7.95,1,0.0352,0.326,0.00719,0.17,0.416,81.9,4,world
+278,Magic,Daniel Jang,Violin Covers Pt. II,44,229821,2014-12-17,6,0.448,0.494,9,-4.629,1,0.0316,0.667,0.158,0.144,0.364,93.486,4,world
+279,Don't Stop Believin' (instrumental Version),Steve Petrunak,Pop Hits of the 70s & 80s (Acoustic Guitar),24,251046,2016-09-13,3,0.703,0.478,4,-8.627,1,0.0366,0.851,0.946,0.0908,0.234,117.134,4,world
+280,Love Me Like You Do,Brooklyn Duo,Love Me Like You Do,3,195419,2015-03-31,1,0.304,0.275,0,-11.194,1,0.0301,0.966,0.89,0.119,0.115,94.867,4,world
+281,Rude,Daniel Jang,Violin Covers Pt. II,44,177252,2014-12-17,8,0.379,0.537,2,-4.817,1,0.0277,0.687,0.00845,0.302,0.356,143.724,4,world
+282,Just the Way You Are - Piano/cello Cover,Jon Schmidt,Just the Way You Are - Piano/cello Cover - Single,38,261874,2012-01-26,1,0.374,0.0693,4,-18.649,1,0.0423,0.991,0.925,0.0886,0.195,88.157,4,world
+283,Sweet Child O' Mine,Trace Bundy,Missile Bell {part 2 - the studio cd},5,264720,2008-10-01,15,0.657,0.399,7,-11.974,1,0.0407,0.792,0.913,0.151,0.726,113.973,4,world
+284,Sugar,Daniel Jang,Sugar,46,207427,2015-04-15,1,0.57,0.616,9,-3.349,0,0.0281,0.292,0.187,0.0909,0.242,119.948,4,world
+285,I'm Yours,Vitamin String Quartet,"The Modern Wedding Collection, Vol. 2",42,219240,2013-04-16,3,0.685,0.124,0,-13.921,1,0.0382,0.783,0.000132,0.235,0.743,74.987,4,world
+286,Safe and Sound,Vitamin String Quartet,"VSQ Performs the Hits of 2013, Vol. 1",45,193241,2013-07-16,3,0.617,0.263,7,-10.203,1,0.0386,0.813,0.786,0.212,0.599,118.076,4,world
+287,November Rain,David Garrett,Rock Symphonies,38,239786,2010-01-01,2,0.36,0.68,11,-7.418,1,0.0333,0.254,0.91,0.149,0.176,76.911,4,world
+288,Every Breath You Take,2CELLOS,In2ition,49,228640,2013-01-11,4,0.434,0.199,6,-17.409,1,0.0419,0.768,0.849,0.111,0.411,125.809,4,world
+289,Hymn for the Weekend,Brooklyn Duo,Brooklyn Sessions V,44,235564,2016-09-23,10,0.207,0.264,0,-12.264,0,0.0337,0.973,0.804,0.0967,0.297,176.505,4,world
+290,With Or Without You,2CELLOS,2Cellos,54,291413,2011-06-10,12,0.417,0.184,2,-11.3,1,0.037,0.574,0.859,0.137,0.296,109.459,4,world
+291,Adventure of a Lifetime - Piano Arrangement,Niko Kotoulas,"Piano Covers, Vol. 3",25,240065,2016-05-05,10,0.268,0.446,9,-9.364,0,0.0409,0.793,0.00519,0.0906,0.15,115.731,4,world
+292,A Sky Full of Stars,Vitamin String Quartet,"VSQ Performs the Hits of 2014, Vol. 2",44,246200,2014-08-19,7,0.583,0.176,5,-9.511,1,0.0378,0.665,0.0707,0.106,0.328,125.09,4,world
+293,Wild World (Instrumental Version),Steve Petrunak,Amazing Instrumentals on Guitar,39,197230,2015-01-16,2,0.42,0.381,0,-9.341,1,0.0513,0.965,0.857,0.131,0.583,151.004,4,world
+294,Rude (Instrumental Version),Steve Petrunak,Shake It Off: Instrumental Guitar Covers of Pop Hits,51,221750,2014-12-17,8,0.717,0.518,1,-6.539,1,0.0447,0.942,0.85,0.139,0.627,143.779,4,world
+295,Another Day in Paradise (Instrumental Version),Steve Petrunak,Fun Spring Break Roadtrip Music,29,237786,2015-01-16,9,0.434,0.457,5,-9.391,0,0.0418,0.777,0.942,0.119,0.304,203.821,4,world
+296,Love Yourself (Saxophone Cover),Saxtribution,"Top Songs, Vol. 7",37,232225,2016-03-04,6,0.736,0.176,4,-9.043,1,0.0882,0.918,0.929,0.188,0.579,99.968,4,world
+297,You've Got a Friend (Instrumental Version),United Guitar Players,Popular Hit Songs on Spanish Acoustic Guitars: Classical Gas,36,268120,2014-12-11,9,0.461,0.254,2,-7.796,1,0.0438,0.918,0.797,0.111,0.439,182.96,4,world
+298,Love the Way You Lie,Nazareno Aversa,Piano Cover 2,44,213343,2010-12-27,4,0.452,0.126,10,-22.491,1,0.0567,0.934,0.871,0.099,0.101,159.915,4,world
+299,Viva La Vida,David Garrett,Music,0,256173,2012-01-01,1,0.588,0.447,8,-6.753,1,0.0386,0.133,0.81,0.097,0.556,137.991,4,world
+300,All of Me (Instrumental Version),The O'Neill Brothers Group,All of Me: Popular Love Songs on Instrumental Piano,37,297534,2014-07-09,1,0.353,0.131,5,-20.509,0,0.0452,0.991,0.91,0.0793,0.136,137.581,4,world
+301,I'm Yours,Instrumental Players,Popular Instrumental Love Songs: God Gave Me You,18,249129,2012-04-18,11,0.557,0.441,11,-8.27,1,0.0393,0.498,0.797,0.141,0.37,154.115,4,world
+302,I Don't Want To Miss A Thing,Nazareno Aversa,Piano Cover 2,27,210652,2010-12-27,1,0.396,0.135,2,-20.884,1,0.0516,0.958,0.828,0.0982,0.107,128.282,4,world
+303,Yesterday,Nazareno Aversa,Piano Cover 2,18,168203,2010-12-27,13,0.407,0.0933,5,-21.591,1,0.0572,0.979,0.887,0.09,0.157,135.148,4,world
+304,What I Know,Kosta Dejay,What I Know,0,285133,2016-10-22,1,0.509,0.159,9,-22.805,1,0.037,0.567,0.504,0.112,0.0382,86.785,3,world
+305,Stay With Me (Instrumental Version),Ultimate 2000's Hits,The Best Songs of the 2000's on Piano,18,190093,2016-07-18,16,0.522,0.108,0,-18.89,1,0.0586,0.93,0.876,0.101,0.0804,168.1,4,world
+306,Let Her Go,Music Lab Collective,Piano EP3,0,252333,2014-01-01,1,0.404,0.131,7,-16.415,1,0.0543,0.993,0.93,0.109,0.2,133.583,4,world
+307,All Of Me,Music Lab Collective,Music Lab Collective,1,295586,2016-08-01,9,0.365,0.0703,8,-22.937,1,0.0498,0.98,0.937,0.116,0.0743,124.894,4,world
+308,Titanium,Eklipse,Electric Air,38,226622,2013-08-30,1,0.545,0.335,7,-8.576,0,0.0335,0.761,0.647,0.154,0.488,123.99,4,world
+309,We Don't Talk Anymore,Daniel Jang,We Don't Talk Anymore,39,154986,2017-02-28,1,0.396,0.538,1,-5.743,0,0.0601,0.0483,0.0235,0.147,0.208,90.095,4,world
+310,7 Years,Daniel Jang,"Violin Covers, Pt. IV",32,234130,2016-12-01,1,0.439,0.444,10,-6.104,1,0.0336,0.736,0.0297,0.113,0.121,119.365,4,world
+311,All Of Me,Daniel Jang,Violin Covers Pt. II,44,275739,2014-12-17,1,0.166,0.359,8,-6.312,1,0.0372,0.971,0.0248,0.148,0.29,59.107,4,world
+312,Yellow,Daniel Jang,Yellow,38,267272,2016-01-29,1,0.218,0.286,11,-8.436,1,0.0346,0.92,0.527,0.127,0.102,87.102,4,world
+313,Wonderwall,Vitamin String Quartet,VSQ Performs Oasis: Decadence and Vanity,23,255480,2004-09-14,5,0.227,0.269,7,-13.634,0,0.0352,0.431,0.872,0.102,0.376,84.904,4,world
+314,Demons,Vitamin String Quartet,VSQ Performs Imagine Dragons,32,174972,2015-06-16,3,0.424,0.239,3,-13.006,1,0.0321,0.984,0.875,0.11,0.258,180.212,4,world
+315,Story of My Life,The Piano Guys,Wonders,57,270813,2014-10-03,1,0.318,0.445,3,-9.597,1,0.0348,0.986,0.828,0.0892,0.0962,123.855,4,world
+316,Bittersweet Symphony,Dallas String Quartet,Eclectric,46,206493,2010-05-08,9,0.467,0.385,9,-5.476,1,0.0396,0.802,0.734,0.293,0.72,180.428,4,world
+317,Hey Soul Sister,Dallas String Quartet,Red,47,223440,2011-12-15,2,0.529,0.465,4,-5.043,1,0.0299,0.673,0.00259,0.157,0.848,97.955,4,world
+318,Every Tear Drop Is a Waterfall,Dallas String Quartet,Between Us,27,209957,2014-05-15,7,0.401,0.32,9,-10.105,1,0.035,0.897,0.296,0.0916,0.276,120.115,4,world
+319,Secrets,Dallas String Quartet,Red,36,218026,2011-12-15,12,0.345,0.49,2,-5.743,1,0.0318,0.913,0.0193,0.311,0.494,152.398,4,world
+320,No Rain,Guitar Tribute Players,90's Acoustic Pop Hits,25,196000,2014-05-06,34,0.604,0.303,9,-13.019,1,0.0381,0.901,0.936,0.104,0.191,153.843,4,world
+321,Losing My Religion,Guitar Tribute Players,90's Acoustic Pop Hits,26,180520,2014-05-06,35,0.609,0.315,9,-15.823,0,0.0471,0.918,0.879,0.197,0.229,125.31,4,world
+322,Over the Rainbow / Simple Gifts,The Piano Guys,The Piano Guys,52,224053,2013-01-18,5,0.585,0.439,0,-11.409,1,0.0357,0.899,0.906,0.36,0.614,170.056,4,world
+323,Fin,Mélanie Laurent,En t'attendant,64,131280,2011-05-02,12,0.336,0.0331,6,-26.416,1,0.042,0.994,0.936,0.0892,0.0599,106.361,4,world
+324,This Land,Various Artists,Best Of The Lion King,33,175560,2011-01-01,6,0.0739,0.276,0,-14.803,1,0.0431,0.5,0.752,0.068,0.152,63.733,4,world
+325,Début,Mélanie Laurent,En t'attendant,1,158013,2011,1,0.366,0.0242,9,-30.302,0,0.0373,0.99,0.897,0.0984,0.0581,109.619,4,world
+326,We Found Love,2CELLOS,In2ition,47,212600,2013-01-11,2,0.332,0.399,2,-11.316,1,0.0447,0.797,0.886,0.501,0.589,129.9,4,world
+327,Everglow,Eddie van der Meer,"Cover Songs, #3",23,238000,2016-07-05,3,0.397,0.417,4,-7.592,1,0.044,0.903,0.848,0.297,0.436,161.796,5,world
+328,Fix You,Eddie van der Meer,"Cover Songs, #3",21,226750,2016-07-05,6,0.299,0.373,3,-7.684,1,0.033,0.486,0.648,0.0855,0.194,78.318,4,world
+329,Leaving on a Jet Plane (Instrumental Version),The O'Neill Brothers Group,Yesterday: Plus 15 More Popular Instrumental Piano Songs,23,215510,2014-10-13,16,0.432,0.13,7,-16.918,1,0.0393,0.979,0.923,0.095,0.457,140.994,4,world
+330,River Flows in You,Yiruma,River Flows in You,54,172530,2015-08-02,1,0.3,0.229,9,-17.224,1,0.0556,0.979,0.952,0.104,0.111,70.063,4,world
+331,Wonderwall,Guitar Tribute Players,Coffee Shop Acoustic,35,199893,2013-10-22,6,0.5,0.189,4,-15.603,1,0.0407,0.883,0.837,0.112,0.296,87.263,4,world
+332,Riptide (Instrumental Version),Soft Background Music,Acoustic Tribute to Today's Pop Hits,23,210325,2016-04-14,17,0.592,0.444,8,-10.379,1,0.036,0.895,0.949,0.143,0.524,96.977,4,world
+333,Father and Son,Guitar Tribute Players,Acoustic Tribute to Cat Stevens,18,251973,2014-08-05,6,0.753,0.156,7,-14.749,1,0.0596,0.951,0.902,0.104,0.336,126.142,4,world
+334,Viva la Vida,Guitar Tribute Players,"Acoustic Tribute to Coldplay, Vol. 2",25,208000,2014-08-05,14,0.602,0.335,1,-13.513,1,0.0404,0.658,0.894,0.12,0.354,138.015,4,world
+335,Will You Be There,Guitar Tribute Players,Acoustic Tribute to Michael Jackson,15,202480,2014-04-29,8,0.649,0.25,9,-15.047,1,0.0782,0.892,0.894,0.347,0.318,166.063,4,world
+336,Despacito,Ramon Ayala,Despacito,51,146195,2017-07-19,1,0.642,0.491,2,-7.21,1,0.0497,0.831,0.809,0.274,0.517,91.028,4,world
+337,Chasing Cars,Simply Three,Simply Three,47,202946,2013-04-01,10,0.478,0.309,9,-9.657,1,0.0313,0.0427,0.149,0.0885,0.115,109.966,4,world
+338,Hallelujah (Arr. Cello & Strings),Sheku Kanneh-Mason,Sheku Kanneh-Mason,1,206520,2017-02-10,3,0.166,0.0551,9,-19.494,0,0.052,0.976,0.635,0.119,0.143,176.616,3,world
+339,Stairway To Heaven,London Philharmonic Orchestra,Kashmir - Symphonic Led Zeppelin,2,642000,1997-01-01,4,0.0895,0.129,9,-20.681,0,0.0408,0.909,0.859,0.0623,0.0377,171.384,3,world
+340,Zelda's Lullaby,Taylor Davis,"Melodies of Hyrule: Music from ""The Legend of Zelda""",41,175880,2013-11-20,7,0.139,0.266,9,-13.159,0,0.0412,0.9,0.0255,0.143,0.0713,79.455,4,world
+341,"He's a Pirate (From ""Pirates of the Caribbean"")",Taylor Davis,Legendary Movie Music,41,157640,2013-07-23,1,0.43,0.85,2,-5.457,0,0.465,0.771,0.396,0.0711,0.577,174.694,3,world
+342,"Lux Aeterna (From ""Requiem for a Dream"")",Taylor Davis,Legendary Movie Music,29,211973,2013-07-23,4,0.509,0.712,7,-7.999,0,0.0562,0.243,0.672,0.107,0.57,140.065,4,world
+343,"Duel of the Fates (From ""Star Wars"")",Taylor Davis,Legendary Movie Music,33,151493,2013-07-23,6,0.39,0.908,4,-5.402,0,0.305,0.542,0.526,0.868,0.252,151.946,4,world
+344,Jurassic Park Theme,Taylor Davis,Legendary Movie Music,39,219426,2013-07-23,7,0.147,0.544,7,-8.221,1,0.0393,0.691,0.473,0.0825,0.0885,89.715,4,world
+345,"For the Love of a Princess (From ""Braveheart"")",Taylor Davis,Legendary Movie Music,29,179026,2013-07-23,10,0.0639,0.212,9,-10.911,0,0.0412,0.964,0.0253,0.0817,0.0703,44.704,4,world
+346,"Star Wars Medley (From ""Star Wars"")",Taylor Davis,"Star Wars Medley (From ""Star Wars"")",39,192530,2015-12-18,1,0.396,0.65,5,-5.432,0,0.0301,0.0767,0.144,0.0903,0.166,103.88,4,world
+347,Concerning Hobbits,Various Artists,The Lord Of The Rings: The Fellowship Of The Ring (Original Motion Picture Soundtrack),62,175040,2001-11-19,2,0.488,0.0629,2,-21.524,1,0.0342,0.843,0.406,0.133,0.175,104.311,4,world
+348,"Main Theme (From ""The Dark Knight Rises"")",Hans Zimmer,Hans Zimmer - The Classics,50,261946,2017-01-13,1,0.43,0.417,2,-12.894,0,0.0399,0.716,0.574,0.246,0.295,99.713,4,world
+349,Firework,Dallas String Quartet,Red,50,222053,2011-12-15,1,0.592,0.551,9,-3.809,0,0.0286,0.826,0.452,0.16,0.591,127.938,4,world
+350,Sweet Child O' Mine,Dallas String Quartet,Red,36,216746,2011-12-15,6,0.558,0.798,7,-5.238,1,0.0325,0.0185,0.0745,0.0931,0.779,126.042,4,world
+351,"At Last, Sunrise",Maree Docia,We Were Legends,20,120500,2015-08-04,8,0.607,0.0885,11,-20.685,1,0.0374,0.993,0.896,0.0947,0.166,138.019,4,world
+352,Twin Tales,LUCHS,Chasing Cloud Nine,14,148989,2016-06-17,6,0.249,0.114,1,-22.897,1,0.0458,0.951,0.944,0.0862,0.0389,122.849,4,world
+353,Diaphanous Dreamcoats,Silver Maple,Diaphanous Dreamcoat,10,136336,2016-06-09,3,0.112,0.063,2,-22.284,1,0.0336,0.935,0.325,0.0905,0.0541,73.647,4,world
+354,Before I Disappear,Aaron Flemming,Before I Disappear,56,109573,2017-05-04,1,0.597,0.0225,9,-13.655,1,0.0621,0.975,0.896,0.104,0.283,87.691,4,world
+355,When Marnie Was There - Fine on the Outside,Vitamin String Quartet,The World of Studio Ghibli,31,244000,2017-12-01,10,0.296,0.162,9,-12.135,1,0.0339,0.53,0.013,0.106,0.289,152.942,3,world
+356,Thought of You,Daniel Jang,Thought of You,42,222069,2017-11-30,1,0.132,0.329,7,-7.368,1,0.0405,0.869,0.0316,0.0921,0.12,211.66,4,world
+357,La Tour,Samuel Lindon,La tour,67,134000,2017-05-11,1,0.573,0.0198,3,-25.76,0,0.0449,0.993,0.941,0.112,0.284,61.978,3,world
+358,Interlude For Piano,Peter Bradley Adams,Between Us,21,115546,2011-06-14,5,0.218,0.00993,2,-28.235,1,0.0424,0.973,0.922,0.0602,0.153,68.65,5,world
+359,Don't Stop Believin',Dallas String Quartet,Red,45,186320,2011-12-15,7,0.671,0.551,4,-4.416,1,0.0311,0.47,0.0491,0.0991,0.943,126.042,4,world
+360,Sunshine - Acoustic Version,Flavia Coelho,Bossa Muffin (Deluxe Edition),44,203920,2010,3,0.804,0.54,1,-7.788,1,0.0558,0.466,0.000549,0.348,0.902,164.963,4,world
+361,Rebana Ba LeSotho,Aura Msimang,Itshe,31,342800,2000-06-13,1,0.749,0.674,0,-9.29,1,0.0465,0.286,0.000403,0.106,0.78,111.489,4,world
+362,Listen to the Breeze,Chiwoniso,Rebel Woman,1,228866,2008-09-02,6,0.688,0.711,9,-9.593,1,0.0385,0.417,0.0303,0.137,0.735,97.902,4,world
+363,Shimbalaiê,Maria Gadú,Maria Gadú,56,196906,2009-07-20,4,0.743,0.485,0,-9.604,1,0.0452,0.821,0.0,0.0817,0.512,101.975,4,world
+364,Cima vento,Mo'Kalamity and the Wizards,Freedom Of The Soul,1,260240,2013-10-14,8,0.776,0.727,9,-6.919,0,0.0858,0.0916,2.87e-05,0.117,0.645,82.013,4,world
+365,Makoun Oumou,Fatoumata Diawara,Fatou,1,276213,2011-09-19,5,0.713,0.452,10,-9.714,0,0.03,0.444,0.000307,0.118,0.472,114.003,4,world
+366,Weyu Lárigi Weyu,Various Artists,Hear Globally: A Cumbancha Collection,0,264453,2009-05-05,3,0.728,0.513,2,-10.043,0,0.0383,0.668,0.00554,0.112,0.882,96.753,3,world
+367,Nalingiyo,Manou Gallo,Lowlin,27,285034,2009-10-15,4,0.641,0.661,9,-8.852,0,0.0531,0.449,2.43e-06,0.14,0.796,89.903,4,world
+368,Saramaya,Habib Koité,Ma Ya,34,305546,1998-03-01,7,0.797,0.75,2,-8.038,1,0.0345,0.695,0.258,0.155,0.808,113.671,4,world
+369,La Cologiala,Various Artists,Cumbia Cumbia,0,222240,1993-01-01,1,0.656,0.536,5,-8.923,1,0.0433,0.0771,0.00562,0.105,0.963,103.433,4,world
+370,El Día De Mi Suerte,Mimi Maura,Mirando Caer La Lluvia,38,249146,2007-09-20,1,0.712,0.626,0,-5.965,0,0.0701,0.3,0.0,0.328,0.675,147.834,4,world
+371,Set,Cheikh Lô,Né La Thiass,0,327893,1996-10-28,6,0.489,0.543,7,-12.638,1,0.0545,0.533,0.0869,0.208,0.458,142.735,4,world
+372,Woyal,Yoro Ndiaye,Laamisoo,26,301086,2013,3,0.749,0.815,8,-6.428,1,0.0508,0.49,0.000223,0.203,0.764,140.069,4,world
+373,Jailer,Aṣa,Asa,2,247733,2009-01-27,1,0.883,0.413,0,-5.082,1,0.0483,0.471,0.0,0.111,0.904,101.987,4,world
+374,The Road (feat. Baaba Maal),Eric Wainaina,Love + Protest,27,298693,2011-11-19,5,0.486,0.576,0,-8.131,1,0.054,0.499,3.71e-05,0.0708,0.536,116.345,4,world
+375,Sen Regal,Carlou D,Muzikr,0,297200,2010-06-28,4,0.794,0.86,0,-6.98,1,0.107,0.169,0.000133,0.103,0.723,97.02,4,world
+376,Serin Fallu,Youssou N'Dour,Africa Rekk,35,335106,2016-11-04,10,0.766,0.71,7,-8.154,0,0.0588,0.5,3.45e-05,0.234,0.787,127.051,4,world
+377,Nebe N'Makoum,Cheick Tidiane Seck,Sabaly,0,297093,2008-01-01,5,0.723,0.862,0,-5.947,1,0.0977,0.411,2.05e-05,0.0989,0.859,105.1,4,world
+378,Zapata Se Queda,Lila Downs,Pecados Y Milagros,43,264000,2011-10-18,3,0.681,0.642,5,-7.793,1,0.145,0.398,0.0,0.413,0.761,81.981,4,world
+379,Li Lan La,Diogal,Li Lan La,24,222586,2008-03-25,2,0.693,0.304,5,-8.394,0,0.0274,0.774,6.42e-06,0.162,0.468,96.009,4,world
+380,Mamani,Joy Denalane,Mamani,20,128173,2002,13,0.5,0.724,1,-7.879,1,0.0459,0.169,0.0286,0.217,0.697,138.921,4,world
+381,Falso Testemunho,Various Artists,Ô Espirito e Âlma de Cabo Verde / The Spirit & Soul of Cabo Verde,25,345680,2007,3,0.713,0.52,11,-11.633,0,0.0553,0.75,0.000253,0.0758,0.65,87.951,4,world
+382,Djôn'maya,Victor Démé,Victor Démé,1,249560,2008-03-05,2,0.731,0.319,1,-8.196,1,0.0416,0.834,4.48e-05,0.118,0.302,88.743,4,world
+383,Las Lavanderas,Gabriel Romero Y Su Orquesta,Historia Músical - 40 Éxitos,24,202773,2015-07-01,7,0.662,0.532,8,-8.205,1,0.0338,0.584,0.000525,0.137,0.94,86.453,4,world
+384,Haki,Asmara All Stars,Eritrea's Got Soul,26,251266,2010-10-07,4,0.714,0.345,5,-11.467,1,0.163,0.165,0.0169,0.179,0.833,150.483,4,world
+385,Malemolencia,Céu,Céu,56,174653,2005-06-21,3,0.846,0.564,7,-10.323,0,0.0474,0.248,8.81e-05,0.091,0.637,141.886,4,world
+386,Dança Ma Mi Criola,Tito Paris,Dança Ma Mi Criola,36,298533,1994,2,0.683,0.622,0,-12.424,1,0.0717,0.283,6.58e-05,0.101,0.805,110.078,4,world
+387,Om Numah Shivaya,Apache Indian,Om Numah Shivaya,28,265377,2005-04-12,1,0.663,0.597,1,-7.654,0,0.0557,0.141,2.22e-05,0.0602,0.472,74.932,4,world
+388,Via Verde,Chico Ocaña,Canciones De Mesa Camilla,29,246093,2010-03-09,4,0.766,0.615,4,-4.928,0,0.0452,0.79,0.0,0.604,0.686,133.206,4,world
+389,Deen Wolo Mousso,Victor Démé,Deli,0,290893,2010,2,0.737,0.636,7,-9.5,1,0.114,0.618,0.0,0.072,0.791,91.012,4,world
+390,Mbo Hahita Avao,Various Artists,The World of Indigo,23,314613,2008-10-20,6,0.778,0.659,2,-8.949,1,0.0516,0.582,0.00375,0.13,0.45,117.627,4,world
+391,Issoire,Nuru Kane,Exile,20,233186,2013-02-25,9,0.608,0.766,10,-7.131,1,0.205,0.209,0.0,0.0502,0.852,176.082,4,world
+392,En la ciudad,Amparanoia,Somos Viento,33,230773,2002-01-28,8,0.758,0.465,11,-12.955,1,0.0797,0.0924,0.0336,0.065,0.473,146.86,4,world
+393,El aire de la calle,Los Delinquentes,El Sentimiento Garrapatero Que Nos Traen Las Flores,60,186733,2001,5,0.755,0.614,3,-9.841,0,0.0458,0.526,0.0,0.113,0.887,99.99,4,world
+394,Mix Up World,Quito Rymer,Mix Up World,22,228546,2004-09-01,3,0.766,0.476,7,-6.625,1,0.286,0.915,0.00125,0.433,0.785,74.61,4,world
+395,Samahani,Dobet Gnahoré,Djekpa La You,23,206106,2009,3,0.656,0.512,7,-12.598,1,0.0455,0.452,2.89e-06,0.113,0.436,112.253,4,world
+396,Bossa Muffin (O Viajante),Flavia Coelho,Bossa Muffin (Deluxe Edition),37,222053,2010,1,0.899,0.597,5,-7.087,1,0.046,0.398,0.0,0.345,0.867,104.005,4,world
+397,Sola,Rajery,Tantsaha,28,258677,2012-11-09,3,0.62,0.401,9,-14.381,1,0.0563,0.819,0.00501,0.0857,0.247,121.133,3,world
+398,Bololene,Youssou N'Dour,Dakar - Kingston,0,258933,2010-03-08,4,0.914,0.635,5,-8.912,1,0.061,0.292,0.0129,0.191,0.868,127.063,4,world
+399,Colonial Man,Hugh Masekela,The Collection,26,302866,2003-01-01,4,0.784,0.546,9,-12.798,0,0.0486,0.108,0.395,0.192,0.971,126.679,4,world
+400,Hard Labour,Geoffrey Oryema,Beat the Border,0,269160,1993-09-27,7,0.302,0.251,6,-18.115,1,0.0385,0.514,0.0263,0.213,0.105,110.139,4,world
+401,Neria,Various Artists,Smooth Africa II: Exploring The Soul,3,364453,2003,6,0.596,0.477,4,-10.106,1,0.0341,0.83,0.011,0.0988,0.386,79.678,4,world
+402,Mouso Teke Soma Ye,Boubacar Traoré,Je chanterai pour toi,25,270280,2002-11-28,1,0.402,0.342,4,-11.728,0,0.0334,0.908,0.154,0.378,0.541,98.174,4,world
+403,Kinsiona,Various Artists,Afriques Independantes: Vol.5 Congo,0,242333,2010-05-31,4,0.641,0.496,5,-7.176,0,0.0996,0.831,2.15e-06,0.116,0.719,158.476,3,world
+404,Godanaw Sew,Jah Lude,Yachin Neger,26,179070,2012-02-14,15,0.939,0.493,10,-8.075,0,0.0712,0.403,0.000239,0.124,0.945,119.986,4,world
+405,Kaïra Banco,Touré Kunda,Santhiaba,0,225908,2009-09-15,9,0.776,0.636,5,-6.999,1,0.0313,0.479,1.93e-06,0.277,0.831,129.967,4,world
+406,Mindjer,Nino Galissa,Mindjer,0,264640,2004-04-01,6,0.595,0.632,4,-11.559,0,0.0481,0.847,0.0061,0.117,0.722,92.95,4,world
+407,Xarit,Yoro Ndiaye,Nittu nitt,21,282293,2007,1,0.721,0.703,9,-6.985,1,0.0316,0.681,0.144,0.108,0.848,141.074,4,world
+408,Nchi Ya Kitu Kidogo,Eric Wainaina,Sawa Sawa,22,278213,2001-06-21,4,0.715,0.703,8,-7.985,1,0.0559,0.377,0.0,0.0827,0.919,122.869,4,world
+409,Without Blame,Ismaël Lô,Jammu Africa,1,262906,1997,9,0.39,0.305,7,-8.619,1,0.0351,0.79,7.36e-05,0.118,0.247,180.109,3,world
+410,Pena,Eliades Ochoa,Estoy Como Nunca,27,258000,2002-05-27,5,0.497,0.668,9,-7.677,0,0.0352,0.806,0.000724,0.183,0.653,98.342,4,world
+411,Ndobine,Lek Sen,Lëk Sèn - EP,20,216026,2012-10-15,1,0.458,0.362,0,-10.239,0,0.0308,0.848,7.32e-05,0.151,0.556,155.341,4,world
+412,Samala,Touré Kunda,Les Freres Griots,0,237733,1988-03-01,3,0.69,0.244,9,-19.554,0,0.242,0.568,0.00105,0.0639,0.835,169.942,4,world
+413,Kumbin,Habib Koité,Ma Ya,22,278266,1998-03-01,8,0.648,0.683,9,-9.873,0,0.0306,0.831,0.417,0.12,0.676,87.28,3,world
+414,Oh Lord,Cheick Tidiane Seck,Sabaly,0,274480,2008-01-01,1,0.783,0.788,4,-7.999,0,0.0653,0.37,0.0,0.215,0.787,102.008,4,world
+415,Africans,Nneka,Nneka... To and Fro,38,269080,2009-05-07,5,0.668,0.651,1,-3.686,1,0.284,0.173,0.0,0.0566,0.772,151.58,4,world
+416,Bahia,Zoufris Maracas,Prison Dorée (Nouvelle Edition),33,185053,2012-10-08,10,0.765,0.445,11,-11.983,0,0.0567,0.816,0.000527,0.115,0.897,149.966,4,world
+417,Gorée,Various Artists,Rough Guide To Blues and Beyond,0,306160,2009-09-28,12,0.642,0.0885,7,-22.293,1,0.055,0.809,0.00534,0.0784,0.197,122.793,4,world
+418,Sore,Diogal,Liir,27,239146,2010-01-31,1,0.75,0.313,1,-11.491,0,0.0327,0.903,0.000273,0.113,0.249,117.938,4,world
+419,Silbo,Féloche,Mythology,22,241440,2013-05-24,3,0.756,0.392,2,-9.988,0,0.0597,0.526,0.000466,0.0991,0.664,133.966,4,world
+420,Raitra,Tarika,D,21,284933,2006-03-16,4,0.44,0.587,4,-10.868,1,0.0703,0.224,0.00428,0.128,0.669,75.526,4,world
+421,Lounge,Maria Gadú,Maria Gadú,43,197346,2009-07-20,9,0.812,0.238,7,-16.167,1,0.125,0.551,0.00118,0.103,0.361,149.757,4,world
+422,Colores,MARTIRES DEL COMPAS,10 años de Mártires,34,228986,2005,6,0.716,0.785,9,-7.073,0,0.062,0.329,0.0,0.108,0.828,94.866,4,world
+423,Corre Lola Corre,Ojos de Brujo,Techari,16,242880,2006-03-20,10,0.596,0.653,0,-6.344,0,0.121,0.411,9.84e-06,0.0705,0.487,124.045,4,world
+424,Bomba Te Traigo Yo,Banda Criolla,Fiesta En San Juan,22,296826,1994,4,0.489,0.387,9,-14.409,1,0.0417,0.839,1.92e-06,0.06,0.838,94.409,1,world
+425,Mentiras De Verdad,Chico Ocaña,Canciones De Mesa Camilla,28,235213,2010-03-09,1,0.659,0.776,2,-4.756,0,0.0477,0.728,0.0,0.0407,0.832,94.37,4,world
+426,"Hasta siempre, comandante",Carlos Puebla Y Sus Tradicionales,Carlos Puebla y sus tradicionales: La Caimanera,39,225266,2013-10-29,1,0.758,0.392,6,-8.427,0,0.0321,0.898,0.00113,0.0877,0.528,111.308,4,world
+427,On Verra Ça,Touré Kunda,Giants of Afro-Pop,0,210666,2012-06-21,2,0.706,0.383,9,-18.541,0,0.0983,0.382,0.0,0.0636,0.94,172.966,4,world
+428,Batoumambe,Habib Koité,Baro,28,253960,2001-03-01,1,0.745,0.746,2,-10.433,0,0.0335,0.699,0.228,0.126,0.834,111.161,4,world
+429,Kambe,Touré Kunda,Giants of Afro-Pop,0,290333,2012-06-21,4,0.656,0.445,7,-17.137,1,0.051,0.604,6.98e-06,0.0697,0.855,90.915,4,world
+430,Illilagh Ténéré,Abdallah Oumbadougou,"Desert Rebel, Vol. 1",22,301560,2006-10-16,8,0.623,0.34,2,-13.75,1,0.0359,0.879,0.016,0.108,0.765,88.891,4,world
+431,Em'ma,Touré Kunda,Em'ma,0,246693,1985-07-29,1,0.796,0.353,9,-16.697,1,0.0595,0.391,0.0,0.107,0.925,83.435,4,world
+432,Ne Nam 1,Touré Kunda,Em'ma,0,285939,1985-07-29,3,0.619,0.428,9,-9.958,0,0.0348,0.778,0.000596,0.154,0.402,92.119,4,world
+433,Ikafô,Alpha Blondy,Jah Victory,0,276373,2007,15,0.669,0.434,1,-10.576,1,0.348,0.227,0.000673,0.112,0.525,150.044,4,world
+434,Kanawa,Habib Koité,Baro,24,321493,2001-03-01,2,0.729,0.64,2,-9.839,0,0.0327,0.432,0.0219,0.0973,0.885,95.976,4,world
+435,70 litres (feat. Guizmo),Abdallah Oumbadougou,"Desert Rebel, Vol. 1",19,264426,2006-10-16,4,0.688,0.682,8,-5.552,1,0.113,0.374,0.0,0.0474,0.827,87.579,4,world
+436,Révolution (Tagrawla 2),Idir,IdentitéS,0,255426,1999-09-27,6,0.598,0.558,2,-9.894,1,0.0379,0.411,0.00472,0.0842,0.88,91.545,4,world
+437,Sedjedo,Angelique Kidjo,djin djin,0,238746,2007-04-30,7,0.731,0.705,6,-7.271,1,0.0558,0.311,2.81e-05,0.157,0.854,100.452,3,world
+438,Kulala,Aura Msimang,Itshe,21,289493,2000-06-13,10,0.694,0.414,9,-9.803,1,0.0908,0.644,0.000169,0.0796,0.759,125.768,4,world
+439,Chauffeur Taxi,Ba Cissoko,Séno,0,315346,2009-01-26,7,0.857,0.539,0,-11.889,1,0.0622,0.658,0.408,0.107,0.797,100.016,4,world
+440,Sant Maam,Cheikh Lô,Né La Thiass,0,287733,1996-10-28,5,0.6,0.408,0,-13.408,1,0.0359,0.813,0.018,0.112,0.467,80.922,4,world
+441,Guiss Guiss,Cheikh Lô,Né La Thiass,0,277026,1996-10-28,9,0.742,0.403,7,-12.803,1,0.0417,0.641,0.148,0.0993,0.376,99.572,3,world
+442,Waino Blues,Daby Balde,Introducing Daby Balde,20,260959,2005-09-26,5,0.861,0.294,4,-8.152,0,0.0393,0.895,0.000284,0.101,0.861,118.04,4,world
+443,Yaye Boye,Daby Balde,Le Marigot Club Dakar,20,335293,2009-09-28,1,0.581,0.532,6,-9.065,0,0.0381,0.733,0.0,0.265,0.48,87.149,4,world
+444,Will You Call My Name?,Daby Touré,Call My Name,0,225466,2009-03-09,4,0.823,0.562,4,-6.962,0,0.0307,0.137,0.0726,0.105,0.915,119.974,4,world
+445,Chilouva,Dobet Gnahoré,Djekpa La You,17,140920,2009,13,0.597,0.276,9,-14.166,1,0.0312,0.827,0.0,0.204,0.683,92.016,4,world
+446,Twende Twende,Eric Wainaina,Twende Twende!,22,290000,2006-10-09,1,0.774,0.773,7,-8.312,1,0.0726,0.648,0.000176,0.142,0.816,109.999,4,world
+447,Guro Shebay,Jah Lude,Yachin Neger,24,262218,2012-02-14,2,0.826,0.626,6,-9.59,1,0.0838,0.171,0.0,0.126,0.97,154.969,4,world
+448,Gna terra,Various Artists,"Carnet de Voyage : Mali, Guinée, Sénégal",19,235327,2006-04-15,6,0.499,0.497,0,-15.741,0,0.0431,0.957,0.133,0.123,0.837,167.476,4,world
+449,Prisoner,Lucky Dube,The Ultimate,0,242640,2010-11-12,7,0.588,0.72,11,-5.76,1,0.0677,0.0844,0.0,0.0398,0.694,79.606,4,world
+450,Struggle and Strife (Senegal),Meta And The Cornerstones,Forward Music,0,247773,2008-06-01,1,0.656,0.639,0,-6.905,0,0.204,0.0865,0.0,0.189,0.519,170.83,4,world
+451,Fils De Patron,Metzo Djatah,Roots Acoustikeur,18,224288,2009-08-01,8,0.646,0.837,0,-5.591,0,0.0622,0.401,0.0,0.342,0.82,88.035,4,world
+452,Wassiye,Habib Koité,Ma Ya,37,286733,1998-03-01,2,0.728,0.66,2,-7.973,0,0.0567,0.612,0.00548,0.0923,0.844,118.332,4,world
+453,Ndima Ndapedza,Oliver Mtukudzi,Tuku Music,0,389040,1999-04-23,9,0.828,0.83,11,-8.015,1,0.0797,0.565,0.174,0.0898,0.921,118.709,4,world
+454,Woma,Omar Pene,Ndam,24,247080,2009-10-19,5,0.673,0.483,5,-9.536,1,0.0389,0.825,0.0107,0.112,0.574,83.87,4,world
+455,Ndéleng Ndéleng,Orchestra Baobab,Made In Dakar,0,340146,2007-10-15,8,0.617,0.641,2,-8.359,1,0.0343,0.445,0.0277,0.114,0.689,127.5,4,world
+456,Jiin Ma Jiin Ma,Orchestra Baobab,Specialist In All Styles,0,366173,2002-09-23,4,0.673,0.536,7,-10.222,0,0.0331,0.611,1.52e-05,0.128,0.727,137.849,4,world
+457,Hommage Á Tonton Ferrer,Orchestra Baobab,Specialist In All Styles,0,354240,2002-09-23,7,0.613,0.468,7,-8.207,0,0.0261,0.681,8.52e-05,0.378,0.742,96.785,4,world
+458,Nahazo,Régis Gizavo,Ilakake,19,290293,2012-09-17,4,0.702,0.538,7,-8.829,1,0.0261,0.676,9.28e-06,0.124,0.705,125.976,4,world
+459,One World,Remmy Ongala,Mambo,0,321573,1992,2,0.56,0.678,0,-15.519,1,0.0482,0.00947,0.000652,0.439,0.914,94.044,4,world
+460,In My Blood - Acoustic,Shawn Mendes,In My Blood (Acoustic),65,212933,2018-05-11,1,0.57,0.519,5,-5.671,1,0.0309,0.733,0.0,0.139,0.24,139.701,4,world
+461,Youngblood - Acoustic,5 Seconds of Summer,Youngblood (Acoustic),63,220995,2018-06-01,1,0.607,0.589,4,-6.068,0,0.0274,0.127,0.0,0.182,0.399,114.946,4,world
+462,Shallow,Tyler Ward,Shallow,62,182553,2018-10-12,1,0.332,0.282,7,-7.257,1,0.044,0.825,0.0,0.104,0.234,187.057,4,world
+463,Firework - Acoustic,The Mayries,Firework,61,187673,2017-12-08,1,0.384,0.196,5,-13.427,0,0.0681,0.874,0.0,0.166,0.392,206.297,4,world
+464,Naked - Acoustic Version,James Arthur,Naked (Acoustic Version),64,230440,2017-12-15,1,0.514,0.343,6,-8.531,1,0.0263,0.182,0.0,0.205,0.212,102.013,4,world
+465,No One - Acoustic,Alicia Keys,Vault Playlist Vol. 1,30,259569,2017-04-07,1,0.379,0.325,4,-5.862,1,0.0331,0.712,0.0,0.0997,0.433,89.798,4,world
+466,Without You,The Lidls,Without You,63,195130,2017-09-22,1,0.68,0.332,2,-12.581,1,0.0297,0.764,0.0,0.12,0.313,114.936,4,world
+467,For You - Acoustic,Roses & Frey,For You,55,184915,2018-01-26,1,0.618,0.223,1,-15.155,1,0.0307,0.913,4.21e-05,0.106,0.567,100.976,4,world
+468,Umbrella - Acoustic Version,The Mayries,Umbrella (Acoustic Version),67,178319,2017-11-10,1,0.675,0.278,3,-9.569,1,0.0343,0.845,0.0,0.114,0.353,123.962,4,world
+469,Can I Be Him - Acoustic Live Version,James Arthur,Can I Be Him (Acoustic Live Version),62,305160,2017-05-26,1,0.483,0.248,9,-9.368,1,0.0502,0.91,0.0,0.713,0.415,98.136,4,world
+470,Meant to Be - Acoustic,Bebe Rexha,Meant to Be (Acoustic),65,158279,2018-04-06,1,0.59,0.337,9,-8.256,1,0.089,0.726,0.0,0.161,0.233,98.885,5,world
+471,Take a Bow,Blended Colours,Take a Bow,60,223969,2018-05-04,1,0.455,0.208,7,-12.34,1,0.033,0.862,0.0,0.127,0.272,143.607,4,world
+472,Happy Now - Acoustic,Zedd,Happy Now (Acoustic),61,152000,2018-09-07,1,0.555,0.334,4,-6.763,1,0.0701,0.882,0.0,0.127,0.548,80.683,4,world
+473,Don't Wanna Know - Acoustic Version,The Mayries,#Acoustic,57,183472,2018-03-30,5,0.438,0.448,1,-7.676,1,0.0666,0.706,0.0,0.159,0.366,118.37,5,world
+474,We Can't Stop - Acoustic,Halloran & Kate,We Can't Stop (Acoustic),62,178490,2017-12-04,1,0.564,0.3,2,-9.295,1,0.033,0.879,0.0,0.0961,0.448,155.632,4,world
+475,Beautiful Girls,J-Que Beenz,Beautiful Girls,55,238010,2018-04-27,1,0.576,0.196,7,-13.639,1,0.0322,0.865,0.0,0.117,0.502,118.075,4,world
+476,September Song - Guitar Acoustic,JP Cooper,September Song (Remixes),16,212152,2017-03-24,1,0.457,0.422,0,-7.885,0,0.0354,0.337,0.0,0.126,0.516,126.633,5,world
+477,Teenage Dream,Sara Farell,Teenage Dream,57,197195,2018-02-09,1,0.53,0.0776,6,-15.478,1,0.0462,0.937,0.0,0.122,0.282,179.911,1,world
+478,Rockabye - Acoustic Version,The Mayries,Rockabye (Acoustic),68,157466,2016-12-22,2,0.528,0.291,10,-9.696,1,0.0401,0.914,0.0,0.121,0.355,76.805,4,world
+479,Too Much To Ask - Acoustic,Niall Horan,Too Much To Ask (Acoustic),59,221598,2017-11-03,1,0.485,0.187,0,-7.454,1,0.0399,0.86,0.0,0.181,0.382,143.502,4,world
+480,All I Am - Acoustic,Jess Glynne,All I Am (Acoustic),58,224693,2018-09-21,1,0.698,0.349,0,-7.579,1,0.0351,0.834,0.0,0.0804,0.446,121.898,4,world
+481,Use Somebody - Acoustic Version,Isabella Celander,Use Somebody (Acoustic Version),62,186660,2017-05-05,1,0.57,0.271,0,-11.334,1,0.0304,0.82,3.27e-06,0.108,0.273,125.862,4,world
+482,Burn,Dan Berk,Burn,56,206100,2018-01-05,1,0.357,0.172,6,-14.027,1,0.0457,0.928,7.98e-06,0.108,0.422,183.346,5,world
+483,Something Just Like This - Acoustic,Missy & Blonde,Something Just Like This,67,189793,2017-03-17,1,0.608,0.307,5,-10.859,0,0.0285,0.749,0.000252,0.156,0.505,99.938,4,world
+484,A Sky Full of Stars,Mother's Daughter,A Sky Full of Stars,56,165067,2017-12-06,1,0.643,0.11,6,-14.28,1,0.0294,0.876,1.38e-05,0.112,0.152,101.995,4,world
+485,Wild Love - Acoustic,James Bay,Wild Love (Acoustic),63,189146,2018-02-23,1,0.507,0.408,11,-7.652,0,0.0396,0.856,0.0,0.102,0.53,140.038,4,world
+486,We Found Love,Michael Shynes,We Found Love,58,173065,2017-12-15,1,0.682,0.0907,1,-16.614,0,0.0363,0.892,0.0,0.159,0.219,100.107,4,world
+487,Hey Brother,The Mayries,Hey Brother,62,220952,2018-05-25,1,0.558,0.224,10,-14.676,0,0.0312,0.847,0.0,0.117,0.255,114.767,4,world
+488,Be Alright,Lola Rhodes,Be Alright,62,180466,2018-09-28,1,0.664,0.177,1,-13.54,1,0.0335,0.856,0.0,0.136,0.29,105.008,4,world
+489,Starships - Acoustic Version,Amanda Yang,Starships (Acoustic Version),60,206267,2017-12-22,1,0.762,0.233,0,-8.641,1,0.0374,0.822,0.0,0.101,0.522,99.164,4,world
+490,Perfect - Acoustic,Ed Sheeran,Perfect (Acoustic),62,260866,2017-11-10,1,0.432,0.377,7,-5.79,1,0.0304,0.459,0.0,0.114,0.394,94.973,3,world
+491,2U - Acoustic Version,Clementine Duo,2U (Acoustic Version),63,208102,2017-06-23,1,0.657,0.192,10,-13.108,0,0.0365,0.894,0.0,0.157,0.305,130.087,4,world
+492,Paris - Acoustic Version,Sofia Karlberg,Paris,58,153826,2017-02-10,2,0.716,0.331,2,-8.245,1,0.0464,0.849,0.0,0.0996,0.67,91.12,4,world
+493,Give Me Everything,Q.Z.B,Give Me Everything,60,192542,2017-12-06,1,0.397,0.399,0,-10.566,1,0.0483,0.674,0.0,0.116,0.381,179.625,4,world
+494,IDGAF - Acoustic,Dua Lipa,IDGAF (Remixes II),58,217785,2018-05-04,5,0.682,0.382,4,-5.179,0,0.217,0.309,0.0,0.11,0.638,190.773,4,world
+495,What About Us - Acoustic,Thomas Daniel,What About Us (Acoustic),60,255510,2017-09-01,1,0.427,0.229,4,-11.564,1,0.0364,0.935,7.37e-06,0.0958,0.222,125.195,5,world
+496,Apologize,Bailey Jehl,Apologize,53,181596,2018-04-27,1,0.566,0.168,3,-12.483,1,0.0372,0.812,0.0,0.125,0.238,116.286,4,world
+497,Too Good At Goodbyes - Acoustic,Sam Smith,Too Good At Goodbyes (Acoustic),64,220095,2017-09-29,1,0.419,0.281,5,-9.319,1,0.0728,0.834,0.0,0.134,0.224,171.661,4,world
+498,Stitches - MTV Unplugged,Shawn Mendes,MTV Unplugged,9,263920,2017-11-03,3,0.479,0.344,0,-9.751,1,0.0411,0.898,1.03e-06,0.614,0.412,140.614,4,world
+499,Fast Car - Acoustic,Jonas Blue,Fast Car (Acoustic),62,217864,2016-02-01,1,0.475,0.237,9,-9.923,1,0.0342,0.865,0.0,0.0881,0.595,103.045,4,world
+500,Bad At Love,J-Que Beenz,Bad At Love,51,196225,2018-01-26,1,0.585,0.233,4,-11.87,1,0.0275,0.736,0.0,0.0936,0.543,149.844,4,world
+501,Promises,Sara Farell,Promises,59,183000,2018-08-31,1,0.572,0.229,6,-13.671,0,0.0292,0.899,0.0,0.139,0.239,101.009,4,world
+502,Came Here for Love - Acoustic,Sigala,Came Here for Love (Acoustic),59,216015,2017-07-28,1,0.535,0.371,5,-7.101,1,0.0525,0.817,0.0,0.111,0.439,122.551,4,world
+503,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Acoustic",Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen) [Acoustic]",64,212692,2018-02-16,1,0.604,0.621,0,-6.361,1,0.0262,0.0505,0.0,0.159,0.207,91.985,4,world
+504,Slow Hands - Acoustic,Niall Horan,Slow Hands (Acoustic),15,160592,2017-06-30,1,0.822,0.22,9,-8.36,0,0.0382,0.25,0.0,0.112,0.634,87.453,4,world
+505,Silence,Reggii,Silence,60,174837,2017-09-15,1,0.741,0.117,7,-12.427,0,0.049,0.931,0.000164,0.175,0.349,124.087,4,world
+506,"Leave (Get Out) - Recorded at Metropolis Studios, London",Anne-Marie,Spotify Singles,60,195920,2018-05-30,2,0.484,0.381,2,-6.815,0,0.0541,0.853,0.0,0.119,0.644,169.506,4,world
+507,It Aint me - Acoustic,Sara Farell,It Aint me (Acoustic),65,192545,2017-03-17,1,0.354,0.415,9,-6.578,1,0.0289,0.797,0.0,0.107,0.421,175.537,4,world
+508,Weak - Acoustic,Halloran & Kate,Weak,61,201282,2017-02-14,1,0.58,0.416,7,-4.803,1,0.0338,0.733,0.0,0.185,0.211,117.169,4,world
+509,Happy Now - Acoustic,Linn Brikell,Happy Now (Acoustic Version),53,213666,2018-10-12,1,0.699,0.109,1,-16.97,1,0.0438,0.935,0.0,0.152,0.54,100.005,4,world
+510,YOUTH - Acoustic,Troye Sivan,Blue Neighbourhood (The Remixes),54,192000,2016-11-18,11,0.541,0.186,7,-11.321,1,0.0311,0.958,0.0,0.0962,0.162,92.544,4,world
+511,Don't Leave Me Alone (feat. Anne-Marie) - Acoustic,David Guetta,Don't Leave Me Alone (feat. Anne-Marie) [Acoustic],65,188500,2018-09-28,1,0.695,0.435,4,-5.995,0,0.0331,0.373,0.0,0.251,0.373,120.033,4,world
+512,Lot To Learn,Vivid Color,Lot To Learn,60,226470,2017-04-21,1,0.57,0.468,6,-4.192,1,0.047,0.758,0.0,0.206,0.335,137.855,4,world
+513,Think Before I Talk - Acoustic,Astrid S,Think Before I Talk (Acoustic),15,217400,2017-10-27,1,0.778,0.225,5,-8.848,1,0.0523,0.947,0.0,0.103,0.288,106.996,4,world
+514,Wake Me Up,Roses & Frey,Wake Me Up,58,196819,2018-01-05,1,0.494,0.214,7,-11.041,1,0.0363,0.92,1.07e-05,0.107,0.35,125.981,3,world
+515,Set Fire To The Rain,Ben Botfield,Set Fire To The Rain,56,226457,2017-12-06,1,0.519,0.228,9,-10.922,0,0.036,0.861,0.0,0.102,0.398,175.367,4,world
+516,Breakeven,Sonya,AM Versions,53,249882,2017-03-14,1,0.453,0.37,10,-8.987,1,0.0362,0.797,0.0,0.0983,0.245,169.955,4,world
+517,Hang with Me,Zak Manley,Hang With Me,55,187965,2018-10-26,1,0.744,0.0953,5,-12.924,1,0.0637,0.751,4.2e-06,0.108,0.371,84.053,4,world
+518,I'm the One - Acoustic,Sunset & Highland,I'm the One (Acoustic),60,233488,2017-05-19,1,0.601,0.372,3,-6.148,1,0.0292,0.835,0.0,0.129,0.444,146.086,4,world
+519,Most Girls - Acoustic,Hailee Steinfeld,Most Girls (Acoustic),59,200880,2017-08-04,1,0.665,0.274,9,-8.915,1,0.147,0.482,0.0,0.118,0.686,103.013,4,world
+520,Pretty Girl - Acoustic Version,Becca Adams,Pretty Girl (Acoustic Version),59,180828,2017-07-07,1,0.489,0.25,8,-11.975,1,0.0335,0.925,0.0,0.126,0.435,175.901,4,world
+521,Your Song - Acoustic,Rita Ora,Your Song (Acoustic),57,181907,2017-06-16,1,0.846,0.559,6,-4.306,1,0.0644,0.109,0.0,0.0445,0.721,114.037,4,world
+522,FRIENDS - Acoustic,Marshmello,FRIENDS (Acoustic),60,209434,2018-05-25,1,0.735,0.46,9,-3.261,0,0.086,0.786,0.0,0.211,0.683,93.073,4,world
+523,Castle on the Hill - Acoustic,Ed Sheeran,Castle on the Hill (Acoustic),61,226226,2017-02-10,1,0.563,0.26,2,-5.856,1,0.0391,0.518,0.0,0.146,0.616,145.561,4,world
+524,When You Love Someone - Acoustic,James TW,When You Love Someone (Acoustic),64,210106,2016-08-19,1,0.711,0.299,7,-8.286,1,0.0394,0.803,0.0,0.116,0.577,125.068,4,world
+525,I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic,Sara Farell,I Don't Wanna Live Forever (Fifty Shades Darker),59,232500,2016-12-20,2,0.656,0.349,0,-6.841,1,0.0289,0.784,0.0,0.138,0.289,118.026,4,world
+526,I Want To Break Free,Roses & Frey,I Want To Break Free,54,153720,2018-12-10,1,0.505,0.14,2,-13.989,1,0.0285,0.87,0.000243,0.103,0.132,99.829,4,world
+527,Lonely Together - Acoustic,Avicii,Lonely Together (Acoustic),60,182078,2017-10-27,1,0.464,0.446,4,-6.372,1,0.035,0.818,0.0,0.177,0.508,100.848,4,world
+528,Naked - Acoustic,Christopher,Closer,51,181406,2017-05-05,18,0.541,0.359,5,-7.156,1,0.0401,0.692,0.0,0.0945,0.385,126.305,4,world
+529,Please Keep Loving Me - Acoustic,James TW,Please Keep Loving Me (Acoustic),53,197626,2017-08-18,1,0.495,0.178,5,-11.246,1,0.0498,0.855,0.0,0.101,0.577,175.575,4,world
+530,My My My! - Acoustic,Troye Sivan,My My My! (Acoustic),55,223106,2018-02-23,1,0.539,0.298,1,-5.915,1,0.0377,0.922,2.99e-05,0.0974,0.274,126.679,3,world
+531,Cold Water,Megan Davies,Cold Water,60,181595,2016-10-10,1,0.509,0.257,6,-13.962,0,0.108,0.733,0.0,0.312,0.55,187.366,4,world
+532,Strip That Down - Acoustic,Liam Payne,Strip That Down (Acoustic),12,184475,2017-06-16,1,0.881,0.384,6,-7.88,1,0.0565,0.628,0.0,0.12,0.901,106.017,4,world
+533,Nervous - Acoustic,Gavin James,Nervous,57,250573,2017-07-14,2,0.427,0.127,7,-12.731,1,0.0419,0.964,1.92e-06,0.109,0.259,76.357,4,world
+534,Diamonds,Plain Simple,Diamonds,52,189738,2018-01-14,1,0.683,0.228,6,-9.422,0,0.0342,0.769,0.0,0.172,0.365,83.975,4,world
+535,Cold - Acoustic,Simon Samaeng,Cold (Acoustic),60,203886,2017-03-17,1,0.411,0.545,9,-5.883,0,0.0357,0.771,0.0,0.516,0.724,95.878,4,world
+536,If You Ever Wanna Be In Love - James Bay Spotify Session 2015,James Bay,James Bay Spotify Session 2015,70,236786,2015-08-07,3,0.679,0.321,11,-8.403,1,0.0396,0.913,0.0,0.711,0.362,117.622,4,world
+537,Habits (Stay High),Darnell Smith,Habits (Stay High),58,191296,2018-01-26,1,0.569,0.204,11,-14.035,1,0.061,0.902,0.0,0.108,0.385,118.962,4,world
+538,Titanium,Mysha Didi,Autumn Hymns,51,177360,2017-10-02,5,0.482,0.0953,10,-13.292,0,0.0375,0.802,0.0,0.0968,0.193,117.307,4,world
+539,Pumped Up Kicks,Missy & Blonde,Pumped Up Kicks (Acoustic Version),56,174793,2019-03-15,1,0.436,0.287,3,-9.715,1,0.0437,0.84,0.0,0.118,0.443,169.669,4,world
+540,Blue Jeans,Sofia Karlberg,Blue Jeans,55,160448,2017-11-10,1,0.412,0.288,3,-9.554,1,0.0479,0.837,0.0,0.116,0.424,50.646,4,world
+541,Attention - Acoustic,Charlie Puth,Attention (Acoustic),59,206702,2017-06-09,1,0.527,0.506,6,-4.35,1,0.0748,0.593,0.0,0.116,0.96,199.949,4,world
+542,Sun Comes Up - Acoustic,Rudimental,Sun Comes Up (Acoustic),56,255582,2017-07-21,1,0.478,0.527,10,-4.63,1,0.0285,0.506,0.0,0.292,0.541,101.242,4,world
+543,Versace On The Floor,Joseph Vincent,Versace On The Floor,8,138201,2017-01-03,1,0.536,0.0403,7,-13.507,1,0.0462,0.89,0.0,0.127,0.521,175.734,4,world
+544,Swalla - Acoustic Version,Missy & Blonde,Swalla (Acoustic Version),58,217597,2017-07-07,1,0.555,0.309,1,-9.394,0,0.0337,0.852,0.0,0.121,0.469,134.654,4,world
+545,Malibu - Acoustic,Maygen Lacey,Malibu (Acoustic),60,244631,2017-06-02,1,0.725,0.161,4,-12.642,1,0.0391,0.95,4.85e-05,0.112,0.0879,112.054,4,world
+546,Mercy - Acoustic Guitar,Shawn Mendes,Mercy (Acoustic Guitar),10,221200,2017-01-27,1,0.623,0.344,11,-6.481,0,0.0318,0.739,0.0,0.114,0.446,143.95,4,world
+547,I Wish You Were Here - Acoustic,HRVY,I Wish You Were Here (Acoustic),49,126680,2018-10-12,1,0.857,0.285,7,-8.331,1,0.0377,0.579,0.0,0.214,0.84,112.054,4,world
+548,Let It Go - James Bay Spotify Session 2015,James Bay,James Bay Spotify Session 2015,68,285866,2015-08-07,1,0.5,0.213,1,-9.095,1,0.0462,0.879,7.37e-06,0.721,0.37,140.053,3,world
+549,Shape of You - Acoustic,Ed Sheeran,Shape of You (Acoustic),67,223573,2017-02-10,1,0.843,0.4,8,-5.576,0,0.103,0.49,0.0,0.125,0.927,100.728,4,world
+550,Scared To Be Lonely - Acoustic,Thomas Daniel,Scared To Be Lonely,60,200390,2017-03-24,1,0.587,0.36,9,-7.711,0,0.0366,0.586,0.0,0.117,0.408,137.921,4,world
+551,Ex - Acoustic,James TW,Ex (Acoustic),55,221680,2017-03-31,1,0.757,0.384,9,-5.568,1,0.0383,0.771,0.0,0.0543,0.553,130.746,4,world
+552,A Thousand Miles (Live Acoustic),Vanessa Carlton,Hear The Bells,21,278346,2011-11-21,4,0.44,0.236,11,-7.712,1,0.0279,0.88,3.09e-05,0.108,0.329,83.935,4,world
+553,Rhythm Inside - Acoustic,Calum Scott,Rhythm Inside (Acoustic),53,212171,2017-01-13,1,0.711,0.413,2,-5.147,0,0.0344,0.853,0.0,0.115,0.204,120.377,4,world
+554,Issues - Acoustic,Julia Michaels,Issues (Acoustic),14,175280,2017-03-24,1,0.691,0.343,8,-6.107,1,0.0531,0.742,0.0,0.0731,0.591,114.398,4,world
+555,Stay (with Alessia Cara) - Acoustic,Zedd,Stay (Acoustic),55,195051,2017-06-09,1,0.627,0.574,5,-7.352,0,0.0295,0.0836,0.0,0.272,0.323,100.05,4,world
+556,There's Nothing Holdin' Me Back - Acoustic,Shawn Mendes,There's Nothing Holdin' Me Back (Acoustic),60,201093,2017-07-07,1,0.78,0.573,11,-5.573,0,0.0466,0.517,0.0,0.182,0.889,121.938,4,world
+557,She Will Be Loved - Acoustic,Maroon 5,1.22.03 Acoustic,70,276786,2004,3,0.614,0.509,11,-9.244,0,0.0315,0.504,7.31e-06,0.696,0.593,98.137,4,world
+558,I Don't Want to Be - Stripped Version,Various Artists,Pure... Acoustic,51,244040,2014-03-21,6,0.548,0.578,8,-7.622,1,0.0364,0.145,0.0,0.116,0.538,147.947,4,world
+559,Closer - Acoustic,Tore Bojsten,Closer (Acoustic),57,245780,2016-11-28,1,0.677,0.518,11,-8.56,1,0.0289,0.463,0.0,0.0852,0.527,95.013,4,world
+560,Memories of the Future,Various Artists,Engrain,12,60029,2019-05-17,1,0.189,0.248,5,-12.019,1,0.0342,0.938,0.993,0.118,0.0768,69.393,4,world
+561,Seconds of Heaven,Various Artists,Engrain,12,60029,2019-05-17,2,0.174,0.237,6,-13.403,1,0.0394,0.856,0.929,0.0742,0.0389,63.52,5,world
+562,Of the Stars,Various Artists,Engrain,12,60029,2019-05-17,3,0.176,0.249,3,-13.466,1,0.0331,0.866,0.789,0.0892,0.131,66.847,3,world
+563,Memories for Tomorrow,Various Artists,Engrain,12,60029,2019-05-17,4,0.148,0.238,2,-17.302,1,0.0364,0.935,0.962,0.286,0.164,91.385,4,world
+564,Motions of Somebody,Various Artists,Engrain,12,60029,2019-05-17,5,0.184,0.128,6,-15.027,1,0.0357,0.987,0.528,0.0916,0.0396,78.942,3,world
+565,Flavor of Space,Various Artists,Engrain,12,60029,2019-05-17,6,0.197,0.175,6,-15.692,0,0.0426,0.97,0.135,0.114,0.126,70.288,4,world
+566,Want for You,Various Artists,Engrain,12,60029,2019-05-17,7,0.293,0.307,10,-15.108,1,0.0364,0.506,0.011,0.115,0.0709,67.006,5,world
+567,Day of the Chase,Various Artists,Engrain,12,60029,2019-05-17,8,0.192,0.14,7,-15.684,0,0.0352,0.983,0.979,0.17,0.0996,95.105,4,world
+568,Passion of Fire and Smoke,Various Artists,Engrain,12,60029,2019-05-17,9,0.352,0.164,10,-14.683,1,0.0402,0.19,0.912,0.0908,0.0377,66.721,4,world
+569,Kind,Various Artists,Engrain,12,60029,2019-05-17,10,0.309,0.301,0,-15.406,1,0.0601,0.986,0.93,0.0961,0.0562,98.306,4,world
+570,Sound of the Evening,Various Artists,Engrain,12,60029,2019-05-17,11,0.248,0.12,2,-18.14,0,0.0353,0.952,0.701,0.125,0.0374,70.293,4,world
+571,Kiss for Life,Various Artists,Engrain,12,60029,2019-05-17,12,0.21,0.14,10,-15.124,0,0.0345,0.916,0.129,0.12,0.109,84.484,4,world
+572,Life of Endless Summers,Various Artists,Engrain,12,60029,2019-05-17,13,0.252,0.153,10,-15.18,0,0.0613,0.982,0.827,0.129,0.0892,72.681,3,world
+573,Story of My Life,Various Artists,Engrain,12,60029,2019-05-17,14,0.258,0.22,5,-14.406,0,0.0402,0.974,0.91,0.117,0.036,70.202,5,world
+574,My Kind of Everything,Various Artists,Engrain,12,60029,2019-05-17,15,0.135,0.22,0,-13.841,1,0.0338,0.988,0.948,0.0943,0.065,71.948,4,world
+575,Years of Thunder,Various Artists,Engrain,12,60029,2019-05-17,16,0.275,0.279,9,-11.6,1,0.0409,0.993,0.895,0.095,0.086,48.358,4,world
+576,Passion for Freedom,Various Artists,Engrain,12,60029,2019-05-17,17,0.114,0.323,6,-11.614,1,0.0363,0.302,0.668,0.0797,0.231,94.066,1,world
+577,Tune of a Broken Heart,Various Artists,Engrain,12,60029,2019-05-17,18,0.494,0.201,11,-15.24,0,0.0451,0.604,0.832,0.0926,0.515,200.214,4,world
+578,Beat of Home,Various Artists,Engrain,12,60029,2019-05-17,19,0.209,0.288,1,-10.069,1,0.0409,0.969,0.91,0.0784,0.0472,132.288,3,world
+579,Drive of Forever,Various Artists,Engrain,12,60029,2019-05-17,20,0.417,0.41,0,-17.659,0,0.036,0.634,0.477,0.212,0.264,100.104,4,world
+580,Night of Midnight,Various Artists,Engrain,12,60029,2019-05-17,21,0.236,0.177,2,-16.228,1,0.0337,0.992,0.49,0.103,0.131,133.816,3,world
+581,Want for Yourself,Various Artists,Engrain,12,60029,2019-05-17,22,0.221,0.303,2,-13.374,1,0.0313,0.506,0.0723,0.684,0.068,92.407,4,world
+582,Message of Home,Various Artists,Engrain,12,60029,2019-05-17,23,0.212,0.235,0,-14.53,1,0.0348,0.89,0.929,0.177,0.0664,83.447,5,world
+583,Song for the Last Time,Various Artists,Engrain,12,60029,2019-05-17,24,0.309,0.127,0,-14.99,0,0.038,0.957,0.0711,0.0862,0.0383,74.226,4,world
+584,Simulation of Silence,Various Artists,Engrain,12,60029,2019-05-17,25,0.268,0.345,9,-18.562,1,0.038,0.904,0.627,0.148,0.229,82.935,1,world
+585,Home of Lost Minds,Various Artists,Engrain,12,60029,2019-05-17,26,0.371,0.321,4,-11.589,0,0.0381,0.0702,0.984,0.123,0.0484,52.246,4,world
+586,For Sale,Various Artists,Engrain,12,60029,2019-05-17,27,0.117,0.369,11,-17.814,1,0.0342,0.314,2.2e-06,0.309,0.475,169.137,4,world
+587,Respect of My Mind,Various Artists,Engrain,12,185155,2019-05-17,28,0.341,0.449,4,-14.227,1,0.034,0.614,0.909,0.109,0.373,150.051,4,world
+588,Beat of Time,Various Artists,Engrain,12,173348,2019-05-17,29,0.423,0.519,10,-12.247,0,0.0328,0.755,0.977,0.117,0.204,75.088,4,world
+589,Vibrations of You,Various Artists,Engrain,12,188891,2019-05-17,30,0.451,0.499,6,-13.219,1,0.0386,0.704,0.828,0.108,0.129,84.994,4,world
+590,Magic of Funk,Various Artists,Engrain,12,188342,2019-05-17,31,0.592,0.455,5,-14.644,1,0.0465,0.677,0.861,0.144,0.261,149.782,4,world
+591,Home of the Beat,Various Artists,Engrain,12,185547,2019-05-17,32,0.633,0.823,10,-11.066,1,0.0779,0.208,0.751,0.193,0.395,169.983,4,world
+592,Song of Us,Various Artists,Engrain,12,188551,2019-05-17,33,0.628,0.452,6,-14.245,0,0.0296,0.896,0.684,0.111,0.676,149.772,4,world
+593,Machine of My Mind,Various Artists,Engrain,12,184999,2019-05-17,34,0.477,0.45,7,-10.51,1,0.0335,0.159,0.83,0.138,0.243,84.974,4,world
+594,Stars for the Bass,Various Artists,Engrain,12,176457,2019-05-17,35,0.45,0.388,11,-13.067,1,0.0314,0.756,0.385,0.201,0.333,75.007,4,world
+595,Dreaming of a Woman,Various Artists,Engrain,12,192496,2019-05-17,36,0.469,0.273,10,-13.569,1,0.0858,0.976,0.871,0.0873,0.0857,169.95,4,world
+596,A Day of Fire and Smoke,Various Artists,Engrain,12,182935,2019-05-17,37,0.549,0.317,4,-11.719,0,0.0311,0.923,0.91,0.0788,0.196,149.982,4,world
+597,Body of Endless Summers,Various Artists,Engrain,12,183013,2019-05-17,38,0.328,0.37,5,-12.839,0,0.0317,0.843,0.978,0.102,0.123,74.991,4,world
+598,Ticket of Us,Various Artists,Engrain,12,181707,2019-05-17,39,0.636,0.476,5,-13.325,1,0.0441,0.82,0.844,0.0911,0.37,84.947,4,world
+599,Theme of My Mind,Various Artists,Engrain,12,184111,2019-05-17,40,0.708,0.42,5,-13.485,0,0.097,0.742,0.82,0.0954,0.309,84.989,4,world
+600,Found My Luck,Various Artists,Engrain,12,189335,2019-05-17,41,0.693,0.565,6,-10.218,1,0.033,0.823,0.823,0.0995,0.714,149.942,4,world
+601,Love for Your Baby,Various Artists,Engrain,12,187480,2019-05-17,42,0.686,0.452,2,-9.703,0,0.0443,0.868,0.966,0.106,0.264,150.051,4,world
+602,Give Back My World,Various Artists,Engrain,12,186044,2019-05-17,43,0.683,0.453,1,-14.204,1,0.0341,0.913,0.824,0.1,0.416,74.984,4,world
+603,Change My Heart,Various Artists,Engrain,12,188447,2019-05-17,44,0.295,0.41,3,-12.449,1,0.0392,0.651,0.965,0.392,0.0863,170.044,4,world
+604,Drink for Your Love,Various Artists,Engrain,12,184555,2019-05-17,45,0.647,0.444,10,-13.403,0,0.0511,0.847,0.362,0.104,0.348,170.01,4,world
+605,Soul of His Edge,Various Artists,Engrain,12,180218,2019-05-17,46,0.638,0.474,4,-13.266,0,0.0726,0.675,0.359,0.0775,0.242,84.991,4,world
+606,Drink for My Edge,Various Artists,Engrain,12,186148,2019-05-17,47,0.169,0.437,0,-14.5,0,0.0358,0.697,0.916,0.105,0.153,75.01,4,world
+607,Need My Tomorrow,Various Artists,Engrain,12,188238,2019-05-17,48,0.418,0.59,0,-8.272,1,0.0297,0.478,0.961,0.132,0.0957,170.035,4,world
+608,With My Ways,Various Artists,Engrain,12,188943,2019-05-17,49,0.696,0.563,7,-14.037,0,0.0511,0.79,0.724,0.106,0.211,75.006,4,world
+609,Found Voice,Various Artists,Engrain,12,188995,2019-05-17,50,0.606,0.541,10,-14.742,1,0.0371,0.753,0.906,0.11,0.41,85.007,4,world
+610,Dance and Future,Various Artists,Without Gravity,12,86000,2019-05-17,1,0.733,0.482,0,-15.984,0,0.16,0.566,0.942,0.0731,0.639,79.986,4,world
+611,Mutant and Soul,Various Artists,Without Gravity,12,86000,2019-05-17,2,0.702,0.683,5,-14.505,0,0.0539,0.205,0.263,0.0977,0.373,167.907,4,world
+612,Best and Dreams,Various Artists,Without Gravity,12,86000,2019-05-17,3,0.733,0.482,0,-15.984,0,0.159,0.566,0.942,0.0731,0.639,79.986,4,world
+613,Midnight and Vibrations,Various Artists,Without Gravity,12,86000,2019-05-17,4,0.661,0.644,3,-11.992,0,0.0873,0.0419,0.715,0.123,0.952,172.032,4,world
+614,Altered and Mind,Various Artists,Without Gravity,12,86000,2019-05-17,5,0.77,0.367,10,-17.82,0,0.0874,0.0045,0.881,0.103,0.442,120.005,4,world
+615,Power and Game,Various Artists,Without Gravity,12,86000,2019-05-17,6,0.8,0.417,11,-13.198,1,0.0586,0.0558,0.939,0.0738,0.799,162.07,4,world
+616,Altered and Miracles,Various Artists,Without Gravity,12,86000,2019-05-17,7,0.796,0.826,0,-12.279,0,0.0479,0.301,0.838,0.0867,0.453,120.028,4,world
+617,Bass and Feeling,Various Artists,Without Gravity,12,86000,2019-05-17,8,0.77,0.367,10,-17.82,0,0.0844,0.0045,0.881,0.103,0.446,120.012,4,world
+618,No and Mind,Various Artists,Without Gravity,12,86000,2019-05-17,9,0.746,0.604,7,-10.276,1,0.0907,0.173,0.912,0.202,0.342,100.018,4,world
+619,Mutant and Inventions,Various Artists,Without Gravity,12,86000,2019-05-17,10,0.49,0.42,0,-13.903,0,0.0514,0.254,0.92,0.168,0.414,63.031,4,world
+620,Confused and Miracle,Various Artists,Without Gravity,12,86000,2019-05-17,11,0.49,0.42,0,-13.903,0,0.0514,0.254,0.916,0.168,0.414,63.031,4,world
+621,Bass and Riot,Various Artists,Without Gravity,12,86000,2019-05-17,12,0.706,0.513,5,-15.97,0,0.0434,0.37,0.649,0.161,0.719,90.028,4,world
+622,Confused and Resurrection,Various Artists,Without Gravity,12,86000,2019-05-17,13,0.605,0.304,0,-25.459,0,0.113,0.572,0.621,0.812,0.593,77.026,4,world
+623,Ghost and Confusion,Various Artists,Without Gravity,12,86000,2019-05-17,14,0.32,0.564,4,-8.502,0,0.0355,0.6,0.868,0.401,0.201,170.002,4,world
+624,Sweet and Fire,Various Artists,Without Gravity,12,86000,2019-05-17,15,0.286,0.642,9,-9.688,1,0.04,0.445,0.973,0.807,0.152,84.804,4,world
+625,Dirty and Techno,Various Artists,Without Gravity,12,86000,2019-05-17,16,0.722,0.423,0,-11.304,0,0.0349,0.827,0.883,0.113,0.72,95.039,4,world
+626,Heartbeat and Future,Various Artists,Without Gravity,12,86000,2019-05-17,17,0.509,0.443,0,-13.371,0,0.0286,0.074,0.89,0.199,0.632,94.994,4,world
+627,More and Dreams,Various Artists,Without Gravity,12,86000,2019-05-17,18,0.696,0.388,0,-16.866,0,0.0556,0.705,0.00776,0.298,0.572,152.031,4,world
+628,Dance and Choice,Various Artists,Without Gravity,12,86000,2019-05-17,19,0.498,0.373,7,-9.629,1,0.0556,0.902,0.905,0.133,0.692,144.061,3,world
+629,"Baby, One More Time",Various Artists,Without Gravity,12,86000,2019-05-17,20,0.681,0.382,0,-14.937,0,0.0748,0.167,0.0673,0.166,0.791,152.073,4,world
+630,"Babe, I Lost My Head",Various Artists,Without Gravity,12,86000,2019-05-17,21,0.317,0.457,8,-15.131,1,0.0611,0.0443,0.668,0.371,0.728,195.747,4,world
+631,Let's Ride,Various Artists,Without Gravity,12,86000,2019-05-17,22,0.227,0.415,2,-17.658,1,0.0436,0.208,0.0339,0.21,0.19,173.343,4,world
+632,"Darling, It's a Mystery",Various Artists,Without Gravity,12,86000,2019-05-17,23,0.743,0.712,10,-6.756,0,0.0948,0.708,0.644,0.165,0.596,119.485,3,world
+633,"Dj, Drop It",Various Artists,Without Gravity,12,86000,2019-05-17,24,0.694,0.527,8,-13.994,0,0.0578,0.0279,0.618,0.285,0.961,160.004,4,world
+634,Play That Perfect Beat,Various Artists,Without Gravity,12,86000,2019-05-17,25,0.663,0.381,5,-17.817,0,0.0683,0.0348,0.917,0.0665,0.42,79.91,4,world
+635,"Honey, I'm Losing Control",Various Artists,Without Gravity,12,86000,2019-05-17,26,0.684,0.437,1,-10.755,1,0.113,0.0898,0.146,0.0951,0.734,80.124,4,world
+636,"Honey, We've Only Just Begun",Various Artists,Without Gravity,12,86000,2019-05-17,27,0.642,0.0599,7,-25.545,1,0.081,0.124,0.657,0.0836,0.12,126.032,4,world
+637,"Honey, Let's Ride the Beat",Various Artists,Without Gravity,12,86000,2019-05-17,28,0.739,0.311,7,-14.972,1,0.255,0.635,0.858,0.0841,0.559,80.024,4,world
+638,"Honey, I'm Not Sorry",Various Artists,Without Gravity,12,86000,2019-05-17,29,0.788,0.586,0,-10.606,1,0.0544,0.746,0.888,0.108,0.362,120.023,4,world
+639,"Babe, Your Love Is Addicting",Various Artists,Without Gravity,12,86000,2019-05-17,30,0.602,0.794,5,-11.873,0,0.0548,0.284,0.858,0.153,0.437,169.85,4,world
+640,"Babe, Are You Ready to Party?",Various Artists,Without Gravity,12,86000,2019-05-17,31,0.623,0.24,5,-19.29,1,0.0424,0.0156,0.693,0.292,0.381,160.07,4,world
+641,Can You Feel the Beat?,Various Artists,Without Gravity,12,86000,2019-05-17,32,0.689,0.291,0,-30.279,1,0.056,0.00651,0.914,0.0823,0.875,88.026,4,world
+642,"Baby, I Feel Love",Various Artists,Without Gravity,12,86000,2019-05-17,33,0.628,0.327,0,-14.864,1,0.0802,0.757,0.916,0.139,0.37,190.101,4,world
+643,"Babe, Come Back",Various Artists,Without Gravity,12,86000,2019-05-17,34,0.463,0.495,2,-11.002,1,0.049,0.362,0.29,0.236,0.464,122.6,3,world
+644,"Dj, This'll Make You Sweat",Various Artists,Without Gravity,12,86000,2019-05-17,35,0.621,0.572,7,-14.516,0,0.0357,0.00177,0.798,0.0977,0.283,97.03,4,world
+645,Kiss Me,Various Artists,Without Gravity,12,86000,2019-05-17,36,0.362,0.391,7,-17.827,1,0.0405,0.286,0.0494,0.164,0.141,86.277,4,world
+646,"Dj, Keep It Going",Various Artists,Without Gravity,12,86000,2019-05-17,37,0.743,0.374,7,-13.721,1,0.0472,0.042,0.769,0.243,0.643,94.022,4,world
+647,"Darling, I Can't Get Enough",Various Artists,Without Gravity,12,86000,2019-05-17,38,0.748,0.316,8,-16.21,0,0.277,0.901,0.859,0.0966,0.793,180.783,4,world
+648,"Dj, I'm Ready to Party",Various Artists,Without Gravity,12,86000,2019-05-17,39,0.528,0.0325,4,-23.771,0,0.0382,0.984,0.873,0.104,0.0715,130.057,4,world
+649,Set Me Free,Various Artists,Without Gravity,12,86000,2019-05-17,40,0.748,0.316,8,-16.21,0,0.277,0.901,0.859,0.0966,0.793,180.78,4,world
+650,"Babe, Drop That Bass",Various Artists,Without Gravity,12,86000,2019-05-17,41,0.653,0.159,7,-24.445,1,0.0407,0.371,0.882,0.0993,0.168,115.023,4,world
+651,"Dj, Drop That Bass",Various Artists,Without Gravity,12,86000,2019-05-17,42,0.793,0.584,1,-15.33,1,0.0742,0.0993,0.943,0.0655,0.864,99.999,4,world
+652,Sweet Dreams Tonight,Various Artists,Without Gravity,12,86000,2019-05-17,43,0.68,0.226,8,-18.533,0,0.263,0.0571,0.717,0.206,0.481,82.828,4,world
+653,"Dj, It's Time for the Bass",Various Artists,Without Gravity,12,86000,2019-05-17,44,0.649,0.183,4,-15.584,0,0.151,0.0152,0.57,0.0951,0.254,119.978,4,world
+654,"Baby, I'm Losing Control",Various Artists,Without Gravity,12,86000,2019-05-17,45,0.671,0.378,5,-9.622,1,0.0667,0.273,0.887,0.101,0.64,179.883,4,world
+655,Without You,Various Artists,Without Gravity,12,86000,2019-05-17,46,0.642,0.06,7,-25.545,1,0.081,0.124,0.657,0.0836,0.12,126.03,4,world
+656,"Babe, It's Yours",Various Artists,Without Gravity,12,86000,2019-05-17,47,0.649,0.183,4,-15.585,0,0.151,0.0152,0.57,0.0951,0.254,119.978,4,world
+657,Turn up the Volume,Various Artists,Without Gravity,12,86000,2019-05-17,48,0.687,0.251,0,-19.385,1,0.081,0.027,0.97,0.0935,0.155,119.999,4,world
+658,Without You,Various Artists,Without Gravity,12,86000,2019-05-17,49,0.598,0.49,1,-11.799,1,0.0308,0.36,0.844,0.48,0.0887,110.009,4,world
+659,It's Yours,Various Artists,Without Gravity,12,86000,2019-05-17,50,0.666,0.694,5,-12.21,0,0.0793,0.00436,0.815,0.311,0.981,172.071,4,world
+660,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),97,219946,2019-05-10,1,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,4,world
+661,Lost In Japan,Shawn Mendes,Lost In Japan,20,200133,2018-03-23,1,0.726,0.708,7,-6.908,0,0.356,0.303,0.0,0.348,0.417,105.084,4,world
+662,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,ME!,93,193040,2019-04-26,1,0.614,0.839,0,-4.143,1,0.0702,0.0291,0.0,0.112,0.657,182.123,4,world
+663,I Like Me Better,Lauv,I Like Me Better,85,197436,2017-05-19,1,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,world
+664,This Feeling,The Chainsmokers,Sick Boy,84,197946,2018-12-14,1,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,4,world
+665,The Middle,Zedd,The Middle,85,184732,2018-01-23,1,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,4,world
+666,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",26,174800,2017-09-08,1,0.659,0.717,8,-4.202,1,0.0581,0.0393,0.0,0.0769,0.71,103.036,4,world
+667,Polaroid,Jonas Blue,Blue,71,193377,2018-11-09,5,0.652,0.898,7,-4.481,0,0.0361,0.29,0.0,0.073,0.472,114.043,4,world
+668,7 rings,Ariana Grande,7 rings,90,178640,2019-01-18,1,0.725,0.321,1,-10.744,0,0.323,0.578,0.0,0.0884,0.319,70.142,4,world
+669,IDGAF,Dua Lipa,Dua Lipa (Deluxe),84,217946,2017-06-02,5,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,4,world
+670,Hurt Somebody,Noah Kahan,Hurt Somebody,65,168640,2018-01-12,1,0.633,0.559,6,-5.135,1,0.313,0.338,0.0,0.262,0.473,114.983,4,world
+671,Nothing to Regret,Robinson,Nothing to Regret,71,208485,2018-02-23,1,0.697,0.521,5,-6.519,1,0.031,0.243,0.0,0.189,0.331,91.998,4,world
+672,La Di Da,Lennon Stella,"Love, me",76,209773,2018-11-17,4,0.689,0.679,7,-5.893,1,0.0517,0.195,0.00111,0.224,0.475,149.972,4,world
+673,no tears left to cry,Ariana Grande,no tears left to cry,28,205946,2018-04-20,1,0.703,0.696,0,-5.482,1,0.0529,0.0375,5.65e-06,0.274,0.366,121.969,4,world
+674,Most Girls,Hailee Steinfeld,Most Girls,77,204400,2017-04-28,1,0.76,0.588,9,-7.082,1,0.0775,0.0485,0.0,0.0847,0.384,102.974,4,world
+675,Broken & Beautiful (from the movie UGLYDOLLS),Kelly Clarkson,Broken & Beautiful (from the movie UGLYDOLLS),73,218948,2019-03-27,1,0.73,0.732,8,-2.556,1,0.0366,0.0823,0.0,0.0757,0.546,112.058,4,world
+676,Never Be the Same,Camila Cabello,Camila,77,226973,2018-01-12,1,0.637,0.713,0,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,4,world
+677,Don't Leave Me Alone (feat. Anne-Marie),David Guetta,7,57,184311,2018-09-14,1,0.694,0.617,4,-7.838,0,0.0469,0.177,0.0,0.11,0.496,127.928,4,world
+678,NASA,Ariana Grande,"thank u, next",82,182000,2019-02-08,3,0.747,0.458,6,-6.891,1,0.303,0.451,0.0,0.252,0.47,75.029,4,world
+679,My My My!,Troye Sivan,Bloom,74,204726,2018-08-31,1,0.701,0.458,1,-7.749,1,0.0836,0.00407,0.000151,0.045,0.482,102.967,4,world
+680,Don't Change,Why Don't We,Don't Change,75,176408,2019-04-19,1,0.794,0.621,10,-4.935,0,0.168,0.206,0.0,0.103,0.237,106.053,4,world
+681,This Is Me,Keala Settle,This Is Me,68,234706,2017-10-27,1,0.284,0.704,2,-7.276,1,0.186,0.00583,0.000115,0.0424,0.1,191.702,4,world
+682,Electricity (with Dua Lipa),Silk City,Electricity (with Dua Lipa),83,238173,2018-09-06,1,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,4,world
+683,Sorry Not Sorry,Demi Lovato,Sorry Not Sorry,12,203760,2017-07-11,1,0.695,0.632,11,-6.922,0,0.261,0.0264,0.0,0.252,0.86,143.794,4,world
+684,Love Myself,Olivia O'Brien,Was It Even Real?,62,213960,2019-04-26,10,0.612,0.619,2,-5.702,1,0.0437,0.602,0.0,0.0866,0.469,99.71,4,world
+685,Scars To Your Beautiful,Alessia Cara,Know-It-All (Deluxe),73,230226,2015-11-13,10,0.573,0.739,0,-5.74,1,0.129,0.0285,0.0,0.111,0.451,97.085,4,world
+686,No Brainer,DJ Khaled,No Brainer,81,260000,2018-07-27,1,0.552,0.76,0,-4.706,1,0.342,0.0733,0.0,0.0865,0.639,135.702,5,world
+687,Light On,Maggie Rogers,Heard It In A Past Life,70,233880,2019-01-18,5,0.657,0.569,2,-6.287,1,0.0542,0.201,1.38e-05,0.126,0.399,102.054,4,world
+688,Free Spirit,Khalid,Free Spirit,77,182080,2019-04-05,11,0.627,0.446,2,-9.477,0,0.0332,0.308,0.00077,0.111,0.11,139.994,4,world
+689,Party For One,Carly Rae Jepsen,Party For One,39,183894,2018-11-01,1,0.685,0.638,6,-6.539,1,0.0367,0.0371,0.0,0.0987,0.414,123.442,4,world
+690,Wolves,Selena Gomez,Wolves,83,197993,2017-10-25,1,0.72,0.807,11,-4.59,0,0.0432,0.129,0.0,0.183,0.305,124.946,4,world
+691,Shout Out to My Ex,Little Mix,Glory Days (Japan Edition),48,246240,2016-11-23,1,0.774,0.739,0,-4.022,1,0.0952,0.0316,5.95e-06,0.119,0.823,126.002,4,world
+692,There's Nothing Holdin' Me Back,Shawn Mendes,Illuminate (Deluxe),27,199440,2017-04-20,1,0.857,0.8,2,-4.035,1,0.0583,0.381,0.0,0.0913,0.966,121.996,4,world
+693,Starving,Hailee Steinfeld,Starving,82,181880,2016-07-22,1,0.729,0.615,4,-4.238,1,0.0647,0.378,0.0,0.105,0.508,99.989,4,world
+694,NO EXCUSES,Meghan Trainor,NO EXCUSES,71,152862,2018-03-01,1,0.827,0.658,6,-3.846,1,0.0517,0.0224,0.0,0.0417,0.523,115.016,4,world
+695,"Sit Still, Look Pretty",Daya,Daya,11,200717,2015-09-04,4,0.659,0.767,2,-3.016,1,0.261,0.12,0.0,0.181,0.554,181.818,4,world
+696,Symphony (feat. Zara Larsson),Zara Larsson,So Good,20,214866,2017-03-17,15,0.718,0.609,0,-4.699,0,0.0429,0.281,3.29e-05,0.234,0.497,122.948,4,world
+697,Truth Hurts,Lizzo,Truth Hurts,73,173325,2017-09-19,1,0.715,0.624,4,-3.046,0,0.114,0.11,0.0,0.123,0.412,158.087,4,world
+698,Issues,Julia Michaels,Nervous System,74,176320,2017-07-28,1,0.728,0.415,8,-6.852,1,0.0639,0.401,0.0,0.0616,0.455,114.145,4,world
+699,"Badass Woman - From The Motion Picture ""The Hustle""",Meghan Trainor,"Badass Woman (From The Motion Picture ""The Hustle"")",69,210035,2019-05-10,1,0.726,0.869,6,-3.978,1,0.0638,0.0181,0.00022,0.332,0.529,112.966,4,world
+700,September Song,JP Cooper,September Song,16,220290,2016-09-16,1,0.623,0.656,0,-5.608,0,0.0416,0.0561,0.0,0.0855,0.366,95.878,4,world
+701,Supercut,Lorde,Melodrama,64,277506,2017-11-10,9,0.562,0.437,0,-10.229,1,0.052,0.219,2.18e-05,0.0806,0.15,124.852,4,world
+702,Good as Hell,Lizzo,Good As Hell,77,159011,2016-03-11,1,0.684,0.905,0,-3.187,0,0.0765,0.285,0.0,0.525,0.492,95.985,4,world
+703,Hold Up,Beyoncé,Lemonade,78,221093,2016-04-23,2,0.524,0.397,0,-11.936,1,0.405,0.745,0.0,0.521,0.552,80.744,4,world
+704,Not A Love Song,bülow,Damaged Vol. 1,69,192293,2017-11-03,2,0.74,0.533,7,-10.294,1,0.0824,0.138,4.99e-05,0.127,0.313,92.005,4,world
+705,New Rules,Dua Lipa,Dua Lipa,59,209320,2017-06-02,10,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,world
+706,Love Myself,Hailee Steinfeld,Love Myself,11,218773,2015-08-07,1,0.616,0.768,0,-6.714,0,0.0781,0.0032,0.0,0.427,0.322,122.91,4,world
+707,Classic,MKTO,MKTO,49,175426,2014,2,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,4,world
+708,Formation,Beyoncé,Lemonade,79,206080,2016-04-23,12,0.896,0.621,5,-6.857,0,0.237,0.00532,0.0,0.196,0.818,121.966,4,world
+709,Who Says,Selena Gomez & The Scene,When The Sun Goes Down,71,195613,2011-01-01,3,0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,4,world
+710,Lie,Shallou,Lie,61,215445,2018-01-25,1,0.655,0.427,2,-11.684,0,0.0799,0.295,0.00108,0.0788,0.224,107.992,4,world
+711,All You Need To Know (feat. Calle Lehmann),Gryffin,All You Need To Know (feat. Calle Lehmann),72,238458,2019-03-27,1,0.513,0.788,0,-4.629,1,0.0364,0.00968,0.0,0.11,0.234,139.987,4,world
+712,Treat You Better,Shawn Mendes,Illuminate,83,187973,2017-04-20,4,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,4,world
+713,Lonely (feat. MAX),Matoma,Lonely (feat. MAX),53,167438,2018-03-22,1,0.588,0.834,11,-4.558,1,0.0559,0.148,0.0,0.237,0.659,167.961,4,world
+714,Party In The U.S.A.,Miley Cyrus,The Time Of Our Lives,74,202066,2009-01-01,2,0.454,0.708,10,-4.526,0,0.0675,0.00124,0.000181,0.0679,0.483,192.18,4,world
+715,Great One,Jessie Reyez,Kiddo,71,169826,2017-04-21,7,0.464,0.499,1,-5.528,1,0.062,0.444,0.0,0.278,0.475,81.575,4,world
+716,Burning,Maggie Rogers,Heard It In A Past Life,69,213173,2019-01-18,11,0.735,0.688,5,-5.471,1,0.104,0.21,3.11e-05,0.106,0.282,110.045,4,world
+717,Feel Good (feat. Daya),Gryffin,Feel Good (feat. Daya),71,248156,2017-03-03,1,0.625,0.707,2,-4.761,1,0.0337,0.22,0.0,0.213,0.479,138.064,4,world
+718,I Like It,Cardi B,Invasion of Privacy,86,253390,2018-04-06,7,0.816,0.726,5,-3.998,0,0.129,0.099,0.0,0.372,0.65,136.048,4,world
+719,Bad Liar,Selena Gomez,Bad Liar,74,214647,2017-05-18,1,0.965,0.414,1,-6.408,1,0.0713,0.189,0.0,0.0767,0.728,121.032,4,world
+720,Dirty Air,Two Door Cinema Club,Dirty Air,54,243828,2019-05-21,1,0.606,0.944,10,-4.934,1,0.0378,0.00419,0.00085,0.104,0.668,138.022,4,world
+721,Parents,YUNGBLUD,Parents,61,172026,2019-05-24,1,0.594,0.833,9,-4.287,0,0.0507,0.00967,0.0,0.3,0.599,82.041,4,world
+722,The Others,whenyoung,The Others,46,237346,2019-05-15,1,0.532,0.827,0,-3.959,1,0.0338,0.000377,0.000264,0.14,0.454,133.979,4,world
+723,"Balance, Not Symmetry - From The Original Motion Picture Soundtrack 'Balance, Not Symmetry'",Biffy Clyro,"Balance, Not Symmetry (From The Original Motion Picture Soundtrack 'Balance, Not Symmetry')",55,181536,2019-05-16,1,0.545,0.834,1,-3.255,0,0.0385,6.46e-05,0.0,0.125,0.676,156.884,3,world
+724,Die Happy,DREAMERS,Die Happy,53,186902,2019-02-22,1,0.573,0.875,0,-3.841,1,0.0297,0.000456,0.0,0.403,0.843,102.003,4,world
+725,Go,The Black Keys,Go / Eagle Birds / Lo/Hi,69,146596,2019-05-16,1,0.478,0.666,1,-7.766,1,0.0566,0.0428,0.725,0.336,0.718,149.974,4,world
+726,Fuzzy Tree,The Amazons,Future Dust,51,210600,2019-05-24,2,0.415,0.911,2,-4.439,0,0.0523,0.00014,9.7e-06,0.636,0.486,154.015,4,world
+727,Out For Blood,Sum 41,Out For Blood,66,216571,2019-04-24,1,0.553,0.868,6,-4.186,0,0.048,7.35e-05,0.0359,0.0934,0.5,140.047,4,world
+728,Blame It On My Youth,blink-182,Blame It On My Youth,72,186000,2019-05-08,1,0.452,0.936,8,-3.028,1,0.19,0.0331,0.0,0.197,0.666,170.12,4,world
+729,Pray,[ALEXANDROS],Pray,52,200240,2019-05-13,1,0.58,0.636,8,-5.825,1,0.0293,0.0058,0.0,0.337,0.268,89.871,4,world
+730,I Know Where the Bodies Are Buried,Adam Jensen,I Know Where the Bodies Are Buried,36,176745,2019-05-23,1,0.702,0.755,2,-6.232,1,0.185,0.0118,0.000596,0.0772,0.662,140.049,4,world
+731,Gibberish,Honeyblood,In Plain Sight,35,150626,2019-05-24,4,0.355,0.902,4,-6.185,0,0.271,0.000957,0.0,0.751,0.379,150.425,4,world
+732,Black Star Dancing,Noel Gallagher's High Flying Birds,Black Star Dancing,35,261826,2019-05-03,1,0.632,0.875,11,-4.709,0,0.0359,0.000763,0.0224,0.108,0.874,118.007,4,world
+733,Remember Me,MAN WITH A MISSION,Remember Me,53,288900,2019-05-06,1,0.541,0.848,0,-4.301,1,0.0495,0.004,0.0,0.0849,0.393,125.914,4,world
+734,Be My Fire,The Blue Stones,Black Holes,58,193053,2018-10-26,5,0.539,0.886,1,-6.133,0,0.0459,0.000436,0.000122,0.168,0.5,95.995,4,world
+735,Real Life,Interpol,A Fine Mess,58,266853,2019-05-17,3,0.46,0.946,0,-1.899,1,0.059,7.94e-05,0.848,0.12,0.353,130.104,4,world
+736,I'm Alive,The Hives,I'm Alive,51,251973,2019-05-17,1,0.161,0.902,11,-2.717,0,0.099,8.31e-05,0.0056,0.167,0.125,86.841,4,world
+737,Crowbar,Frank Carter & The Rattlesnakes,Crowbar,60,140880,2019-01-15,1,0.572,0.639,5,-6.196,1,0.0506,0.0922,1.64e-05,0.563,0.804,179.857,3,world
+738,Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik),Tom Morello,Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik),60,278297,2019-04-11,1,0.523,0.896,11,-3.221,0,0.138,0.00283,0.0315,0.183,0.639,188.137,4,world
+739,Edge Of Darkness,Greta Van Fleet,From The Fires,64,268400,2017-11-10,2,0.452,0.944,2,-3.785,1,0.0587,0.00717,0.161,0.0766,0.673,148.07,4,world
+740,Saw Lightning,Beck,Saw Lightning,64,241451,2019-04-15,1,0.675,0.911,5,-5.075,0,0.0449,0.0502,0.0488,0.0736,0.849,120.016,4,world
+741,Alligator,Of Monsters and Men,Alligator,68,184026,2019-05-03,1,0.581,0.934,8,-5.511,1,0.0547,0.000169,0.00297,0.0901,0.391,120.024,4,world
+742,Elevator Girl,BABYMETAL,Elevator Girl,47,164812,2019-05-10,1,0.414,0.995,11,-2.019,0,0.168,1.6e-05,0.583,0.355,0.344,180.062,4,world
+743,Way Down,The Dangerous Summer,Way Down,54,201229,2019-04-15,1,0.401,0.923,8,-5.596,1,0.0469,0.0037,0.0,0.469,0.237,83.241,4,world
+744,White Onions,Foals,Part 1 Everything Not Saved Will Be Lost,62,185610,2019-03-08,3,0.42,0.976,0,-2.236,1,0.108,3.17e-05,0.00321,0.0426,0.39,164.023,4,world
+745,Are You The One,Basement,Be Here Now / Are You The One,48,180906,2019-04-26,2,0.433,0.972,8,-4.311,0,0.0728,2.85e-05,0.102,0.238,0.338,76.48,4,world
+746,Poison the Well,Modest Mouse,Poison the Well,54,144053,2019-03-29,1,0.622,0.962,4,-2.816,0,0.091,0.00391,0.0,0.101,0.506,129.023,4,world
+747,Hurricane,I Prevail,TRAUMA,66,223173,2019-03-29,8,0.389,0.885,6,-5.063,0,0.0551,0.000372,0.000311,0.202,0.187,164.989,4,world
+748,The Weekend,Interpol,The Weekend,55,184000,2019-03-28,1,0.431,0.958,11,-0.911,0,0.0566,2.89e-06,0.831,0.359,0.515,130.048,4,world
+749,Temper Temper,Black Pistol Fire,Temper Temper / So Real,47,186838,2019-05-02,1,0.564,0.587,7,-6.697,0,0.0293,0.069,0.0012,0.143,0.453,96.048,4,world
+750,Bad Company,YONAKA,Bad Company,57,236515,2019-02-15,1,0.521,0.856,11,-3.499,0,0.0511,0.011,0.0,0.31,0.454,136.985,4,world
+751,Lose Your Head,Bad Religion,Age Of Unreason,58,170733,2019-05-03,5,0.542,0.887,9,-3.087,1,0.0404,0.000382,0.000125,0.101,0.49,134.137,4,world
+752,The Fight Song,Deaf Havana,The Fight Song,40,173097,2019-03-22,1,0.527,0.988,4,-3.027,1,0.0984,0.00128,0.00321,0.582,0.603,130.07,4,world
+753,A Paper Dream,DYGL,A Paper Dream,38,207704,2019-03-06,1,0.455,0.948,4,-3.786,1,0.152,0.0103,0.000108,0.0744,0.657,187.097,4,world
+754,Loner,YUNGBLUD,Loner,63,215185,2019-01-17,1,0.27,0.948,1,-2.979,1,0.136,0.0285,0.0,0.152,0.475,98.765,4,world
+755,Ride - Single Edit,TIDALWAVE,Ride,19,170548,2019-03-29,1,0.359,0.88,11,-5.053,1,0.0539,0.000101,0.0749,0.397,0.6,83.801,4,world
+756,In Love With A Camera,The Struts,YOUNG&DANGEROUS,58,202401,2018-10-19,3,0.557,0.886,0,-3.092,1,0.0378,0.000125,0.000199,0.355,0.638,127.982,4,world
+757,Saviour,Circa Waves,What’s It Like Over There?,45,189001,2019-04-05,10,0.433,0.841,9,-4.586,1,0.0431,0.000732,0.0546,0.364,0.635,87.809,4,world
+758,SLO,Des Rocs,SLO,54,175007,2019-05-03,1,0.359,0.721,7,-5.176,1,0.0665,0.00204,0.0,0.134,0.603,95.84,4,world
+759,S.O.S. (Sawed Off Shotgun),The Glorious Sons,Young Beauties and Fools,62,195173,2017-10-27,8,0.568,0.961,9,-2.182,1,0.065,0.00428,0.0,0.138,0.924,148.126,4,world
+760,Goodbye,Cage The Elephant,Goodbye / Ready To Let Go / Night Running / House of Glass,60,256226,2019-04-08,1,0.347,0.326,4,-7.198,0,0.0309,0.312,0.00603,0.107,0.0501,101.998,4,world
+761,sanjake,cleopatrick,sanjake,52,182885,2019-03-22,1,0.397,0.849,9,-5.216,1,0.0833,0.00014,0.00291,0.423,0.503,94.964,4,world
+762,Encore,Catfish and the Bottlemen,The Balance,66,165506,2019-04-26,6,0.487,0.898,9,-3.65,1,0.0762,0.00311,3.41e-06,0.0627,0.546,150.115,4,world
+763,Doubt It,The Amazons,Doubt It,52,291360,2019-04-08,1,0.61,0.884,4,-4.612,0,0.0347,0.000264,0.00116,0.0892,0.546,113.968,4,world
+764,The Problem Is Me,The Get Up Kids,Problems,24,162066,2019-05-08,2,0.533,0.896,1,-3.54,0,0.0641,0.000374,0.0128,0.324,0.708,120.013,4,world
+765,Style,Foster The People,Style,65,223906,2019-03-22,1,0.59,0.906,5,-2.892,1,0.0618,0.00633,0.00151,0.386,0.541,111.997,4,world
+766,I Need It,Ikiga,Ikiga,22,183491,2019-05-10,2,0.486,0.929,11,-8.622,0,0.0501,0.000184,0.0,0.504,0.852,137.975,4,world
+767,This Baby Don’t Cry,K.Flay,This Baby Don't Cry,54,184133,2019-04-29,1,0.865,0.758,0,-6.485,1,0.0561,0.00968,0.0356,0.11,0.912,150.035,4,world
+768,Favourites (feat. Little Simz),THE S.L.P.,Favourites (feat. Little Simz),50,233208,2019-05-14,1,0.671,0.881,6,-4.28,0,0.222,0.077,0.0,0.123,0.802,102.017,4,world
+769,Got Your Number,The Kooks,Got Your Number,59,246728,2019-05-03,1,0.596,0.937,7,-3.71,1,0.0505,0.0154,8.07e-06,0.0968,0.531,98.986,4,world

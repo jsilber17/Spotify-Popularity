@@ -1,0 +1,856 @@
+,track,artist,album,popularity,time,release_date,track_number,danceability,energy,key,loudness,mode,speechiness,acoustincess,instrumentalness,liveness,valence,tempo,time_signature,genre
+0,Friday I'm In Love,The Cure,Wish,73,215160,1992-01-01,7,0.543,0.742,0,-12.613,0,0.0357,0.00144,6.66e-05,0.375,0.529,136.211,4,alternative
+1,There She Goes,The La's,The La's,67,162186,1990,5,0.533,0.761,7,-10.632,1,0.0298,0.013,0.829,0.207,0.917,122.777,4,alternative
+2,1979 - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),74,266200,1995,5,0.765,0.788,3,-9.896,1,0.0332,0.0166,0.588,0.0513,0.964,126.879,4,alternative
+3,Linger,The Cranberries,"Everybody Else Is Doing It, So Why Can't We? (The Complete Sessions 1991-1993)",20,274760,1993-03-01,7,0.438,0.428,7,-14.861,1,0.0263,0.0841,4.63e-05,0.138,0.209,94.864,4,alternative
+4,Tender,Blur,13,60,461946,1998-03-15,1,0.587,0.566,9,-9.932,1,0.0276,0.47,0.0,0.0644,0.529,76.054,4,alternative
+5,Creep,Radiohead,Pablo Honey,80,238640,1993-02-22,2,0.515,0.43,7,-9.935,1,0.0369,0.0102,0.000141,0.129,0.104,91.841,4,alternative
+6,Motorcycle Emptiness,Manic Street Preachers,Forever Delayed,61,305706,2002-10-28,2,0.522,0.799,4,-3.641,1,0.0301,8.38e-06,0.0659,0.174,0.196,112.448,4,alternative
+7,Live Forever,Oasis,Definitely Maybe,13,276866,1994-08-29,3,0.263,0.778,9,-5.418,0,0.0334,1.23e-05,7.64e-06,0.375,0.203,90.512,4,alternative
+8,Common People,Pulp,Different Class / Deluxe Edition,15,350373,1995-10-30,3,0.319,0.839,0,-7.341,1,0.0404,0.00596,7.99e-05,0.0764,0.538,144.938,4,alternative
+9,No Rain,Blind Melon,Blind Melon,73,217106,1992-01-01,7,0.389,0.476,9,-9.342,1,0.0316,0.619,5.09e-05,0.255,0.566,148.117,4,alternative
+10,Karma Police,Radiohead,OK Computer,73,264066,1997-05-28,6,0.36,0.505,7,-9.129,1,0.026,0.0626,9.22e-05,0.172,0.317,74.807,4,alternative
+11,Laid,James,James: The Best Of,13,156866,1998-01-01,4,0.488,0.968,0,-5.705,1,0.0375,0.0207,0.000124,0.148,0.584,116.223,4,alternative
+12,A Letter To Elise,The Cure,Wish,52,312240,1992-01-01,9,0.53,0.592,9,-13.444,1,0.0309,0.189,0.00174,0.198,0.795,150.224,4,alternative
+13,Babies,Pulp,His 'N' Hers,9,244826,1994-04-18,5,0.299,0.818,2,-7.942,1,0.0649,0.113,2.46e-06,0.0827,0.604,156.193,4,alternative
+14,The Boy With the Arab Strap,Belle & Sebastian,The Boy With the Arab Strap,53,314066,1998-09-07,9,0.577,0.828,7,-9.805,1,0.0556,0.358,0.013,0.0683,0.706,142.365,4,alternative
+15,Love Spreads,The Stone Roses,Second Coming,8,347093,1994-12-05,12,0.417,0.877,2,-8.422,1,0.0495,0.00258,0.00165,0.398,0.593,91.578,4,alternative
+16,Where Is My Mind?,Pixies,Surfer Rosa (Remastered),72,236973,1988,7,0.523,0.442,4,-14.121,1,0.0347,0.0189,0.000494,0.0784,0.277,81.083,4,alternative
+17,Movin' on Up,Primal Scream,Dirty Hits - Limited Edition,47,224586,2003,2,0.525,0.921,5,-5.7,1,0.0361,0.102,0.00111,0.07,0.493,94.274,4,alternative
+18,Regret - 2015 Remaster,New Order,Republic,56,248973,1993-05-03,1,0.506,0.931,5,-5.635,1,0.0305,0.00146,0.0227,0.27,0.865,129.568,4,alternative
+19,Bitter Sweet Symphony,The Verve,Urban Hymns,28,358426,1997-09-29,1,0.389,0.889,9,-6.546,1,0.0442,0.0415,0.0,0.463,0.524,171.121,4,alternative
+20,Vapour Trail,Ride,Nowhere (Remastered),39,258173,1990-10-15,8,0.396,0.79,4,-6.182,1,0.0306,0.000674,0.798,0.092,0.461,107.524,4,alternative
+21,Waltz #2 (XO),Elliott Smith,XO,55,280106,1998-01-01,3,0.633,0.49,10,-7.668,1,0.0255,0.395,6.92e-05,0.0886,0.66,132.178,3,alternative
+22,Ladies and Gentlemen We Are Floating in Space,Spiritualized,Ladies & Gentlemen We Are Floating In Space,48,234053,1997-06-16,1,0.378,0.409,2,-11.468,1,0.0337,0.753,0.000528,0.234,0.184,100.087,3,alternative
+23,No Surprises,Radiohead,OK Computer,70,229120,1997-05-28,10,0.255,0.393,5,-10.654,1,0.0278,0.0577,0.00361,0.113,0.118,76.426,4,alternative
+24,Black Hole Sun,Soundgarden,Superunknown,47,318000,1994-01-01,7,0.362,0.701,6,-8.401,1,0.0378,0.000258,7.79e-05,0.0727,0.191,105.743,4,alternative
+25,Into My Arms,Nick Cave & The Bad Seeds,The Boatman's Call (Remastered),14,256120,1997-03-03,1,0.484,0.0874,0,-17.796,1,0.0394,0.894,0.154,0.11,0.219,94.163,4,alternative
+26,Let's Get Together (In Our Minds),Gorky's Zygotic Mynci,Gorky 5,39,195960,1998-01-01,3,0.237,0.553,9,-5.271,0,0.0323,0.436,0.000109,0.0962,0.336,190.709,3,alternative
+27,The Drugs Don't Work,The Verve,Urban Hymns,10,305066,1997-09-29,4,0.44,0.498,0,-9.788,1,0.0264,0.229,0.0,0.173,0.157,77.368,4,alternative
+28,The First Of The Gang To Die,Morrissey,You Are The Quarry,57,218586,2004-01-01,8,0.533,0.915,11,-4.241,1,0.0365,0.0117,0.0,0.122,0.813,134.297,4,alternative
+29,Chasing Rainbows,Shed Seven,Let It Ride,7,265133,1998-01-01,10,0.202,0.853,4,-6.326,1,0.0475,0.0245,9.5e-05,0.143,0.37,100.625,4,alternative
+30,Something Changed,Pulp,Different Class,53,198600,1995-10-30,7,0.528,0.686,7,-8.358,1,0.0309,0.0258,0.0149,0.357,0.433,120.557,4,alternative
+31,Corpses In Their Mouths,Ian Brown,Unfinished Monkey Business,47,249266,1998,7,0.779,0.529,10,-12.243,0,0.0382,0.00557,0.0943,0.11,0.917,108.804,4,alternative
+32,Range Life,Pavement,Crooked Rain Crooked Rain,50,294760,1994,9,0.556,0.726,9,-9.408,1,0.0291,0.0389,1.86e-05,0.12,0.721,112.803,4,alternative
+33,Shiny Happy People,R.E.M.,Out Of Time (25th Anniversary Edition),69,225786,1991-03-12,6,0.454,0.901,9,-3.961,1,0.0351,0.0338,0.0599,0.198,0.788,124.56,4,alternative
+34,The Universal,Blur,Blur: The Best Of,54,240120,2000-10-23,4,0.317,0.571,9,-7.669,1,0.0283,0.158,2.95e-06,0.0848,0.234,163.036,3,alternative
+35,Alive,Pearl Jam,Ten,75,340907,1991-08-27,3,0.284,0.875,11,-6.069,0,0.0422,0.00752,0.000461,0.402,0.595,75.009,4,alternative
+36,Buddy Holly,Weezer,Weezer (Deluxe Edition),12,159586,1994-05-10,4,0.536,0.932,8,-4.11,1,0.0436,0.00483,2.02e-05,0.105,0.755,121.004,4,alternative
+37,The Wild Ones (Remastered),Suede,Dog Man Star (Remastered),47,290293,1994-10-10,4,0.449,0.56,3,-8.907,1,0.0268,0.55,0.000111,0.0536,0.351,84.689,4,alternative
+38,Girl From Mars,Ash,The Best Of Ash (Remastered Version),56,213533,1995-07-31,1,0.236,0.797,9,-6.949,1,0.0447,0.0186,0.0,0.11,0.477,154.336,4,alternative
+39,Slight Return,The Bluetones,The Bluetones Collection,45,200413,2008-01-01,1,0.426,0.878,2,-8.274,1,0.0388,0.0237,0.000118,0.173,0.65,102.818,4,alternative
+40,The Only One I Know,The Charlatans,Some Friendly,59,238120,1990-10-08,3,0.543,0.572,5,-13.124,1,0.0317,0.0685,0.00119,0.0823,0.533,113.312,4,alternative
+41,Beetlebum - 2012 Remastered Version,Blur,Blur [Special Edition],55,305213,1997-02-10,1,0.542,0.626,0,-7.105,1,0.0242,0.0789,0.000508,0.277,0.813,89.734,4,alternative
+42,Walkaway,Cast,All Change,51,231733,1995-01-01,9,0.467,0.481,11,-10.17,1,0.0233,0.034,0.0102,0.106,0.328,80.043,4,alternative
+43,Here's Where The Story Ends,The Sundays,"Reading, Writing & Arithmetic",47,234906,1990-01-01,2,0.625,0.593,7,-10.926,1,0.028,0.288,1.11e-06,0.0721,0.835,109.048,4,alternative
+44,Man On The Moon,R.E.M.,Automatic For The People,66,314173,1992-01-01,10,0.667,0.699,7,-7.574,1,0.026,0.42,0.000442,0.201,0.655,118.567,4,alternative
+45,Goddess On A Hiway - Remastered,Mercury Rev,Deserter's Songs,50,225333,1998,8,0.467,0.761,9,-5.893,1,0.0386,0.0186,1.25e-06,0.0666,0.257,145.241,4,alternative
+46,Alright,Supergrass,I Should Coco,71,180880,1995-05-15,4,0.467,0.958,4,-4.808,0,0.0775,0.000479,0.199,0.299,0.701,145.92,4,alternative
+47,End of a Century - 2012 Remaster,Blur,Parklife,48,165840,1994-04-25,3,0.446,0.686,7,-7.348,1,0.0303,0.211,0.0,0.205,0.493,80.571,4,alternative
+48,Malibu,Hole,Celebrity Skin,59,230040,1998-01-01,4,0.528,0.904,2,-5.854,1,0.0343,0.000833,0.0,0.174,0.678,122.371,4,alternative
+49,Autumn Sweater,Yo La Tengo,I Can Hear the Heart Beating As One,60,318373,1997-04-22,8,0.628,0.455,7,-12.436,1,0.0427,0.141,0.693,0.135,0.858,102.09,4,alternative
+50,Novocaine For The Soul,Eels,Beautiful Freak,52,188693,1996-01-01,1,0.41,0.725,6,-7.784,1,0.0394,0.000788,0.0761,0.0905,0.314,169.184,4,alternative
+51,Interstate Love Song,Stone Temple Pilots,Purple,71,193613,1994-06-07,4,0.214,0.947,4,-5.053,1,0.0507,0.000552,0.00352,0.238,0.483,170.616,4,alternative
+52,One To Another,The Charlatans,Tellin' Stories,16,269840,1997-04-21,4,0.445,0.887,10,-5.121,1,0.0463,0.000242,8.94e-05,0.456,0.332,102.441,4,alternative
+53,Race For The Prize,The Flaming Lips,The Soft Bulletin,7,258333,1999-05-17,13,0.37,0.946,0,-3.849,1,0.0765,0.000206,0.0204,0.315,0.387,130.556,4,alternative
+54,Say It Ain't So,Weezer,Weezer (Deluxe Edition),55,256880,1994-05-10,14,0.635,0.435,3,-7.521,1,0.031,0.00328,6.78e-06,0.071,0.459,76.098,4,alternative
+55,Susan's House,Eels,Beautiful Freak,5,223800,1996-01-01,2,0.736,0.439,3,-11.845,1,0.0396,0.222,0.218,0.31,0.432,80.493,4,alternative
+56,Just,Radiohead,The Bends,60,234800,1995-03-28,7,0.291,0.767,7,-6.913,0,0.0862,0.000401,0.0119,0.0763,0.358,175.699,4,alternative
+57,Grace,Jeff Buckley,Grace (Legacy Edition),56,322146,1994,2,0.546,0.865,2,-5.704,1,0.0455,0.113,3.08e-05,0.246,0.239,128.014,4,alternative
+58,You Get What You Give,New Radicals,Maybe You've Been Brainwashed Too,74,300773,1998-01-01,2,0.618,0.896,2,-5.357,1,0.0307,0.171,0.0,0.0875,0.711,113.961,4,alternative
+59,Dry The Rain (Remaster),The Beta Band,Dry the Rain (Remaster),42,363538,2018-07-27,1,0.593,0.693,4,-8.576,1,0.0305,0.0283,0.084,0.172,0.749,150.489,4,alternative
+60,History - Remastered 2016,The Verve,A Northern Soul (2016 Remastered / Deluxe),52,326093,1995,8,0.338,0.638,2,-7.989,1,0.0332,0.105,0.0,0.102,0.113,133.99,4,alternative
+61,Birdhouse in Your Soul,They Might Be Giants,Flood,56,198920,1990-01-02,2,0.61,0.819,8,-8.323,1,0.0666,0.00381,7.92e-06,0.285,0.454,100.057,4,alternative
+62,Disco 2000,Pulp,Different Class,64,273573,1995-10-30,5,0.562,0.894,7,-7.524,0,0.0667,0.0156,0.0,0.0529,0.578,133.169,4,alternative
+63,It's A Shame About Ray,The Lemonheads,It's A Shame About Ray [Expanded Edition],6,187040,1992-06-02,3,0.645,0.792,9,-8.671,1,0.0304,0.00164,0.000126,0.0799,0.705,131.388,4,alternative
+64,The Day We Caught The Train,Ocean Colour Scene,Songs For The Front Row - The Best Of Ocean Colour Scene,53,191640,2001-01-01,2,0.521,0.727,2,-6.193,1,0.0388,0.0876,0.0,0.237,0.566,88.983,4,alternative
+65,Sit Down,James,Gold Mother,14,244866,1990,7,0.561,0.706,9,-9.446,1,0.029,0.00263,0.00125,0.122,0.569,126.077,4,alternative
+66,Baby Britain,Elliott Smith,XO,49,193760,1998-01-01,4,0.682,0.444,7,-8.716,1,0.0327,0.571,0.0,0.11,0.572,119.547,4,alternative
+67,Rock ‘n’ Roll Star - Remastered,Oasis,Definitely Maybe (Remastered) [Deluxe Edition Remastered],56,322946,1994-08-29,1,0.314,0.972,4,-3.21,1,0.0701,0.000421,0.00129,0.407,0.447,138.223,4,alternative
+68,Lost Myself,Longpigs,The Sun Is Often Out,41,304466,1996-01-01,1,0.332,0.655,9,-6.731,1,0.0372,0.0251,0.000115,0.12,0.293,146.376,4,alternative
+69,Marbles,Tindersticks,The First Tindersticks Album,5,269866,1993-01-01,8,0.49,0.521,2,-9.601,1,0.0295,0.0934,0.862,0.266,0.148,107.778,4,alternative
+70,Born Of Frustration,James,James: The Best Of,51,276600,1998-01-01,7,0.522,0.93,10,-4.241,1,0.0437,0.0356,1.04e-06,0.522,0.291,111.011,4,alternative
+71,Road Rage,Catatonia,International Velvet,54,308386,1998,4,0.495,0.594,8,-6.447,1,0.0291,0.0178,0.000243,0.215,0.428,93.445,4,alternative
+72,Losing My Religion,R.E.M.,Out Of Time,17,268933,1991-03-12,2,0.7,0.686,9,-10.338,0,0.0279,0.0943,1.93e-06,0.0847,0.815,125.412,4,alternative
+73,All You Good Good People,Embrace,The Good Will Out,48,364646,1998-01-01,2,0.232,0.719,11,-6.255,1,0.0428,0.000118,0.000226,0.119,0.323,165.906,4,alternative
+74,Yes - Full Version,McAlmont & Butler,The Sound Of McAlmont And Butler,46,293893,1995-01-01,1,0.422,0.776,5,-7.127,1,0.0381,0.0244,0.0,0.143,0.405,109.796,4,alternative
+75,A Design for Life - Remastered,Manic Street Preachers,Everything Must Go 10th Anniversary Edition,56,257640,1996-05-20,2,0.184,0.841,0,-4.723,1,0.0468,0.000827,4.34e-05,0.0422,0.348,88.225,4,alternative
+76,The Riverboat Song,Ocean Colour Scene,Songs For The Front Row - The Best Of Ocean Colour Scene,48,298640,2001-01-01,1,0.478,0.862,11,-5.513,0,0.0269,0.00942,1.28e-05,0.0756,0.608,106.295,3,alternative
+77,Kelly's Heroes,Black Grape,It's Great When You're Straight ... Yeah,35,262506,1995-01-01,4,0.632,0.934,7,-5.158,1,0.06,0.00083,0.00511,0.0845,0.88,119.719,4,alternative
+78,She Said,Longpigs,The Sun Is Often Out,45,264066,1996-01-01,2,0.21,0.87,5,-5.985,1,0.0606,0.000147,0.000488,0.188,0.517,168.352,4,alternative
+79,Let Forever Be,The Chemical Brothers,Surrender,53,236360,1999-01-01,5,0.252,0.872,8,-3.752,1,0.0777,0.00912,8.79e-06,0.109,0.399,126.938,4,alternative
+80,Naive,The Kooks,Inside In / Inside Out,73,203506,2006-01-01,9,0.391,0.808,8,-6.209,0,0.0892,0.0759,0.0,0.149,0.737,100.304,4,alternative
+81,Golden Touch - Full Length,Razorlight,Up All Night,62,205213,2004,8,0.606,0.532,1,-4.173,0,0.0248,0.0956,1.27e-05,0.276,0.695,95.315,4,alternative
+82,Last Nite,The Strokes,Is This It,70,193506,2001-07-25,7,0.624,0.91,0,-5.703,1,0.0297,0.0285,0.000198,0.0789,0.767,104.042,4,alternative
+83,All My Friends - Edit,LCD Soundsystem,All My Friends,49,366841,2007-05-18,1,0.675,0.92,9,-3.823,1,0.0343,0.0818,0.432,0.14,0.936,142.599,4,alternative
+84,A-Punk,Vampire Weekend,Vampire Weekend,69,137760,2008-01-27,3,0.551,0.821,2,-4.489,1,0.0539,0.0102,0.0438,0.153,0.842,174.923,4,alternative
+85,She Moves In Her Own Way,The Kooks,Inside In / Inside Out,70,169306,2006-01-01,7,0.41,0.803,7,-5.363,1,0.0623,0.239,0.0,0.103,0.814,153.315,4,alternative
+86,Mr. Brightside,The Killers,Hot Fuss,20,222075,2004-01-01,2,0.351,0.928,1,-3.71,1,0.0759,0.00113,0.0,0.0988,0.239,148.03,4,alternative
+87,Someday,The Strokes,Is This It,63,183573,2001-07-25,5,0.542,0.531,9,-7.481,1,0.0301,0.0033,1.51e-06,0.338,0.671,105.97,4,alternative
+88,Let's Dance to Joy Division,The Wombats,"Proudly Present....A Guide To Love, Loss & Desperation",65,191293,2007-11-05,8,0.397,0.839,4,-6.674,1,0.102,0.00125,0.0,0.576,0.764,116.947,4,alternative
+89,Oxford Comma,Vampire Weekend,Vampire Weekend,57,195733,2008-01-27,2,0.692,0.717,0,-4.226,1,0.0498,0.111,0.00123,0.044,0.973,119.907,4,alternative
+90,When The Sun Goes Down,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",11,200013,2006-02-18,11,0.349,0.87,11,-4.746,0,0.183,0.0346,0.0,0.129,0.417,169.649,4,alternative
+91,Electric Feel,MGMT,Oracular Spectacular,76,229640,2007-12-14,4,0.763,0.807,1,-3.714,1,0.035,0.0714,0.28,0.348,0.559,103.038,3,alternative
+92,Dog Days Are Over,Florence + The Machine,Lungs (International Version),44,252853,2009-01-01,1,0.499,0.795,7,-5.285,1,0.0788,0.0438,0.00255,0.12,0.357,149.966,4,alternative
+93,Australia,The Shins,Wincing the Night Away,6,236733,2007,2,0.434,0.842,4,-4.468,1,0.038,0.00442,0.000142,0.308,0.838,169.935,4,alternative
+94,Rebellion (Lies),Arcade Fire,Funeral,9,310893,2005-02-28,9,0.4,0.934,8,-5.696,1,0.0344,0.00787,0.513,0.338,0.731,127.09,4,alternative
+95,I Bet You Look Good On The Dancefloor,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",71,173680,2006-01-29,2,0.535,0.948,6,-4.19,0,0.0356,0.00225,0.0,0.376,0.778,103.183,4,alternative
+96,Always Like This,Bombay Bicycle Club,I Had The Blues But I Shook Them Loose,13,245640,2009-01-01,6,0.659,0.591,1,-6.713,1,0.0313,0.441,0.000861,0.0862,0.707,121.14,4,alternative
+97,Sweet Disposition,The Temper Trap,Sweet Disposition,30,234680,2009-08-02,1,0.531,0.805,2,-7.127,1,0.0433,0.0783,0.0926,0.116,0.349,129.107,4,alternative
+98,When You Were Young,The Killers,Sam's Town,14,220426,2006-10-03,3,0.467,0.988,11,-3.313,1,0.112,0.000152,0.0484,0.28,0.321,130.435,4,alternative
+99,Wake Up,Arcade Fire,Funeral,66,335333,2004,7,0.252,0.8,0,-4.845,1,0.0368,0.12,0.0538,0.118,0.29,139.361,4,alternative
+100,Float On,Modest Mouse,Good News For People Who Love Bad News,71,208466,2004-04-05,3,0.649,0.888,6,-4.807,1,0.0293,0.013,2.23e-06,0.0888,0.553,100.975,4,alternative
+101,Weird Fishes/ Arpeggi,Radiohead,In Rainbows,65,318186,2007-12-28,4,0.538,0.61,11,-8.027,0,0.0392,0.774,0.749,0.0909,0.199,152.999,4,alternative
+102,"Steady, As She Goes",The Raconteurs,Broken Boy Soldiers,8,215293,2006,1,0.53,0.601,9,-4.364,1,0.112,0.00882,0.0211,0.083,0.572,123.009,4,alternative
+103,Not Nineteen Forever,Courteeners,St. Jude,62,243973,2008-01-01,10,0.402,0.92,2,-2.944,1,0.0408,0.000174,0.0,0.0807,0.297,139.793,4,alternative
+104,Young Folks,Electronic Beats,Electronic Beats Collectables Volume 1 Digital,11,278719,2007-10-19,11,0.672,0.857,0,-4.915,1,0.038,0.0128,0.0009,0.16,0.685,138.153,4,alternative
+105,New Slang,The Shins,"Oh, Inverted World",22,231173,2001-06-19,6,0.669,0.389,0,-11.547,1,0.0306,0.605,0.16,0.0905,0.649,130.015,4,alternative
+106,Don't Look Back into the Sun,The Libertines,Time for Heroes - The Best of The Libertines,55,178266,2007-10-29,4,0.237,0.842,0,-4.05,0,0.093,0.00561,0.000882,0.294,0.602,89.744,4,alternative
+107,Reptilia,The Strokes,Room On Fire,55,221600,2003-10-20,2,0.49,0.645,9,-5.108,1,0.0335,0.000578,0.747,0.0916,0.792,158.027,4,alternative
+108,Do You Realize??,The Flaming Lips,Yoshimi Battles The Pink Robots (U.S. Version),59,213173,2002-05-13,9,0.464,0.797,0,-5.244,1,0.0333,0.006,0.000304,0.392,0.547,129.964,4,alternative
+109,Dreaming of You,The Coral,The Coral,9,141000,2002-07-22,4,0.441,0.684,9,-7.495,0,0.031,0.374,0.000848,0.108,0.971,199.001,4,alternative
+110,Obstacle 1,Interpol,Turn On The Bright Lights,47,251293,2002-08-19,2,0.376,0.938,5,-4.9,1,0.0618,5.18e-05,0.574,0.0705,0.385,120.514,4,alternative
+111,Molly's Chambers,Kings of Leon,Youth And Young Manhood,10,134906,2003-08-19,8,0.596,0.899,11,-3.967,1,0.0504,0.232,3.98e-06,0.212,0.939,146.448,4,alternative
+112,Time to Pretend,MGMT,Oracular Spectacular,70,261000,2007-12-14,1,0.438,0.94,2,-3.249,1,0.0452,8.74e-05,0.0777,0.3,0.421,100.99,3,alternative
+113,White Winter Hymnal,Fleet Foxes,Fleet Foxes,56,147026,2008-06-09,2,0.629,0.534,6,-9.054,0,0.0267,0.437,3.33e-06,0.328,0.649,124.964,4,alternative
+114,Take Me Out,Franz Ferdinand,Franz Ferdinand,70,237026,2004-02-16,3,0.277,0.663,4,-8.821,0,0.0377,0.000409,0.00051,0.136,0.527,104.561,4,alternative
+115,Hang Me Up To Dry,Cold War Kids,Robbers & Cowards,61,218786,2007-05-11,2,0.509,0.916,2,-2.793,1,0.0324,0.0241,0.000402,0.36,0.672,92.432,4,alternative
+116,Bang Bang You're Dead,Dirty Pretty Things,Waterloo To Anywhere,35,212200,2006-01-01,3,0.307,0.784,5,-3.016,1,0.0586,0.00724,5.02e-06,0.483,0.434,151.708,4,alternative
+117,Hard to Beat,Hard-FI,Stars Of CCTV,59,253306,2005-06-27,5,0.557,0.833,10,-4.559,1,0.0663,0.00226,3.25e-06,0.161,0.815,125.205,4,alternative
+118,Mykonos,Fleet Foxes,Sun Giant,14,275306,2008-01-01,4,0.391,0.45,11,-9.251,1,0.0306,0.417,0.000335,0.14,0.344,121.946,4,alternative
+119,Men's Needs,The Cribs,"Men's Needs, Women's Needs, Whatever",4,195960,2007-01-01,3,0.546,0.947,1,-2.29,0,0.0479,0.000128,7.37e-05,0.065,0.795,121.976,4,alternative
+120,Golden Skans,Klaxons,Myths Of The Near Future,14,165120,2007,3,0.463,0.836,2,-2.776,0,0.0381,0.000418,7.38e-06,0.25,0.713,141.955,4,alternative
+121,Two Weeks,Grizzly Bear,Veckatimest,68,243160,2009-05-24,2,0.537,0.712,5,-5.597,1,0.0286,0.289,0.00568,0.08,0.704,159.871,4,alternative
+122,Hounds of Love,The Futureheads,The Futureheads (new version),55,182680,2004-06-28,14,0.36,0.895,9,-3.795,1,0.117,0.0329,1.18e-06,0.06,0.424,168.214,4,alternative
+123,1901,Phoenix,Wolfgang Amadeus Phoenix,63,193120,2009,2,0.607,0.835,0,-5.427,1,0.0415,0.0588,4.71e-05,0.195,0.719,144.087,4,alternative
+124,Mansard Roof,Vampire Weekend,Vampire Weekend,56,127666,2008-01-27,1,0.53,0.699,5,-4.25,1,0.145,0.341,0.000181,0.219,0.765,165.222,4,alternative
+125,Take Her Back,The Pigeon Detectives,Wait for Me,55,197133,2007-05-27,10,0.488,0.962,0,-1.589,1,0.0338,0.00202,2.03e-06,0.261,0.658,109.07,4,alternative
+126,Maps,Yeah Yeah Yeahs,Fever To Tell (Deluxe Remastered),64,219986,2003-04-29,9,0.502,0.94,7,-5.178,1,0.084,0.000413,0.542,0.553,0.144,119.762,4,alternative
+127,You've Got The Love,Florence + The Machine,You've Got The Love,66,168666,2010-01-01,1,0.571,0.708,6,-4.74,1,0.0329,0.00407,0.0,0.125,0.398,109.899,4,alternative
+128,Somebody Told Me,The Killers,Hot Fuss (Deluxe Edition),4,197280,2004,4,0.502,0.972,10,-3.96,0,0.0793,6.78e-05,0.000702,0.0627,0.729,138.019,4,alternative
+129,Walcott,Vampire Weekend,Vampire Weekend,49,221600,2008-01-27,10,0.398,0.56,5,-5.448,1,0.0312,0.512,0.0151,0.224,0.59,160.712,4,alternative
+130,Pass It On,The Coral,Magic & Medicine,51,139133,2003-07-25,10,0.395,0.727,7,-6.015,1,0.0375,0.282,7.12e-06,0.0683,0.872,179.097,4,alternative
+131,Home,Edward Sharpe & The Magnetic Zeros,Up From Below,70,306320,2009-07-13,6,0.545,0.59,2,-6.693,1,0.0327,0.32,0.000389,0.124,0.127,111.739,4,alternative
+132,I Predict A Riot,Kaiser Chiefs,Employment,61,233186,2005,2,0.395,0.979,8,-3.241,1,0.0766,0.0243,0.0,0.12,0.41,158.842,4,alternative
+133,The Underdog,Spoon,Ga Ga Ga Ga Ga,48,222320,2007-07-10,7,0.693,0.646,7,-6.484,1,0.0313,0.0602,0.00132,0.678,0.89,145.116,4,alternative
+134,Sticks 'N' Stones,Jamie T,Kings & Queens,60,240832,2009-01-01,3,0.545,0.851,6,-3.569,1,0.0935,0.0572,0.0,0.403,0.787,179.947,4,alternative
+135,Apply Some Pressure,Maximo Park,A Certain Trigger,57,200346,2005-05-16,2,0.378,0.953,9,-3.632,1,0.138,0.000719,2.89e-05,0.0936,0.512,167.808,4,alternative
+136,No One Knows,Queens of the Stone Age,Songs For The Deaf,69,278746,2002-01-01,2,0.509,0.584,0,-4.907,1,0.057,0.0368,9.96e-05,0.384,0.685,170.411,4,alternative
+137,Such Great Heights,The Postal Service,Give Up,7,266346,2003-02-19,2,0.653,0.818,5,-8.125,1,0.047,0.00907,0.23,0.0703,0.198,174.984,4,alternative
+138,Hate To Say I Told You So,The Hives,Veni Vidi Vicious,26,199733,2000,6,0.447,0.9,5,-6.741,1,0.0578,0.00114,0.00596,0.47,0.39,135.861,4,alternative
+139,On Call,Kings of Leon,Because Of The Times,48,201800,2007-04-03,3,0.307,0.791,7,-5.408,1,0.119,0.0285,0.000804,0.395,0.141,193.356,4,alternative
+140,Munich,Editors,The Back Room,46,226426,2005-07-25,2,0.175,0.875,7,-4.383,0,0.0527,0.000551,0.0347,0.324,0.394,149.366,4,alternative
+141,Burning,The Whitest Boy Alive,Dreams,61,191173,2006-09-04,1,0.721,0.758,11,-7.536,0,0.0372,0.671,0.891,0.133,0.864,150.825,4,alternative
+142,Kids,MGMT,Oracular Spectacular,75,302840,2007-12-14,5,0.451,0.931,9,-3.871,1,0.0719,0.00076,0.0049,0.361,0.172,122.961,4,alternative
+143,America,Razorlight,Razorlight (EU Version),18,249760,2006-01-01,4,0.316,0.569,2,-5.005,1,0.0321,0.337,7.67e-06,0.395,0.154,90.066,4,alternative
+144,Take Your Mama,Scissor Sisters,Scissor Sisters,55,271906,2004-01-01,2,0.762,0.954,8,-4.542,1,0.121,0.22,1.76e-05,0.0612,0.933,153.96,4,alternative
+145,Banquet,Bloc Party,Silent Alarm,56,200400,2005-01-01,4,0.591,0.939,10,-4.911,0,0.0533,0.000156,0.0111,0.0882,0.856,150.249,4,alternative
+146,"Nobody Move, Nobody Get Hurt",We Are Scientists,With Love And Squalor,53,192311,2005-01-01,1,0.47,0.969,6,-4.739,1,0.0968,0.000702,0.0,0.332,0.593,144.012,4,alternative
+147,My Friend,Bill Callahan,Sometimes I Wish We Were An Eagle,42,312773,2009-04-14,6,0.503,0.54,10,-12.376,1,0.0278,0.794,0.787,0.103,0.427,123.746,4,alternative
+148,Walking On A Dream,Empire of the Sun,Walking On A Dream,30,196346,2008-01-01,1,0.866,0.692,5,-5.785,0,0.0458,0.246,4.85e-06,0.0878,0.737,126.955,4,alternative
+149,So Says I,The Shins,Chutes Too Narrow,49,167946,2003-10-21,3,0.463,0.738,4,-4.443,0,0.0444,0.0119,0.0,0.135,0.417,73.809,4,alternative
+150,Juxtapozed With U,Super Furry Animals,Rings Around The World,48,188706,2001-07-23,10,0.525,0.833,9,-6.284,1,0.0522,0.109,1.05e-05,0.181,0.931,82.842,4,alternative
+151,Jump In The Pool,Friendly Fires,Friendly Fires,51,217040,2008,1,0.419,0.924,9,-4.404,1,0.116,0.00883,0.0229,0.313,0.362,139.977,4,alternative
+152,The Great Escape,We Are Scientists,With Love And Squalor,48,198832,2005-01-01,8,0.472,0.925,9,-4.57,1,0.0415,0.000305,4.44e-06,0.0755,0.746,146.97,4,alternative
+153,Sheila,Jamie T,Panic Prevention,44,259813,2007-01-01,7,0.729,0.865,7,-6.006,1,0.05,0.0858,0.0,0.0764,0.709,95.003,4,alternative
+154,Ruby,Kaiser Chiefs,"Yours Truly, Angry Mob",11,204200,2007-01-01,1,0.312,0.941,5,-2.826,0,0.0696,0.00634,3.22e-06,0.076,0.424,186.813,4,alternative
+155,Skinny Love,Bon Iver,"For Emma, Forever Ago",65,238532,2008-05-12,3,0.592,0.256,4,-14.031,0,0.0449,0.842,2.38e-06,0.088,0.103,76.361,4,alternative
+156,Bohemian Like You,The Dandy Warhols,Thirteen Tales From Urban Bohemia,64,211706,2000-01-01,10,0.584,0.931,9,-6.158,1,0.0344,0.00315,0.772,0.133,0.694,131.275,4,alternative
+157,Whole New Way,The Horrors,Whole New Way,40,238381,2009-11-02,1,0.559,0.694,7,-4.957,1,0.0306,0.0713,0.893,0.264,0.788,153.977,4,alternative
+158,When U Love Somebody,Fruit Bats,Mouthfuls,56,271160,2003-08-04,10,0.723,0.763,7,-6.366,1,0.0262,0.122,0.00543,0.343,0.586,120.962,4,alternative
+159,He Doesn't Know Why,Fleet Foxes,Fleet Foxes,40,200493,2008-06-09,6,0.507,0.556,1,-5.53,1,0.0297,0.256,4.56e-05,0.339,0.464,93.951,4,alternative
+160,The Less I Know The Better,Tame Impala,Currents,19,216318,2015-07-17,7,0.64,0.755,1,-4.077,0,0.0287,0.0138,0.0208,0.12,0.744,116.883,4,alternative
+161,It's Not Living (If It's Not With You),The 1975,A Brief Inquiry Into Online Relationships,74,248335,2018-11-30,11,0.618,0.824,1,-5.316,1,0.0301,0.000297,6.87e-05,0.0649,0.598,121.238,4,alternative
+162,Don’t Delete The Kisses,Wolf Alice,Visions Of A Life,56,275226,2017-09-29,4,0.604,0.789,5,-6.259,1,0.0273,0.0011,0.83,0.368,0.347,122.024,4,alternative
+163,we fell in love in october,girl in red,we fell in love in october / forget her,66,184153,2018-11-21,1,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,4,alternative
+164,Shelter,Broken Bells,Shelter,60,239010,2018-12-07,1,0.466,0.857,2,-6.509,1,0.0375,0.00658,0.018,0.173,0.56,170.002,4,alternative
+165,In a River,Rostam,In a River,58,223573,2018-09-12,1,0.493,0.438,7,-9.488,1,0.0328,0.393,0.00187,0.225,0.432,78.331,4,alternative
+166,Sincerity Is Scary,The 1975,A Brief Inquiry Into Online Relationships,71,225955,2018-11-30,7,0.656,0.521,2,-5.274,1,0.0302,0.0509,4.85e-06,0.0791,0.476,91.031,4,alternative
+167,Funeral Singers,Sylvan Esso,Funeral Singers,58,219374,2018-09-07,1,0.803,0.431,8,-10.817,1,0.0335,0.691,0.000699,0.106,0.212,103.948,4,alternative
+168,Before Sunrise,Gengahr,Where Wildness Grows,47,237354,2018-03-09,1,0.471,0.81,2,-3.096,1,0.0361,0.199,0.204,0.135,0.401,110.8,4,alternative
+169,Withorwithout,Parcels,Parcels,60,205048,2018-10-12,3,0.803,0.662,0,-8.073,1,0.0308,0.642,0.901,0.151,0.814,105.012,4,alternative
+170,oh baby,LCD Soundsystem,american dream,61,349693,2017-09-01,1,0.58,0.622,5,-12.005,1,0.0352,0.0192,0.653,0.648,0.781,169.442,4,alternative
+171,Dreams Tonite,Alvvays,Antisocialites,52,196026,2017-09-08,2,0.508,0.624,2,-5.729,1,0.0243,0.011,4.02e-06,0.127,0.421,99.911,4,alternative
+172,Come For Me,Sunflower Bean,Come For Me,42,209021,2018-10-30,1,0.791,0.647,0,-4.929,1,0.0379,0.0322,0.0,0.38,0.833,123.019,4,alternative
+173,Eventually,Tame Impala,Currents,9,318550,2015-07-17,5,0.415,0.616,9,-6.217,0,0.0323,0.012,0.000669,0.0981,0.142,77.969,4,alternative
+174,There's A Reason Why (I Never Returned Your Calls),Blossoms,Cool Like You (Deluxe),62,222488,2018-04-27,1,0.493,0.882,11,-5.37,1,0.046,0.0166,2.97e-06,0.188,0.685,123.985,4,alternative
+175,What's It All For?,Yellow Days,What's It All For?,53,251422,2018-11-09,1,0.821,0.666,3,-7.747,0,0.0469,0.649,0.0288,0.114,0.695,99.998,4,alternative
+176,"Archie, Marry Me",Alvvays,Alvvays,49,196560,2014-07-21,2,0.27,0.83,7,-4.592,1,0.0741,0.00956,0.434,0.142,0.205,117.314,4,alternative
+177,I Was A Fool,Sunflower Bean,Twentytwo in Blue,41,213173,2018-03-23,2,0.555,0.795,0,-5.364,1,0.0344,0.156,3.2e-05,0.345,0.553,123.036,4,alternative
+178,Bad Decisions - Radio Edit,Two Door Cinema Club,Bad Decisions (Radio Edit),59,232930,2016-10-28,1,0.652,0.722,5,-7.554,0,0.0325,0.0653,0.0211,0.259,0.496,105.972,4,alternative
+179,Death in Midsummer,Deerhunter,Death in Midsummer,14,262237,2018-10-30,1,0.309,0.759,2,-6.682,1,0.0297,0.0857,0.000123,0.167,0.287,91.472,4,alternative
+180,Heavyweight Champion Of The Year,Nilüfer Yanya,Heavyweight Champion Of The Year,36,282097,2018-11-07,1,0.811,0.27,6,-8.534,1,0.0392,0.793,0.00189,0.0857,0.395,90.066,4,alternative
+181,Real Tight,Methyl Ethel,Real Tight,14,196324,2018-11-09,1,0.663,0.723,11,-6.017,1,0.0296,0.000286,0.0138,0.0931,0.493,115.978,3,alternative
+182,Narcissist,No Rome,RIP Indo Hisashi,48,195501,2018-08-28,3,0.543,0.682,3,-5.81,1,0.112,0.219,1.53e-06,0.085,0.424,179.972,4,alternative
+183,Comeback Kid,Sharon Van Etten,Comeback Kid,5,182333,2018-10-02,1,0.544,0.929,0,-5.206,1,0.0762,0.000358,0.565,0.0328,0.356,120.097,4,alternative
+184,Doesn't matter,Christine and the Queens,Chris,51,263906,2018-09-21,4,0.791,0.573,8,-6.334,1,0.046,0.012,0.000142,0.0429,0.957,136.915,4,alternative
+185,Threat of Joy,The Strokes,Future Present Past,63,264661,2016-06-03,3,0.594,0.728,0,-6.917,1,0.0281,0.216,0.0881,0.124,0.687,137.97,4,alternative
+186,Lemon Glow,Beach House,7,50,244946,2018-05-11,3,0.466,0.821,0,-7.924,1,0.0302,0.458,0.967,0.232,0.503,148.418,4,alternative
+187,Somebody Else,The 1975,"I like it when you sleep, for you are so beautiful yet so unaware of it",70,347525,2016-02-26,10,0.618,0.793,0,-5.711,1,0.0601,0.204,0.0154,0.126,0.459,101.015,4,alternative
+188,How Can I Compete,The Magic Gang,The Magic Gang (Deluxe),53,174200,2018-03-16,10,0.579,0.685,11,-6.058,1,0.026,0.000121,3.16e-05,0.166,0.679,95.187,4,alternative
+189,Step,Vampire Weekend,Modern Vampires of the City,65,251626,2013-05-27,3,0.624,0.724,10,-7.113,1,0.101,0.591,7.79e-06,0.101,0.624,78.008,4,alternative
+190,I Can't Stand It,Blossoms,Cool Like You (Deluxe),60,177656,2018-04-27,2,0.557,0.836,9,-5.479,1,0.0735,0.00778,0.0,0.0624,0.915,150.028,4,alternative
+191,No Reptiles,Everything Everything,Get To Heaven (Deluxe),49,282853,2015-06-19,10,0.631,0.515,5,-9.038,1,0.0245,0.0339,0.00124,0.116,0.381,154.935,4,alternative
+192,Starstruck,Sorry,Starstruck,44,204080,2018-11-05,1,0.608,0.759,11,-7.246,0,0.034,0.0569,0.302,0.169,0.861,124.504,4,alternative
+193,Twentytwo,Sunflower Bean,Twentytwo In Blue,39,272813,2018-03-23,3,0.482,0.598,1,-6.287,1,0.0403,0.017,0.0,0.116,0.334,130.739,4,alternative
+194,Venice Bitch,Lana Del Rey,Venice Bitch,65,576346,2018-09-18,1,0.388,0.296,9,-13.04,0,0.0301,0.916,0.267,0.105,0.294,78.785,4,alternative
+195,Honey Sweet,Blossoms,Blossoms,59,215647,2016-08-05,4,0.573,0.708,4,-6.098,0,0.037,0.0268,0.00485,0.271,0.626,110.003,4,alternative
+196,Bros,Wolf Alice,My Love Is Cool,53,224720,2015-06-22,2,0.583,0.921,4,-8.38,1,0.0697,0.00382,0.459,0.226,0.222,125.98,4,alternative
+197,My Kind of Woman,Mac DeMarco,2,69,190845,2012-10-16,8,0.501,0.765,6,-7.063,0,0.0281,0.00294,0.49,0.184,0.46,91.769,4,alternative
+198,Wages,Bad Sounds,Get Better,48,167839,2018-08-17,2,0.518,0.875,6,-2.548,0,0.041,0.00522,6.3e-06,0.575,0.749,98.045,4,alternative
+199,Necessary Evil,Unknown Mortal Orchestra,Multi-Love,58,317800,2015-05-26,8,0.828,0.724,9,-7.217,1,0.113,0.045,0.0618,0.132,0.694,96.2,4,alternative
+200,How Long Will This Last? - Single Mix,Blossoms,How Long Will This Last?,54,203208,2018-08-17,1,0.544,0.865,8,-3.297,0,0.0389,0.0252,0.0,0.363,0.748,133.997,4,alternative
+201,"Nameless, Faceless",Courtney Barnett,Tell Me How You Really Feel,35,194866,2018-05-18,5,0.549,0.87,5,-4.974,0,0.0324,6.89e-05,1.22e-05,0.0654,0.535,121.948,4,alternative
+202,The System Only Dreams in Total Darkness,The National,Sleep Well Beast,61,236746,2017-09-08,4,0.596,0.912,0,-6.74,0,0.211,0.156,0.794,0.584,0.371,110.013,4,alternative
+203,The Moment,Tame Impala,Currents,10,255412,2015-07-17,3,0.327,0.825,7,-6.045,1,0.0649,0.000257,0.0891,0.0965,0.463,119.138,4,alternative
+204,Press Enter To Exit,The Horrors,V,47,355174,2017-09-22,2,0.513,0.64,5,-10.156,0,0.0295,0.000133,0.728,0.158,0.366,87.984,4,alternative
+205,Los Ageless,St. Vincent,MASSEDUCTION,60,281346,2017-10-13,5,0.527,0.716,5,-6.029,0,0.0616,0.0698,8.71e-05,0.0737,0.331,99.426,4,alternative
+206,LAIDBACK,RAT BOY,SCUM,54,213213,2017-08-11,3,0.487,0.97,9,-3.156,0,0.0729,0.00229,0.0,0.0559,0.815,89.928,4,alternative
+207,Everything Now,Arcade Fire,Everything Now,66,303013,2017-07-28,2,0.548,0.865,0,-5.325,1,0.0302,0.00171,0.000449,0.457,0.61,116.046,4,alternative
+208,Masterpiece,Big Thief,Masterpiece,29,230586,2016-06-10,2,0.426,0.673,4,-8.621,1,0.0287,0.00131,1.97e-05,0.147,0.383,72.074,4,alternative
+209,Something To Remember Me By,The Horrors,V,52,400041,2017-09-22,10,0.626,0.725,0,-8.394,1,0.0285,0.00221,0.686,0.116,0.522,121.017,4,alternative
+210,Shut Up Kiss Me,Angel Olsen,MY WOMAN,59,202200,2016-09-02,3,0.373,0.63,7,-5.131,1,0.0461,0.0552,0.0,0.107,0.352,115.942,4,alternative
+211,running on empty,isaac gracie,isaac gracie (extended edition),50,186973,2018-04-13,4,0.487,0.794,5,-5.131,1,0.0381,0.0522,0.0,0.174,0.525,134.305,4,alternative
+212,Breezeblocks,alt-J,An Awesome Wave,68,227080,2012-05-28,4,0.569,0.645,5,-7.368,1,0.0387,0.118,0.00114,0.146,0.247,74.985,4,alternative
+213,Inside Out,Spoon,They Want My Soul,48,301960,2014-08-04,2,0.619,0.621,0,-4.709,1,0.0307,0.466,0.145,0.0718,0.501,176.173,4,alternative
+214,Pretty Pimpin,Kurt Vile,b'lieve i'm goin down...,64,298760,2015-09-25,1,0.566,0.664,8,-9.081,1,0.0281,0.0928,0.305,0.0903,0.764,91.117,4,alternative
+215,One Rizla,Shame,Songs of Praise,50,214578,2018-01-12,3,0.425,0.889,11,-4.53,0,0.0419,0.000116,1.49e-05,0.0812,0.583,131.949,4,alternative
+216,Bobbi's Second World,The Orielles,Bobbi's Second World,41,202843,2018-11-06,1,0.565,0.761,1,-4.358,0,0.0576,0.148,0.00152,0.0704,0.779,111.081,4,alternative
+217,Mixed Signals - EP Version,The Night Café,Mixed Signals,48,211925,2016-09-12,1,0.427,0.813,2,-6.166,0,0.0708,0.000682,0.279,0.045,0.434,161.947,4,alternative
+218,Chamber Of Reflection,Mac DeMarco,Salad Days,72,231723,2014-04-01,9,0.537,0.558,11,-8.678,1,0.0929,0.263,0.91,0.102,0.505,131.037,4,alternative
+219,She Said,Sundara Karma,Youth is Only Ever Fun in Retrospect,58,225653,2017-07-07,8,0.422,0.949,7,-3.789,1,0.0694,0.000294,0.0,0.073,0.635,165.032,4,alternative
+220,Slip Away,Perfume Genius,No Shape,54,165329,2017-05-05,2,0.603,0.509,1,-6.824,1,0.0312,0.371,2.66e-05,0.0627,0.572,136.592,4,alternative
+221,Tongue Tied,Grouplove,Never Trust A Happy Song,78,218013,2011-09-02,2,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,4,alternative
+222,Old Friends,Pinegrove,Cardinal,53,207720,2016-02-12,1,0.488,0.555,4,-7.315,1,0.0398,0.41,0.0,0.494,0.375,147.88,4,alternative
+223,Salad Days,Mac DeMarco,Salad Days,66,145893,2014-04-01,1,0.43,0.771,5,-7.176,1,0.0375,0.0876,0.0239,0.121,0.772,201.001,4,alternative
+224,Started Out,Georgia,Started Out,59,222820,2018-11-01,1,0.691,0.766,5,-7.869,0,0.0394,0.0385,0.0144,0.103,0.257,99.986,4,alternative
+225,Always Like This,Bombay Bicycle Club,I Had The Blues But I Shook Them Loose,65,245640,2009-01-01,6,0.579,0.605,1,-6.686,1,0.0328,0.444,0.000645,0.11,0.74,121.793,4,alternative
+226,Little Of Your Love,HAIM,Something To Tell You,53,213880,2017-07-07,3,0.612,0.856,9,-3.273,1,0.0479,0.116,3.35e-05,0.647,0.681,112.94,4,alternative
+227,Tir Ha Mor,Gwenno,Le Kov,41,250380,2018-03-02,2,0.577,0.582,0,-11.492,1,0.0337,0.0688,0.815,0.235,0.633,138.002,4,alternative
+228,My Number,Foals,Holy Fire,70,240533,2013-02-11,3,0.639,0.744,6,-8.377,0,0.0368,0.0319,0.000458,0.466,0.825,128.047,4,alternative
+229,Avant Gardener,Courtney Barnett,The Double EP: A Sea of Split Peas,40,312226,2013-09-15,3,0.443,0.737,0,-4.509,1,0.0293,0.00149,0.0032,0.121,0.746,115.277,4,alternative
+230,Up All Night,Beck,Colors,60,190447,2017-10-13,8,0.635,0.908,1,-4.795,0,0.0563,0.00384,0.0834,0.239,0.637,110.012,4,alternative
+231,5 dollars,Christine and the Queens,Chris,53,208293,2018-09-21,5,0.726,0.654,2,-6.201,1,0.0423,0.424,0.0,0.0668,0.624,129.013,4,alternative
+232,I Need A Forest Fire,James Blake,The Colour In Anything,59,257219,2016-05-05,11,0.293,0.29,2,-11.596,1,0.0454,0.696,0.875,0.1,0.0373,128.276,4,alternative
+233,I Need My Girl,The National,Trouble Will Find Me,67,245240,2013-05-27,10,0.523,0.438,0,-11.49,0,0.0356,0.867,0.0723,0.123,0.106,126.028,4,alternative
+234,Red Eyes,The War On Drugs,Lost In The Dream,62,298920,2014-03-18,2,0.464,0.815,10,-6.371,1,0.0368,0.00871,0.201,0.162,0.467,161.845,4,alternative
+235,Fill in the Blank,Car Seat Headrest,Fill in the Blank,1,244506,2016-04-12,1,0.34,0.824,9,-7.238,1,0.0574,0.00738,1.97e-05,0.0606,0.486,162.885,4,alternative
+236,Bubblegum,Mystery Jets,Curve Of The Earth,5,264946,2016-01-15,3,0.398,0.724,3,-5.938,1,0.0481,0.0273,0.0652,0.458,0.334,81.887,4,alternative
+237,33 “GOD”,Bon Iver,"22, A Million",59,213000,2016-09-30,4,0.52,0.389,4,-10.476,1,0.0403,0.83,0.0265,0.0937,0.326,133.113,4,alternative
+238,"I Love You, Honeybear",Father John Misty,"I Love You, Honeybear",43,278920,2015-02-09,1,0.189,0.724,7,-5.88,0,0.0582,0.297,0.00387,0.0687,0.39,210.108,3,alternative
+239,Seasons (Waiting On You),Future Islands,Singles,62,226440,2014-03-24,1,0.498,0.721,10,-5.232,1,0.0282,0.136,0.7,0.0933,0.589,140.027,4,alternative
+240,Age Of Consent - 2015 Remastered Version,New Order,"Power, Corruption & Lies",63,315333,1983-05-02,1,0.372,0.91,2,-5.559,1,0.0392,0.00101,0.0944,0.13,0.756,161.964,4,alternative
+241,Love Will Tear Us Apart - 2010 Remaster,Joy Division,Substance,63,204621,2010,10,0.525,0.902,2,-8.662,1,0.0368,0.000989,0.691,0.137,0.907,146.83,4,alternative
+242,Psycho Killer - 2005 Remaster,Talking Heads,Talking Heads 77 (Deluxe Version),70,261413,1977-09-16,10,0.721,0.521,2,-8.123,1,0.0612,0.0707,0.00552,0.127,0.942,123.118,4,alternative
+243,Sweet Jane,The Velvet Underground,The Very Best Of The Velvet Underground,23,245666,2003,1,0.62,0.503,2,-9.77,1,0.0303,0.00662,0.0,0.333,0.917,105.167,4,alternative
+244,Hey,Pixies,Doolittle,65,211440,1989-04-17,13,0.596,0.315,7,-15.003,1,0.0305,0.000897,0.00106,0.121,0.343,99.807,4,alternative
+245,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,70,244586,1986,9,0.523,0.769,4,-5.855,1,0.0269,0.04,0.0,0.136,0.876,136.162,4,alternative
+246,The Killing Moon,Echo & the Bunnymen,Songs To Learn And Sing,64,346280,1985-11-11,8,0.522,0.85,7,-4.769,1,0.0361,0.132,0.0338,0.295,0.71,124.216,4,alternative
+247,Marquee Moon - Remastered,Television,Marquee Moon/Adventure/Live At The Waldorf [The Complete Elektra Recordings Plus Liner Notes],43,645000,2005-11-08,4,0.494,0.657,7,-7.543,1,0.0397,0.0632,0.449,0.0849,0.737,118.194,4,alternative
+248,Teen Age Riot (Album Version),Sonic Youth,Daydream Nation (Deluxe Edition),60,417800,1988-10-04,1,0.286,0.907,7,-9.67,1,0.0374,0.000277,0.202,0.0837,0.746,156.395,4,alternative
+249,Anemone,The Brian Jonestown Massacre,Their Satanic Majesties' Second Request,6,334466,1996,10,0.474,0.63,5,-12.859,0,0.0384,0.0598,0.829,0.208,0.637,166.14,4,alternative
+250,How Soon Is Now? - 2008 Remaster,The Smiths,The Sound Of The Smiths [Deluxe Edition],50,406986,2008-11-11,7,0.55,0.941,1,-5.721,0,0.0413,0.000872,0.0854,0.101,0.746,95.409,4,alternative
+251,Disorder - 2007 Remastered Version,Joy Division,Unknown Pleasures,64,209039,1979-06-01,1,0.32,0.798,10,-7.078,0,0.124,0.00033,0.692,0.176,0.74,84.696,4,alternative
+252,Feel The Pain - 2007 Remastered,Dinosaur Jr.,Without A Sound,6,257946,2007-04-24,1,0.34,0.805,0,-8.323,1,0.049,0.00264,0.0764,0.0482,0.836,131.404,4,alternative
+253,Where Is My Mind?,Pixies,Death To The Pixies,65,231666,1997,14,0.508,0.597,4,-8.063,1,0.0396,0.0177,0.000856,0.091,0.185,81.982,4,alternative
+254,Just Like Honey,The Jesus and Mary Chain,Psychocandy,40,183493,1985-11-18,1,0.321,0.437,8,-15.836,1,0.0447,0.000231,0.0252,0.0836,0.535,122.74,4,alternative
+255,The Lovecats,The Cure,Greatest Hits,8,220426,2001-11-13,5,0.74,0.816,0,-4.764,1,0.0765,0.497,0.0,0.195,0.963,91.91,4,alternative
+256,Autumn Sweater,Yo La Tengo,I Can Hear the Heart Beating As One,60,318373,1997-04-22,8,0.628,0.455,7,-12.436,1,0.0427,0.141,0.693,0.135,0.858,102.09,4,alternative
+257,Rock & Roll,The Velvet Underground,Loaded: The Fully Loaded Edition,6,285653,1970-09,3,0.438,0.806,5,-6.788,1,0.0324,0.000575,3.55e-06,0.247,0.612,132.549,4,alternative
+258,Train in Vain - Remastered,The Clash,London Calling,63,194666,1979,19,0.761,0.722,2,-8.712,1,0.0428,0.0922,0.000366,0.132,0.966,122.764,4,alternative
+259,Cosmic Dancer,T. Rex,Electric Warrior,6,270146,1971-09-24,2,0.374,0.505,0,-17.273,1,0.0521,0.078,0.00598,0.109,0.683,154.88,4,alternative
+260,Ooh La La - 2015 Remaster,Faces,The Best Of Faces: Good Boys When They're Asleep,67,214960,2005-04-19,16,0.603,0.494,2,-10.27,1,0.0301,0.428,0.000171,0.0894,0.729,147.814,4,alternative
+261,Androgynous,The Replacements,Let It Be [Expanded Edition],51,190853,1984,5,0.476,0.361,11,-9.312,1,0.0287,0.518,0.0,0.0817,0.389,106.484,4,alternative
+262,Walk on the Wild Side,Lou Reed,Transformer,15,253960,1972-12-01,5,0.564,0.262,0,-19.746,1,0.105,0.652,0.000204,0.0896,0.376,104.5,4,alternative
+263,Roadrunner,The Modern Lovers,The Modern Lovers,58,246440,1976-09-01,1,0.462,0.84,2,-6.667,1,0.0346,5.05e-05,6.47e-05,0.0893,0.805,75.542,4,alternative
+264,Gold Soundz,Pavement,"Crooked Rain, Crooked Rain",45,159706,1994,7,0.448,0.609,9,-9.357,1,0.0308,0.0676,0.0,0.14,0.493,126.457,4,alternative
+265,Movin' on Up,Primal Scream,Screamadelica,49,230533,1991-10-04,1,0.508,0.808,0,-12.496,0,0.0403,0.0846,0.000727,0.0719,0.209,94.255,4,alternative
+266,I Wanna Be Adored - Remastered,The Stone Roses,The Stone Roses,64,292800,1989-05-02,1,0.492,0.862,4,-9.158,0,0.0273,0.0121,0.213,0.228,0.591,112.598,4,alternative
+267,Heroin,The Velvet Underground,Gold,24,432680,2005-01-01,6,0.206,0.72,1,-11.597,1,0.0748,0.373,0.783,0.0992,0.283,146.318,4,alternative
+268,Blister In The Sun,Violent Femmes,Violent Femmes: Deluxe Edition,10,144946,1982,1,0.725,0.558,0,-8.557,1,0.125,0.318,0.0,0.0976,0.88,96.969,4,alternative
+269,Common People,Pulp,Different Class,67,351693,1995-10-30,3,0.323,0.803,0,-9.034,1,0.0408,0.00562,5.9e-05,0.073,0.54,144.271,4,alternative
+270,Damaged Goods - Remastered,Gang Of Four,Entertainment! (Expanded & Remastered) [US Release],7,206733,1979,4,0.75,0.796,0,-5.952,1,0.116,0.0155,0.0115,0.106,0.96,157.545,4,alternative
+271,Fade Into You,Mazzy Star,So Tonight That I Might See,71,295600,1993-01-01,1,0.42,0.33,9,-13.925,1,0.0275,0.245,0.000679,0.0677,0.175,157.143,3,alternative
+272,Lola,The Raincoats,The Raincoats,46,243506,1979,6,0.523,0.854,9,-8.27,1,0.0954,0.478,0.000939,0.271,0.83,146.688,4,alternative
+273,Cut Your Hair (Remastered),Pavement,Quarantine The Past: The Best Of Pavement,48,185693,2010-03-09,7,0.469,0.825,4,-6.612,0,0.0319,0.00554,0.00199,0.133,0.659,110.839,4,alternative
+274,Carry the Zero,Built To Spill,Keep It Like A Secret,55,343893,1999-01-22,3,0.264,0.812,4,-5.651,1,0.031,1.35e-05,0.108,0.0962,0.458,94.095,4,alternative
+275,Paris 1919,John Cale,Paris 1919,5,246799,1973,6,0.742,0.321,0,-13.728,1,0.0315,0.963,0.0432,0.11,0.613,107.349,4,alternative
+276,I Was Dancing In The Lesbian Bar,Jonathan Richman,"I, Jonathan",38,223840,1992-01-01,5,0.832,0.387,9,-13.506,0,0.0509,0.712,0.00235,0.253,0.883,116.468,4,alternative
+277,Son Of A Gun,The Vaselines,Enter The Vaselines (Deluxe Edition),3,225760,2009-05-05,1,0.53,0.943,7,-6.025,1,0.0489,0.5,0.232,0.932,0.778,144.749,4,alternative
+278,Laid,James,Laid,64,156666,1993,11,0.472,0.912,0,-9.415,1,0.0323,0.00224,9.1e-05,0.154,0.749,115.999,4,alternative
+279,Loser,Beck,Mellow Gold,14,234960,1994-03-01,1,0.595,0.617,6,-10.455,0,0.117,0.0343,0.000135,0.383,0.823,85.387,4,alternative
+280,Waiting Room,Fugazi,13 Songs,60,173266,1989,1,0.616,0.727,1,-8.176,0,0.0365,0.00401,0.86,0.157,0.54,92.259,4,alternative
+281,Rise,Public Image Ltd.,Public Image Ltd.,47,378360,1987-04-07,2,0.526,0.873,0,-5.28,1,0.0754,0.00795,7.36e-06,0.339,0.629,86.313,4,alternative
+282,Thirteen,Big Star,#1 Record/Radio City,40,154480,2009-01-01,4,0.456,0.344,0,-10.296,0,0.0298,0.565,9.19e-06,0.114,0.359,117.116,4,alternative
+283,Cherry-coloured Funk,Cocteau Twins,Heaven Or Las Vegas (Remastered),58,192466,1990-09-17,1,0.377,0.65,2,-5.902,1,0.029,0.00174,5.75e-05,0.107,0.365,180.074,4,alternative
+284,Buena,Morphine,Cure For Pain,50,199666,1993,2,0.576,0.494,10,-12.242,0,0.0605,0.106,0.174,0.13,0.587,96.478,4,alternative
+285,The Passenger,Siouxsie and the Banshees,Through The Looking Glass (Remastered And Expanded),56,309306,1987-03-02,7,0.457,0.93,2,-4.544,0,0.0673,0.0309,6.27e-05,0.135,0.294,139.819,4,alternative
+286,That's When I Reach For My Revolver,Mission Of Burma,"Signals, Calls and Marches",49,233573,1981,5,0.3,0.915,4,-5.691,1,0.049,0.00194,0.000338,0.147,0.51,147.119,4,alternative
+287,Rip It Up,Orange Juice,Rip It Up,52,320413,1982-11-01,1,0.881,0.546,7,-9.357,1,0.0407,0.0532,0.000149,0.0497,0.852,102.814,4,alternative
+288,The Jean Genie - 2013 Remastered Version,David Bowie,Aladdin Sane (2013 Remastered Version),60,248013,1973-04-13,9,0.58,0.571,9,-9.116,1,0.0321,0.378,5.13e-06,0.358,0.818,128.15,4,alternative
+289,Birthday,The Sugarcubes,Life's Too Good,44,239533,1988-04-05,3,0.325,0.657,0,-8.203,1,0.0422,0.0276,0.000345,0.0788,0.221,183.156,4,alternative
+290,Love Is The Drug,Roxy Music,Roxy Music Collection,48,248645,2004-01-01,6,0.839,0.73,2,-6.072,1,0.0809,0.0477,0.00792,0.0305,0.596,124.653,4,alternative
+291,Lust For Life,Iggy Pop,Lust For Life,64,313925,1977-08-29,1,0.383,0.97,9,-5.638,1,0.0435,0.0276,0.0,0.0942,0.62,101.603,4,alternative
+292,The Boy With The Perpetual Nervousness,The Feelies,Crazy Rhythms,39,311000,1980,1,0.591,0.681,0,-10.791,1,0.158,0.0244,0.241,0.13,0.674,97.547,4,alternative
+293,Changes - 1999 Remaster,David Bowie,Best Of Bowie,39,214573,2002,2,0.537,0.355,0,-11.241,1,0.0363,0.357,0.0,0.132,0.39,113.994,4,alternative
+294,Cannonball,The Breeders,Last Splash,62,213693,1993-08-30,2,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.508,4,alternative
+295,She Don't Use Jelly,The Flaming Lips,Transmissions From The Satellite Heart,57,222278,1993-06-18,4,0.33,0.556,7,-11.494,1,0.0796,0.207,4.39e-05,0.315,0.506,173.828,4,alternative
+296,Blue Monday,New Order,"Power, Corruption & Lies [Collector's Edition]",11,445893,1983-05-02,9,0.753,0.751,0,-9.372,1,0.0535,3.96e-05,0.748,0.0783,0.898,130.41,4,alternative
+297,I Wanna Be Your Dog,The Stooges,The Stooges,60,188560,1969-08-05,2,0.527,0.871,4,-8.708,1,0.0354,0.0229,0.155,0.419,0.107,120.722,4,alternative
+298,Rid Of Me,PJ Harvey,Rid Of Me,50,268840,1993-01-01,1,0.715,0.0938,5,-20.629,1,0.0563,0.00497,0.00611,0.166,0.531,125.35,4,alternative
+299,Here's Where The Story Ends,The Sundays,"Reading, Writing & Arithmetic",47,234906,1990-01-01,2,0.625,0.593,7,-10.926,1,0.028,0.288,1.11e-06,0.0721,0.835,109.048,4,alternative
+300,Perfect Day,Lou Reed,Transformer,66,225000,1972-12-01,3,0.4,0.267,10,-12.488,1,0.0323,0.744,0.00734,0.103,0.0872,144.799,3,alternative
+301,People Are Strange - New Stereo Mix; Advanced Resolution,The Doors,The Future Starts Here: The Essential Doors Hits,46,130746,2008-01-28,5,0.7,0.418,4,-11.238,0,0.033,0.655,0.0,0.195,0.721,119.627,4,alternative
+302,Mind Your Own Business,Various Artists,Disco Not Disco Digital Edition,3,193360,2008-01-14,2,0.869,0.66,7,-6.231,1,0.228,0.0325,0.000126,0.0651,0.782,134.525,4,alternative
+303,Start Choppin',Dinosaur Jr.,Where You Been,51,340186,1993-02-09,2,0.373,0.755,2,-7.574,1,0.103,0.00411,0.000799,0.0635,0.57,111.813,4,alternative
+304,Indian Summer,Beat Happening,Jamboree,43,185040,1988,3,0.445,0.577,9,-10.079,1,0.0271,0.362,0.0,0.0522,0.642,139.773,4,alternative
+305,Vitamin C - 2004 Remastered Version,CAN,Ege Bamyasi (Remastered Version),47,214066,1972,4,0.643,0.644,4,-12.615,0,0.0462,0.00669,0.673,0.162,0.853,117.225,4,alternative
+306,Only Shallow,My Bloody Valentine,Loveless,50,257519,1991-11-04,1,0.138,0.691,0,-7.976,1,0.0443,0.000377,0.786,0.0895,0.36,170.342,4,alternative
+307,Mrs. Robinson,The Lemonheads,It's A Shame About Ray,5,222160,1992,13,0.463,0.932,2,-7.609,1,0.0436,5.77e-05,0.00266,0.298,0.74,107.355,4,alternative
+308,Dear God - Remastered 2001,XTC,Skylarking,52,219506,1986,15,0.577,0.464,7,-7.943,1,0.024,0.0979,1.3e-06,0.154,0.346,90.557,4,alternative
+309,Alison,Slowdive,Souvlaki,36,231893,1993,1,0.279,0.423,4,-12.06,1,0.038,0.00957,0.837,0.128,0.291,101.571,4,alternative
+310,Creep,Radiohead,Pablo Honey,80,238640,1993-02-22,2,0.515,0.43,7,-9.935,1,0.0369,0.0102,0.000141,0.129,0.104,91.841,4,alternative
+311,If You Need Someone,The Field Mice,Coastal,36,224133,1991-01-01,6,0.43,0.661,11,-13.156,1,0.0276,1.14e-05,0.839,0.376,0.83,155.683,4,alternative
+312,It's My Life,Talk Talk,The Very Best Of,52,233453,1997-01-27,1,0.599,0.907,0,-4.406,1,0.0445,0.0733,0.533,0.474,0.833,126.275,4,alternative
+313,When You Sleep,My Bloody Valentine,Loveless,48,251933,1991-11-04,5,0.4,0.82,11,-12.281,1,0.0466,0.000295,0.79,0.236,0.135,128.894,4,alternative
+314,Pretty in Pink,The Psychedelic Furs,The Psychedelic Furs Superhits,46,239960,2003-08-29,3,0.376,0.885,2,-7.034,1,0.0775,0.117,0.0104,0.296,0.697,135.619,4,alternative
+315,Today - Remastered,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),62,201173,1993,3,0.456,0.826,8,-7.611,1,0.0268,3.35e-05,0.57,0.0548,0.415,82.539,4,alternative
+316,Ain't No Rest for the Wicked,Cage The Elephant,Cage The Elephant,20,175493,2009-03-27,3,0.634,0.849,0,-7.075,1,0.105,0.0438,0.0,0.363,0.919,156.004,4,alternative
+317,Float On,Modest Mouse,Good News For People Who Love Bad News,71,208466,2004-04-05,3,0.649,0.888,6,-4.807,1,0.0293,0.013,2.23e-06,0.0888,0.553,100.975,4,alternative
+318,The Middle,Jimmy Eat World,Bleed American (Deluxe Edition),60,168253,2001,3,0.629,0.897,2,-3.401,1,0.0483,0.0424,0.0,0.263,0.93,161.944,4,alternative
+319,Beverly Hills,Weezer,Make Believe,68,196093,2005-05-10,1,0.693,0.823,5,-3.761,1,0.0726,0.0932,0.0,0.328,0.741,87.904,4,alternative
+320,When You Were Young,The Killers,Sam's Town,74,220426,2006-10-02,3,0.467,0.988,11,-3.313,1,0.112,0.000152,0.0484,0.28,0.321,130.435,4,alternative
+321,I Will Possess Your Heart,Death Cab for Cutie,Narrow Stairs,55,505773,2008-04-29,2,0.605,0.619,9,-8.971,0,0.0261,0.423,0.313,0.0732,0.578,133.074,4,alternative
+322,"Sugar, We're Goin Down",Fall Out Boy,From Under The Cork Tree,10,229093,2005-01-01,4,0.494,0.841,7,-4.784,1,0.0838,0.00579,0.0,0.122,0.567,162.013,4,alternative
+323,Sweetness,Jimmy Eat World,Bleed American,44,220026,2001-01-01,5,0.491,0.888,5,-4.412,1,0.038,0.00407,0.0,0.286,0.656,135.253,4,alternative
+324,Semi-Charmed Life,Third Eye Blind,Third Eye Blind,74,268360,1997-04-08,3,0.64,0.864,7,-6.576,1,0.0315,0.00832,0.0,0.123,0.7,102.026,4,alternative
+325,Mr. Brightside,The Killers,Hot Fuss,78,222586,2004-01-01,2,0.33,0.936,1,-3.66,1,0.0917,0.00108,0.0,0.0926,0.234,148.112,4,alternative
+326,Everlong,Foo Fighters,The Colour And The Shape,76,250546,1997-05-20,11,0.412,0.882,11,-5.54,0,0.0369,5.96e-05,0.00031,0.0805,0.356,158.066,4,alternative
+327,Tongue Tied,Grouplove,Never Trust A Happy Song,78,218013,2011-09-02,2,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,4,alternative
+328,Interstate Love Song,Stone Temple Pilots,Purple,71,193613,1994-06-07,4,0.214,0.947,4,-5.053,1,0.0507,0.000552,0.00352,0.238,0.483,170.616,4,alternative
+329,Cigarette Daydreams,Cage The Elephant,Melophobia,70,208760,2013-10-08,10,0.635,0.675,2,-3.445,1,0.0263,0.0801,0.0,0.0831,0.273,113.946,4,alternative
+330,All Apologies,Nirvana,In Utero - 20th Anniversary Remaster,66,233173,1993-09-21,12,0.447,0.621,1,-12.109,1,0.034,0.0824,0.000239,0.0885,0.364,113.169,4,alternative
+331,I Write Sins Not Tragedies,Panic! At The Disco,A Fever You Can't Sweat Out,75,187613,2005-09-27,10,0.567,0.795,9,-4.985,0,0.134,0.0938,0.0,0.114,0.635,170.06,4,alternative
+332,"Steady, As She Goes",The Raconteurs,Broken Boy Soldiers,8,215293,2006,1,0.53,0.601,9,-4.364,1,0.112,0.00882,0.0211,0.083,0.572,123.009,4,alternative
+333,Everything Is Alright,Motion City Soundtrack,Commit This To Memory,62,207633,2005-06-07,2,0.435,0.95,8,-3.869,1,0.106,0.000494,0.0,0.317,0.457,160.987,4,alternative
+334,1979 - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),74,266200,1995,5,0.765,0.788,3,-9.896,1,0.0332,0.0166,0.588,0.0513,0.964,126.879,4,alternative
+335,Electric Feel,MGMT,Oracular Spectacular,76,229640,2007-12-14,4,0.763,0.807,1,-3.714,1,0.035,0.0714,0.28,0.348,0.559,103.038,3,alternative
+336,I Miss You,blink-182,Greatest Hits (Explicit Version),4,227813,2005-11-01,13,0.651,0.764,11,-6.403,1,0.0341,0.00121,1.14e-05,0.079,0.681,110.022,4,alternative
+337,Glycerine,Bush,Sixteen Stone (Remastered),65,266493,2014-10-14,10,0.437,0.337,5,-11.439,1,0.0326,0.0371,0.000946,0.0981,0.0784,114.239,4,alternative
+338,"Cute Without the ""E"" (Cut From the Team)",Taking Back Sunday,Tell All Your Friends (Re-Issue),6,211546,2002,3,0.402,0.859,1,-4.41,0,0.0466,0.0394,0.0,0.0745,0.514,95.31,4,alternative
+339,What I Got,Sublime,Sublime,70,170906,1996-07-30,2,0.804,0.696,7,-7.47,1,0.0899,0.00877,0.000985,0.314,0.657,95.721,4,alternative
+340,Alive With The Glory Of Love,Say Anything,...Is A Real Boy,2,254955,2004,4,0.358,0.912,9,-4.631,1,0.121,0.0541,0.0,0.183,0.626,202.789,4,alternative
+341,Miss Murder,AFI,DECEMBERUNDERGROUND,69,206586,2006-06-06,3,0.309,0.875,1,-4.49,1,0.0488,0.000213,0.00168,0.113,0.725,143.526,4,alternative
+342,Heart-Shaped Box,Nirvana,In Utero - 20th Anniversary - Deluxe Edition,73,281160,1993-09-21,3,0.494,0.677,6,-10.233,1,0.0452,0.184,0.0258,0.0926,0.316,101.539,4,alternative
+343,Soul Meets Body,Death Cab for Cutie,Plans,58,229413,2005-08-29,2,0.621,0.853,2,-5.735,0,0.0253,0.0767,3.26e-06,0.0893,0.714,128.142,4,alternative
+344,Somebody Told Me,The Killers,Hot Fuss,69,197160,2004-01-01,4,0.5,0.975,10,-3.176,0,0.0824,0.000123,0.000379,0.104,0.767,138.005,4,alternative
+345,Santeria,Sublime,Sublime,73,182746,1996-07-30,6,0.682,0.765,1,-5.021,0,0.0395,0.0268,3.42e-05,0.188,0.567,90.807,4,alternative
+346,Misery Business,Paramore,RIOT!,70,211520,2007-06-11,4,0.517,0.906,1,-3.677,1,0.0735,0.00272,9.26e-06,0.113,0.731,172.977,4,alternative
+347,No One Knows,Queens of the Stone Age,Songs For The Deaf,65,278706,2002,3,0.507,0.588,0,-4.881,1,0.0641,0.0359,0.000129,0.373,0.637,170.889,4,alternative
+348,Welcome to the Black Parade,My Chemical Romance,The Black Parade,75,311106,2006-10-23,5,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,4,alternative
+349,Fell In Love With A Girl,The White Stripes,White Blood Cells,7,110093,2001-07-03,4,0.235,0.977,0,-1.606,1,0.141,0.676,0.000249,0.8,0.379,91.929,4,alternative
+350,When I Come Around,Green Day,Dookie,74,178000,1994-02-01,10,0.531,0.909,11,-4.236,1,0.034,0.0175,0.0,0.231,0.814,97.546,4,alternative
+351,Spoonman,Soundgarden,Superunknown (20th Anniversary),68,246920,1994-03-09,8,0.274,0.906,0,-5.587,1,0.0404,1.9e-05,0.257,0.273,0.783,185.959,3,alternative
+352,"Dance, Dance",Fall Out Boy,From Under The Cork Tree,8,180266,2005-01-01,3,0.62,0.961,11,-3.198,0,0.154,0.00523,0.0,0.0854,0.449,114.448,4,alternative
+353,Teenagers,My Chemical Romance,The Black Parade,75,161920,2006-10-23,11,0.463,0.857,4,-3.063,1,0.0632,0.0506,0.0,0.184,0.856,111.647,4,alternative
+354,Move Along,The All-American Rejects,Move Along,65,238880,2005-01-01,3,0.529,0.922,3,-3.84,1,0.0459,0.000198,0.0,0.26,0.628,109.847,4,alternative
+355,The Taste of Ink,The Used,The Used (U.S. Version),63,208693,2002-06-25,2,0.541,0.904,7,-3.001,1,0.0435,0.00143,0.0,0.193,0.541,98.122,4,alternative
+356,Black Hole Sun,Soundgarden,Superunknown (Deluxe Edition),75,318586,1994-03-09,7,0.354,0.825,6,-5.325,1,0.0406,0.000203,6.95e-05,0.0758,0.16,105.495,4,alternative
+357,No Rain,Blind Melon,Blind Melon,73,217106,1992-01-01,7,0.389,0.476,9,-9.342,1,0.0316,0.619,5.09e-05,0.255,0.566,148.117,4,alternative
+358,Someday,The Strokes,Is This It,67,183440,2001-10-08,5,0.538,0.52,9,-7.46,1,0.0299,0.00425,0.0,0.367,0.678,106.031,4,alternative
+359,1901,Phoenix,Wolfgang Amadeus Phoenix,32,193106,2009-01-01,2,0.604,0.825,0,-5.373,1,0.0429,0.0564,5.8e-05,0.192,0.707,144.085,4,alternative
+360,Jane Says,Jane's Addiction,Nothing's Shocking,63,287000,1988-08-23,9,0.426,0.65,7,-7.747,1,0.0332,0.0387,3.76e-06,0.126,0.493,82.184,4,alternative
+361,All The Small Things,blink-182,Enema Of The State,61,168000,1999-01-01,8,0.439,0.891,0,-4.764,1,0.057,0.0122,0.0,0.547,0.695,148.599,4,alternative
+362,Cold Hard Bitch,Jet,Get Born,58,243200,2003-09-15,9,0.458,0.895,2,-3.972,1,0.0681,0.000219,0.000394,0.106,0.357,130.327,4,alternative
+363,Hard To Explain,The Strokes,Is This It,54,224426,2001-07-25,8,0.406,0.682,7,-6.281,1,0.0584,0.000413,0.849,0.0999,0.623,82.495,4,alternative
+364,Scar Tissue,Red Hot Chili Peppers,Californication (Deluxe Version),76,215906,1999-06-08,3,0.595,0.717,0,-4.803,1,0.0295,0.0779,0.00274,0.108,0.547,88.969,4,alternative
+365,Howlin' For You,The Black Keys,Brothers,68,191800,2010-05-18,4,0.705,0.735,11,-6.646,1,0.0931,0.028,0.0783,0.112,0.448,132.627,4,alternative
+366,Panic Switch,Silversun Pickups,Swoon,55,343906,2009-04-14,5,0.163,0.885,5,-4.623,0,0.0725,0.000202,0.0121,0.228,0.549,198.556,3,alternative
+367,Elderly Woman Behind the Counter in a Small Town (Remastered),Pearl Jam,Vs.,62,196186,1993-10-19,10,0.291,0.493,7,-9.461,1,0.028,0.0519,9.15e-06,0.101,0.183,182.032,3,alternative
+368,Helena,My Chemical Romance,Three Cheers for Sweet Revenge,71,204733,2004-06-08,1,0.356,0.96,4,-3.487,1,0.104,0.0142,0.0,0.209,0.0857,125.921,4,alternative
+369,Under The Bridge,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Version),80,264306,1991-09-24,11,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,4,alternative
+370,Pardon Me,Incubus,Make Yourself,65,223746,1999-10-26,12,0.579,0.812,1,-6.509,0,0.0693,0.00114,0.00333,0.115,0.278,152.002,4,alternative
+371,The Hand That Feeds,Nine Inch Nails,With Teeth,60,211680,2005-01-01,4,0.595,0.985,9,-4.337,0,0.0885,0.0187,0.000297,0.0666,0.462,128.006,4,alternative
+372,A-Punk,Vampire Weekend,Vampire Weekend,69,137760,2008-01-27,3,0.551,0.821,2,-4.489,1,0.0539,0.0102,0.0438,0.153,0.842,174.923,4,alternative
+373,A Favor House Atlantic,Coheed and Cambria,In Keeping Secrets Of Silent Earth: 3,0,234693,2003,10,0.327,0.977,4,-3.033,1,0.254,0.000872,0.0,0.145,0.179,166.505,4,alternative
+374,Are You Gonna Be My Girl,Jet,Get Born,74,213800,2003-09-15,2,0.613,0.953,2,-3.435,1,0.0855,0.00148,0.000582,0.152,0.537,105.046,4,alternative
+375,The Underdog,Spoon,Ga Ga Ga Ga Ga,4,222320,2007-07-10,7,0.684,0.65,7,-6.447,1,0.034,0.0567,0.000412,0.703,0.889,145.062,4,alternative
+376,Maps,Yeah Yeah Yeahs,Fever To Tell (Explicit Version),5,219760,2003-04-29,9,0.532,0.925,7,-5.964,1,0.074,0.0013,0.306,0.508,0.171,119.776,4,alternative
+377,Drive,Incubus,Make Yourself,71,232453,1999-10-26,8,0.645,0.792,4,-7.34,0,0.036,0.0562,0.0121,0.119,0.666,90.565,4,alternative
+378,I Believe in a Thing Called Love,The Darkness,Permission To Land,68,217653,2003-07-07,4,0.442,0.846,4,-5.214,1,0.0764,0.0538,4.71e-06,0.282,0.622,128.235,4,alternative
+379,Take Me Out,Franz Ferdinand,Franz Ferdinand,73,237026,2004,3,0.278,0.676,9,-8.821,1,0.0371,0.000423,0.000899,0.136,0.494,104.545,4,alternative
+380,Unbelievers,Vampire Weekend,Modern Vampires of the City,63,202666,2013-05-27,2,0.644,0.811,11,-7.681,1,0.0499,0.142,0.000629,0.169,0.831,154.903,4,alternative
+381,The Cave,Mumford & Sons,Sigh No More,11,215626,2009-01-01,2,0.592,0.499,4,-9.463,1,0.0374,0.0536,4.4e-05,0.113,0.345,141.938,4,alternative
+382,Wish You Were Here,Incubus,Morning View,58,212733,2001,3,0.246,0.768,9,-7.48,1,0.0387,0.000631,0.301,0.102,0.35,169.873,4,alternative
+383,Reptilia,The Strokes,Room On Fire,69,219753,2003-10-28,2,0.486,0.666,9,-5.084,1,0.033,0.000563,0.789,0.101,0.741,157.992,4,alternative
+384,The Anthem,Good Charlotte,The Young and The Hopeless,72,175093,2002-10-04,2,0.494,0.939,1,-3.127,1,0.126,0.00666,0.0,0.139,0.893,177.751,4,alternative
+385,R U Mine?,Arctic Monkeys,AM,77,201726,2013-09-09,2,0.288,0.758,6,-5.692,0,0.0371,0.00616,0.0,0.303,0.619,97.094,4,alternative
+386,Sweater Weather,The Neighbourhood,I Love You.,77,240400,2013-04-19,4,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4,alternative
+387,Even Flow,Pearl Jam,Ten,74,292580,1991-08-27,2,0.394,0.944,10,-6.506,0,0.0761,0.00178,4.54e-06,0.298,0.265,105.338,4,alternative
+388,Dog Days Are Over,Florence + The Machine,Lungs (Deluxe Edition),69,251840,2009,1,0.492,0.81,7,-5.315,1,0.0847,0.0416,0.00379,0.117,0.245,149.954,4,alternative
+389,Fat Lip,Sum 41,"All Killer, No Filler",72,178266,2001-01-01,4,0.574,0.911,9,-5.176,1,0.0715,0.000618,0.0,0.0769,0.573,98.075,4,alternative
+390,"You're Gonna Go Far, Kid",The Offspring,"Rise And Fall, Rage And Grace",11,177826,2008-06-13,3,0.55,0.918,9,-3.159,0,0.0682,0.00466,0.0,0.206,0.563,126.083,4,alternative
+391,Come As You Are,Nirvana,Nevermind (Remastered),72,218920,1991-09-26,3,0.505,0.825,4,-5.721,0,0.0401,0.000182,0.000948,0.0855,0.541,119.987,4,alternative
+392,Last Nite,The Strokes,Is This It,67,193373,2001-10-08,7,0.624,0.899,0,-5.71,1,0.0295,0.0223,0.000155,0.0975,0.797,104.055,4,alternative
+393,Obstacle 1,Interpol,Turn On The Bright Lights,57,251333,2002-08-19,2,0.377,0.937,5,-4.898,1,0.0649,5.17e-05,0.578,0.0676,0.375,120.532,4,alternative
+394,Killed By An Angel,Sunny Day Real Estate,The Rising Tide,40,295533,2000-01-01,1,0.351,0.905,11,-5.382,0,0.0517,0.000738,0.000701,0.104,0.437,141.009,4,alternative
+395,The Kill,Thirty Seconds To Mars,A Beautiful Lie,69,231533,2005-01-01,3,0.309,0.912,4,-3.881,0,0.0646,0.0014,0.000271,0.582,0.302,183.035,3,alternative
+396,Show Me How to Live,Audioslave,Audioslave,38,277840,2002,2,0.433,0.854,9,-3.868,1,0.0483,0.000336,0.000177,0.162,0.368,89.4,4,alternative
+397,Naive,The Kooks,Inside In / Inside Out,62,203506,2006-01-01,9,0.547,0.816,8,-6.165,0,0.0624,0.0688,0.0,0.127,0.722,102.765,4,alternative
+398,New Slang,The Shins,"Oh, Inverted World",22,231173,2001-06-19,6,0.669,0.389,0,-11.547,1,0.0306,0.605,0.16,0.0905,0.649,130.015,4,alternative
+399,Understanding in a Car Crash,Thursday,Full Collapse,51,264546,2001,2,0.4,0.907,5,-4.956,1,0.101,4.1e-05,0.000472,0.151,0.413,162.626,4,alternative
+400,Faces In Disguise,Sunny Day Real Estate,The Rising Tide,38,362960,2000-01-01,10,0.486,0.789,9,-6.622,1,0.0291,0.0015,0.0109,0.0732,0.251,104.996,4,alternative
+401,Daughter (Remastered),Pearl Jam,Vs.,66,234333,1993-10-19,3,0.615,0.702,7,-9.686,1,0.0278,0.00746,0.00431,0.0608,0.734,96.99,4,alternative
+402,The Pretender,Foo Fighters,"Echoes, Silence, Patience & Grace",75,269373,2007-09-25,1,0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,4,alternative
+403,Beating Heart Baby,Head Automatica,Decadence,51,203733,2004-08-10,3,0.458,0.971,8,-4.549,1,0.1,0.0027,0.0,0.179,0.489,149.938,4,alternative
+404,Do I Wanna Know?,Arctic Monkeys,AM,81,272394,2013-09-09,1,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4,alternative
+405,Rebellion (Lies),Arcade Fire,Funeral,1,310893,2004-01-01,9,0.402,0.927,8,-5.68,1,0.0357,0.00805,0.597,0.319,0.729,127.191,4,alternative
+406,Such Great Heights,The Postal Service,Give Up,11,266346,2003-02-19,2,0.653,0.818,5,-8.125,1,0.047,0.00907,0.23,0.0703,0.198,174.984,4,alternative
+407,3 Libras,A Perfect Circle,Mer De Noms,59,219640,2000-01-01,6,0.518,0.743,9,-8.247,1,0.0373,0.00383,0.0069,0.078,0.211,144.024,3,alternative
+408,Woman,Wolfmother,Wolfmother,61,176306,2006-01-01,3,0.219,0.952,2,-3.621,1,0.176,5.1e-05,0.0989,0.157,0.172,112.886,1,alternative
+409,Pumped up Kicks,Foster The People,Torches,6,239600,2011-06-13,2,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,4,alternative
+410,Seven Nation Army,The White Stripes,Elephant,74,231733,2003,1,0.737,0.463,0,-7.828,1,0.0792,0.00817,0.447,0.255,0.324,123.881,4,alternative
+411,Sabotage,Beastie Boys,Ill Communication,60,178440,1994-05-23,6,0.324,0.938,6,-7.332,0,0.102,0.032,0.0321,0.0961,0.543,168.131,4,alternative
+412,Slither,Velvet Revolver,Contraband,61,248306,2004,11,0.478,0.974,7,-3.866,1,0.102,0.000266,0.0984,0.0738,0.268,141.077,4,alternative
+413,At Your Funeral,Saves The Day,Stay What You Are,1,189693,2001-07-10,1,0.257,0.936,2,-6.131,1,0.357,0.00243,0.0,0.14,0.376,197.929,4,alternative
+414,Chelsea Dagger,The Fratellis,Costello Music,67,215306,2006-01-01,4,0.511,0.815,7,-3.14,1,0.144,0.0491,0.0,0.0826,0.586,154.514,4,alternative
+415,This Charming Man - 2008 Remaster,The Smiths,The Sound Of The Smiths [Deluxe Edition],52,163053,2008-11-11,2,0.592,0.867,8,-4.447,0,0.049,0.00658,0.0,0.0818,0.696,103.92,4,alternative
+416,Love Will Tear Us Apart,Joy Division,The Best Of,69,206866,2008-03-20,9,0.443,0.956,2,-6.198,1,0.0511,5.24e-05,0.825,0.135,0.909,146.754,4,alternative
+417,Close To Me,The Cure,The Head On The Door (Remastered),65,203266,1985-08-26,7,0.724,0.523,11,-11.139,1,0.116,0.0745,0.703,0.0811,0.965,185.075,4,alternative
+418,Modern Love - 1999 Remaster,David Bowie,Let's Dance,65,288466,1983-04-14,1,0.315,0.889,0,-8.192,1,0.041,0.000376,0.00241,0.133,0.961,181.329,4,alternative
+419,The Killing Moon,Echo & the Bunnymen,Songs To Learn And Sing,64,346280,1985-11-11,8,0.522,0.85,7,-4.769,1,0.0361,0.132,0.0338,0.295,0.71,124.216,4,alternative
+420,Once in a Lifetime - 2005 Remaster,Talking Heads,Remain In Light (Deluxe Version),67,259906,1980-10-08,4,0.644,0.919,2,-6.289,1,0.0561,0.181,0.134,0.622,0.871,117.459,4,alternative
+421,Uncertain Smile,The The,Soul Mining,53,411973,1983,4,0.593,0.931,11,-5.232,0,0.0517,0.0322,0.588,0.0255,0.755,142.747,4,alternative
+422,How Soon Is Now? - 2011 Remaster,The Smiths,Hatful of Hollow,67,408173,1984,5,0.398,0.93,11,-6.76,1,0.0615,0.000854,0.121,0.0874,0.725,190.818,4,alternative
+423,A Forest,The Cure,Seventeen Seconds (Deluxe Edition),43,354290,1980-04-18,7,0.579,0.622,0,-11.285,1,0.0563,0.365,0.652,0.0955,0.435,163.107,4,alternative
+424,Spellbound,Siouxsie and the Banshees,The Best Of Siouxsie And The Banshees (Limited Edition),1,197533,2002-01-01,11,0.456,0.893,7,-7.124,1,0.0412,0.00119,9.81e-05,0.121,0.282,148.501,4,alternative
+425,Everyday Is Like Sunday - 2011 Remaster,Morrissey,Viva Hate [2011 - Remaster] (2011 Remastered Version),59,215266,1988,3,0.6,0.869,0,-5.126,1,0.0302,0.00345,0.441,0.311,0.56,117.064,4,alternative
+426,It's My Life - 1997 Remaster,Talk Talk,It's My Life,65,232400,1984,4,0.627,0.802,0,-8.432,1,0.0348,0.197,0.784,0.404,0.867,126.283,4,alternative
+427,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,70,244586,1986,9,0.523,0.769,4,-5.855,1,0.0269,0.04,0.0,0.136,0.876,136.162,4,alternative
+428,Rock the Casbah - Remastered,The Clash,Combat Rock,70,222426,1982,4,0.796,0.872,9,-6.722,0,0.0573,0.287,0.0,0.284,0.866,129.894,4,alternative
+429,This Is the Day,The The,London Town 1983-1993,58,297066,2001,2,0.56,0.875,10,-4.483,1,0.0518,0.0131,0.000693,0.063,0.538,141.661,4,alternative
+430,April Skies,Various Artists,Alternative 80's,35,240493,2018-08-07,5,0.554,0.636,3,-10.123,1,0.0358,0.0132,0.193,0.129,0.637,118.789,4,alternative
+431,I Will Follow,U2,The Best Of 1980 - 1990,6,218040,1998-01-01,8,0.365,0.917,8,-7.316,1,0.0678,0.000346,3.88e-05,0.185,0.674,155.201,4,alternative
+432,She Sells Sanctuary,The Cult,Pure Cult,61,252533,2000-06-05,1,0.55,0.765,7,-8.684,1,0.0287,4.82e-06,0.873,0.132,0.417,139.453,4,alternative
+433,Don't Change,INXS,Shabooh Shoobah (Remastered),11,268200,2011-01-01,10,0.206,0.81,9,-6.492,1,0.0423,5.93e-05,0.0644,0.0855,0.155,163.552,4,alternative
+434,Golden Brown,The Stranglers,La Folie,65,206760,1981,9,0.562,0.383,6,-15.474,1,0.0304,0.143,0.124,0.138,0.599,93.764,3,alternative
+435,Just Like Honey,The Jesus and Mary Chain,Psychocandy (Expanded Version),60,182493,1985-11-18,1,0.341,0.552,8,-10.503,1,0.0423,8.02e-05,0.616,0.0591,0.486,121.361,4,alternative
+436,Shout,Tears For Fears,Songs From The Big Chair,69,393666,1985-02-25,1,0.511,0.942,0,-10.407,1,0.0429,0.174,1.87e-05,0.139,0.498,97.909,4,alternative
+437,Town Called Malice,The Jam,The Gift (Remastered Version),9,173320,1982-03-12,10,0.542,0.91,7,-8.924,1,0.0873,0.00228,0.00524,0.0695,0.775,101.774,4,alternative
+438,Oblivious,Aztec Camera,"High Land, Hard Rain",6,190773,1983,1,0.647,0.783,6,-7.713,0,0.0548,0.0404,0.124,0.0635,0.924,112.373,4,alternative
+439,Radio Free Europe,R.E.M.,Murmur - Deluxe Edition,6,245786,1983-04-12,1,0.36,0.861,9,-7.089,1,0.0493,0.00123,0.0217,0.126,0.721,155.121,4,alternative
+440,I Wanna Be Adored - Remastered,Various Artists,Pure... Alternative 80s,37,293840,2011-10-07,17,0.502,0.865,4,-9.301,0,0.0278,0.0134,0.236,0.149,0.569,112.578,4,alternative
+441,Mad World,Tears For Fears,The Hurting,12,215400,1983-03-07,2,0.646,0.902,4,-5.997,1,0.0455,0.0662,0.0285,0.0621,0.936,118.721,4,alternative
+442,Echo Beach,Martha and the Muffins,Metro Music,54,219866,1980,1,0.54,0.746,7,-9.412,1,0.045,0.13,8.73e-06,0.0976,0.826,163.809,4,alternative
+443,Happy Hour,The Housemartins,Now That's What I Call Quite Good,48,142093,1988-01-01,13,0.535,0.858,10,-11.109,1,0.0453,0.101,2.18e-06,0.141,0.926,95.792,4,alternative
+444,Party Fears Two,The Associates,Sulk,4,314400,2000,8,0.548,0.874,7,-5.361,1,0.0598,0.0487,0.00205,0.163,0.616,128.374,4,alternative
+445,"Rise - 12"" Version",Public Image Ltd.,Rise: The Collection,5,365480,2015-05-25,8,0.485,0.717,7,-9.63,1,0.0309,0.00327,6.07e-06,0.633,0.727,84.747,4,alternative
+446,Teen Age Riot (Album Version),Sonic Youth,Daydream Nation (Deluxe Edition),60,417800,1988-10-04,1,0.286,0.907,7,-9.67,1,0.0374,0.000277,0.202,0.0837,0.746,156.395,4,alternative
+447,Mirror in the Bathroom,The Beat,I Just Can't Stop It [Deluxe Edition],6,189666,2012-06-25,1,0.633,0.637,7,-10.431,1,0.0464,0.151,0.0278,0.035,0.941,171.853,4,alternative
+448,Enjoy the Silence - 2006 - Remaster,Depeche Mode,The Best Of Depeche Mode Volume One,9,257927,2006,4,0.659,0.75,0,-8.119,0,0.0266,0.0626,7.41e-05,0.0892,0.751,112.913,4,alternative
+449,I'm In Love With A German Film Star,The Passions,Thirty Thousand Feet Over China,44,241320,1981-09-18,1,0.732,0.649,11,-8.165,1,0.0321,0.244,0.104,0.109,0.34,114.323,4,alternative
+450,Blue Monday '88,New Order,The Best Of New Order,63,244720,1994-01-01,15,0.681,0.893,7,-8.485,1,0.0378,6.47e-05,0.383,0.0626,0.951,130.475,4,alternative
+451,Waterfall - Remastered,The Stone Roses,The Stone Roses,62,278826,1989-05-02,3,0.491,0.686,11,-8.22,1,0.0289,0.0236,0.269,0.451,0.436,103.707,4,alternative
+452,Blister In The Sun,Violent Femmes,Violent Femmes: Deluxe Edition,10,144946,1982,1,0.725,0.558,0,-8.557,1,0.125,0.318,0.0,0.0976,0.88,96.969,4,alternative
+453,Are 'Friends' Electric?,Gary Numan / Tubeway Army,Replicas Redux,46,325200,2008-02-24,2,0.423,0.748,5,-9.832,1,0.0387,0.03,0.221,0.169,0.428,93.977,4,alternative
+454,Rattlesnakes,Lloyd Cole and the Commotions,Rattlesnakes,46,211000,1984-01-01,3,0.458,0.911,9,-9.85,1,0.0694,0.0224,7.42e-05,0.117,0.614,151.777,4,alternative
+455,Walls Come Tumbling Down,The Style Council,Our Favourite Shop (Deluxe Edition),8,204333,1985,14,0.424,0.939,4,-6.162,0,0.0563,0.00134,0.0,0.193,0.645,151.25,4,alternative
+456,I Can't Help Myself,Orange Juice,Rip It Up,6,307013,1982,6,0.739,0.781,11,-8.87,0,0.0384,0.0098,0.0354,0.306,0.932,123.114,4,alternative
+457,"Say Hello, Wave Goodbye - 7"" Single Version",Soft Cell,Non Stop Erotic Cabaret (Deluxe Edition),7,324000,1981-12,10,0.191,0.525,0,-9.064,1,0.042,0.23,0.0,0.114,0.506,205.218,4,alternative
+458,Gigantic,Pixies,Surfer Rosa (Remastered),55,237706,1988,5,0.385,0.707,7,-11.839,1,0.0412,0.00224,0.377,0.0755,0.774,115.144,4,alternative
+459,Take Me to the River,Various Artists,Alternative 80's,31,302520,2018-08-07,2,0.66,0.485,2,-8.101,1,0.0258,0.242,0.0102,0.0585,0.829,99.828,4,alternative
+460,World Shut Your Mouth,Julian Cope,Saint Julian (Expanded Edition),42,215000,1987,6,0.642,0.82,9,-6.789,0,0.0619,0.0128,1.16e-06,0.299,0.782,126.25,4,alternative
+461,Play For Today,The Cure,Seventeen Seconds,46,218960,1980-04-18,2,0.458,0.731,11,-12.049,0,0.145,0.0487,0.0215,0.116,0.784,80.425,4,alternative
+462,Messages,Orchestral Manoeuvres In The Dark,The OMD Singles,48,286866,1998-01-01,2,0.608,0.704,1,-9.78,1,0.0327,0.00779,0.0287,0.058,0.899,129.594,4,alternative
+463,Birthday,The Sugarcubes,Life's Too Good,4,238626,1988-01-01,3,0.35,0.519,0,-12.388,1,0.0407,0.0385,0.000414,0.0777,0.271,183.608,4,alternative
+464,Love Action (I Believe In Love),The Human League,Dare!,52,301826,1981,9,0.702,0.588,0,-9.739,1,0.0321,0.0805,0.0193,0.184,0.728,121.738,4,alternative
+465,Pulling Mussels (From The Shell),Squeeze,Argybargy,4,238133,1981-01-01,1,0.593,0.702,0,-12.668,1,0.0409,0.002,8.38e-05,0.19,0.901,142.006,4,alternative
+466,Theme For Great Cities,Simple Minds,Sons And Fascination/Sister Feelings Call,48,351866,1981-09-12,9,0.536,0.808,8,-13.407,1,0.0439,0.0579,0.894,0.117,0.678,122.408,4,alternative
+467,Ghost Town,The Specials,"Stereo-Typical: A's, B's & Rarities",59,219306,2000-08-21,15,0.665,0.766,10,-9.454,0,0.0505,0.0492,0.338,0.113,0.905,73.683,4,alternative
+468,Generals And Majors - 2001 Remaster,XTC,Black Sea,47,244506,1980-09-12,2,0.61,0.895,10,-7.029,1,0.0289,0.0118,3e-05,0.048,0.933,141.364,4,alternative
+469,Debaser,Pixies,Doolittle,62,173173,1989-04-17,1,0.487,0.884,5,-11.995,1,0.0425,0.000427,0.402,0.0954,0.569,135.533,4,alternative
+470,Call Me,Blondie,Atomic/Atomix,67,212600,1999-01-01,4,0.56,0.825,2,-6.711,0,0.0347,0.000785,0.00246,0.0892,0.74,142.669,4,alternative
+471,Don't Talk to Me About Love,Altered Images,Bite,48,291320,1983-06-13,5,0.63,0.552,5,-12.456,1,0.0343,0.0284,0.275,0.527,0.656,122.617,4,alternative
+472,On my Radio,The Selecter,The Very Best of The Selecter,47,185199,1997-01-01,1,0.783,0.706,7,-7.544,1,0.0434,0.0493,0.0617,0.158,0.96,141.021,4,alternative
+473,Making Plans For Nigel,XTC,The Compact XTC,42,233800,1986-01-01,6,0.637,0.689,7,-14.014,1,0.039,0.017,3.72e-05,0.0738,0.815,150.057,4,alternative
+474,Tempted,Squeeze,East Side Story,55,240333,1981,3,0.735,0.355,6,-13.711,0,0.0329,0.0986,0.158,0.0534,0.449,95.257,4,alternative
+475,Living On The Ceiling,Blancmange,The Platinum Collection,5,239959,2006-10-02,4,0.72,0.821,4,-5.257,1,0.108,0.0772,0.15,0.664,0.893,115.403,4,alternative
+476,Eighties,Killing Joke,Laugh? I Nearly Bought One!,46,231133,1992-01-01,13,0.404,0.946,2,-11.562,0,0.088,0.000217,0.00168,0.411,0.437,151.716,4,alternative
+477,The Lebanon,The Human League,Hysteria,46,304906,1984-01-01,5,0.605,0.619,4,-13.034,0,0.0478,0.000787,0.00316,0.0848,0.49,124.059,4,alternative
+478,I Travel,Simple Minds,Celebration,43,242000,1982-01-01,6,0.573,0.888,0,-10.966,1,0.052,0.0331,0.311,0.182,0.964,127.033,4,alternative
+479,Love Buzz,Nirvana,Bleach: Deluxe Edition,6,215120,1989-06-15,5,0.465,0.886,3,-7.183,1,0.0354,2.38e-05,0.314,0.152,0.772,137.986,4,alternative
+480,Homosapien,Pete Shelley,Homosapien,44,275840,1981,1,0.603,0.872,2,-7.358,1,0.0577,0.00121,4.69e-06,0.754,0.686,132.82,4,alternative
+481,Gentle Tuesday,Various Artists,Alternative 80's,23,227120,2018-08-07,11,0.426,0.92,6,-5.503,1,0.0447,0.000114,0.00412,0.335,0.688,127.532,4,alternative
+482,The Chauffeur,Various Artists,Alternative 80's,33,321533,2018-08-07,15,0.695,0.658,2,-9.174,1,0.0851,0.287,0.000184,0.0467,0.532,82.846,4,alternative
+483,Cities In Dust - Single Version,Siouxsie and the Banshees,Twice Upon A Time / The Singles,2,247173,1992,8,0.547,0.897,10,-10.283,0,0.135,0.089,0.0,0.361,0.255,120.035,4,alternative
+484,Our Lips Are Sealed,Fun Boy Three,Waiting,48,171506,1983-02-19,7,0.72,0.677,0,-10.717,1,0.0351,0.721,0.00379,0.18,0.867,125.579,4,alternative
+485,Duel,Propaganda,A Secret Wish,50,288226,1985-06-01,4,0.674,0.702,5,-11.329,0,0.0342,0.25,0.365,0.13,0.536,144.876,4,alternative
+486,I Will Dare,Various Artists,Alternative 80's,27,199773,2018-08-07,24,0.456,0.874,7,-5.69,1,0.0825,0.000841,0.0234,0.192,0.579,166.863,4,alternative
+487,Smalltown Boy,Bronski Beat,The Age Of Consent,20,303306,1984,6,0.679,0.564,10,-11.247,1,0.0267,0.529,0.0709,0.275,0.926,134.586,4,alternative
+488,Kid - 2006 Remaster,Pretenders,Pretenders [Expanded & Remastered],44,186533,1980-01-11,8,0.436,0.728,1,-7.299,0,0.0305,0.0463,9.05e-05,0.115,0.65,137.525,4,alternative
+489,Pearly-dewdrops' Drops,Cocteau Twins,Stars And Topsoil - A Collection 1982-1990,45,251600,2000-10-16,4,0.397,0.696,7,-10.143,1,0.0309,0.00014,0.145,0.55,0.521,179.228,3,alternative
+490,You'll Always Find Me In The Kitchen At Parties,Jona Lewie,On The Other Hand There's A Fist,22,186626,1978,1,0.592,0.495,5,-10.222,1,0.0402,0.592,0.0181,0.353,0.549,93.458,4,alternative
+491,Duchess,The Stranglers,IV,42,149426,1980,3,0.522,0.695,9,-11.77,1,0.0393,0.000909,0.00741,0.069,0.658,129.723,4,alternative
+492,Deus,The Sugarcubes,The Great Crossover Potential,40,250533,1998-07-14,5,0.627,0.576,4,-10.429,0,0.0288,0.0808,1.06e-05,0.228,0.651,96.417,4,alternative
+493,The High Road,The Feelies,The Good Earth,33,264773,2009-09-21,2,0.547,0.842,7,-7.049,1,0.0276,0.0506,0.839,0.0697,0.949,153.391,4,alternative
+494,Just Can't Get Enough - Live in Hammersmith,Depeche Mode,Love In Itself.2 and Live Tracks,48,335466,1983-01-01,2,0.653,0.975,0,-9.071,1,0.0409,0.0082,0.5,0.678,0.911,126.919,4,alternative
+495,Despicable,grandson,a modern tragedy vol. 1,65,223893,2018-06-15,3,0.576,0.782,1,-6.167,1,0.0346,0.0123,0.00241,0.467,0.367,87.971,4,alternative
+496,I Miss You,KIITA,Let's Commit A Robbery,57,209480,2019-03-05,1,0.774,0.575,5,-4.588,0,0.071,0.365,0.0,0.12,0.155,110.01,4,alternative
+497,Hanging On,Active Child,You Are All I See,48,321453,2011-08-23,2,0.572,0.535,8,-8.919,1,0.0284,0.284,0.0587,0.128,0.252,134.962,4,alternative
+498,&Run,Sir Sly,"Don't You Worry, Honey",62,226587,2017-06-30,3,0.759,0.651,5,-8.317,1,0.0565,0.0213,0.000165,0.18,0.471,92.023,4,alternative
+499,"Lostboy (feat. nothing,nowhere.)",MISOGI,"Lostboy (feat. nothing,nowhere.)",44,205714,2019-04-25,1,0.437,0.747,6,-4.857,1,0.0467,0.00979,0.00165,0.117,0.412,140.004,4,alternative
+500,Last Resort & Spa,Battle Tapes,Form - EP,50,254269,2017-07-14,1,0.593,0.899,5,-4.113,1,0.0772,0.124,0.00362,0.11,0.684,92.989,4,alternative
+501,All Of The Noise - Big Data Remix,Castlecomer,All Of The Noise (Big Data Remix),44,221298,2018-10-19,1,0.637,0.717,2,-5.682,1,0.0343,0.0202,0.000103,0.0851,0.56,153.979,4,alternative
+502,Fools,ufo ufo,Fools,53,220084,2018-12-14,1,0.702,0.603,7,-6.833,0,0.0598,0.168,0.0,0.213,0.717,106.023,4,alternative
+503,Underground,MISSIO,The Darker The Weather // The Better The Man,56,207106,2019-04-12,1,0.604,0.681,0,-5.99,0,0.0344,0.00295,0.000315,0.0823,0.666,80.563,4,alternative
+504,First Person On Earth,Robert DeLong,See You In The Future,23,173447,2018-10-19,3,0.338,0.832,4,-4.115,0,0.411,0.225,0.0,0.187,0.327,78.236,4,alternative
+505,Fire,Diskopunk,Fire,51,197749,2016-03-22,1,0.735,0.798,9,-3.829,0,0.0578,0.00697,0.00968,0.194,0.501,115.98,4,alternative
+506,Evil Twin,Krrum,Evil Twin,17,218716,2017-03-24,1,0.708,0.458,2,-8.143,1,0.0941,0.0641,0.00162,0.0375,0.253,88.026,4,alternative
+507,Leave It Now,LAYNE,Leave It Now,41,205596,2019-03-29,1,0.532,0.746,1,-4.946,1,0.0634,0.00413,1.27e-05,0.267,0.361,93.997,4,alternative
+508,Lately,dying in designer,Lately,51,178263,2019-02-12,1,0.595,0.757,11,-5.317,0,0.0519,0.0188,0.0,0.193,0.0775,172.99,4,alternative
+509,Ride,FUKC,Ride,31,167750,2019-05-22,1,0.732,0.827,0,-4.547,1,0.0374,0.0144,0.0893,0.113,0.89,126.011,4,alternative
+510,Saw Lightning,Beck,Saw Lightning,64,241451,2019-04-15,1,0.675,0.911,5,-5.075,0,0.0449,0.0502,0.0488,0.0736,0.849,120.016,4,alternative
+511,Shell Suite,Chad Valley,Equatorial Ultravox EP,45,262213,2011,3,0.424,0.671,9,-7.146,1,0.0299,0.000323,0.217,0.148,0.255,94.465,4,alternative
+512,Take My Blood,Sun Drug,Take My Blood,37,219650,2019-03-01,1,0.629,0.55,0,-7.803,1,0.0406,0.011,0.108,0.0917,0.695,150.022,3,alternative
+513,i apologise if you feel something,Bring Me The Horizon,amo,60,139563,2019-01-25,1,0.211,0.361,9,-10.247,0,0.0346,0.533,0.0284,0.08,0.0537,179.895,1,alternative
+514,This Broken Design,The Ninth Wave,This Broken Design,41,258506,2019-05-03,1,0.459,0.716,10,-5.279,0,0.0287,0.00404,0.0392,0.0977,0.206,99.997,4,alternative
+515,Falling Short,Alter.,Falling Short,31,163053,2019-05-17,1,0.436,0.731,5,-7.711,1,0.0445,0.0121,2.86e-06,0.473,0.655,131.023,4,alternative
+516,We Appreciate Power,Grimes,We Appreciate Power,46,334688,2018-11-29,1,0.534,0.899,2,-4.18,0,0.0509,0.00898,4.32e-05,0.4,0.432,108.033,4,alternative
+517,Pirate Punk Politician,Perry Farrell,Pirate Punk Politician,52,170333,2019-03-29,1,0.504,0.888,1,-5.224,0,0.0935,0.000516,0.000318,0.602,0.47,179.757,4,alternative
+518,On & On,Otherkin,On & On,34,242018,2019-05-24,1,0.573,0.808,10,-6.113,0,0.0408,0.000423,0.0,0.105,0.426,121.987,4,alternative
+519,Monster (Under My Bed),Call Me Karizma,Monster (Under My Bed),53,139706,2019-01-25,1,0.66,0.62,2,-7.623,1,0.0455,0.219,0.0,0.242,0.261,144.945,4,alternative
+520,Leave The Light On,Zero,Leave The Light On,55,184615,2019-03-01,1,0.68,0.557,9,-7.25,0,0.0407,0.0129,0.0,0.196,0.521,130.042,4,alternative
+521,AMEN!!,Fitness,AMEN!!,36,197613,2019-05-03,1,0.609,0.657,1,-6.834,1,0.0286,0.000897,0.146,0.176,0.271,81.991,4,alternative
+522,I Don't Wanna End The Night,Prelow,I Don't Wanna End The Night,43,234466,2017-03-24,1,0.545,0.612,6,-5.726,1,0.0293,0.000433,0.508,0.102,0.219,127.042,4,alternative
+523,Pins & Needles,888,Pins & Needles,42,214186,2019-05-16,1,0.463,0.608,8,-4.417,1,0.0282,0.22,0.0,0.141,0.278,171.836,4,alternative
+524,Loud Magic,Foreign Air,Loud Magic,53,204626,2018-05-11,1,0.483,0.828,1,-5.293,1,0.0336,0.0175,9.5e-06,0.104,0.426,89.992,4,alternative
+525,Rabbit Hole,AViVA,Rabbit Hole,54,228559,2019-03-28,1,0.418,0.688,7,-5.637,0,0.102,0.0422,8.98e-06,0.425,0.535,170.178,4,alternative
+526,Feel You Now,The Driver Era,Feel You Now,58,258579,2019-03-29,1,0.553,0.707,7,-6.142,1,0.187,0.104,0.000186,0.175,0.436,180.057,4,alternative
+527,Social Climb,I DONT KNOW HOW BUT THEY FOUND ME,1981 Extended Play,57,176853,2018-11-09,3,0.532,0.832,11,-5.958,0,0.122,0.0986,9.22e-05,0.657,0.771,176.155,4,alternative
+528,Stigmata,grandson,a modern tragedy vol. 2,60,217458,2019-02-22,2,0.469,0.862,4,-6.48,0,0.109,0.000248,0.000322,0.0661,0.322,87.048,4,alternative
+529,We'll be together,Lucia,We'll be together,37,236717,2019-01-25,1,0.745,0.577,9,-10.225,0,0.0455,0.0655,0.00911,0.0583,0.269,120.015,4,alternative
+530,Numb,8 Graves,Numb,18,227813,2019-01-25,1,0.475,0.673,10,-4.972,0,0.0351,0.00363,0.0,0.0648,0.273,81.001,4,alternative
+531,When We Were Young,Flawes,When We Were Young,21,211090,2019-03-15,1,0.7,0.798,0,-6.789,1,0.0832,0.0563,4.05e-05,0.171,0.359,115.983,4,alternative
+532,A Painting in Paris,Arrested Youth,A Painting in Paris,48,213626,2018-04-05,1,0.699,0.702,6,-7.955,0,0.0642,0.0828,0.00147,0.0667,0.608,75.012,4,alternative
+533,Structure of Love II - Renholdër Remix,VOWWS,Structure of Love II (Renholdër Remix),41,201973,2019-01-25,1,0.418,0.893,4,-5.293,0,0.0505,0.0117,0.751,0.0889,0.371,75.042,4,alternative
+534,Nevermind,Dennis Lloyd,Nevermind,82,156600,2017-06-30,1,0.592,0.691,3,-8.354,1,0.196,0.156,9.78e-06,0.418,0.0796,99.976,4,alternative
+535,Come Thru,Lukr,Come Thru,31,207142,2019-05-17,1,0.723,0.687,11,-5.559,1,0.0785,0.375,1.18e-05,0.136,0.524,129.954,4,alternative
+536,Magic,Half the Animal,Magic,46,210819,2018-08-10,1,0.539,0.654,1,-6.454,0,0.0813,0.0296,1.49e-06,0.0595,0.511,170.138,5,alternative
+537,One,VHS Collection,One,45,282386,2018-04-18,1,0.521,0.669,0,-6.25,1,0.0295,0.00122,0.000883,0.094,0.169,103.05,4,alternative
+538,Love You Wrong,Husky Loops,Spool,35,190660,2018-10-26,2,0.729,0.603,5,-7.69,0,0.0399,0.0742,0.0474,0.161,0.352,95.959,4,alternative
+539,Estranged,The Ting Tings,Estranged,42,311266,2018-10-12,1,0.548,0.506,10,-8.251,1,0.0286,0.0675,0.0244,0.105,0.271,163.967,4,alternative
+540,A Brighter Love,St. Lucia,A Brighter Love / Paradise Is Waiting,45,332653,2018-06-22,1,0.756,0.547,4,-5.961,0,0.0334,0.0994,0.00126,0.0923,0.331,114.005,4,alternative
+541,In / Balance,San Scout,In / Balance,41,217648,2016-11-29,1,0.554,0.648,6,-7.061,1,0.207,0.0175,0.102,0.0671,0.518,85.003,4,alternative
+542,Night Running,Cage The Elephant,Night Running,64,208133,2019-03-28,1,0.602,0.946,4,-2.298,0,0.0654,0.066,1.13e-05,0.388,0.58,141.925,4,alternative
+543,Eyelids,Saro,Eyelids,45,238055,2017-07-21,1,0.62,0.684,6,-7.944,0,0.0393,0.369,0.00258,0.101,0.21,107.953,4,alternative
+544,Ride Or Die (feat. Foster The People),The Knocks,Ride Or Die (feat. Foster The People),64,242034,2018-03-09,1,0.648,0.75,0,-3.248,1,0.0335,0.0609,4.41e-06,0.104,0.556,105.03,4,alternative
+545,Revolutionary,Robert DeLong,Revolutionary,17,192727,2018-08-24,1,0.634,0.717,6,-4.326,0,0.0619,0.0134,8.49e-05,0.63,0.755,89.98,4,alternative
+546,Wave,Roseburg,Moving Away!,49,186129,2019-01-05,1,0.562,0.862,11,-3.895,0,0.0513,0.0104,0.0,0.0624,0.835,75.096,4,alternative
+547,Astronaut - Something About Your Love,Mansionair,Astronaut (Something About Your Love),28,202694,2017-10-26,1,0.721,0.583,5,-7.631,0,0.111,0.256,0.00533,0.11,0.331,106.078,4,alternative
+548,Time To Start,Charming Liars,Time To Start,35,192858,2019-02-06,1,0.568,0.841,8,-4.61,1,0.0395,0.00653,0.0,0.094,0.329,99.983,4,alternative
+549,Blood / / Water,grandson,Blood / / Water,9,216720,2017-10-27,1,0.512,0.884,6,-5.659,0,0.168,0.0016,0.00215,0.0763,0.649,154.019,4,alternative
+550,Bury Me Low,8 Graves,Bury Me Low,22,217010,2018-10-19,1,0.497,0.796,5,-5.145,1,0.0932,0.0762,4.05e-05,0.284,0.421,77.751,4,alternative
+551,HyperParadise - Flume Remix,Hermitude,Parallel Paradise,53,268302,2012-06-08,1,0.603,0.827,6,-7.372,1,0.0714,0.0453,0.619,0.0833,0.311,144.992,4,alternative
+552,Under the Sun,Roosevelt,Under the Sun,10,226586,2018-06-27,1,0.56,0.87,5,-3.881,1,0.0427,0.0316,0.0218,0.371,0.655,107.986,4,alternative
+553,Opalite,Martin Luke Brown,Opalite,42,211748,2017-09-15,1,0.728,0.664,2,-5.543,1,0.0438,0.00973,0.000515,0.37,0.105,104.021,4,alternative
+554,Solitude,JXN,Solitude,56,178000,2018-11-23,1,0.72,0.494,5,-7.779,0,0.0843,0.125,1.53e-06,0.123,0.357,161.896,3,alternative
+555,Freak Like Me,NoMBe,Freak Like Me,56,176889,2017-03-20,1,0.685,0.568,1,-6.487,1,0.0575,0.0306,2.93e-06,0.458,0.453,96.012,4,alternative
+556,Electrified,Just Loud,Episode I,53,211800,2018-06-15,2,0.732,0.732,11,-3.145,0,0.0291,0.0722,1.51e-05,0.0822,0.874,115.008,4,alternative
+557,Over Now,Post Malone,beerbongs & bentleys,76,246986,2018-04-27,7,0.559,0.761,4,-4.041,0,0.0877,0.131,1.6e-06,0.143,0.24,163.898,4,alternative
+558,Youth,Glass Animals,Youth,2,230693,2016-07-18,1,0.643,0.74,9,-7.797,0,0.0313,0.108,0.00292,0.113,0.766,96.03,4,alternative
+559,Nothing Personal,Night Riots,Nothing Personal,50,206962,2016-07-22,1,0.603,0.825,10,-3.587,0,0.0288,0.00629,2.9e-06,0.136,0.415,96.028,4,alternative
+560,Falling for the Evening,Golden Ears,Falling for the Evening,45,287439,2015-04-06,1,0.317,0.609,0,-8.282,1,0.0423,0.0223,0.0212,0.129,0.109,126.129,5,alternative
+561,Feel It All Around,Washed Out,Life Of Leisure,35,192080,2009-09-08,4,0.362,0.752,8,-4.589,1,0.0547,0.000163,0.677,0.0678,0.466,172.241,4,alternative
+562,Levitate,The Palms,Mulholland Dr.,46,229806,2017-12-08,2,0.601,0.77,1,-5.825,1,0.0936,0.142,0.00879,0.0718,0.616,170.018,4,alternative
+563,Not Human,elegant slims,Not Human,1,199386,2018-02-28,1,0.52,0.815,11,-4.758,0,0.0488,0.00172,1.92e-06,0.089,0.466,91.972,4,alternative
+564,Move,Castlecomer,Move,0,179266,2018-04-20,1,0.711,0.803,6,-5.2,0,0.0386,0.00419,1.05e-05,0.312,0.891,112.003,4,alternative
+565,Unglued,Big Data,Unglued,45,204093,2019-01-25,1,0.698,0.65,7,-4.379,1,0.0523,0.00156,0.0031,0.0975,0.789,146.999,4,alternative
+566,West Coast,Junior Empire,West Coast,45,236000,2016-06-10,1,0.59,0.748,0,-5.379,1,0.0375,0.00306,2.15e-05,0.11,0.476,95.989,4,alternative
+567,My Friends Are Robots,Arrested Youth,Fear,48,188529,2018-09-27,3,0.544,0.574,0,-8.363,0,0.0299,0.0217,0.000155,0.214,0.0902,100.059,4,alternative
+568,Follow Your Fire,Kodaline,Follow Your Fire,63,238611,2018-03-23,1,0.453,0.61,11,-6.583,0,0.0674,0.00854,0.0,0.175,0.44,176.079,4,alternative
+569,Scary Love,The Neighbourhood,Scary Love,3,223893,2017-12-04,1,0.592,0.64,5,-5.963,0,0.0309,9.48e-05,0.0651,0.124,0.135,112.034,4,alternative
+570,Hold On,SBTRKT,SBTRKT,57,206600,2011-06-27,2,0.768,0.393,0,-11.737,1,0.0399,0.229,0.375,0.0923,0.442,131.989,5,alternative
+571,Drama (feat. Big Data),NoMBe,Drama (feat. Big Data),53,218386,2018-02-22,1,0.638,0.782,5,-7.066,1,0.0656,0.0957,0.000585,0.562,0.493,99.034,4,alternative
+572,Oh My Heart,Night Riots,Howl (Deluxe Edition),49,191522,2015-10-30,1,0.469,0.894,8,-4.981,1,0.0508,3.61e-05,0.535,0.512,0.476,162.981,4,alternative
+573,ruiner,"nothing,nowhere.",ruiner,34,184333,2018-02-16,1,0.701,0.728,7,-6.268,1,0.235,0.0962,0.0,0.08,0.63,89.965,4,alternative
+574,Anything Else,MELVV,Anything Else,44,198315,2018-02-16,1,0.478,0.668,0,-5.684,0,0.1,0.0548,2.8e-05,0.0902,0.727,94.202,4,alternative
+575,Burning Man,watt,Burning Man,56,197506,2017-01-18,1,0.572,0.88,2,-2.782,1,0.0603,0.00906,1.08e-06,0.0513,0.5,158.16,4,alternative
+576,Line Of Sight (feat. WYNNE & Mansionair),ODESZA,A Moment Apart,64,237140,2017-09-08,5,0.558,0.733,8,-6.65,1,0.0693,0.0334,0.00193,0.193,0.173,89.992,4,alternative
+577,Crossfire,Stephen,Crossfire,65,270510,2015-12-07,1,0.323,0.558,5,-5.292,0,0.337,0.459,2.81e-06,0.676,0.199,73.552,4,alternative
+578,Comatose,The Brinks,Comatose,43,227982,2017-10-27,1,0.528,0.618,11,-7.52,0,0.0319,0.0293,0.0011,0.118,0.439,176.069,4,alternative
+579,Dissolve,Absofacto,Thousand Peaces,75,224660,2017-11-03,1,0.688,0.582,6,-10.668,0,0.0542,0.23,0.000157,0.0663,0.872,85.486,4,alternative
+580,GRRRLS,AViVA,GRRRLS,65,228904,2017-10-13,1,0.549,0.656,3,-6.515,1,0.0438,0.0351,1.19e-06,0.129,0.594,180.043,4,alternative
+581,Grit Your Teeth,Martin Luke Brown,Grit Your Teeth,45,232666,2018-03-16,1,0.81,0.71,5,-6.2,0,0.0574,0.117,0.00359,0.132,0.476,121.985,4,alternative
+582,Play Me Like a Violin,Stephen,Play Me Like a Violin,45,232176,2018-02-09,1,0.422,0.683,9,-5.467,1,0.184,0.658,0.0,0.122,0.608,160.024,4,alternative
+583,High And Low,Empire of the Sun,Two Vines,58,224840,2016-10-28,2,0.512,0.768,1,-4.673,1,0.045,0.0213,3.2e-06,0.0918,0.322,126.907,4,alternative
+584,Dark Days - Sofi Tukker Remix,Local Natives,Dark Days (Remixes),44,257573,2017-01-27,1,0.604,0.917,4,-5.443,0,0.0346,0.128,0.574,0.0554,0.439,120.999,4,alternative
+585,You & Me - Flume Remix,Disclosure,Settle (Special Edition),70,282812,2014-01-01,34,0.593,0.392,10,-6.872,0,0.0257,0.382,0.000114,0.131,0.25,75.065,4,alternative
+586,Young Boy,snny,Learning to Swim,2,138420,2017-09-08,2,0.647,0.737,11,-7.068,0,0.0338,0.000542,0.0196,0.15,0.278,149.963,4,alternative
+587,Gemini,PLGRMS,Gemini,40,225277,2016-09-23,1,0.495,0.714,9,-6.974,0,0.0426,0.0858,0.00107,0.38,0.352,128.994,4,alternative
+588,Wrong,NAWAS,Wrong,0,350671,2016-06-08,1,0.263,0.605,6,-7.118,0,0.036,0.0109,0.000115,0.0956,0.263,127.332,4,alternative
+589,What's Wrong,PVRIS,What's Wrong,43,298917,2017-06-13,1,0.502,0.945,1,-3.191,1,0.103,0.0514,0.00585,0.0897,0.326,100.988,4,alternative
+590,Content,Joywave,Content,0,268960,2017-04-21,1,0.498,0.638,2,-9.323,0,0.0944,0.33,0.311,0.123,0.17,107.002,4,alternative
+591,"You Say Yes, I Say Yes",VETO,Crushing Digits,1,237813,2008-05-02,4,0.744,0.67,11,-5.446,0,0.0605,0.00444,0.0577,0.0998,0.767,131.97,4,alternative
+592,Battle Sirens,Knife Party,Battle Sirens,40,244197,2016-09-09,1,0.335,0.961,9,-1.977,1,0.181,0.00194,0.533,0.269,0.0725,173.925,4,alternative
+593,Let Go,Island Club,Let Go,2,225837,2016-05-06,1,0.618,0.776,8,-4.94,0,0.0328,0.00175,0.000656,0.0698,0.669,110.043,4,alternative
+594,Free Animal,Foreign Air,Free Animal,67,180400,2015-11-17,1,0.579,0.584,5,-7.151,0,0.0438,0.0856,0.0,0.0958,0.393,80.001,4,alternative
+595,Rolling into One,Jordan Rakei,Rolling into One,50,259196,2019-05-21,1,0.742,0.699,7,-8.088,1,0.0636,0.285,0.000336,0.224,0.689,106.984,4,alternative
+596,Crowned,Cautious Clay,Crowned,23,186000,2018-08-22,1,0.816,0.554,11,-5.472,0,0.0359,0.123,0.000489,0.138,0.946,130.019,4,alternative
+597,BETTY,Jamila Woods,LEGACY! LEGACY!,50,191686,2019-05-10,1,0.7,0.601,5,-7.08,0,0.0506,0.206,4.68e-05,0.109,0.376,121.873,4,alternative
+598,single (on the weekend),marcos g,single (on the weekend),52,155533,2018-10-08,1,0.846,0.384,6,-5.943,0,0.132,0.174,0.0,0.0895,0.42,141.983,4,alternative
+599,Miss Shiney,Kaiit,Miss Shiney,56,192000,2019-05-03,1,0.749,0.566,1,-7.793,1,0.268,0.409,0.0,0.0918,0.795,72.008,5,alternative
+600,She Said,Hablot Brown,She Said,50,179310,2017-07-17,1,0.782,0.422,5,-6.464,0,0.311,0.585,8.73e-05,0.119,0.509,87.091,4,alternative
+601,In With You,Rayana Jay,In With You,43,201849,2019-02-20,1,0.526,0.431,3,-8.215,1,0.115,0.873,0.00238,0.0975,0.267,86.066,4,alternative
+602,Head Games,Harrison First,Head Games,38,177036,2019-01-23,1,0.456,0.599,0,-7.905,0,0.0719,0.179,0.00162,0.0939,0.382,169.903,4,alternative
+603,nervous,Jonah Yano,nervous,34,196071,2019-05-09,1,0.683,0.357,7,-8.744,1,0.039,0.701,0.0732,0.205,0.494,112.003,3,alternative
+604,Leave My Home,FKJ,Leave My Home,57,221772,2019-03-08,1,0.773,0.521,5,-8.921,0,0.0642,0.764,0.29,0.0811,0.879,157.959,4,alternative
+605,This Is Your World,Shy Girls,This Is Your World,18,237520,2019-01-16,1,0.797,0.362,1,-8.796,1,0.363,0.583,0.623,0.117,0.339,99.035,4,alternative
+606,Idea,The O'My's,Tomorrow,17,236571,2018-09-07,8,0.609,0.619,3,-7.189,1,0.188,0.0539,0.00146,0.0888,0.169,168.255,4,alternative
+607,Someday,Peach Tree Rascals,Someday,49,354872,2018-11-08,1,0.494,0.344,2,-9.379,1,0.0532,0.691,0.112,0.126,0.329,113.822,3,alternative
+608,Two Nights,Joy Crookes,Reminiscence EP,53,186000,2019-01-25,1,0.637,0.663,0,-6.003,0,0.058,0.0906,0.0,0.0773,0.594,159.919,4,alternative
+609,Way Back,Rayana Jay,Morning After,55,180000,2017-09-15,6,0.863,0.508,3,-7.349,0,0.0569,0.287,1.88e-05,0.0873,0.531,119.949,4,alternative
+610,Like U,Appleby,Happiness,12,220216,2018-07-27,5,0.634,0.246,9,-14.002,1,0.0628,0.294,0.0413,0.0922,0.154,171.836,4,alternative
+611,Sweet,Eddington Again,Sweet,43,281920,2019-05-07,1,0.362,0.398,8,-11.673,1,0.04,0.853,1.18e-06,0.117,0.365,127.039,3,alternative
+612,So Ill,Zanski,So Ill,42,218000,2019-04-26,1,0.724,0.44,1,-9.957,0,0.342,0.225,0.000299,0.0962,0.548,94.871,4,alternative
+613,"One, Two",((( O ))),"One, Two",48,236141,2019-05-03,1,0.618,0.28,6,-8.2,0,0.0391,0.787,0.141,0.104,0.0552,139.966,4,alternative
+614,Work,JON VINYL,Work,48,217894,2019-01-11,1,0.603,0.507,11,-6.757,1,0.147,0.476,0.0,0.146,0.432,153.913,4,alternative
+615,Someway Somehow,FARR,Someway Somehow,46,212000,2019-02-15,1,0.435,0.37,8,-7.921,1,0.0737,0.381,4.64e-06,0.496,0.296,85.141,4,alternative
+616,Say Something,Jordan Rakei,Say Something,57,160966,2019-04-23,1,0.712,0.685,10,-8.225,0,0.124,0.341,0.000739,0.212,0.836,91.04,4,alternative
+617,Something to Feel,Mac Ayres,Something to Feel,57,213535,2018-09-05,9,0.754,0.525,3,-10.004,1,0.0897,0.874,1.95e-05,0.117,0.57,72.276,4,alternative
+618,Honesty,Pink Sweat$,Would You,38,191000,2018-10-12,2,0.616,0.204,6,-11.421,0,0.0331,0.919,0.0,0.106,0.419,79.826,4,alternative
+619,Foreign Car,Kelsey Lu,Blood,51,197826,2019-04-19,6,0.57,0.485,7,-8.863,0,0.0291,0.045,3.74e-05,0.392,0.35,89.076,4,alternative
+620,Desoleil (Brilliant Corners),Loyle Carner,"Not Waving, But Drowning",62,220401,2019-04-19,8,0.826,0.483,8,-11.298,0,0.371,0.609,3.77e-05,0.145,0.116,131.883,3,alternative
+621,Lost Cause//,KennyHoopla,Lost Cause//,14,195134,2018-10-26,1,0.814,0.53,4,-10.036,0,0.119,0.223,0.0758,0.146,0.551,115.997,4,alternative
+622,Bluffin',Khalid,Free Spirit,74,199240,2019-04-05,13,0.529,0.314,0,-10.323,1,0.0461,0.354,0.000436,0.102,0.288,129.664,3,alternative
+623,Perfect Timing,Col3trane,Perfect Timing,53,220344,2019-04-12,1,0.436,0.631,6,-9.101,0,0.192,0.0527,0.0686,0.14,0.413,153.295,5,alternative
+624,Vete,Biig Piig,"A World Without Snooze, Vol. 2",51,224299,2019-03-22,4,0.665,0.292,2,-11.991,0,0.186,0.301,3.01e-06,0.0687,0.272,74.815,4,alternative
+625,Don't Know Better,The O'My's,Don't Know Better,34,176896,2019-04-26,1,0.683,0.434,1,-9.822,0,0.0544,0.283,0.00108,0.111,0.0757,92.747,4,alternative
+626,Glass House,Kyle Dion,Glass House,47,214142,2019-02-22,1,0.608,0.655,6,-5.841,0,0.0955,0.447,3.5e-05,0.558,0.564,72.882,4,alternative
+627,Navajo,Masego,Navajo,69,194157,2017-06-08,1,0.686,0.592,6,-7.398,0,0.26,0.114,1.16e-06,0.248,0.364,89.013,4,alternative
+628,Nothing New,Charlotte Day Wilson,Nothing New,53,193984,2018-01-24,1,0.464,0.347,7,-8.847,0,0.048,0.241,0.0614,0.0977,0.556,150.028,4,alternative
+629,Faded (feat. Thutmose),Alex Mali,Faded (feat. Thutmose),42,165000,2019-04-11,1,0.605,0.482,1,-11.926,0,0.0577,0.188,0.0,0.0716,0.467,159.991,4,alternative
+630,Type,Joël,Type,41,181238,2019-02-22,1,0.589,0.874,1,-4.144,1,0.0512,0.0826,5.72e-06,0.32,0.633,167.016,4,alternative
+631,If You Won’t,Rayana Jay,Love Me Like,49,190000,2019-03-22,1,0.581,0.619,6,-8.122,0,0.216,0.139,0.000793,0.0768,0.573,150.181,5,alternative
+632,Pony Fly,Matt Martians,The Last Party,45,281624,2019-04-26,5,0.507,0.691,1,-8.349,0,0.0816,0.22,0.0044,0.161,0.685,119.615,5,alternative
+633,Close But Not Quite,Everything Is Recorded,Everything Is Recorded by Richard Russell,53,205613,2018-02-16,2,0.803,0.618,7,-9.513,0,0.113,0.616,0.00165,0.512,0.563,145.992,4,alternative
+634,Higher,((( O ))),((( ~ ))),46,237875,2019-04-05,1,0.532,0.49,10,-5.575,0,0.0732,0.111,0.128,0.102,0.222,138.806,4,alternative
+635,Coming Alive,Two Another,Another Tape,60,235568,2018-10-12,3,0.577,0.37,0,-8.888,1,0.0735,0.611,2.23e-06,0.122,0.152,93.521,4,alternative
+636,Was I Not Good Enough?,Omar,Lonely,44,145669,2019-04-10,1,0.642,0.251,1,-13.259,1,0.0633,0.943,0.0013,0.265,0.111,127.024,4,alternative
+637,Rollercoaster,Ivy Sole,Rollercoaster,47,197636,2018-06-12,1,0.762,0.3,5,-11.827,0,0.114,0.405,0.00143,0.11,0.674,88.052,4,alternative
+638,Chill,Bakar,Chill,49,223293,2019-03-22,1,0.556,0.455,7,-8.417,1,0.0594,0.0201,4.24e-06,0.128,0.0915,130.926,4,alternative
+639,SOMETHING FOR NOTHING,Cautious Clay,Table of Context,41,166706,2019-03-27,6,0.425,0.402,2,-8.581,1,0.0418,0.233,8.55e-06,0.113,0.15,166.813,4,alternative
+640,Timee,Stevan,Timee,48,203777,2019-04-05,1,0.488,0.669,10,-4.919,1,0.0295,0.00651,0.735,0.169,0.753,169.91,4,alternative
+641,You've Changed,lophiile,You've Changed,46,199737,2019-02-05,1,0.685,0.468,6,-8.152,0,0.0398,0.336,0.0301,0.107,0.302,130.928,3,alternative
+642,Intlxl,Intellexual,Intlxl,37,110344,2019-04-01,1,0.507,0.63,8,-9.866,1,0.0699,0.574,0.00263,0.255,0.531,87.084,4,alternative
+643,Where There's Smoke,rum.gold,Where There's Smoke,44,273809,2018-06-22,1,0.443,0.352,6,-9.497,0,0.0391,0.423,5.26e-05,0.0806,0.234,89.785,4,alternative
+644,Call Me Up,Aolani,Call Me Up,42,262642,2018-09-21,1,0.655,0.351,11,-9.228,1,0.0403,0.626,0.00267,0.118,0.574,140.079,4,alternative
+645,Summer,Celeste,Lately - EP,46,223881,2019-03-22,4,0.634,0.247,9,-14.01,1,0.198,0.554,0.000924,0.387,0.165,159.782,4,alternative
+646,Møøn,Joe Hertz,Møøn,50,180200,2019-02-27,1,0.645,0.681,10,-7.798,1,0.0473,0.0994,0.00496,0.144,0.436,129.992,4,alternative
+647,Lovestained,Hope Tala,Lovestained,53,175280,2019-04-03,1,0.781,0.684,11,-8.083,1,0.0676,0.125,0.00277,0.122,0.585,88.966,4,alternative
+648,Steam,Shagabond,Steam,49,176000,2018-10-24,1,0.639,0.47,1,-6.939,0,0.543,0.233,0.0,0.0362,0.386,180.121,4,alternative
+649,Reason,Hablot Brown,Soulection Black Label: Hablot Brown,55,200000,2018-07-29,1,0.799,0.309,5,-8.462,0,0.165,0.164,0.00037,0.0854,0.553,89.964,4,alternative
+650,Coke & Henny Pt. 2,Pink Sweat$,Volume 2,65,157333,2019-03-28,3,0.806,0.289,1,-9.853,0,0.0389,0.609,0.0,0.105,0.457,89.958,4,alternative
+651,Dog Eyes,Dijon,Sci Fi 1,45,177400,2019-03-01,4,0.316,0.438,5,-8.132,1,0.0582,0.206,0.0,0.113,0.185,88.26,4,alternative
+652,Blue,Hope Tala,Starry Ache,38,161500,2018-10-03,1,0.818,0.496,4,-11.953,0,0.214,0.122,0.00638,0.369,0.38,95.996,4,alternative
+653,Desperately,Hajk,Drama,38,193773,2019-02-08,9,0.694,0.305,2,-13.949,1,0.107,0.486,0.00204,0.121,0.391,136.032,4,alternative
+654,Romantic Garbage,Arlo Parks,Romantic Garbage,44,171384,2019-03-20,1,0.575,0.331,7,-13.184,1,0.406,0.462,0.387,0.1,0.515,83.931,4,alternative
+655,Cut Me Down,rum.gold,yaRn,37,236453,2019-03-08,5,0.552,0.354,8,-10.451,0,0.057,0.541,8.27e-05,0.0612,0.222,79.908,4,alternative
+656,Lucky,Choker,Forever & A Few,59,251034,2019-02-08,2,0.477,0.328,4,-8.458,1,0.0658,0.906,7.36e-06,0.262,0.283,174.143,4,alternative
+657,Cut My Teeth,James Droll,Cut My Teeth,33,157113,2019-03-08,1,0.619,0.508,0,-8.955,1,0.237,0.14,6.66e-06,0.142,0.485,170.062,4,alternative
+658,Real Something (feat. ESTA.),Rayana Jay,Real Something (feat. ESTA.),54,186335,2019-03-06,1,0.529,0.449,0,-8.005,0,0.0426,0.76,2.5e-06,0.0954,0.37,80.776,3,alternative
+659,Devil's Juice,Poppy Ajudha,Devil's Juice,45,205528,2019-03-15,1,0.484,0.802,4,-5.552,0,0.17,0.179,0.0,0.109,0.58,179.816,4,alternative
+660,Slip,AMA,Slip,46,151920,2019-02-21,1,0.874,0.449,6,-4.095,0,0.163,0.0646,4.4e-06,0.168,0.879,135.003,4,alternative
+661,Drunk,Dijon,Drunk,57,191750,2019-02-27,1,0.472,0.431,10,-6.593,1,0.0614,0.0687,0.0,0.215,0.284,123.799,4,alternative
+662,SOS,McClenney,SOS,49,187241,2019-02-19,1,0.697,0.251,1,-13.628,0,0.039,0.572,0.00394,0.122,0.555,72.95,4,alternative
+663,Limbo,Joesef,Limbo,50,224682,2019-02-22,1,0.358,0.76,5,-7.725,1,0.14,0.407,0.00203,0.256,0.741,86.799,4,alternative
+664,Midas Touch,Zacari,Midas Touch,51,182924,2019-03-01,1,0.572,0.682,1,-7.171,0,0.322,0.0124,0.0047,0.219,0.313,146.905,4,alternative
+665,Petrol Bliss,Choker,Mono No Moto,52,189295,2019-01-25,1,0.778,0.291,0,-10.355,1,0.106,0.84,8.23e-05,0.66,0.353,142.015,4,alternative
+666,Easy,Mac Ayres,Drive Slow,71,314357,2017-08-11,8,0.722,0.282,5,-7.484,1,0.106,0.373,0.00557,0.147,0.217,91.367,4,alternative
+667,Yuyu,((( O ))),Yuyu,43,177431,2019-02-21,1,0.8,0.304,1,-7.541,1,0.0499,0.687,0.00505,0.0991,0.103,102.902,4,alternative
+668,Only Child,Tierra Whack,Only Child,64,239324,2019-02-19,1,0.826,0.365,1,-7.024,1,0.0412,0.849,3.8e-06,0.186,0.802,85.244,4,alternative
+669,Bruises and Satin - Demo,Sophie Meiers,Wingspan (Demos),55,183312,2019-01-08,4,0.79,0.245,0,-14.835,1,0.0445,0.6,0.334,0.73,0.248,111.99,4,alternative
+670,Mind’s Eye,Jordan Rakei,Mind’s Eye,58,246087,2019-02-26,1,0.485,0.534,0,-10.259,0,0.193,0.451,0.00291,0.185,0.163,123.047,4,alternative
+671,Blue Jeans,No Suits,Blue Jeans,38,189246,2019-02-22,1,0.595,0.786,8,-5.051,1,0.0483,0.0117,0.0899,0.0713,0.678,146.011,4,alternative
+672,Best Is Yet To Come,Savannah Ré,Best Is Yet To Come,42,141440,2018-10-05,1,0.471,0.439,7,-5.854,1,0.0679,0.234,0.00214,0.092,0.121,102.162,5,alternative
+673,Arouse,Noah,Arouse,45,213913,2018-08-03,1,0.67,0.751,1,-6.066,1,0.433,0.0728,0.0,0.368,0.533,91.961,4,alternative
+674,Starchild,Elujay,Starchild,54,190152,2018-05-11,1,0.503,0.615,10,-6.545,0,0.232,0.125,0.00014,0.0881,0.494,82.533,4,alternative
+675,Cruisin',Quincy Mumford,Cruisin',40,165373,2019-02-08,1,0.627,0.315,4,-9.74,1,0.0619,0.61,0.0,0.158,0.219,86.004,4,alternative
+676,Ballin,Parisalexa,Flexa,46,213000,2018-06-08,2,0.705,0.371,8,-9.398,1,0.157,0.163,1.12e-06,0.0718,0.541,74.931,4,alternative
+677,Love.mp3,EJ Marais,Love.mp3,33,197875,2019-02-06,1,0.875,0.634,5,-7.467,0,0.0486,0.0752,0.0315,0.435,0.451,120.026,4,alternative
+678,Father's Son,Celeste,Father's Son,33,195614,2019-01-21,1,0.682,0.474,9,-4.975,0,0.0308,0.459,0.0,0.122,0.328,62.506,4,alternative
+679,Into You,Amilli,Into You,39,161694,2019-01-18,1,0.594,0.135,0,-13.25,1,0.0413,0.778,1.48e-06,0.101,0.0759,59.011,4,alternative
+680,Popstar,Ryahn,Popstar,38,216000,2018-10-23,1,0.604,0.756,1,-6.442,0,0.153,0.78,0.0,0.0825,0.56,130.113,4,alternative
+681,I Wish I Missed My Ex,Mahalia,I Wish I Missed My Ex,69,205263,2018-05-31,1,0.68,0.62,0,-5.117,1,0.0607,0.319,1.14e-06,0.158,0.537,95.078,4,alternative
+682,Delilah,Aeris Roves,Moon By Island Gardens,54,187253,2018-11-02,2,0.814,0.435,7,-8.422,1,0.0684,0.814,1.62e-06,0.105,0.416,98.049,4,alternative
+683,Wolverine,Diana Gordon,Pure,46,212440,2018-08-03,1,0.712,0.504,7,-6.95,1,0.044,0.0346,0.000955,0.185,0.078,129.994,4,alternative
+684,Cold War,Cautious Clay,Blood Type,43,203317,2018-02-21,6,0.636,0.556,6,-8.994,0,0.0539,0.194,0.137,0.1,0.363,77.108,4,alternative
+685,Hibernate,Laura Misch,Hibernate,40,226099,2019-01-11,1,0.608,0.36,0,-12.573,1,0.039,0.735,0.852,0.0797,0.108,89.977,4,alternative
+686,Queen Tings,Masego,Queen Tings,47,188053,2018-09-05,1,0.818,0.461,6,-6.475,0,0.292,0.598,0.000135,0.108,0.532,88.006,4,alternative
+687,Moment,Sophie Meiers,Chrysalis,41,154838,2018-11-08,1,0.558,0.514,7,-6.368,0,0.224,0.889,1.4e-06,0.0965,0.113,122.703,4,alternative
+688,No More,Andrea Valle,No More,38,186000,2019-01-10,1,0.61,0.335,2,-10.814,1,0.156,0.831,0.0,0.112,0.211,79.903,4,alternative
+689,Places,Isabelle Brown,Places,38,167649,2018-11-07,1,0.657,0.406,5,-9.661,0,0.0331,0.0449,2.14e-05,0.543,0.654,84.0,4,alternative
+690,Due West,Kelsey Lu,Due West,49,251573,2018-11-09,1,0.304,0.635,6,-7.261,0,0.0793,0.46,0.0,0.206,0.156,78.785,4,alternative
+691,Always Wonder,Lil Silva,Always Wonder,48,223906,2018-10-11,1,0.584,0.529,3,-10.038,0,0.0416,0.724,0.0968,0.0753,0.645,142.999,4,alternative
+692,Spiral (feat. WYNNE),AUGUST 08,Spiral (feat. WYNNE),37,199574,2018-11-14,1,0.494,0.464,4,-7.766,0,0.0464,0.286,3.24e-06,0.121,0.144,166.942,4,alternative
+693,Free Again,Arima Ederra,Free Again,39,159650,2018-10-10,1,0.601,0.635,4,-10.057,1,0.0718,0.378,0.00113,0.0728,0.689,170.924,5,alternative
+694,Planet U,Mereba,Planet U,18,201173,2018-09-28,1,0.535,0.566,6,-10.577,0,0.25,0.227,0.00422,0.116,0.34,75.978,4,alternative
+695,Gimme Shelter,The Rolling Stones,Let It Bleed,22,270773,1969-12-05,1,0.63,0.616,1,-8.128,0,0.0309,0.463,0.0408,0.173,0.509,118.65,4,alternative
+696,All Along the Watchtower,Jimi Hendrix,Electric Ladyland,76,240800,1968-10-25,15,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253,4,alternative
+697,Fortunate Son,Creedence Clearwater Revival,Willy And The Poor Boys (40th Anniversary Edition),22,140773,1969-11-02,6,0.643,0.669,0,-7.485,1,0.0398,0.208,0.00664,0.151,0.609,132.709,4,alternative
+698,All Day and All of the Night,The Kinks,Kinks (Deluxe Edition),9,142226,1964-02-02,23,0.563,0.915,7,-5.062,1,0.08,0.247,8.46e-05,0.0613,0.71,136.345,4,alternative
+699,She's Not There,The Zombies,The Zombies,11,145306,1966-01-01,12,0.517,0.535,4,-8.331,0,0.0441,0.656,0.0,0.0743,0.777,132.08,4,alternative
+700,The House of the Rising Sun,The Animals,The Singles Plus,71,269906,1987-10-19,3,0.316,0.484,9,-9.11,0,0.0308,0.000334,0.00445,0.0912,0.299,117.363,3,alternative
+701,White Rabbit,Jefferson Airplane,Surrealistic Pillow,68,150640,1967,10,0.551,0.293,2,-12.503,1,0.0272,0.486,0.000273,0.0864,0.322,106.798,4,alternative
+702,Send Me A Postcard,Shocking Blue,Scorpio's Dance,48,160826,1970,11,0.344,0.81,11,-8.098,1,0.0448,0.0017,0.000409,0.119,0.667,153.801,4,alternative
+703,"Liar, Liar",Various Artists,20th Century Rocks: 60's Rock Bands - Wild Thing,5,110493,2001-07-01,5,0.465,0.484,7,-13.882,0,0.0345,0.831,0.78,0.248,0.807,146.007,4,alternative
+704,Gloria - Stereo Version,Them,Gold (International Version),33,156106,2005-01-01,3,0.646,0.813,9,-6.733,1,0.0434,0.528,0.00786,0.178,0.711,129.378,4,alternative
+705,I Fought The Law,The Bobby Fuller Four,Never To Be Forgotten - The Mustang Years,54,138360,1998,43,0.593,0.804,7,-5.497,1,0.0319,0.105,2.22e-06,0.047,0.962,148.959,4,alternative
+706,For What It's Worth,Buffalo Springfield,Buffalo Springfield,73,153693,1966-12-05,1,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883,4,alternative
+707,I Can't Explain - Mono Version,The Who,I Can't Explain (Mono Version),6,125320,2016-10-21,1,0.567,0.69,9,-4.918,1,0.0768,0.0382,0.0,0.149,0.836,139.105,4,alternative
+708,96 Tears,Various Artists,Cameo Parkway 1957-1967 (Original Hit Recordings),6,177426,2005-01-01,16,0.68,0.507,7,-5.929,1,0.0336,0.0586,6.49e-06,0.0754,0.854,123.47,4,alternative
+709,Have Love Will Travel,The Sonics,Here Are the Sonics,57,160400,1965,6,0.506,0.948,10,-5.626,1,0.105,0.727,0.0,0.0904,0.934,130.195,4,alternative
+710,Laisse tomber les filles,France Gall,Best Of,52,127160,1992-01-01,5,0.659,0.57,2,-12.29,1,0.0321,0.557,1.42e-06,0.2,0.962,132.727,4,alternative
+711,Communication Breakdown - 2014 Remaster,Led Zeppelin,Led Zeppelin (Remastered),50,150200,1969-01-12,7,0.375,0.956,2,-7.078,1,0.175,0.144,7.6e-06,0.417,0.381,175.04,4,alternative
+712,Over Under Sideways Down - The Mono Album,The Yardbirds,Roger the Engineer,47,142506,1966-07-15,4,0.529,0.861,11,-10.581,1,0.0784,0.292,0.225,0.314,0.387,96.52,4,alternative
+713,Louie Louie,The Kingsmen,The Best of The Kingsmen,66,165381,2006-01-31,1,0.623,0.709,1,-9.818,0,0.0636,0.102,0.0,0.0967,0.948,122.394,4,alternative
+714,See Emily Play - 1996 Remastered Version,Pink Floyd,Relics (1996 Remastered Version),40,173800,1996-02-26,3,0.456,0.71,2,-9.205,1,0.0361,0.205,6.4e-06,0.13,0.411,124.022,4,alternative
+715,Tomorrow Never Knows - Remastered,The Beatles,Revolver (Remastered),5,179546,1966-08-05,14,0.38,0.829,5,-6.105,1,0.0405,8.4e-05,0.00208,0.342,0.0534,125.887,4,alternative
+716,Wipe Out,The Surfaris,Wipe Out (Original Album Plus Bonus Tracks),4,138400,2013-09-21,1,0.338,0.777,0,-6.916,1,0.0365,0.237,0.879,0.379,0.433,154.174,4,alternative
+717,I'm Waiting For The Man - Album Version (Stereo),The Velvet Underground,The Velvet Underground & Nico 45th Anniversary (Deluxe Edition),3,279520,1967-03-12,2,0.68,0.632,7,-9.642,1,0.0469,0.027,0.868,0.146,0.863,125.894,4,alternative
+718,Space Oddity - 2015 Remastered Version,David Bowie,David Bowie (aka Space Oddity) [2015 Remastered Version],71,318813,1969-11-04,1,0.299,0.443,0,-12.621,1,0.0346,0.0748,0.000138,0.177,0.434,139.539,4,alternative
+719,Itchycoo Park,Small Faces,Small Faces: The Singles Collection,43,172746,1999-01-01,1,0.601,0.596,9,-8.029,1,0.0734,0.395,2.34e-06,0.451,0.503,128.168,4,alternative
+720,Fire,Arthur Brown,The Crazy World Of Arthur Brown,46,174160,1968,8,0.439,0.882,5,-9.036,0,0.087,0.541,0.671,0.793,0.317,138.551,4,alternative
+721,I Wanna Be Your Dog,The Stooges,The Stooges,60,188560,1969-08-05,2,0.527,0.871,4,-8.708,1,0.0354,0.0229,0.155,0.419,0.107,120.722,4,alternative
+722,Sunshine Of Your Love,Cream,Disraeli Gears (Remastered),12,250000,1967-11-02,2,0.684,0.481,2,-12.59,1,0.0384,0.475,6.57e-05,0.118,0.784,115.078,4,alternative
+723,I'm A Man,The Spencer Davis Group,I'm A Man / I Can't Get Enough Of It,6,176160,1967,1,0.55,0.929,9,-5.765,1,0.0815,0.038,0.0,0.135,0.643,129.011,4,alternative
+724,Seven and Seven Is (LP) - Version,Love,Da Capo,31,139160,1966-11-01,4,0.453,0.788,9,-9.23,0,0.0341,0.00438,0.000121,0.131,0.55,78.504,4,alternative
+725,Piece Of My Heart,Janis Joplin,Janis,6,266240,1993-11-23,21,0.429,0.665,4,-9.681,1,0.14,0.406,0.00011,0.409,0.543,160.499,4,alternative
+726,Making Time,The Creation,Our Music Is Red - With Purple Flashes,36,178066,1999-05-04,1,0.432,0.917,2,-7.067,1,0.12,0.111,3.48e-06,0.112,0.45,70.947,4,alternative
+727,Misirlou,Dick Dale and his Del-Tones,Greatest Hits 1961 - 1976,44,160840,1992,4,0.423,0.896,4,-9.555,1,0.0368,0.0914,0.668,0.35,0.732,99.156,4,alternative
+728,"Mini, mini, mini",Jacques Dutronc,"Et moi, et moi, et moi",39,114773,1966,12,0.773,0.483,9,-9.303,1,0.0818,0.0166,0.0,0.0907,0.755,166.116,4,alternative
+729,Can't Seem To Make You Mine,The Seeds,The Seeds,48,185480,1966,1,0.699,0.384,7,-13.691,1,0.044,0.148,0.0,0.121,0.584,109.573,4,alternative
+730,Dirty Water,Various Artists,Fever Pitch (Original Motion Picture Soundtrack),4,169160,2005-01-01,1,0.651,0.819,4,-4.889,1,0.0403,0.0284,0.0,0.0654,0.781,143.382,4,alternative
+731,Incense And Peppermints,Strawberry Alarm Clock,Incense And Peppermints,3,167453,1967,9,0.491,0.649,4,-11.115,1,0.0305,0.0405,0.0,0.0851,0.681,133.174,4,alternative
+732,Pretty Big Mouth,Count Five,Psychotic Reaction,2,129120,1966-01-01,2,0.587,0.573,4,-8.073,1,0.0383,0.0208,0.315,0.199,0.686,137.315,4,alternative
+733,I Had Too Much to Dream (Last Night),The Electric Prunes,I Had Too Much To Dream (Last Night),46,178266,1967,1,0.341,0.714,2,-7.998,0,0.0404,0.354,0.0,0.31,0.412,147.604,4,alternative
+734,Friday On My Mind,The Easybeats,Easy,56,163293,1965-01-01,18,0.374,0.991,9,-1.101,1,0.0813,0.38,0.000719,0.0929,0.51,95.105,4,alternative
+735,(We Ain't Got) Nothin' Yet,Various Artists,60's Gold,2,134853,2006-01-01,2,0.41,0.904,0,-7.98,0,0.0537,0.119,4.61e-05,0.078,0.832,148.597,4,alternative
+736,Funnel Of Love,Wanda Jackson,Let's Have A Party (The Very Best Of Wanda Jackson),4,131039,2011-05-03,11,0.598,0.675,0,-8.566,1,0.0398,0.541,0.0,0.286,0.928,135.102,4,alternative
+737,I Want Candy,The Strangeloves,I Want Candy: The Best Of The Strangeloves,42,177506,1965,4,0.669,0.848,8,-10.072,0,0.03,0.0273,0.0869,0.0881,0.661,102.048,4,alternative
+738,Psychotic Reaction,Various Artists,60s Garage Rock Nuggets,1,121720,2010-02-01,8,0.234,0.832,10,-6.622,1,0.0476,0.00275,0.166,0.321,0.831,159.043,4,alternative
+739,Light My Fire,The Doors,The Doors,70,429760,1967-01-04,6,0.413,0.725,3,-5.787,0,0.0324,0.369,2.16e-05,0.0905,0.44,124.618,4,alternative
+740,I'm Five Years Ahead of My Time,The Third Bardo,I'm Five Years Ahead Of My Time,31,134906,1967,1,0.414,0.731,9,-6.855,1,0.0327,0.0574,2.8e-06,0.138,0.579,126.111,4,alternative
+741,Turn! Turn! Turn! (To Everything There Is a Season),The Byrds,Turn! Turn! Turn!,66,229360,1965-12-06,1,0.452,0.818,2,-8.124,1,0.0439,0.135,2.72e-05,0.052,0.755,124.474,4,alternative
+742,Can't Find My Way Home,Blind Faith,Blind Faith,7,196640,1969-01-01,2,0.556,0.249,2,-17.875,1,0.0339,0.917,0.0188,0.113,0.518,87.715,4,alternative
+743,Debora,T. Rex,Get It On: The Collection,19,187760,2011-01-01,7,0.215,0.709,10,-7.4,1,0.0355,0.847,0.000237,0.125,0.553,166.15,3,alternative
+744,Pictures of Matchstick Men - Mono Version,Status Quo,Picturesque Matchstickable Messages from the Status Quo,51,190600,1968-09-27,12,0.241,0.604,7,-3.817,1,0.0313,0.0672,4.98e-05,0.0541,0.417,173.134,4,alternative
+745,Zig Zag Wanderer,Captain Beefheart & His Magic Band,Safe As Milk,44,158800,1967,2,0.428,0.843,9,-7.655,1,0.0747,0.058,0.0334,0.115,0.885,143.758,4,alternative
+746,The Weight - Remastered,The Band,Music From Big Pink (Expanded Edition),23,278626,1968-07-01,5,0.63,0.519,9,-10.997,1,0.0528,0.225,4.3e-06,0.0974,0.502,143.942,4,alternative
+747,These Days,Nico,Chelsea Girl,14,210666,1967-10,2,0.406,0.131,5,-17.668,1,0.0315,0.989,0.275,0.102,0.203,93.196,4,alternative
+748,You're Gonna Miss Me (2008 Remastered Original Mono LP Version),The 13th Floor Elevators,The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster,48,146737,2010,1,0.428,0.923,2,-4.454,0,0.123,0.0108,0.436,0.0985,0.681,151.005,4,alternative
+749,Crimson and Clover,Tommy James & The Shondells,Anthology,57,209640,1989,19,0.408,0.692,11,-9.478,1,0.0685,0.235,0.0255,0.197,0.684,82.499,4,alternative
+750,Waitin' Around To Die,Townes Van Zandt,For The Sake Of The Song,39,145586,1968,5,0.614,0.464,9,-14.047,0,0.0397,0.512,3.7e-06,0.142,0.462,102.355,4,alternative
+751,A Whiter Shade Of Pale,Procol Harum,A Whiter Shade Of Pale,21,248946,1967-05-12,1,0.249,0.66,0,-6.905,1,0.0342,0.504,0.0026,0.0891,0.435,149.813,4,alternative
+752,Telstar,The Tornados,Telstar,42,195093,1962-08-17,1,0.196,0.751,9,-7.39,1,0.0405,0.00252,0.667,0.378,0.629,145.719,4,alternative
+753,Surfin' Bird,The Trashmen,Surfin' Bird Bird Dance Beat,3,134560,2008-10-17,1,0.57,0.991,4,-9.384,1,0.0652,0.0506,1.85e-05,0.43,0.72,101.461,4,alternative
+754,Johnny Remember Me,Various Artists,Telstar: The Joe Meek Story OST,2,158266,2009-01-01,2,0.321,0.84,2,-6.106,0,0.0891,0.273,1.39e-05,0.0869,0.485,144.392,4,alternative
+755,Season of the Witch - 2005 Remastered Version; Mono,Donovan,Sunshine Superman,2,298266,1966-09,6,0.492,0.53,2,-8.351,1,0.0308,0.151,0.0113,0.047,0.667,99.237,4,alternative
+756,Shifting Sands,The West Coast Pop Art Experimental Band,Part One,50,234600,1967,1,0.226,0.585,2,-9.965,1,0.0343,0.128,0.0233,0.112,0.655,180.495,3,alternative
+757,Complication,The Monks,Black Monk Time,32,142613,1966-03-01,7,0.476,0.731,0,-7.658,1,0.148,0.484,0.000392,0.129,0.613,126.8,4,alternative
+758,Lies (are breaking my heart),The Knickerbockers,Greatest Hits,33,165360,1965-01-01,1,0.491,0.696,9,-10.114,1,0.0301,0.707,0.0,0.211,0.893,144.765,4,alternative
+759,Magic Carpet Ride,Steppenwolf,The Second,8,271573,1968-10-01,7,0.64,0.651,4,-14.981,0,0.0517,0.142,0.28,0.0341,0.801,111.676,4,alternative
+760,Maggie's Farm,Bob Dylan,Bringing It All Back Home,46,234626,1965-03-22,3,0.415,0.72,7,-11.177,1,0.0492,0.481,0.0,0.185,0.619,176.785,4,alternative
+761,Kick Out The Jams (Original Uncensored Version),MC5,The Anthology 1965-1971,43,183823,2008-01-01,1,0.345,0.811,1,-11.948,0,0.0654,0.0606,0.0466,0.357,0.625,142.834,4,alternative
+762,Egyptian Shumba,The Tammys,Egyptian Shumba,34,137145,2013-10-21,1,0.338,0.794,0,-7.015,0,0.0432,0.0181,0.482,0.192,0.879,168.48,4,alternative
+763,Light Flight,Pentangle,Basket of Light,39,194333,1969-10-01,1,0.516,0.494,7,-11.077,0,0.0311,0.403,0.0102,0.112,0.814,89.452,3,alternative
+764,Oscillations,Silver Apples,Silver Apples,1,167200,1968,1,0.492,0.553,9,-8.6,1,0.0397,0.406,0.000105,0.163,0.431,125.936,4,alternative
+765,"So Long, Marianne",Leonard Cohen,Songs Of Leonard Cohen,57,340560,1967-12-27,6,0.543,0.395,9,-11.396,1,0.0267,0.701,4.24e-05,0.0961,0.231,94.872,3,alternative
+766,She's a Lover,The Pretty Things,Parachute,3,212066,1999-01-01,11,0.439,0.795,2,-9.424,1,0.0314,0.00407,0.00114,0.296,0.789,84.846,4,alternative
+767,A Minha Menina,Os Mutantes,"""Os Mutantes""",5,284986,1968-01-01,2,0.455,0.93,7,-3.21,1,0.126,0.0568,0.0,0.464,0.429,91.41,4,alternative
+768,Terry,Twinkle,Golden Lights,34,191493,1964-01-01,1,0.603,0.506,9,-9.531,1,0.0391,0.213,0.0,0.0553,0.735,124.953,4,alternative
+769,Bonnie And Clyde,Serge Gainsbourg,Bonnie And Clyde,5,255893,1968,1,0.415,0.644,5,-10.572,1,0.0442,0.0162,0.00104,0.109,0.634,97.494,4,alternative
+770,Trouble Every Day,Frank Zappa,Freak Out!,40,350053,1966-06-27,12,0.311,0.775,2,-12.683,1,0.076,0.506,0.0,0.897,0.477,121.352,4,alternative
+771,21st Century Schizoid Man - Written By King Crimson,We Hunt Buffalo,We Hunt Buffalo,2,254746,2011-08-26,7,0.213,0.859,0,-7.611,1,0.0495,0.012,0.673,0.102,0.492,145.553,4,alternative
+772,Death Cab For Cutie - 2007 Remastered Version,The Bonzo Dog Band,Gorilla,34,174186,1967,7,0.544,0.341,0,-10.34,1,0.0293,0.877,0.0493,0.183,0.566,123.598,3,alternative
+773,The Hedgehog's Song - 2010 Remaster,The Incredible String Band,The 5000 Spirits Or The Layers Of The Onion,37,207240,1967,8,0.675,0.444,6,-11.795,1,0.0711,0.842,0.0,0.139,0.65,137.951,4,alternative
+774,Philosophy of the World,The Shaggs,Philosophy of the World,33,177840,2016-02-26,1,0.393,0.649,4,-9.103,0,0.0541,0.69,0.0,0.159,0.697,114.054,4,alternative
+775,Love Will Tear Us Apart,Joy Division,The Best Of,69,206866,2008-03-20,9,0.443,0.956,2,-6.198,1,0.0511,5.24e-05,0.825,0.135,0.909,146.754,4,alternative
+776,Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version,Buzzcocks,Love Bites (Special Edition),9,163693,1978-09-22,2,0.266,0.831,4,-9.07,1,0.0453,0.000862,0.0,0.0555,0.778,175.514,4,alternative
+777,Hong Kong Garden,Siouxsie and the Banshees,The Scream (Remastered & Expanded),5,175906,1978,11,0.614,0.721,0,-8.962,1,0.0322,0.000642,0.0817,0.167,0.708,146.629,4,alternative
+778,Psycho Killer - 2005 Remaster,Talking Heads,Talking Heads 77 (Deluxe Version),70,261413,1977-09-16,10,0.721,0.521,2,-8.123,1,0.0612,0.0707,0.00552,0.127,0.942,123.118,4,alternative
+779,Sound and Vision - 1999 Remastered Version,David Bowie,Low,13,184533,1977-01-14,4,0.657,0.732,2,-10.007,1,0.0399,0.00146,0.412,0.146,0.835,106.213,4,alternative
+780,20th Century Boy - 2012 Remaster,T. Rex,Tanx (The Visconti Master),48,218665,1973-03-16,19,0.426,0.954,9,-6.121,1,0.0474,0.00144,0.0,0.149,0.721,135.302,4,alternative
+781,Another Girl Another Planet,The Only Ones,Another Girl Another Planet The Best Of,46,180093,2006-10-28,1,0.325,0.688,4,-12.473,1,0.117,0.179,0.000104,0.137,0.378,156.349,4,alternative
+782,The Passenger,Iggy Pop,Lust For Life,23,284066,1977-09-09,4,0.5,0.846,0,-8.098,1,0.0457,0.0797,0.0,0.241,0.738,134.937,4,alternative
+783,Hanging Around - 1996 Remaster,The Stranglers,Rattus Norvegicus,47,265400,1977,5,0.598,0.75,0,-6.76,1,0.0433,0.00599,0.000789,0.117,0.833,132.418,4,alternative
+784,The Model - 2009 Remastered Version,Kraftwerk,The Man Machine (2009 Remastered Version),57,220533,1978,4,0.708,0.683,4,-7.768,0,0.0344,0.00122,0.643,0.121,0.463,123.602,4,alternative
+785,Walk On the Wild Side,Lou Reed,Transformer,73,254173,1972-12-01,5,0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522,4,alternative
+786,London Calling - Remastered,The Clash,London Calling,71,200480,1979,1,0.651,0.801,0,-7.34,1,0.0513,0.123,0.0,0.0825,0.776,133.763,4,alternative
+787,Anarchy In The UK,Sex Pistols,"Never Mind The Bollocks, Here’s The Sex Pistols",59,212480,1977-10-27,8,0.359,0.949,0,-7.649,1,0.101,0.0556,0.000396,0.236,0.212,134.118,4,alternative
+788,Teenage Kicks,The Undertones,The Undertones (30th Anniversary Edition),45,148480,1979-05-13,15,0.415,0.782,2,-6.745,1,0.0461,0.0011,0.0,0.14,0.564,135.029,4,alternative
+789,Sheena Is a Punk Rocker - 2001 Remaster,Ramones,Rocket To Russia: Expanded And Remastered,31,169893,1977-11-04,6,0.481,0.93,0,-6.046,1,0.0342,0.106,0.000531,0.0878,0.877,176.167,4,alternative
+790,Ça Plane Pour Moi,Plastic Bertrand,Ça Plane Pour Moi,47,179506,2008-05-27,2,0.489,0.788,10,-11.654,1,0.0452,0.176,7.98e-05,0.196,0.88,165.877,4,alternative
+791,Immigrant Song - Remaster,Led Zeppelin,Led Zeppelin III (Remastered),77,146250,1970,1,0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937,4,alternative
+792,Virginia Plain,Roxy Music,Roxy Music (Remastered),50,178375,1972-06-01,4,0.588,0.708,6,-7.823,1,0.0351,0.445,3.94e-05,0.293,0.579,131.197,4,alternative
+793,This Town Ain't Big Enough For Both Of Us,Sparks,Kimono My House,37,185826,1974-05,1,0.462,0.703,2,-12.691,1,0.0663,0.358,0.000477,0.332,0.691,129.821,4,alternative
+794,Cars,Gary Numan,The Pleasure Principle,62,238906,1979,9,0.542,0.578,2,-8.755,1,0.0404,0.00967,5.97e-05,0.0674,0.809,128.0,4,alternative
+795,Lola - Remastered,The Kinks,Lola Versus Powerman and the Moneygoround / Percy,59,242026,1970-11-27,5,0.468,0.839,9,-7.39,1,0.0365,0.459,0.461,0.151,0.935,151.842,4,alternative
+796,Wuthering Heights,Kate Bush,The Kick Inside,65,269066,1978-02-17,6,0.481,0.392,1,-11.381,1,0.0312,0.366,0.0452,0.124,0.52,124.572,4,alternative
+797,Brown Sugar,The Rolling Stones,Sticky Fingers (Remastered),13,228666,1971-04-23,1,0.633,0.934,0,-3.594,1,0.0344,0.219,0.00021,0.0592,0.963,128.606,4,alternative
+798,Dreaming - Remastered,Blondie,Eat To The Beat,39,188081,1979-10-01,1,0.343,0.901,2,-5.373,1,0.0419,0.00244,0.000147,0.0801,0.798,161.69,4,alternative
+799,Cool For Cats,Squeeze,Cool For Cats,4,219826,1979-01-01,12,0.793,0.751,0,-15.292,1,0.164,0.216,0.00344,0.309,0.967,144.148,4,alternative
+800,Rock Lobster,The B-52's,B-52's,45,412032,1979-01-01,4,0.613,0.82,8,-11.454,1,0.051,0.0453,0.0251,0.0461,0.482,92.349,4,alternative
+801,Lucky Number,Lene Lovich,Stateless,34,171093,2007-01-02,1,0.669,0.733,5,-10.495,1,0.0494,0.0205,0.000224,0.042,0.833,153.778,4,alternative
+802,Make Me Smile (Come up and See Me),Steve Harley,Face to Face (A Live Recording),2,404600,1977-07-01,15,0.327,0.905,0,-6.678,1,0.5,0.236,0.000106,0.653,0.271,135.294,4,alternative
+803,The Eton Rifles - Single Edit,The Jam,Setting Sons (Deluxe),1,208041,1979-11-17,15,0.424,0.873,9,-6.13,0,0.0434,0.00451,0.0202,0.109,0.82,157.403,4,alternative
+804,Germ Free Adolescents,X-Ray Spex,Germ Free Adolescents: The Anthology,41,194266,2001,7,0.832,0.704,7,-8.973,1,0.0707,0.201,0.0377,0.0937,0.905,128.41,4,alternative
+805,All the Young Dudes,Mott The Hoople,All The Young Dudes,63,211066,1972,3,0.429,0.668,4,-7.539,0,0.044,0.208,0.0,0.538,0.398,77.737,4,alternative
+806,Let's Stick Together,Bryan Ferry,Let's Stick Together (Remastered 1999),51,179160,1976,1,0.785,0.892,9,-4.71,1,0.0356,0.0711,0.00051,0.113,0.974,120.115,4,alternative
+807,Brass in Pocket - 2006 Remaster,Pretenders,Pretenders [Expanded & Remastered],62,185960,1980-01-11,10,0.751,0.703,9,-5.687,1,0.0287,0.368,0.00123,0.196,0.907,97.931,4,alternative
+808,Into The Valley,Skids,Scared To Dance,42,199466,1979-01-01,1,0.332,0.707,7,-12.698,1,0.0361,1.2e-05,0.00612,0.11,0.652,144.815,4,alternative
+809,"Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",Pink Floyd,The Wall [2011 - Remaster] (2011 Remastered Version),16,238746,1979-11-30,5,0.694,0.394,0,-15.881,1,0.0428,0.0781,0.000677,0.247,0.719,104.126,4,alternative
+810,Jilted John - Single Version,Jilted John,True Love Stories,39,175400,1999-09-13,14,0.351,0.883,0,-6.952,1,0.0562,0.0363,0.0,0.499,0.88,195.666,4,alternative
+811,(Don't Fear) The Reaper,Blue Öyster Cult,Agents Of Fortune,74,308120,1976,3,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000211,0.297,0.382,141.47,4,alternative
+812,Is She Really Going Out With Him?,Joe Jackson,Look Sharp! (Remastered),5,215066,1979-01-05,3,0.874,0.318,3,-6.869,1,0.0454,0.0353,1.69e-05,0.217,0.919,116.117,4,alternative
+813,New Rose,The Damned,Damned Damned Damned (30th Anniversary Expanded Edition),47,162240,1977-02-18,7,0.19,0.964,1,-7.711,0,0.101,0.00549,3.93e-05,0.33,0.295,173.578,4,alternative
+814,Sex & Drugs & Rock & Roll,Ian Dury,New Boots And Panties (Deluxe Edition),45,187573,1977,11,0.835,0.711,9,-11.249,1,0.0417,0.499,0.0,0.0663,0.925,104.892,4,alternative
+815,10:15 Saturday Night,The Cure,Three Imaginary Boys,33,223773,1979-05-11,1,0.656,0.279,0,-17.282,1,0.13,0.00366,0.0282,0.0952,0.325,174.1,4,alternative
+816,Alternative Ulster,Stiff Little Fingers,Inflammable Material,48,163880,1979,12,0.439,0.971,11,-5.855,0,0.177,0.0148,1.34e-05,0.255,0.24,118.369,4,alternative
+817,Silver Machine - Original Single Version;Live At The Roundhouse London; 1996 Remastered Version,Hawkwind,In Search Of Space,53,279973,1971,8,0.31,0.874,1,-11.889,1,0.152,0.000416,0.712,0.0695,0.096,131.717,4,alternative
+818,Cherry Bomb,The Runaways,The Runaways,68,138706,1976,1,0.492,0.835,11,-8.072,1,0.0769,0.0635,2.09e-05,0.135,0.488,136.814,4,alternative
+819,Personality Crisis,New York Dolls,New York Dolls,1,221506,1973-01-01,1,0.429,0.914,7,-9.594,1,0.0505,0.0321,9.26e-05,0.436,0.685,155.588,4,alternative
+820,Ooh La La - 2015 Remaster,Faces,The Best Of Faces: Good Boys When They're Asleep,67,214960,2005-04-19,16,0.603,0.494,2,-10.27,1,0.0301,0.428,0.000171,0.0894,0.729,147.814,4,alternative
+821,Rock & Roll - 2015 Remastered Full Length Version,The Velvet Underground,Loaded (Remastered),42,283000,1970,3,0.494,0.735,5,-8.347,1,0.0345,0.00401,3.14e-06,0.544,0.742,132.526,4,alternative
+822,Top of the Pops,The Rezillos,Can't Stand The Rezillos: The [Almost] Complete Rezillos,38,175640,1993,4,0.417,0.586,2,-12.217,1,0.0399,0.000358,0.0443,0.0957,0.965,183.706,4,alternative
+823,Don't Dictate - Demo,Penetration,Moving Targets,31,176226,1978-01-01,12,0.46,0.765,2,-13.655,1,0.179,0.006,2.14e-06,0.111,0.196,167.764,4,alternative
+824,I Heard It Through The Grapevine,The Slits,Cut,3,242648,1979,11,0.724,0.631,11,-9.515,0,0.216,0.000601,0.574,0.0821,0.876,129.868,4,alternative
+825,Mind Your Own Business,Delta 5,Mind Your Own Business,33,193373,2009-11-10,1,0.871,0.61,7,-7.565,1,0.239,0.0307,0.000203,0.0674,0.788,134.507,4,alternative
+826,The Sound Of The Suburbs,The Members,Sound Of The Suburbs - A Collection Of The Members Finest Moments,39,233200,1995-01-01,8,0.399,0.747,7,-10.62,1,0.0741,0.032,7.45e-06,0.0688,0.597,181.964,4,alternative
+827,Back Of My Hand,Jags,The Best Of,30,195133,1999-01-01,8,0.49,0.83,4,-9.283,1,0.0512,0.0922,0.0,0.0719,0.966,162.105,4,alternative
+828,Love Her Madly,The Doors,L.A. Woman,65,198466,1971-04-19,2,0.564,0.587,4,-7.393,0,0.0316,0.0573,0.00485,0.0416,0.966,147.462,4,alternative
+829,2-4-6-8 Motorway,Tom Robinson Band,Power In The Darkness,49,197933,1978,15,0.672,0.706,9,-5.551,1,0.0779,0.0578,7.43e-05,0.0595,0.658,124.782,4,alternative
+830,Human Fly,The Cramps,Off The Bone,52,136426,1989-01-01,1,0.531,0.849,9,-10.754,1,0.111,0.0389,0.00763,0.186,0.305,119.516,4,alternative
+831,Venus,Television,Marquee Moon,49,229026,1977-02-08,2,0.55,0.631,0,-11.493,1,0.0385,0.000898,0.18,0.0503,0.908,114.553,4,alternative
+832,Fiery Jack - Bonus Track,The Fall,Dragnet,32,283946,1979-10-26,14,0.704,0.917,1,-7.902,0,0.122,9.12e-05,0.00546,0.0459,0.336,110.606,4,alternative
+833,Gary Gilmore's Eyes,The Adverts,Crossing The Red Sea,36,136959,1978,6,0.421,0.598,4,-6.078,0,0.0487,0.0349,4.8e-06,0.416,0.778,157.927,4,alternative
+834,Shot By Both Sides - Remastered,Magazine,Real Life,4,244320,2007-01-01,3,0.324,0.967,6,-5.655,1,0.0774,0.0278,0.000269,0.0566,0.392,165.92,4,alternative
+835,Dream Baby Dream,Suicide,The Second Album + The First Rehearsal Tapes,49,384906,1999-06-28,12,0.688,0.716,1,-10.437,0,0.032,0.00905,0.732,0.0921,0.977,144.122,4,alternative
+836,Free Money,Patti Smith,Horses (Legacy Edition),41,232040,1975,4,0.343,0.718,9,-7.632,0,0.0918,0.0585,3.49e-05,0.157,0.452,77.772,4,alternative
+837,My Way - 1993 Remastered Version,Various Artists,Playlist: New Wave,41,244813,2008-04-28,20,0.236,0.823,4,-7.165,1,0.0863,0.699,0.643,0.364,0.259,175.38,4,alternative
+838,Search and Destroy - Iggy Pop Mix,The Stooges,Raw Power,52,208133,1973-02-07,1,0.235,0.977,6,0.878,1,0.107,0.00353,0.00604,0.172,0.241,152.952,4,alternative
+839,Blank Generation,Richard Hell,Blank Generation,2,162075,1977,7,0.44,0.85,7,-6.196,1,0.165,0.129,3.79e-06,0.0959,0.637,138.571,4,alternative
+840,I Love The Sound Of Breaking Glass,Nick Lowe,Jesus of Cool (Reissue),36,194920,1978,2,0.712,0.62,7,-10.641,1,0.0334,0.129,0.921,0.0989,0.918,107.521,4,alternative
+841,(I Married a) Monster from Outer Space,John Cooper Clarke,Disguise In Love,30,211560,1978,7,0.562,0.545,9,-14.392,0,0.0487,0.764,0.65,0.347,0.342,132.495,4,alternative
+842,One Of These Things First,Nick Drake,Bryter Layter,8,290733,1970-01-01,4,0.607,0.378,4,-18.354,1,0.0363,0.831,0.399,0.0957,0.661,90.338,3,alternative
+843,Outdoor Miner - 2006 Remastered Version,Wire,Chairs Missing,1,104506,1978,10,0.568,0.636,4,-8.862,1,0.0297,0.431,3.02e-06,0.492,0.71,124.37,4,alternative
+844,I'm Stranded,The Saints,(I'm) Stranded,2,212826,1977-01-01,1,0.352,0.727,6,-12.256,1,0.0352,0.00579,2.9e-06,0.313,0.426,85.385,4,alternative
+845,Alison,Elvis Costello,The Best Of The First 10 Years,4,204000,2007,2,0.564,0.317,1,-11.216,0,0.0473,0.671,5.84e-05,0.119,0.378,176.915,4,alternative
+846,Born to Lose,Johnny Thunders & The Heartbreakers,L.A.M.F. - The Lost '77 Mixes,41,184120,1997,1,0.395,0.892,11,-8.07,1,0.0537,0.0797,0.0,0.706,0.67,148.43,4,alternative
+847,Roadrunner,The Modern Lovers,The Modern Lovers,58,246440,1976-09-01,1,0.462,0.84,2,-6.667,1,0.0346,5.05e-05,6.47e-05,0.0893,0.805,75.542,4,alternative
+848,I'll Come Running - 2004 Digital Remaster,Brian Eno,Another Green World,41,229784,1975-09-01,6,0.589,0.488,9,-13.165,1,0.0322,0.558,0.0461,0.0918,0.811,124.774,4,alternative
+849,Warm Leatherette,The Normal,Warm Leatherette,29,203506,1978,1,0.484,0.425,2,-10.851,1,0.288,0.338,2.02e-05,0.0429,0.603,197.674,4,alternative
+850,No Side to Fall In,The Raincoats,The Raincoats,32,109666,1979,2,0.434,0.614,6,-8.334,1,0.0525,0.486,0.000196,0.394,0.787,147.681,4,alternative
+851,Kick out the Jams,MC5,Babes In Arms,40,181760,1983,8,0.329,0.806,1,-11.925,1,0.0596,0.0565,0.21,0.355,0.619,142.625,4,alternative
+852,Feelin' Alright with the Crew,999,Separates,31,214093,1978,6,0.532,0.675,0,-8.526,1,0.0606,0.00968,0.124,0.0765,0.483,142.091,4,alternative
+853,I Want More,CAN,Flow Motion (Remastered),36,214226,1976,1,0.807,0.602,9,-11.02,1,0.054,0.0251,0.171,0.0414,0.931,113.543,4,alternative
+854,My Sex,Ultravox,Ultravox! (Remastered & Expanded),0,182653,1977,9,0.573,0.304,0,-14.31,1,0.0309,0.332,1.27e-06,0.111,0.256,102.686,4,alternative
