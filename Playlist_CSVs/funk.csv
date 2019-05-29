@@ -1,0 +1,534 @@
+,track,artist,album,popularity,time,release_date,track_number,danceability,energy,key,loudness,mode,speechiness,acoustincess,instrumentalness,liveness,valence,tempo,time_signature,genre
+0,Ela É do Tipo,MC Kevin o Chris,Ela É do Tipo,83,204930,2019-03-07,1,0.632,0.398,6,-6.615,1,0.373,0.945,0.0,0.228,0.633,90.695,4,funk
+1,Vai menina,Pedro Sampaio,Vai menina,76,122435,2019-01-25,1,0.795,0.878,1,-3.261,0,0.278,0.413,0.0,0.0968,0.963,149.971,4,funk
+2,Não sou obrigada,Mc Pocahontas,Não sou obrigada,76,148340,2019-03-29,1,0.819,0.951,6,-2.896,0,0.141,0.356,0.0,0.145,0.963,153.963,4,funk
+3,Evoluiu,MC Kevin o Chris,Evoluiu,77,179644,2019-03-15,1,0.776,0.465,7,-6.368,0,0.434,0.466,0.0,0.363,0.694,149.829,4,funk
+4,Senta braba,MC WM,Senta braba,72,149615,2019-02-08,1,0.876,0.724,7,-2.915,1,0.0955,0.228,0.000655,0.104,0.789,100.021,4,funk
+5,Bye Bye,Mc Don Juan,Bye Bye,75,184615,2019-03-11,1,0.655,0.34,10,-6.834,1,0.358,0.332,8.73e-05,0.106,0.24,90.67,5,funk
+6,Hoje Eu Vou Parar Na Gaiola,Mc Livinho,Hoje Eu Vou Parar Na Gaiola,77,177093,2018-10-17,1,0.65,0.361,2,-7.153,1,0.404,0.0331,0.0,0.0978,0.844,89.803,4,funk
+7,Bola Rebola,Tropkillaz,Bola Rebola,83,193440,2019-02-22,1,0.834,0.777,5,-4.538,0,0.0593,0.22,0.00609,0.335,0.865,129.984,4,funk
+8,Facilita,MC Kevinho,Facilita,75,158769,2019-03-22,1,0.894,0.551,1,-5.081,1,0.188,0.0509,0.0,0.106,0.779,130.017,4,funk
+9,Vamos pra Gaiola,MC Kevin o Chris,Vamos pra Gaiola,78,161600,2019-01-11,1,0.872,0.971,6,-5.576,1,0.281,0.917,0.00143,0.121,0.521,149.987,4,funk
+10,Coisa Boa,Gloria Groove,Coisa Boa,74,165600,2019-01-10,1,0.692,0.973,11,-1.154,1,0.202,0.516,0.0,0.071,0.568,100.292,5,funk
+11,Onda diferente (feat. Papatinho),Anitta,Kisses,79,160900,2019-04-05,3,0.705,0.721,1,-5.545,0,0.514,0.333,0.0,0.101,0.574,75.132,4,funk
+12,Quando a vontade bater (Participação especial de PK Delas),Pk,Quando a vontade bater (Participação especial de PK Delas),77,166400,2019-03-04,1,0.621,0.7,8,-5.502,1,0.247,0.539,0.0,0.152,0.704,149.902,4,funk
+13,É rave que fala né,MC Hollywood,É rave que fala né,69,169769,2019-02-22,1,0.655,0.726,1,-6.687,1,0.313,0.233,8.49e-06,0.0846,0.381,149.919,4,funk
+14,Só Depois do Carnaval,Lexa,Só Depois do Carnaval,73,166666,2019-01-31,1,0.833,0.917,8,-3.189,0,0.0752,0.388,2.39e-05,0.293,0.882,143.986,4,funk
+15,"Garupa, Pt. 2",Dj Henrique de ferraz,"Garupa, Pt. 2",71,142499,2019-03-18,1,0.947,0.921,7,-2.988,1,0.378,0.705,0.0035,0.0621,0.738,130.022,4,funk
+16,To Gostando Tanto de Você,Mc Don Juan,To Gostando Tanto de Você,72,158383,2018-09-14,1,0.869,0.681,8,-1.796,1,0.0941,0.481,0.0,0.457,0.905,133.939,4,funk
+17,Parado no Bailão,MC L da Vinte,Parado no Bailão,74,171692,2018-07-23,1,0.828,0.599,11,-1.624,1,0.149,0.381,0.0,0.0775,0.478,86.533,5,funk
+18,Favela chegou - Ao vivo,Ludmilla,Favela chegou (Ao vivo),76,169954,2019-02-27,1,0.606,0.877,1,-10.087,0,0.0735,0.495,0.00177,0.958,0.767,150.045,4,funk
+19,Dentro do Carro,MC Kevin o Chris,Dentro do Carro,71,226847,2018-09-24,1,0.848,0.896,4,-8.107,0,0.213,0.793,0.0418,0.1,0.727,150.064,4,funk
+20,Se Você Quiser Lazer,Dj Gabriel do Borel,Se Você Quiser Lazer,55,140800,2019-05-10,1,0.771,0.987,6,-2.304,1,0.145,0.0555,9.51e-05,0.083,0.402,150.24,4,funk
+21,Amor Bandido,Lexa,Amor Bandido,64,208000,2019-04-26,1,0.715,0.537,1,-6.558,1,0.0285,0.589,0.0,0.132,0.455,100.028,4,funk
+22,Agora é Tudo Meu,Dennis DJ,Agora é Tudo Meu,77,171998,2018-12-07,1,0.848,0.933,5,-3.306,0,0.106,0.7,2.81e-06,0.184,0.506,139.998,4,funk
+23,Sapequinha,Lexa,Sapequinha,72,134106,2018-08-03,1,0.677,0.984,11,-3.539,0,0.286,0.211,0.0,0.0632,0.906,150.086,4,funk
+24,Quer mais?,Mc Pocahontas,Quer mais?,71,175061,2018-11-01,1,0.826,0.791,0,-4.605,0,0.0806,0.193,8.6e-05,0.0533,0.344,150.026,4,funk
+25,Sexta Do Mal,Mc Zaac,Sexta Do Mal,67,207768,2018-12-07,1,0.893,0.567,6,-2.417,1,0.11,0.341,4.61e-05,0.268,0.815,133.077,4,funk
+26,Medley da Gaiola - Dennis DJ Remix,MC Kevin o Chris,Medley da Gaiola (Dennis DJ Remix),73,239999,2018-08-27,1,0.897,0.757,4,-5.243,0,0.236,0.702,0.0,0.0779,0.613,140.038,4,funk
+27,Nego Ney,Dj Lindão,Nego Ney,64,178128,2019-03-22,1,0.804,0.911,7,-4.119,1,0.532,0.649,0.264,0.0646,0.79,77.387,4,funk
+28,3 Dias Virado,Various Artists,Só Explosão,70,207157,2017-12-22,5,0.823,0.474,2,-9.29,0,0.0503,0.0202,0.0,0.201,0.833,95.05,4,funk
+29,Rabetão no Chão - Versão Light,Mc Th,Rabetão no Chão (Versão Light),62,177230,2018-11-13,1,0.921,0.355,8,-3.385,1,0.553,0.0957,0.0482,0.0771,0.556,130.215,4,funk
+30,Não sou obrigada,Mc Pocahontas,Não sou obrigada,76,148340,2019-03-29,1,0.819,0.951,6,-2.896,0,0.141,0.356,0.0,0.145,0.963,153.963,4,funk
+31,Bola Rebola,Tropkillaz,Bola Rebola,83,193440,2019-02-22,1,0.834,0.777,5,-4.538,0,0.0593,0.22,0.00609,0.335,0.865,129.984,4,funk
+32,Quem Tem Joga,Drik Barbosa,Quem Tem Joga,54,247013,2019-05-17,1,0.684,0.851,7,-6.854,1,0.283,0.122,0.0,0.0447,0.359,134.871,4,funk
+33,Amor Bandido,Lexa,Amor Bandido,64,208000,2019-04-26,1,0.715,0.537,1,-6.558,1,0.0285,0.589,0.0,0.132,0.455,100.028,4,funk
+34,Baralho do Amor,Tainá Costa,Baralho do Amor,48,156298,2019-05-10,1,0.794,0.607,11,-6.221,0,0.0653,0.0148,1.36e-06,0.162,0.624,145.023,4,funk
+35,Embrazadinha,Tati Zaqui,Embrazadinha,57,144000,2019-04-12,1,0.759,0.713,9,-3.592,0,0.161,0.102,0.000221,0.0533,0.944,150.04,4,funk
+36,Onda diferente (feat. Papatinho),Anitta,Kisses,79,160900,2019-04-05,3,0.705,0.721,1,-5.545,0,0.514,0.333,0.0,0.101,0.574,75.132,4,funk
+37,"Não Perdi, Me Livrei",MC Mirella,"Não Perdi, Me Livrei",43,180924,2019-04-19,1,0.864,0.659,1,-3.472,1,0.18,0.461,0.0,0.0701,0.972,130.056,4,funk
+38,Toma,Mateus Carrilho,Toma,60,144000,2019-02-19,1,0.836,0.824,4,-4.845,0,0.0761,0.0457,0.00126,0.0285,0.883,140.062,4,funk
+39,Só Depois do Carnaval,Lexa,Só Depois do Carnaval,73,166666,2019-01-31,1,0.833,0.917,8,-3.189,0,0.0752,0.388,2.39e-05,0.293,0.882,143.986,4,funk
+40,Terremoto,Anitta,Terremoto,76,146276,2019-02-01,1,0.891,0.805,8,-5.836,0,0.0898,0.329,0.0,0.277,0.967,95.045,4,funk
+41,Provocar,Lexa,Provocar,73,168138,2018-11-22,1,0.682,0.826,8,-4.854,0,0.0528,0.182,0.0,0.052,0.688,134.067,4,funk
+42,Juju Com a Lente Rubi,Bonde R300,Juju Com a Lente Rubi,39,197694,2019-05-16,1,0.861,0.69,1,-2.614,0,0.07,0.223,0.0,0.078,0.92,113.345,5,funk
+43,Até o Chão,Bonde das Maravilhas,Até o Chão,27,174966,2019-04-26,1,0.745,0.818,7,-5.544,1,0.25,0.0181,0.000203,0.156,0.697,97.331,4,funk
+44,Agora é Tudo Meu,Dennis DJ,Agora é Tudo Meu,77,171998,2018-12-07,1,0.848,0.933,5,-3.306,0,0.106,0.7,2.81e-06,0.184,0.506,139.998,4,funk
+45,Quer mais?,Mc Pocahontas,Quer mais?,71,175061,2018-11-01,1,0.826,0.791,0,-4.605,0,0.0806,0.193,8.6e-05,0.0533,0.344,150.026,4,funk
+46,Se Joga no Batidão,Calliby,Se Joga no Batidão,42,146418,2019-04-10,1,0.743,0.733,6,-12.241,0,0.0477,0.131,0.000912,0.164,0.506,100.005,4,funk
+47,Forma Agradável,Dani Russo,Forma Agradável,50,180451,2019-03-01,1,0.923,0.562,0,-4.181,1,0.0725,0.0384,0.0,0.061,0.639,132.988,4,funk
+48,Menina Linda,MC ML,Menina Linda,41,156631,2019-04-26,1,0.821,0.611,6,-5.826,1,0.0629,0.338,0.000114,0.0817,0.418,94.995,4,funk
+49,Favela chegou - Ao vivo,Ludmilla,Favela chegou (Ao vivo),76,169954,2019-02-27,1,0.606,0.877,1,-10.087,0,0.0735,0.495,0.00177,0.958,0.767,150.045,4,funk
+50,"Vem amor, bate e não para",Mazzoni,"Vem amor, bate e não para",53,145031,2018-12-14,1,0.516,0.81,7,-3.617,1,0.351,0.406,0.0,0.119,0.753,118.356,3,funk
+51,Eu Tô Zen,MC Kekel,Eu Tô Zen,60,173333,2018-12-07,1,0.484,0.686,2,-4.883,1,0.174,0.00839,1.6e-06,0.119,0.677,179.807,4,funk
+52,Eu não vou embora,DJ Zullu,Eu não vou embora,66,225586,2018-11-16,1,0.558,0.433,5,-12.101,1,0.106,0.0175,1.08e-06,0.118,0.586,149.938,4,funk
+53,Malcriada (Olha e Rebola),Iago Weslley,Malcriada (Olha e Rebola),23,131437,2019-04-19,1,0.834,0.525,6,-8.578,0,0.0675,0.0327,0.0,0.192,0.747,129.925,4,funk
+54,Tô Legal,Dani Russo,Tô Legal,50,185864,2019-01-18,1,0.826,0.545,5,-4.054,1,0.0676,0.159,0.0159,0.227,0.97,133.031,4,funk
+55,Pedrita,DJ Marlboro,Pedrita,45,170743,2019-02-08,1,0.838,0.711,11,-5.958,0,0.275,0.543,0.0,0.13,0.828,95.021,4,funk
+56,Sapequinha,Lexa,Sapequinha,72,134106,2018-08-03,1,0.677,0.984,11,-3.539,0,0.286,0.211,0.0,0.0632,0.906,150.086,4,funk
+57,Coisa Boa,Gloria Groove,Coisa Boa,74,165600,2019-01-10,1,0.692,0.973,11,-1.154,1,0.202,0.516,0.0,0.071,0.568,100.292,5,funk
+58,Rebolarizando,Jojo Maronttinni,Rebolarizando,44,170003,2018-11-30,1,0.534,0.732,4,-3.868,0,0.074,0.183,8.58e-05,0.0958,0.741,159.959,4,funk
+59,Toma Créu,MC MM,Toma Créu,49,164393,2018-12-14,1,0.621,0.77,1,-6.815,1,0.11,0.177,0.0,0.24,0.657,150.072,4,funk
+60,Solteiro Nunca Está Só,MC Kekel,Solteiro Nunca Está Só,61,147692,2018-10-12,1,0.839,0.545,10,-3.718,1,0.0753,0.0151,0.0,0.114,0.545,129.907,4,funk
+61,Só Você,Dennis DJ,Só Você,70,161444,2018-05-04,1,0.834,0.751,11,-0.787,1,0.117,0.447,0.0,0.112,0.697,129.935,4,funk
+62,Sem Vacilação,MC Rita,Sem Vacilação,49,160000,2018-11-22,1,0.854,0.851,10,-2.156,0,0.094,0.135,0.0,0.0492,0.894,132.045,4,funk
+63,Hoje Eu To um Nojo,Carlos & Christian,Hoje Eu To um Nojo,47,187663,2018-10-18,1,0.816,0.811,8,-4.002,1,0.0726,0.147,1.15e-06,0.095,0.756,135.062,4,funk
+64,Não perco meu tempo,Anitta,Solo,63,176186,2018-11-09,2,0.867,0.638,8,-5.448,0,0.068,0.0203,1.88e-06,0.0695,0.7,104.947,4,funk
+65,Gabaritey,PANKADON,Gabaritey,42,152957,2018-10-24,1,0.867,0.818,11,-3.641,0,0.192,0.0477,0.0,0.0594,0.908,142.047,4,funk
+66,Rebolo e Sento,Pepita,Rebolo e Sento,41,138475,2018-10-26,1,0.622,0.822,7,-6.115,1,0.468,0.389,0.0,0.0456,0.961,186.119,5,funk
+67,Vai Embora (feat. Ludmilla),Pabllo Vittar,Não Para Não,53,157057,2018-10-04,8,0.826,0.565,2,-5.653,1,0.113,0.104,0.0,0.0785,0.266,144.924,4,funk
+68,De Levin,Lary,De Levin,41,160000,2018-09-28,1,0.816,0.891,9,-3.233,0,0.143,0.137,1.1e-06,0.0268,0.851,98.97,4,funk
+69,O Bebê,MC Kevinho,O Bebê,70,178099,2018-09-11,1,0.81,0.749,6,-3.734,0,0.114,0.248,0.0,0.241,0.795,165.057,4,funk
+70,Bota pra Tremer,Pedro Sampaio,Bota pra Tremer,66,120400,2018-08-24,1,0.872,0.399,9,-11.145,1,0.245,0.353,8.32e-05,0.106,0.915,149.936,4,funk
+71,Quero Ver Tu Balançar,Tainá Costa,Quero Ver Tu Balançar,53,141850,2018-08-17,1,0.776,0.934,7,-2.68,1,0.111,0.00532,0.000403,0.0337,0.963,159.981,4,funk
+72,Papum,MC Kevinho,Papum,60,139980,2018-05-04,1,0.731,0.752,7,-5.109,1,0.174,0.286,0.0,0.0548,0.782,129.717,4,funk
+73,Arrasta,Gloria Groove,Arrasta,58,152727,2018-05-31,1,0.773,0.883,11,-1.087,0,0.0591,0.226,0.0,0.0507,0.419,132.036,4,funk
+74,Não Se Apaixona,Jerry Smith,Não Se Apaixona,57,210731,2018-04-27,1,0.794,0.727,6,-0.323,1,0.121,0.117,0.0,0.0506,0.959,163.935,4,funk
+75,Solta a batida,Ludmilla,Solta a batida,58,169811,2018-02-02,1,0.853,0.822,11,-4.565,0,0.111,0.0211,0.00886,0.167,0.79,105.991,4,funk
+76,Bumbum de Ouro - Atman Remix,Gloria Groove,Bumbum de Ouro,42,179953,2018-02-01,2,0.761,0.828,10,-2.164,0,0.22,0.122,0.0,0.0642,0.716,99.769,4,funk
+77,3 Dias Virado,Various Artists,Só Explosão,70,207157,2017-12-22,5,0.823,0.474,2,-9.29,0,0.0503,0.0202,0.0,0.201,0.833,95.05,4,funk
+78,Na Ponta Ela Fica,Oba Oba Samba House,Pagofunk,0,135000,2017-09-01,1,0.917,0.812,5,-4.447,1,0.122,0.485,7.31e-05,0.145,0.936,99.983,4,funk
+79,Remexe mexe,Delano,Remexe mexe,49,196894,2016-11-11,1,0.877,0.841,7,-4.385,0,0.159,0.0406,5.08e-06,0.133,0.628,94.999,4,funk
+80,Evan Finds the Third Room,Khruangbin,Con Todo El Mundo,56,240743,2018-01-26,7,0.781,0.385,10,-9.976,0,0.0789,0.0101,0.587,0.166,0.842,105.812,4,funk
+81,Could Heaven Ever Be Like This,Idris Muhammad,Turn This Mutha Out,54,516586,1977,1,0.755,0.842,2,-7.293,0,0.129,0.388,0.541,0.105,0.798,123.203,4,funk
+82,Abusey Junction,Various Artists,We out Here,58,429093,2018-02-09,9,0.72,0.346,8,-12.008,0,0.0605,0.851,0.938,0.112,0.383,83.752,4,funk
+83,The Sweetest Meditation,Lord Echo,The Sweetest Meditation (Remixes),41,351939,2017-09-29,2,0.789,0.75,11,-8.599,0,0.0479,0.122,0.0835,0.09,0.669,114.904,4,funk
+84,Dog eat dog,The Souljazz Orchestra,Under Burning Skies,48,425528,2017-09-22,1,0.725,0.818,0,-7.272,0,0.0299,0.0917,0.000763,0.0881,0.872,116.0,4,funk
+85,Atlantic Oscillations,Quantic,Atlantic Oscillations,50,351146,2019-03-12,1,0.702,0.827,7,-8.882,1,0.068,0.00833,0.86,0.0884,0.857,121.004,4,funk
+86,"Afro Golden Line (feat. Sefi Zisling, Uzi Ramirez & Rejoicer)",Amir Bresler,Afro Golden Line,30,239397,2017-06-02,1,0.558,0.613,4,-8.988,0,0.0352,0.29,0.93,0.154,0.796,90.877,5,funk
+87,Enjoy Your Life,Various Artists,"Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",46,376973,2016-12-09,4,0.87,0.68,5,-8.201,0,0.055,0.0339,0.00758,0.0691,0.873,115.369,4,funk
+88,Brothers On The Slide,Cymande,Promised Heights,56,251400,2013-08-16,3,0.789,0.602,7,-10.192,0,0.198,0.3,0.00549,0.0737,0.804,109.923,4,funk
+89,Only You,Various Artists,"Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",57,381040,2016-12-09,3,0.786,0.921,0,-6.842,1,0.101,0.0552,0.00178,0.0629,0.621,118.373,4,funk
+90,Disco Dancer,BADBADNOTGOOD,Late Night Tales: BADBADNOTGOOD,5,416800,2017-07-28,5,0.699,0.828,9,-11.623,1,0.0452,0.0325,0.412,0.0388,0.963,115.239,4,funk
+91,Crockett Theme,Bacao Rhythm & Steel Band,The Serpent's Mouth,43,231807,2018-09-14,6,0.706,0.547,10,-7.763,1,0.0629,0.0533,0.861,0.0827,0.794,189.527,4,funk
+92,Take Me I'm Yours,Mary Clark,"Take Me I'm Yours 12""",6,416173,2004-12-14,1,0.677,0.743,5,-9.977,0,0.0415,0.0124,0.000603,0.0617,0.823,105.122,4,funk
+93,Nomalizo,Letta Mbulu,Greatest Hits,48,308440,2015,10,0.848,0.507,5,-10.094,1,0.0397,0.487,0.00464,0.0611,0.689,98.262,4,funk
+94,Mam Yinne Wa,Alogte Oho & His Sounds of Joy,Mam Yinne Wa,42,235250,2016-11-11,1,0.397,0.507,5,-5.478,0,0.0767,0.583,0.0875,0.205,0.705,179.687,4,funk
+95,Ta Lassa - Hide & Smile Edit,International Soleil Band,Ta Lassa,39,376318,2016-05-13,1,0.693,0.824,4,-7.858,0,0.0454,0.0362,0.0792,0.123,0.661,117.293,4,funk
+96,Jose Chicago,Shawn Lee & The Soul Surfers,Shawn Lee & The Soul Surfers,36,201506,2018-06-07,2,0.653,0.824,4,-4.906,0,0.0328,0.00836,0.842,0.0755,0.722,125.811,4,funk
+97,Ayonha,Ahmed Malek,Tape 19.11 / Ayonha,4,221500,2017-10-25,2,0.718,0.73,9,-7.405,1,0.0292,0.54,0.0137,0.147,0.729,122.904,4,funk
+98,Meet Me on the Corner - Crazy P Remix Radio Edit,Honeyfeet,Meet Me on the Corner (Remixes),39,242000,2018-07-27,2,0.739,0.87,0,-6.552,1,0.0371,0.0104,0.047,0.0712,0.894,115.003,4,funk
+99,Born To Boogie,Antal,Surinam Funk Force,44,238863,2016-10-07,1,0.713,0.625,11,-7.283,0,0.17,0.539,0.249,0.0353,0.701,117.318,4,funk
+100,Coup de foudre à Thessalonique,Florian Pellissier Quintet,Coup de foudre à Thessalonique,46,262453,2018-04-13,1,0.427,0.63,10,-10.591,0,0.0327,0.814,0.969,0.0777,0.716,115.389,3,funk
+101,Short Shrift,The So Ons,Tej b/w Short Shrift,37,182807,2018-07-20,2,0.686,0.578,0,-11.74,1,0.0319,0.0149,0.81,0.0838,0.62,102.405,4,funk
+102,Heaven,Ebo Taylor,Ebo Taylor,2,370813,2015-10-15,5,0.76,0.636,8,-11.605,1,0.0902,0.312,0.534,0.0622,0.678,99.223,4,funk
+103,Baiana - Wolf Mueller's Drum Drop,Barbatuques,Baianá (Brasingles Vol. 2),38,298944,2018-06-29,2,0.735,0.783,10,-8.051,0,0.0813,0.0201,0.0767,0.0667,0.481,94.994,4,funk
+104,Let Your Body Move (Oba Balu Balu),Various Artists,Crown Ruler Sound (Compiled by Jeremy Spellacey),37,246466,2017-10-20,1,0.697,0.8,3,-7.237,1,0.0622,0.139,0.107,0.0791,0.918,104.829,4,funk
+105,Ddoje Facce,Nu Guinea,Nuova Napoli,48,261926,2018-05-01,3,0.9,0.455,3,-8.395,0,0.0877,0.231,0.264,0.0538,0.927,104.631,4,funk
+106,Suro Nipa,K.O.G & The Zongo Brigade,Wahala Wahala,32,361715,2019-04-26,3,0.625,0.5,11,-10.474,0,0.0834,0.47,0.00319,0.113,0.7,106.417,4,funk
+107,Isaac Washington,Cotonete,Isaac Washington,36,368453,2019-01-04,1,0.722,0.374,10,-13.669,0,0.0435,0.000238,0.873,0.133,0.761,120.003,4,funk
+108,Gueta,Liquid Saloon,"Gueta (feat. Nitai Hershkovits, Nomok, Amir Bresler & Sefi Zisling)",25,265659,2019-02-01,1,0.711,0.829,7,-8.488,1,0.0348,0.61,0.901,0.118,0.858,121.998,3,funk
+109,Akoko Ba,Gyedu-Blay Ambolley,Gyedu-Blay Ambolley (Analog Africa Dance Edition No. 9),38,310265,2018-08-01,2,0.75,0.654,0,-12.525,1,0.0815,0.0982,0.00565,0.0688,0.724,118.306,4,funk
+110,An ba jouk - Olivier Portal Playin' 4 The Beach Remix,Edmony Krater,An ba jouk,34,372047,2018-07-06,1,0.747,0.64,1,-9.73,1,0.0458,0.222,0.265,0.0661,0.947,109.994,4,funk
+111,Good Vibration,Soothsayers,Tradition,37,287739,2018-06-29,2,0.632,0.723,0,-7.155,0,0.0587,0.363,0.143,0.103,0.685,80.009,4,funk
+112,Judge Not - Ray Mang Radio Edit,The Phenomenal Handclap Band,Judge Not (Ray Mang Mixes),36,214287,2018-10-05,5,0.729,0.776,9,-5.218,0,0.0375,0.0471,0.0337,0.131,0.5,112.015,4,funk
+113,Avocado Dance,Various Artists,Time Grove Roots,34,329330,2018-07-20,10,0.538,0.777,11,-9.303,0,0.111,0.044,0.109,0.0628,0.962,131.835,4,funk
+114,A Gira,Trio Ternura,Trio Ternura (Compacto 1973),44,183053,1973-10-22,1,0.742,0.648,6,-8.8,1,0.0351,0.385,0.0,0.0927,0.962,108.319,4,funk
+115,Greetings,Various Artists,Nigeria 70 - Funky Lagos,40,373333,2009-03-23,6,0.653,0.875,9,-5.232,1,0.125,0.0164,0.0311,0.377,0.789,116.956,4,funk
+116,Love and Death,Ebo Taylor,Love & Death,52,415090,2010-10-25,3,0.742,0.896,0,-7.208,1,0.0501,0.135,0.461,0.12,0.871,102.451,4,funk
+117,Jungle Music,Various Artists,Various Bilongo,40,336133,2000,2,0.755,0.729,5,-8.893,0,0.0647,0.807,0.251,0.0965,0.796,102.319,4,funk
+118,Say You Love Me,Om Alec Khaoli,Say You Love Me,38,314032,2017-06-30,1,0.737,0.603,8,-7.417,1,0.0339,0.427,0.0963,0.0656,0.712,108.632,4,funk
+119,Esperar Pra Ver,Guts,"Beach Diggin’, Vol. 1",44,128484,2013-06-28,6,0.69,0.64,1,-8.367,0,0.0321,0.47,2.23e-06,0.135,0.906,97.402,4,funk
+120,Le manoir des super vilains,Cotonete,Super-Vilains,9,408306,2018-12-15,5,0.546,0.375,0,-11.732,1,0.0557,0.0252,0.679,0.136,0.223,136.928,4,funk
+121,Alteleyeshegnem,Alemayehu Eshete,Alteleyeshegnem,37,294177,2017-06-16,1,0.664,0.588,6,-9.598,1,0.141,0.235,0.0145,0.352,0.616,78.929,4,funk
+122,A Min We Vo Nou We,Various Artists,African Scream Contest 2 (Analog Africa No. 26),39,376693,2018-05-18,1,0.641,0.788,9,-10.776,1,0.0398,0.0465,0.41,0.627,0.745,103.93,4,funk
+123,The Seed - Edit,Tony Allen & Jeff Mills,The Seed (Edit),38,240422,2018-07-06,1,0.791,0.782,10,-11.954,0,0.0865,0.00129,0.901,0.0783,0.723,111.462,4,funk
+124,For My People,K.O.G & The Zongo Brigade,Wahala Wahala,2,195565,2019-04-26,1,0.562,0.787,11,-7.585,0,0.419,0.0963,0.000162,0.719,0.731,163.621,4,funk
+125,14/08,JJ Whitefield,14/08,35,271428,2019-04-12,1,0.646,0.567,10,-8.387,1,0.028,0.112,0.865,0.144,0.368,100.072,1,funk
+126,Sah,Al Massrieen,Modern Music (Habibi Funk 006),39,224000,2017-04-28,3,0.682,0.518,8,-10.089,1,0.227,0.626,0.43,0.0552,0.963,118.539,4,funk
+127,I'm Gonna Make It,Gloria Jay,Know What You Want,34,179567,2017-12-08,2,0.837,0.714,10,-7.712,1,0.0322,0.316,0.0225,0.0727,0.962,111.009,4,funk
+128,Afoxé (feat. Agathe Iracema),Camarão Orkestra,Camarão Orkestra,40,506813,2016-03-04,2,0.553,0.537,1,-14.399,1,0.0502,0.144,0.898,0.113,0.269,120.964,4,funk
+129,Layla,Cotonete,Layla - EP,35,536440,2018-10-12,1,0.331,0.575,9,-13.577,0,0.0369,0.213,0.746,0.0981,0.0675,112.949,4,funk
+130,Finalidade Era Ficar em Casa,MC Kevin o Chris,Finalidade Era Ficar em Casa,65,185652,2018-10-12,1,0.81,0.978,6,-3.949,1,0.198,0.571,0.212,0.0846,0.703,149.888,4,funk
+131,Movimento da sanfoninha - Ao vivo,Anitta,Meu Lugar,62,176608,2014-06-03,19,0.76,0.999,9,-4.007,1,0.15,0.177,0.281,0.866,0.0807,133.002,4,funk
+132,Mala Mala,MC Bin Laden,Mala Mala,37,151250,2019-04-12,1,0.952,0.653,2,-8.422,0,0.241,0.357,0.0,0.0687,0.78,130.056,4,funk
+133,Quero Que Tu Vá (International Mix),Ananda,Quero Que Tu Vá (International Mix),49,139318,2018-10-05,1,0.855,0.535,0,-4.836,0,0.108,0.792,0.0,0.0694,0.733,131.641,4,funk
+134,Medley da Gaiola - Dennis DJ Remix,MC Kevin o Chris,Medley da Gaiola (Dennis DJ Remix),73,239999,2018-08-27,1,0.897,0.757,4,-5.243,0,0.236,0.702,0.0,0.0779,0.613,140.038,4,funk
+135,Me Solta,Nego do Borel,Me Solta,60,161096,2018-06-04,1,0.66,0.958,9,-5.406,1,0.239,0.191,0.0,0.125,0.484,144.64,4,funk
+136,Din Din Din (Participação especial de MC Pupio e MC Doguinha),Ludmilla,Din Din Din (Participação especial de MC Pupio e MC Doguinha),62,184607,2018-06-06,1,0.869,0.622,5,-5.841,1,0.23,0.214,0.0,0.0527,0.887,140.039,4,funk
+137,Só Você,Dennis DJ,Só Você,70,161444,2018-05-04,1,0.834,0.751,11,-0.787,1,0.117,0.447,0.0,0.112,0.697,129.935,4,funk
+138,Só Quer Vrau,MC MM,Só Quer Vrau,63,160666,2018-04-06,1,0.673,0.76,2,-6.847,1,0.186,0.111,0.00169,0.15,0.934,150.225,4,funk
+139,Bumbum Granada,Mc's Zaac & Jerry Smith,Bumbum Granada,52,187924,2016-04-29,1,0.965,0.811,1,-1.756,0,0.134,0.314,0.000148,0.187,0.161,130.015,4,funk
+140,Papum,MC Kevinho,Papum,60,139980,2018-05-04,1,0.731,0.752,7,-5.109,1,0.174,0.286,0.0,0.0548,0.782,129.717,4,funk
+141,Olha A Explosão - Remix,MC Kevinho,Olha A Explosão (Remix),61,210773,2018-04-27,1,0.759,0.644,6,-4.858,1,0.116,0.326,0.0,0.0469,0.813,89.983,4,funk
+142,Bum Bum Tam Tam,MC Fioti,Bum Bum Tam Tam,71,213988,2017-12-15,1,0.896,0.675,1,-3.908,1,0.124,0.346,8.11e-06,0.262,0.659,131.999,4,funk
+143,Não encosta,Ludmilla,Não encosta,55,144039,2018-04-20,1,0.902,0.491,11,-9.207,0,0.165,0.211,7.09e-05,0.342,0.552,139.966,4,funk
+144,Nossa Que Absurdo,Jerry Smith,Nossa Que Absurdo - Single,54,189518,2017-06-12,1,0.656,0.861,7,-0.111,0,0.131,0.564,0.00583,0.0733,0.838,132.956,4,funk
+145,Agora Vai Sentar,MC's Jhowzinho & Kadinho,Agora Vai Sentar,62,228922,2017-07-03,1,0.814,0.653,3,-0.02,0,0.0359,0.189,0.0,0.0876,0.706,130.099,4,funk
+146,Bumbum caliente (Participação especial de De La Ghetto),MC Lan,Bumbum caliente (Participação especial de De La Ghetto),40,150886,2018-02-23,1,0.813,0.776,4,-5.713,0,0.109,0.0972,1.81e-05,0.349,0.526,101.55,4,funk
+147,"Tá Tranquilo, Tá Favorável",MC Bin Laden,"Tá Tranquilo, Tá Favorável",45,251216,2016-01-12,1,0.621,0.481,10,-5.082,0,0.397,0.584,0.0,0.106,0.37,172.397,5,funk
+148,Na Ponta Ela Fica,Delano,Na Ponta Ela Fica,56,154026,2015-03-31,7,0.843,0.569,7,-10.713,1,0.278,0.288,8.83e-05,0.0643,0.947,95.075,4,funk
+149,Envolvimento,MC Loma e As Gêmeas Lacração,Envolvimento,58,146526,2018-02-02,1,0.852,0.902,10,-4.669,0,0.159,0.447,0.0,0.0349,0.965,164.971,4,funk
+150,Solta a batida,Ludmilla,Solta a batida,58,169811,2018-02-02,1,0.853,0.822,11,-4.565,0,0.111,0.0211,0.00886,0.167,0.79,105.991,4,funk
+151,Fuleragem,MC WM,Fuleragem,66,141473,2018-02-26,1,0.808,0.836,8,-2.3,1,0.0506,0.00857,0.00016,0.113,0.755,94.979,4,funk
+152,Vai malandra (feat. Tropkillaz & DJ Yuri Martins),Various Artists,Vai malandra (feat. Tropkillaz & DJ Yuri Martins),69,201532,2017-12-18,1,0.876,0.55,2,-5.464,1,0.152,0.0227,4.52e-05,0.294,0.557,129.924,4,funk
+153,Fazer Falta,Mc Livinho,Fazer Falta,63,210960,2017-05-25,1,0.532,0.467,11,-6.499,0,0.117,0.0133,2.91e-06,0.226,0.249,76.792,5,funk
+154,Malandramente,Dennis DJ,Malandramente,55,171692,2016-06-20,1,0.91,0.804,9,-4.76,0,0.0996,0.177,0.0,0.203,0.712,129.929,4,funk
+155,Baile de Favela,Mc João,Baile de Favela,40,180088,2015-12-23,1,0.788,0.385,2,-15.297,1,0.639,0.231,0.0,0.0827,0.6,130.418,4,funk
+156,Larga o Aço (V.I.P.),Leo Justi,Larga o Aço (V.I.P.),34,155219,2018,1,0.748,0.939,0,-1.574,1,0.0543,0.236,0.0261,0.388,0.843,128.05,4,funk
+157,Vai Embrazando,Mc Zaac,Vai Embrazando,59,166060,2017-01-24,1,0.895,0.691,1,-1.214,1,0.0645,0.177,0.000196,0.0706,0.782,129.969,4,funk
+158,Rap Das Armas,Various Artists,Web Hits - Vol. 1,47,291369,2009-01-01,9,0.905,0.601,4,-8.371,0,0.685,0.215,0.0,0.0847,0.944,124.888,4,funk
+159,Deu Onda,MC G15,Deu Onda,57,144039,2016-12-15,1,0.931,0.604,0,-1.41,0,0.0573,0.456,0.0,0.0488,0.864,129.926,4,funk
+160,O Grave Bater,MC Kevinho,O Grave Bater,60,181894,2017-03-24,1,0.91,0.741,11,-2.294,0,0.0565,0.468,7.63e-05,0.055,0.793,95.008,4,funk
+161,Abusadamente,MC Gustta,Abusadamente,66,215937,2017-07-25,1,0.685,0.648,11,-3.536,0,0.149,0.812,0.0019,0.21,0.389,122.599,4,funk
+162,Se Eu Tiver Solteiro,Mc Don Juan,Se Eu Tiver Solteiro,55,169845,2017-10-09,1,0.674,0.75,8,0.111,1,0.131,0.483,0.0,0.161,0.633,129.867,4,funk
+163,Pode Se Soltar,Jerry Smith,Pode Se Soltar - Single,58,180114,2017-04-05,1,0.855,0.506,6,-5.303,1,0.345,0.00579,0.0,0.101,0.699,160.088,4,funk
+164,Aquecimento das Potrancas,MC's Jhowzinho & Kadinho,Aquecimento das Potrancas,51,189231,2017-07-19,1,0.879,0.701,1,-3.194,1,0.181,0.00653,9.03e-06,0.143,0.802,160.018,4,funk
+165,"Qual Bumbum Mais Bate, Qual Bumbum Mais Pula",MC WM,"Qual Bumbum Mais Bate, Qual Bumbum Mais Pula",51,162507,2017-02-08,1,0.871,0.478,1,-1.919,1,0.0925,0.271,0.000784,0.103,0.661,86.58,3,funk
+166,Troféu do Ano,Jerry Smith,Troféu do Ano,61,189048,2017-11-01,1,0.879,0.626,7,-2.122,1,0.143,0.127,0.0,0.0656,0.848,160.047,4,funk
+167,Cheia de Marra,Mc Livinho,Cheia de Marra,53,267795,2016-06-08,1,0.588,0.497,8,-6.978,0,0.189,0.67,0.000603,0.243,0.511,71.85,4,funk
+168,Cara Bacana,MC G15,Cara Bacana,59,232727,2017-05-03,1,0.599,0.512,4,-2.578,1,0.0641,0.0711,0.0,0.0816,0.725,87.838,5,funk
+169,Automaticamente,Dennis DJ,Dennis Dj Apresenta: Funk Now,57,187839,2016-09-22,5,0.918,0.907,0,0.04,0,0.0812,0.0192,3.36e-06,0.0637,0.839,132.076,4,funk
+170,Solo Seduzente,Dani Russo,Solo Seduzente,44,125989,2017-08-19,1,0.669,0.5,4,-9.021,0,0.414,0.202,0.0,0.346,0.753,128.179,4,funk
+171,Tic Tac,Lucas Lucco,Tic Tac,50,170709,2017-08-04,1,0.923,0.488,0,-2.817,1,0.179,0.214,0.0,0.165,0.585,129.944,4,funk
+172,Mentalmente,Naiara Azevedo,Mentalmente,55,160256,2017-07-14,1,0.71,0.609,0,-7.012,1,0.178,0.0254,0.0,0.624,0.501,127.867,4,funk
+173,Ritmo Mexicano,Mc Gw,Ritmo Mexicano,60,190354,2017-07-22,1,0.687,0.872,10,-3.013,0,0.0983,0.126,0.00839,0.0906,0.706,179.991,4,funk
+174,Bem gostosin,Delano,Não para,46,190028,2017-08-11,3,0.635,0.641,7,-1.407,1,0.377,0.374,6.56e-06,0.111,0.504,86.446,5,funk
+175,Os Muleke É Liso,MC Rodolfinho,Os Muleke É Liso,50,232646,2014-10-23,1,0.837,0.709,1,-2.88,0,0.0489,0.0659,0.0,0.213,0.623,129.985,4,funk
+176,Glamourosa (Rap Glamurosa),DJ Marlboro,Funk Brasil Relíquias (Vol. 1),0,207750,2017-05-12,5,0.811,0.754,7,-7.473,1,0.0391,0.0875,0.001,0.0876,0.932,130.042,4,funk
+177,Ela É do Tipo,MC Kevin o Chris,Ela É do Tipo,83,204930,2019-03-07,1,0.632,0.398,6,-6.615,1,0.373,0.945,0.0,0.228,0.633,90.695,4,funk
+178,Não sou obrigada,Mc Pocahontas,Não sou obrigada,76,148340,2019-03-29,1,0.819,0.951,6,-2.896,0,0.141,0.356,0.0,0.145,0.963,153.963,4,funk
+179,Muita Calma,DJ 900,Muita Calma,47,148000,2019-05-17,1,0.924,0.721,9,-1.1,1,0.0981,0.291,0.0,0.0968,0.484,120.009,4,funk
+180,Se Você Quiser Lazer,Dj Gabriel do Borel,Se Você Quiser Lazer,55,140800,2019-05-10,1,0.771,0.987,6,-2.304,1,0.145,0.0555,9.51e-05,0.083,0.402,150.24,4,funk
+181,Sai Pra Lá,Mc Don Juan,Sai Pra Lá,62,136615,2019-03-25,1,0.469,0.563,2,-6.337,1,0.0733,0.236,1.21e-06,0.354,0.612,82.273,5,funk
+182,Evoluiu,MC Kevin o Chris,Evoluiu,77,179644,2019-03-15,1,0.776,0.465,7,-6.368,0,0.434,0.466,0.0,0.363,0.694,149.829,4,funk
+183,Fica à vontade,Pedro Sampaio,Fica à vontade,59,140000,2019-05-10,1,0.724,0.911,11,-2.01,0,0.245,0.393,1.27e-05,0.296,0.947,150.132,4,funk
+184,Quem Tem Joga,Drik Barbosa,Quem Tem Joga,54,247013,2019-05-17,1,0.684,0.851,7,-6.854,1,0.283,0.122,0.0,0.0447,0.359,134.871,4,funk
+185,Senta braba,MC WM,Senta braba,72,149615,2019-02-08,1,0.876,0.724,7,-2.915,1,0.0955,0.228,0.000655,0.104,0.789,100.021,4,funk
+186,Dose de Kikada,Mc 2k,Dose de Kikada,51,151509,2019-05-03,1,0.76,0.648,0,-4.083,1,0.0389,0.61,0.0,0.0861,0.904,134.938,4,funk
+187,"Garupa, Pt. 2",Dj Henrique de ferraz,"Garupa, Pt. 2",71,142499,2019-03-18,1,0.947,0.921,7,-2.988,1,0.378,0.705,0.0035,0.0621,0.738,130.022,4,funk
+188,Avisa Lá,MC Menor Mr,Avisa Lá,50,169846,2019-05-10,1,0.89,0.758,11,-4.342,0,0.0727,0.213,0.0,0.129,0.851,130.024,4,funk
+189,Abandonei a Gabriela,MC Kekel,Abandonei a Gabriela,64,216000,2019-03-15,1,0.701,0.667,5,-6.407,1,0.0435,0.04,0.0,0.214,0.673,89.974,4,funk
+190,Hoje Eu Vou Voltar,Mc Niel,Hoje Eu Vou Voltar,48,181201,2019-05-17,1,0.777,0.66,0,-4.38,0,0.202,0.426,0.0,0.0678,0.613,149.865,4,funk
+191,Nego Ney,Dj Lindão,Nego Ney,64,178128,2019-03-22,1,0.804,0.911,7,-4.119,1,0.532,0.649,0.264,0.0646,0.79,77.387,4,funk
+192,Toma Madeirada,MC MM,Toma Madeirada,50,111374,2019-04-26,1,0.634,0.59,9,-9.655,1,0.357,0.386,0.0,0.0849,0.879,100.053,5,funk
+193,Vizinha,Dennis DJ,Vizinha,60,115084,2019-05-03,1,0.837,0.756,11,-6.847,0,0.359,0.268,0.0,0.109,0.831,150.261,4,funk
+194,O Menininho,MC Dede,O Menininho,49,158769,2019-05-10,1,0.908,0.703,0,-6.207,0,0.067,0.128,0.0,0.116,0.815,129.927,4,funk
+195,Bye Bye,Mc Don Juan,Bye Bye,75,184615,2019-03-11,1,0.655,0.34,10,-6.834,1,0.358,0.332,8.73e-05,0.106,0.24,90.67,5,funk
+196,Raba Safada,Mc 7 Belo,Raba Safada,49,147617,2019-05-10,1,0.712,0.647,1,-3.2,1,0.42,0.578,0.00356,0.0763,0.737,130.551,4,funk
+197,Relaxa e Toma,Dennis DJ,Relaxa e Toma,60,108729,2019-04-26,1,0.838,0.866,11,-7.108,0,0.436,0.451,0.0,0.275,0.71,150.077,4,funk
+198,Pra Sentar,MC Mirella,Pra Sentar,51,158223,2019-04-19,1,0.764,0.708,1,-8.72,0,0.119,0.137,0.0769,0.0906,0.639,150.053,4,funk
+199,Namorar Não Dá,MC Kevin o Chris,Namorar Não Dá,60,122462,2019-03-28,1,0.774,0.654,1,-3.626,1,0.425,0.233,0.00208,0.087,0.742,99.864,3,funk
+200,Facilita,MC Kevinho,Facilita,75,158769,2019-03-22,1,0.894,0.551,1,-5.081,1,0.188,0.0509,0.0,0.106,0.779,130.017,4,funk
+201,Quando a vontade bater (Participação especial de PK Delas),Pk,Quando a vontade bater (Participação especial de PK Delas),77,166400,2019-03-04,1,0.621,0.7,8,-5.502,1,0.247,0.539,0.0,0.152,0.704,149.902,4,funk
+202,Ela Vai Sentar,3 Tenores,Ela Vai Sentar,47,188307,2019-05-03,1,0.805,0.671,4,-0.687,0,0.0389,0.587,0.0,0.139,0.349,129.969,4,funk
+203,Eu Vi Ela No Bailão,Caverinha,Eu Vi Ela No Bailão,47,166400,2019-05-03,1,0.876,0.687,10,-3.923,1,0.0662,0.254,0.0,0.0691,0.713,150.259,4,funk
+204,Embraza,MC Gury,Embraza,48,179076,2019-04-26,1,0.879,0.37,1,-7.298,0,0.0555,0.569,0.000764,0.125,0.256,129.851,4,funk
+205,Tô Sofrendo Nada,MC Bin Laden,Tô Sofrendo Nada,47,220800,2019-04-26,1,0.876,0.833,9,-2.928,0,0.263,0.132,0.0,0.0622,0.636,150.072,4,funk
+206,Te Ligo Mais Tarde,Mc Niel,Te Ligo Mais Tarde,53,140800,2019-04-05,1,0.81,0.919,2,-3.582,1,0.108,0.243,0.0,0.13,0.81,149.948,4,funk
+207,Chaveando as Favelas,MC Negão do Arizona,Chaveando as Favelas,41,184529,2019-05-17,1,0.743,0.561,11,-4.457,1,0.203,0.171,0.0,0.0634,0.863,169.988,4,funk
+208,Bundas Arriba,Os Cretinos,Bundas Arriba,47,137404,2019-04-30,1,0.732,0.859,2,-4.679,1,0.118,0.164,0.0158,0.118,0.735,179.993,4,funk
+209,Rabetão no Chão - Versão Light,Mc Th,Rabetão no Chão (Versão Light),62,177230,2018-11-13,1,0.921,0.355,8,-3.385,1,0.553,0.0957,0.0482,0.0771,0.556,130.215,4,funk
+210,Faz um Chupiquete,MC Kevin o Chris,#TBT das Brabas,55,147461,2019-04-25,3,0.891,0.512,0,-6.602,1,0.0958,0.242,0.0,0.136,0.926,150.117,4,funk
+211,Embrazadinha,Tati Zaqui,Embrazadinha,57,144000,2019-04-12,1,0.759,0.713,9,-3.592,0,0.161,0.102,0.000221,0.0533,0.944,150.04,4,funk
+212,É rave que fala né,MC Hollywood,É rave que fala né,69,169769,2019-02-22,1,0.655,0.726,1,-6.687,1,0.313,0.233,8.49e-06,0.0846,0.381,149.919,4,funk
+213,Vai menina,Pedro Sampaio,Vai menina,76,122435,2019-01-25,1,0.795,0.878,1,-3.261,0,0.278,0.413,0.0,0.0968,0.963,149.971,4,funk
+214,Fala Baixinho,MC Rodolfinho,Fala Baixinho,51,208941,2019-04-26,1,0.798,0.638,6,-6.35,1,0.236,0.00377,0.0,0.123,0.676,169.886,4,funk
+215,Eu Já Falei,DJ Rafinha,Eu Já Falei,47,126519,2019-05-03,1,0.722,0.297,6,-6.965,1,0.584,0.584,8.52e-05,0.0712,0.767,129.312,4,funk
+216,Robocop,MC Magal,Robocop,36,201920,2019-04-04,1,0.642,0.57,7,-5.849,1,0.541,0.198,0.0,0.0699,0.459,86.887,3,funk
+217,Só Depois do Carnaval,Lexa,Só Depois do Carnaval,73,166666,2019-01-31,1,0.833,0.917,8,-3.189,0,0.0752,0.388,2.39e-05,0.293,0.882,143.986,4,funk
+218,Vamos pra Gaiola,MC Kevin o Chris,Vamos pra Gaiola,78,161600,2019-01-11,1,0.872,0.971,6,-5.576,1,0.281,0.917,0.00143,0.121,0.521,149.987,4,funk
+219,Começou o Bailão,MC Arraia,Começou o Bailão,46,156891,2019-05-03,1,0.77,0.29,0,-11.929,1,0.0644,0.211,0.0,0.105,0.656,86.328,5,funk
+220,Medley da Envolvência,Rick Joe,Medley da Envolvência,53,208017,2019-03-29,1,0.668,0.553,9,-4.557,1,0.468,0.268,0.0,0.0939,0.874,150.045,4,funk
+221,Malemolência,Dynho Alves,Malemolência,74,135053,2018-10-31,1,0.829,0.64,6,-5.537,0,0.231,0.553,0.000214,0.131,0.848,160.025,4,funk
+222,Não Complica,MC Vinny,Não Complica,59,140840,2018-12-21,1,0.816,0.555,9,-6.599,1,0.0997,0.103,5.18e-05,0.0594,0.661,150.096,4,funk
+223,Tô Embrazado,MC Brankim,Tô Embrazado,45,155888,2019-04-19,1,0.607,0.799,6,-1.755,1,0.516,0.502,0.0142,0.143,0.68,169.742,5,funk
+224,Eu Já Catuquei,Dj Henrique de ferraz,Eu Já Catuquei,62,158975,2019-03-21,1,0.957,0.704,0,-3.467,0,0.463,0.667,0.0025,0.0428,0.39,130.006,4,funk
+225,Sento Com Talento,Mc Rebecca,Sento Com Talento,53,112000,2019-04-11,1,0.668,0.58,11,-5.173,0,0.371,0.0273,0.0,0.0802,0.587,96.256,5,funk
+226,Hoje Eu Vou Parar Na Gaiola,Mc Livinho,Hoje Eu Vou Parar Na Gaiola,77,177093,2018-10-17,1,0.65,0.361,2,-7.153,1,0.404,0.0331,0.0,0.0978,0.844,89.803,4,funk
+227,Assim,Felipe Flip,Chama Legal,48,203178,2019-04-26,1,0.788,0.64,3,-9.168,0,0.0996,0.0476,2.32e-05,0.113,0.572,97.073,4,funk
+228,O Pai Ta Forte 2,MC Gury,O Pai Ta Forte 2,42,175777,2019-05-10,1,0.589,0.801,4,-0.185,0,0.14,0.528,1.53e-05,0.0652,0.349,91.401,3,funk
+229,Espera Eu Chegar,MC Kevin o Chris,Espera Eu Chegar,52,196205,2019-04-11,1,0.611,0.21,5,-9.467,1,0.0459,0.935,0.0,0.104,0.704,130.054,4,funk
+230,Paralisa e Treme,Tainá Costa,Paralisa e Treme,61,151304,2019-02-08,1,0.776,0.748,2,-5.003,1,0.39,0.129,0.00773,0.0827,0.841,184.11,4,funk
+231,Pá em Todo Mundo,Dennis DJ,Pá em Todo Mundo,57,97529,2019-04-19,1,0.891,0.877,11,-6.997,0,0.239,0.667,5.53e-05,0.0892,0.688,149.926,4,funk
+232,Bumbum Nervosin,Tainá Costa,Bumbum Nervosin,58,132000,2019-04-12,1,0.612,0.8,10,-5.481,0,0.0692,0.46,1.24e-06,0.0719,0.868,159.912,4,funk
+233,Nocaute,MC Rodolfinho,Nocaute,56,180793,2019-03-08,1,0.847,0.565,6,-5.437,1,0.0922,0.175,0.0,0.0536,0.88,159.9,4,funk
+234,Déjà Vu,Mc Livinho,Déjà Vu,57,182308,2019-02-06,1,0.665,0.919,0,-3.642,1,0.595,0.0693,1.92e-06,0.0891,0.807,200.554,5,funk
+235,Vai Sentando Sem Compromisso - Dennis DJ Remix,Dennis DJ,Dennis DJ Apresenta: Funk Now! Vol. 3,60,174084,2018-10-26,5,0.861,0.96,5,-3.707,0,0.17,0.54,0.00232,0.0841,0.49,150.072,4,funk
+236,Foi Até Bom Te Encontrar,FP do Trem Bala,Foi Até Bom Te Encontrar,65,137085,2018-10-18,1,0.663,0.831,5,-5.664,1,0.527,0.15,0.0,0.123,0.712,149.886,4,funk
+237,Suck My Kiss,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Version),62,217133,1991-09-24,5,0.623,0.936,0,-9.955,1,0.0528,0.000617,9.86e-05,0.269,0.705,101.514,4,funk
+238,Renegades Of Funk,Rage Against The Machine,Renegades,64,274160,2000-12-04,4,0.651,0.908,2,-4.019,1,0.0577,0.00184,0.000579,0.384,0.769,123.851,4,funk
+239,Tommy The Cat,Primus,They Can't All Be Zingers,49,254560,2006-01-01,6,0.526,0.985,1,-3.694,0,0.135,0.00187,0.185,0.563,0.312,128.86,4,funk
+240,Gettin' Tighter,Deep Purple,Come Taste The Band,38,217060,1975,3,0.426,0.771,7,-11.845,1,0.0703,0.000801,0.0635,0.139,0.673,120.464,4,funk
+241,Tones Of Home,Blind Melon,Blind Melon,54,266826,1992-01-01,2,0.556,0.808,0,-6.965,1,0.0335,0.166,0.000167,0.164,0.844,115.287,4,funk
+242,Stop,Jane's Addiction,Ritual De Lo Habitual,53,254839,1990-08-21,1,0.433,0.752,9,-8.365,1,0.113,0.0116,0.000667,0.59,0.362,122.901,4,funk
+243,Bombtrack,Rage Against The Machine,Rage Against The Machine,54,243760,1992-10-30,1,0.478,0.855,4,-7.438,0,0.121,0.0134,3.18e-05,0.179,0.668,151.93,4,funk
+244,Jerry Was A Race Car Driver,Primus,They Can't All Be Zingers,55,191240,2006-01-01,4,0.563,0.98,1,-2.834,0,0.128,0.0124,0.317,0.324,0.619,122.976,4,funk
+245,Show Me Your Soul,Red Hot Chili Peppers,What Hits?,45,263173,1992-09-29,11,0.672,0.906,2,-10.217,1,0.0592,0.011,5.46e-05,0.0756,0.242,121.971,4,funk
+246,Epic,Faith No More,The Real Thing,66,293653,1989,2,0.358,0.893,4,-7.486,0,0.12,0.0222,0.0524,0.126,0.262,174.238,4,funk
+247,Been Caught Stealing,Jane's Addiction,Ritual De Lo Habitual,55,214706,1990-08-21,5,0.639,0.929,0,-4.762,1,0.212,0.00326,0.0501,0.242,0.688,103.758,4,funk
+248,Pets,Porno for Pyros,Porno For Pyros,54,216733,1993-04-23,6,0.578,0.515,11,-9.541,1,0.0347,0.05,0.0268,0.119,0.302,112.879,4,funk
+249,Please Excuse This Funk Up,Infectious Grooves,Mas Borracho,41,277173,2000,10,0.54,0.933,0,-3.107,1,0.0782,0.0188,0.000495,0.0379,0.699,122.481,4,funk
+250,Who Knows - Live At The Fillmore East,Jimi Hendrix,Live At The Fillmore East,43,236080,1999-02-23,2,0.571,0.631,11,-10.352,1,0.0399,0.0147,0.751,0.204,0.713,84.71,4,funk
+251,My Name Is Mud,Primus,They Can't All Be Zingers,47,285306,2006-01-01,7,0.714,0.918,11,-3.465,0,0.0928,0.012,0.128,0.115,0.454,98.695,4,funk
+252,Summer Romance (Anti-Gravity Love Song),Incubus,S.C.I.E.N.C.E.,50,265733,1997-09-09,9,0.667,0.721,7,-7.17,1,0.0329,0.00915,0.0137,0.105,0.567,110.094,4,funk
+253,Always On The Run,Lenny Kravitz,Greatest Hits,47,232440,2000,10,0.511,0.946,9,-3.757,1,0.148,0.0119,0.019,0.0646,0.85,169.219,4,funk
+254,Violent & Funky,Infectious Grooves,GROOVE FAMILY CYCO,44,256293,1994-03-29,1,0.477,0.899,2,-6.058,1,0.121,0.000238,0.000144,0.0598,0.555,104.822,4,funk
+255,Can't Stop,Red Hot Chili Peppers,By The Way (Deluxe Version),79,269000,2002-07-09,7,0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455,4,funk
+256,Bonin' In the Boneyard,Fishbone,Original Album Classics,36,284506,1988,8,0.662,0.808,1,-11.754,1,0.0707,0.00696,0.518,0.382,0.53,130.336,4,funk
+257,Beautiful Disaster,311,Transistor,59,238400,1997-08-05,4,0.576,0.738,11,-8.122,1,0.0353,0.000387,0.00131,0.13,0.675,168.132,4,funk
+258,Tunnel Vision,Lenny Kravitz,Circus,46,259026,1995-09-12,4,0.663,0.923,0,-7.091,1,0.04,0.0272,0.00153,0.224,0.924,115.736,4,funk
+259,Midlife Crisis,Faith No More,Angel Dust,53,259866,1992-06-08,3,0.669,0.656,9,-10.549,1,0.0413,0.00113,0.000252,0.0989,0.464,108.098,4,funk
+260,What I Got,Sublime,Sublime,70,170906,1996-07-30,2,0.804,0.696,7,-7.47,1,0.0899,0.00877,0.000985,0.314,0.657,95.721,4,funk
+261,Tahitian Moon,Porno for Pyros,Good God's Urge,47,227160,1996-05-28,3,0.374,0.716,7,-8.656,1,0.034,0.000285,0.00111,0.195,0.35,136.757,4,funk
+262,Shakey Ground,Fishbone,Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx,41,224379,2000-03-21,1,0.71,0.843,9,-5.154,1,0.0886,0.0293,0.000325,0.233,0.847,86.007,4,funk
+263,Holy Roller,Mother Love Bone,Mother Love Bone,34,268266,1992-01-01,3,0.515,0.818,4,-9.577,0,0.0572,0.0394,0.00621,0.093,0.401,113.85,4,funk
+264,Breaking Glass - 1999 Remastered Version,David Bowie,Low,2,112906,1977-01-14,2,0.396,0.69,9,-12.996,1,0.0676,0.0113,0.56,0.29,0.822,189.173,4,funk
+265,Tobacco Road,War,The Hits & More,33,237133,2011-01-01,2,0.748,0.769,9,-7.38,0,0.305,0.342,0.000388,0.0986,0.824,87.931,4,funk
+266,Wrong Way,Sublime,Sublime,64,136146,1996-07-30,3,0.69,0.681,9,-5.653,1,0.0379,0.0623,0.0,0.137,0.911,75.034,4,funk
+267,Are You In?,Incubus,Morning View,51,264200,2001,11,0.526,0.587,2,-8.733,1,0.039,0.24,0.243,0.886,0.364,93.986,4,funk
+268,What Time Is It?,Spin Doctors,Pocket Full Of Kryptonite,42,289893,1991-08-27,2,0.544,0.885,7,-9.975,1,0.0732,0.0383,0.0121,0.369,0.208,115.302,4,funk
+269,All Mixed Up,311,311,58,179600,1995-07-11,4,0.76,0.702,10,-9.404,0,0.0716,0.0104,0.0,0.38,0.659,92.324,4,funk
+270,Get The Funk Out,Extreme,Extreme II - Pornograffitti,41,264066,1990-01-01,4,0.582,0.911,4,-7.413,1,0.0522,0.00313,0.105,0.084,0.788,107.894,4,funk
+271,Clap For The Killers,Street Sweeper Social Club,Street Sweeper Social Club,36,235373,2009-06-16,5,0.651,0.859,4,-5.186,1,0.15,0.099,0.00284,0.301,0.871,164.152,4,funk
+272,Love Rears Its Ugly Head,Living Colour,Time'S Up,48,259466,1990-08-28,4,0.615,0.477,2,-8.816,1,0.092,0.0558,6.25e-05,0.231,0.731,156.008,4,funk
+273,They Say I'm Different,Betty Davis,They Say I'm Different,47,255040,1974,6,0.537,0.791,6,-7.051,1,0.145,0.122,3.03e-05,0.205,0.889,142.354,4,funk
+274,Sister Midnight,Iggy Pop,The Idiot,2,259640,1977-09-09,1,0.535,0.524,0,-12.088,1,0.0376,0.176,0.068,0.256,0.81,107.617,4,funk
+275,Sever,311,Soundsystem,43,283026,1999-10-12,8,0.553,0.901,0,-6.202,1,0.0454,0.0103,0.00312,0.0571,0.617,106.943,4,funk
+276,Promenade,Street Sweeper Social Club,Street Sweeper Social Club,36,151306,2009-06-16,10,0.737,0.753,7,-4.475,1,0.122,0.151,0.000123,0.0721,0.964,115.135,4,funk
+277,Movies,Alien Ant Farm,Anthology,59,195706,2001-01-01,2,0.547,0.919,4,-5.037,1,0.0571,0.000161,0.001,0.197,0.529,112.889,4,funk
+278,Little Miss Can't Be Wrong,Spin Doctors,Pocket Full Of Kryptonite,48,233093,1991-08-27,3,0.526,0.905,0,-8.81,1,0.0392,0.0106,0.0191,0.373,0.941,116.454,4,funk
+279,Anti Love Song,Betty Davis,Betty Davis,43,272426,2008-12-22,3,0.715,0.616,5,-10.124,0,0.111,0.504,0.0372,0.611,0.901,93.421,4,funk
+280,Courage,Alien Ant Farm,Anthology,47,210293,2001-01-01,1,0.513,0.978,6,-2.811,0,0.0744,8.52e-05,0.00108,0.174,0.545,108.955,4,funk
+281,Ela Me Usa e Abusa,MC Loma e As Gêmeas Lacração,Ela Me Usa e Abusa,52,138000,2019-05-17,1,0.892,0.852,4,-1.958,0,0.115,0.357,0.0,0.0849,0.355,100.011,4,funk
+282,Deixa,Mc Th,Deixa,60,161684,2019-04-18,1,0.712,0.638,3,-4.551,0,0.181,0.3,0.0,0.0929,0.887,94.828,4,funk
+283,Senta Vai,Mãolee,Senta Vai,61,237293,2019-04-23,1,0.822,0.587,10,-7.448,0,0.203,0.202,0.0,0.0898,0.594,132.964,4,funk
+284,"Como ela vem (Participação especial de Luccas Carlos, Xamã, PK e Orochi)",Papatinho,"Como ela vem (Participação especial de Luccas Carlos, Xamã, PK e Orochi)",62,223384,2019-01-31,1,0.809,0.51,10,-8.064,1,0.0779,0.692,1.53e-06,0.133,0.645,129.958,4,funk
+285,Sentimento,Dj Gabriel do Borel,Sentimento,46,146600,2019-04-12,1,0.784,0.892,7,-2.299,1,0.405,0.155,0.0,0.205,0.725,149.896,4,funk
+286,Sensual Girl - Malik Mustache & Cool Keedz Remix,Mc Davi,Sensual Girl (Malik Mustache & Cool Keedz Remix),44,238795,2018-02-02,1,0.828,0.715,11,-5.811,0,0.116,0.0703,0.00481,0.303,0.329,124.025,5,funk
+287,Assim,Felipe Flip,Chama Legal,48,203178,2019-04-26,1,0.788,0.64,3,-9.168,0,0.0996,0.0476,2.32e-05,0.113,0.572,97.073,4,funk
+288,Quem Tem Joga,Drik Barbosa,Quem Tem Joga,54,247013,2019-05-17,1,0.684,0.851,7,-6.854,1,0.283,0.122,0.0,0.0447,0.359,134.871,4,funk
+289,Nossa Que Isso (feat. Mc Rebecca & MC Rogê),WC no Beat,Nossa Que Isso (feat. Mc Rebecca & MC Rogê),63,191829,2019-02-22,1,0.8,0.72,1,-6.421,1,0.205,0.25,0.0,0.211,0.736,97.081,4,funk
+290,Não Pisa no Meu Boot,MC Caverinha,Não Pisa no Meu Boot,62,164000,2019-04-01,1,0.95,0.303,7,-15.73,1,0.355,0.306,0.0,0.115,0.421,120.015,4,funk
+291,Deus e família,Delano,Deus e família,59,261333,2019-05-17,1,0.713,0.632,10,-4.323,1,0.431,0.32,0.0,0.0802,0.593,119.797,5,funk
+292,Nós Somos a Rua,Tubarão Baixada,Nós Somos a Rua,39,221167,2019-03-01,1,0.806,0.622,10,-7.102,0,0.0854,0.261,1.89e-06,0.112,0.63,137.009,4,funk
+293,Ela Tá Que Tá,Mc Davi,Ela Tá Que Tá,61,206829,2018-01-29,1,0.75,0.418,0,-10.011,1,0.0496,0.128,0.0,0.128,0.253,123.007,4,funk
+294,Nas Alturas,UCLÃ,Nas Alturas,42,257509,2019-05-02,1,0.561,0.649,3,-7.268,0,0.407,0.219,0.0,0.159,0.793,88.074,5,funk
+295,"Dois copos (Participação especial de Ferrugem, MC Kevin O Chris e L7NNON)",Papatinho,Rio,64,180924,2019-02-22,3,0.796,0.561,11,-6.654,1,0.337,0.157,0.0,0.0894,0.42,129.915,4,funk
+296,Em Off,Matheus Queiroz,Em Off,44,204923,2019-02-08,1,0.584,0.491,1,-10.303,1,0.122,0.0845,3.9e-06,0.125,0.454,129.886,4,funk
+297,Onda diferente (feat. Papatinho),Anitta,Kisses,79,160900,2019-04-05,3,0.705,0.721,1,-5.545,0,0.514,0.333,0.0,0.101,0.574,75.132,4,funk
+298,Sensacional (feat. Cacife Clandestino & MC Kevin o Chris),WC no Beat,Sensacional (feat. Cacife Clandestino & MC Kevin o Chris),65,225077,2018-12-13,1,0.786,0.863,3,-5.676,0,0.198,0.269,2.09e-06,0.133,0.784,136.941,4,funk
+299,Amor No Morro,Sango,"De Mim, Pra Você",40,219000,2017-03-15,5,0.869,0.481,8,-10.026,0,0.328,0.552,0.194,0.151,0.767,129.973,4,funk
+300,Quarteto Fodástico,Perera DJ,Quarteto Fodástico,60,240000,2018-12-01,1,0.805,0.253,7,-10.066,0,0.412,0.294,0.0,0.0841,0.712,120.29,5,funk
+301,Black Lança,Dj Rogerinho do Quero,TortaoFlix,35,117930,2019-05-17,7,0.72,0.546,0,-8.2,0,0.157,0.421,0.0,0.0469,0.604,87.007,4,funk
+302,Sintonia,MC Marks,Sintonia,35,211774,2018-11-30,1,0.81,0.462,4,-10.274,0,0.0958,0.321,0.0,0.0968,0.476,135.966,4,funk
+303,É o Trem,MC Maneirinho,É o Trem,46,179946,2018-05-11,1,0.898,0.629,9,-6.214,0,0.398,0.507,5.98e-06,0.151,0.733,130.05,4,funk
+304,Nascemos Reis,Gafanhoto,Segue o Jogo,31,266233,2018-12-09,4,0.751,0.636,1,-7.499,1,0.295,0.73,0.0,0.097,0.423,129.802,4,funk
+305,Meu Mundo,WC no Beat,18K,65,284117,2018-03-09,3,0.866,0.552,2,-6.478,1,0.257,0.247,0.0,0.135,0.499,131.049,4,funk
+306,22,MC Guime,22,35,199000,2019-03-08,1,0.662,0.585,4,-10.238,0,0.0773,0.059,0.0,0.166,0.156,97.088,4,funk
+307,Plaqtudum - Tropkillaz Remix,Recayd Mob,Plaqtudum (Tropkillaz Remix),44,177345,2019-01-25,1,0.846,0.844,1,-2.848,1,0.0623,0.298,0.000184,0.171,0.562,129.968,4,funk
+308,Poesia Acústica #5: Teu Popô - Remix,Various Artists,Poesia Acústica #5: Teu Popô (Remix),62,737704,2018-07-29,1,0.64,0.392,11,-13.413,0,0.361,0.096,0.0,0.113,0.443,121.88,4,funk
+309,Baile,Guri,Baile,35,153581,2018-09-06,1,0.738,0.456,9,-10.997,0,0.182,0.399,0.0,0.0954,0.519,133.022,5,funk
+310,Meu Olhar,WC no Beat,Meu Olhar,56,187818,2018-08-17,1,0.838,0.458,8,-8.755,1,0.229,0.144,0.0,0.133,0.526,140.029,4,funk
+311,Nem Quis Saber,MC Menor Mr,Nem Quis Saber,45,187586,2018-11-23,1,0.619,0.575,8,-6.247,0,0.226,0.215,0.0,0.11,0.143,85.834,4,funk
+312,"Resistência, Pt. 2",Felpps,"Resistência, Pt. 2",26,221237,2019-04-16,1,0.822,0.605,5,-8.95,0,0.354,0.816,0.0,0.128,0.727,128.126,4,funk
+313,Rebeca,Mc Livinho,Rebeca,59,205879,2018-03-02,1,0.616,0.53,6,-6.581,0,0.0386,0.05,0.0,0.0985,0.17,145.134,4,funk
+314,Me Negaram Amor,Cynthia Luz,Me Negaram Amor,68,288000,2018-04-18,1,0.517,0.46,8,-11.733,0,0.328,0.689,0.0,0.0717,0.534,95.012,4,funk
+315,Favelado Chique,WC no Beat,18K,54,270282,2018-03-09,4,0.851,0.649,5,-6.57,0,0.0788,0.191,0.000122,0.175,0.583,134.004,4,funk
+316,Vista da Gávea,Sango,"De Mim, Pra Você",40,200597,2017-03-15,1,0.809,0.655,1,-11.067,1,0.181,0.0853,0.385,0.151,0.458,134.02,4,funk
+317,Los Cabrones,Felipe Flip,Los Cabrones,3,230570,2018-11-30,1,0.801,0.438,9,-8.689,0,0.0568,0.56,0.0,0.364,0.479,124.983,4,funk
+318,Maloqueiro,WC no Beat,18K,53,208633,2018-03-09,8,0.701,0.537,8,-9.049,0,0.252,0.437,0.0,0.23,0.342,133.807,4,funk
+319,SEXTOU,Cacife Clandestino,SEXTOU,53,214153,2017-08-17,1,0.689,0.659,9,-6.731,0,0.438,0.465,0.0,0.0928,0.669,129.967,4,funk
+320,Menage à Trois,WC no Beat,18K,60,209550,2018-03-09,6,0.849,0.554,5,-6.844,0,0.263,0.623,1.75e-05,0.213,0.386,129.934,4,funk
+321,Meu baile,Papatinho,Meu baile,54,204207,2018-08-24,1,0.836,0.589,8,-5.724,1,0.0537,0.268,6.27e-06,0.127,0.794,129.961,4,funk
+322,Black & White - Trap Version,MC Bin Laden,Black & White,30,202618,2018-12-14,2,0.773,0.861,6,-4.22,1,0.0495,0.0829,0.0,0.458,0.727,130.042,4,funk
+323,Sensação de Poder,1Kilo,Sensação de Poder,47,295265,2018-07-12,1,0.595,0.744,9,-6.244,0,0.297,0.269,0.0,0.109,0.879,173.93,4,funk
+324,Adrenalina,Leonne,Adrenalina,30,178560,2018-11-22,1,0.929,0.6,0,-8.578,1,0.236,0.0761,0.0,0.123,0.635,124.987,4,funk
+325,Sheik,WC no Beat,18K,48,192850,2018-03-09,2,0.543,0.594,2,-7.111,1,0.394,0.212,9.91e-06,0.0819,0.849,165.581,5,funk
+326,Moça,WC no Beat,18K,46,208233,2018-03-09,9,0.771,0.644,8,-6.766,0,0.166,0.538,0.0,0.0931,0.372,129.973,4,funk
+327,Química,DJ Yuri Martins,Química,56,174545,2018-08-30,1,0.834,0.625,2,-9.483,1,0.297,0.133,0.0,0.0761,0.443,131.932,4,funk
+328,Me Perder,WC no Beat,18K,44,243266,2018-03-09,7,0.886,0.638,11,-6.985,0,0.114,0.66,8.15e-05,0.248,0.729,129.93,4,funk
+329,Me Chama,MC Maneirinho,Me Chama,43,151384,2018-09-21,1,0.669,0.704,2,-5.699,0,0.0883,0.432,0.0,0.205,0.402,129.913,4,funk
+330,Trabalho Lindo,WC no Beat,Trabalho Lindo,41,215338,2018-03-02,1,0.534,0.571,10,-6.442,0,0.0832,0.438,1.85e-05,0.116,0.812,88.004,5,funk
+331,How Long Do I Have To Wait For You?,Sharon Jones & The Dap-Kings,Naturally,12,243760,2005-03-13,6,0.674,0.909,10,-3.369,0,0.0464,0.469,0.0131,0.105,0.969,103.942,4,funk
+332,Don't Stop 'Til You Get Enough - Single Version,Michael Jackson,Off the Wall,73,365466,1979-08-10,1,0.878,0.821,11,-9.875,1,0.089,0.126,0.0461,0.183,0.947,118.881,4,funk
+333,Coleen feat. The Dap-Kings Horns,The Heavy,How You Like Me Now EP,51,179847,2010-11-29,5,0.687,0.69,5,-4.96,0,0.0527,0.13,0.0,0.122,0.786,83.019,4,funk
+334,Sea Groove,Big Boss Man,Humanize,49,268173,2000,3,0.803,0.759,5,-7.705,1,0.052,0.0127,0.898,0.0271,0.869,110.026,4,funk
+335,(Everybody Wanna Get Rich) Rite Away - 2006 Remastered Version,Various Artists,What It Is! Funky Soul And Rare Grooves [1967-1977][digital version] [International],11,163093,2006-10-16,78,0.75,0.955,9,-7.338,1,0.109,0.47,0.0361,0.073,0.963,99.339,4,funk
+336,Girl Watching,T-Connection,Classic Masters,47,291781,2002,5,0.683,0.915,11,-5.076,0,0.0679,0.0658,0.000976,0.253,0.882,119.862,4,funk
+337,I Wish - Single Edit,Stevie Wonder,Number Ones,10,271640,2007-01-01,11,0.841,0.703,10,-9.45,0,0.0564,0.117,0.00025,0.0511,0.939,105.793,4,funk
+338,Just Kissed My Baby,The Meters,Rejuvenation,54,278519,1974,3,0.716,0.599,0,-12.959,1,0.165,0.00659,0.0532,0.0552,0.962,170.826,4,funk
+339,Doin' It,Herbie Hancock,Secrets,52,482720,1976-08,1,0.739,0.882,11,-11.946,0,0.0539,0.109,0.684,0.0185,0.941,98.424,4,funk
+340,Thank You (Falettinme Be Mice Elf Agin) - single master,Sly & The Family Stone,Greatest Hits,53,291320,1970-11-21,12,0.9,0.709,9,-12.683,1,0.0636,0.296,0.00047,0.0863,0.897,105.822,4,funk
+341,Soul With A Capital 'S',Tower Of Power,"Soul With A Capital ""S"" - The Best Of Tower Of Power",44,296733,2002,2,0.737,0.988,2,-5.477,1,0.0504,0.0419,0.0356,0.129,0.798,119.002,4,funk
+342,"Theme From ""Which Way Is Up"" - Single Version",Various Artists,'70s Soul #1's,42,187226,2007-01-01,10,0.869,0.819,10,-11.721,0,0.0468,0.0564,0.0228,0.0382,0.891,103.617,4,funk
+343,Yearnin' Burnin',Pleasure,The Greatest Of Pleasure,8,298026,1993-01-01,12,0.859,0.371,1,-13.299,1,0.0385,0.0084,0.00616,0.054,0.818,103.299,4,funk
+344,Who'd She Coo?,Ohio Players,Best Of,1,197840,1998-01-01,2,0.667,0.668,11,-10.812,0,0.107,0.0361,0.0386,0.374,0.843,112.541,4,funk
+345,Got To Give It Up - Album Edit,Marvin Gaye,The Complete Collection,13,361093,2008-01-01,15,0.838,0.806,2,-9.738,1,0.0408,0.213,0.00203,0.354,0.846,123.121,4,funk
+346,Rock Steady,Aretha Franklin,"Young, Gifted and Black",53,193573,1972-01-24,3,0.749,0.752,7,-10.3,1,0.126,0.0108,0.0954,0.235,0.887,104.7,4,funk
+347,Serpentine Fire,"Earth, Wind & Fire",All 'N All,52,230760,1977-11-21,1,0.773,0.917,0,-7.333,1,0.037,0.184,0.00463,0.116,0.946,139.872,4,funk
+348,Dazz - Single Version,Brick,Super Hits,52,202000,1976,1,0.722,0.778,4,-7.931,1,0.0611,0.0697,7.46e-06,0.0414,0.839,109.076,4,funk
+349,Cissy Strut,The Meters,Funkify Your Life: The Meters Anthology,59,181839,1995,1,0.53,0.811,0,-9.343,1,0.0997,0.115,0.831,0.348,0.708,176.142,4,funk
+350,Put a Little Love On Me,Delegation,The Best of Delegation,48,269640,2010,2,0.827,0.578,6,-12.871,0,0.0483,0.206,0.0317,0.0925,0.968,111.447,4,funk
+351,I'll Be With You,Cameo,Ugly Ego (Reissue),8,263946,1978-01-01,1,0.78,0.722,2,-8.559,0,0.0602,0.246,0.00947,0.22,0.913,93.042,4,funk
+352,My Jamaican Guy,Grace Jones,Island Life,12,359560,1985-01-01,9,0.748,0.865,7,-11.905,1,0.0805,0.0842,0.0184,0.0883,0.52,94.646,4,funk
+353,Watching You - Single Version; 2006 Remaster,Slave,Definitive Groove: Slave,41,212573,2007-04-02,11,0.77,0.646,7,-7.558,1,0.0731,0.129,0.0,0.17,0.813,110.644,4,funk
+354,Who Is She (And What Is She To You),Gladys Knight & The Pips,Neither One Of Us,8,253693,1973,5,0.841,0.538,1,-15.339,0,0.0492,0.149,0.0175,0.0616,0.785,106.627,4,funk
+355,Till You Take My Love,Harvey Mason,Funk In A Mason Jar,43,222986,1977,2,0.641,0.848,5,-6.353,0,0.0915,0.33,0.00165,0.194,0.76,105.533,4,funk
+356,Mary Jane,Rick James,Come Get It!,8,297346,1978-04-20,6,0.537,0.82,11,-7.011,0,0.127,0.256,1.93e-06,0.432,0.881,94.434,4,funk
+357,Flow with It (You Got Me Feeling Like),St. Paul & The Broken Bones,Sea of Noise,57,196866,2016-09-09,2,0.61,0.752,10,-5.062,0,0.0389,0.294,0.0755,0.116,0.832,89.995,4,funk
+358,Give Up The Funk (Tear The Roof Off The Sucker),Parliament,The Best Of Parliament: Give Up The Funk,9,345866,1995-01-01,8,0.742,0.589,9,-13.788,1,0.0381,0.0839,0.000131,0.0867,0.927,105.791,4,funk
+359,Hair,Larry Graham,Graham Central Station,46,295146,1973,3,0.72,0.836,9,-10.195,1,0.0611,0.075,0.000656,0.1,0.961,157.178,4,funk
+360,Chicken Fat,Mel Brown,Chicken Fat (LPR),7,254160,1967,1,0.583,0.868,9,-9.226,1,0.0419,0.466,0.919,0.453,0.897,102.036,4,funk
+361,Freddie's Dead,Curtis Mayfield,Beautiful Brother - The Essential,16,324398,2000-08-08,9,0.532,0.79,1,-7.282,0,0.0655,0.0617,0.00051,0.0942,0.959,91.268,4,funk
+362,A Little Love - Radio Edit,Aurra,A Little Love,7,208266,2014-07-07,1,0.725,0.95,0,-4.76,1,0.059,0.0578,3.47e-05,0.15,0.962,117.531,4,funk
+363,Pull Up To The Bumper,Various Artists,100 Funk,24,273079,2012-01-01,20,0.838,0.803,1,-11.02,1,0.095,0.226,0.0105,0.116,0.865,108.67,4,funk
+364,Dance Floor,Zapp,Zapp II,47,642853,1982-07-14,1,0.868,0.802,0,-7.831,1,0.053,0.151,0.0032,0.0667,0.905,110.536,4,funk
+365,Play That Funky Music,Various Artists,Shaun White Snowboarding: Official Soundtrack,55,301800,2008-11-18,11,0.822,0.87,9,-6.257,1,0.0592,0.124,0.0,0.045,0.901,109.174,4,funk
+366,In the Stone,"Earth, Wind & Fire",I Am,55,288480,1979-06,1,0.656,0.662,4,-10.346,1,0.0493,0.0964,0.000612,0.0853,0.717,114.612,4,funk
+367,Prisoner,Har Mar Superstar,Bye Bye 17,45,203872,2013-04-23,2,0.592,0.874,9,-5.453,0,0.0581,0.00862,0.311,0.213,0.587,105.991,4,funk
+368,Shake Your Pants,Cameo,Cameosis,7,384306,1980,2,0.931,0.421,7,-11.044,1,0.0948,0.0271,0.00263,0.0971,0.696,124.333,4,funk
+369,Keep On Truckin',Eddie Kendricks,"The Eddie Kendricks Collection, Volume 1",7,479413,2005-01-01,5,0.45,0.81,1,-9.762,1,0.0472,0.122,0.00963,0.0412,0.86,101.568,4,funk
+370,Too Hot Ta Trot,Commodores,The Commodores Anthology,7,341253,2001-01-01,2,0.859,0.764,9,-6.72,1,0.126,0.175,0.000479,0.0704,0.863,120.78,4,funk
+371,Do You Love What You Feel,Rufus & Chaka Khan,Masterjam,7,269333,1979-01-01,1,0.804,0.784,11,-11.147,1,0.0367,0.0178,0.0821,0.618,0.899,119.959,4,funk
+372,We Supply,Stanley Clarke,The Bass-ic Collection,43,250640,1974,3,0.751,0.908,2,-5.567,1,0.0771,0.134,0.00274,0.116,0.801,99.517,4,funk
+373,Man Funk (feat. Leron Thomas),Guts,Man Funk (feat. Leron Thomas) - Single,41,233925,2014-07-21,1,0.859,0.628,10,-7.199,0,0.257,0.0545,1.29e-05,0.319,0.678,92.047,4,funk
+374,Soul Power 74,The J.B.'s,Funky Good Time: The Anthology,26,251640,1995-01-01,6,0.791,0.569,7,-11.869,1,0.0398,0.323,0.181,0.487,0.95,104.363,4,funk
+375,It's Too Funky In Here,James Brown,The Singles Vol.10 (1975-1979),7,239400,2011-01-01,18,0.733,0.911,0,-7.128,1,0.0343,0.112,0.00133,0.107,0.688,107.033,4,funk
+376,Get Up (I Feel Like Being A) Sex Machine - Pt. 1 & 2,Various Artists,100 Funk,24,316151,2012-01-01,1,0.801,0.553,10,-10.91,0,0.17,0.161,1.89e-05,0.287,0.845,107.814,4,funk
+377,Bull's Eye,Blacknuss,Blacknuss 2.0,45,305480,2016-05-12,1,0.794,0.662,8,-6.991,1,0.04,0.0038,7.87e-05,0.174,0.908,110.052,4,funk
+378,You Haven't Done Nothin',Stevie Wonder,The Definitive Collection (International Version),7,203773,2002-10-21,17,0.754,0.631,1,-10.17,1,0.0379,0.254,2.41e-05,0.221,0.816,101.504,4,funk
+379,J.P. Walk,Various Artists,Boogie Nights #2 (More Music From The Original Motion Picture),11,425693,1998-01-01,9,0.532,0.892,7,-7.23,1,0.0549,0.0207,0.817,0.0946,0.444,102.261,4,funk
+380,Pass The Peas,Various Artists,James Brown's Funky People,28,192160,1986-01-01,2,0.561,0.311,2,-14.981,1,0.265,0.26,0.000237,0.353,0.702,195.996,4,funk
+381,Funkin' for Jamaica,Tom Browne,Funkin' For Jamaica,53,280933,1997,1,0.854,0.776,8,-9.85,1,0.217,0.436,0.175,0.0549,0.656,111.212,4,funk
+382,Pick Up The Pieces,Average White Band,AWB,54,239908,1974,3,0.768,0.853,10,-5.915,0,0.0427,0.0548,0.13,0.0188,0.889,107.234,4,funk
+383,Ninguém Fica Parado,Shevchenko e Elloco,Ninguém Fica Parado,56,115826,2019-03-06,1,0.863,0.734,6,-6.82,0,0.126,0.177,0.0,0.0482,0.876,169.913,4,funk
+384,Combate,Aldair Playboy,Combate,56,159657,2019-04-25,1,0.952,0.701,11,-2.358,0,0.0491,0.204,3.17e-06,0.0706,0.9,129.984,4,funk
+385,Trama,Ruanzinho,Trama,45,178121,2018-11-09,1,0.656,0.659,7,-5.344,0,0.0365,0.00314,0.0,0.157,0.397,152.959,4,funk
+386,Mamando Ela Foi,MC Timbu,Mamando Ela Foi,33,137012,2019-05-01,1,0.756,0.664,5,-5.402,1,0.15,0.536,0.0,0.078,0.766,169.882,4,funk
+387,A Distância Tá Maltratando,MC G15,A Distância Tá Maltratando,63,167717,2018-08-01,1,0.717,0.584,1,-4.92,0,0.0333,0.172,1.26e-06,0.268,0.661,152.017,4,funk
+388,Tá Rocheda,Mc Elvis,O Menino do Vem,49,188630,2018-01-12,3,0.788,0.451,4,-6.058,1,0.077,0.165,0.0,0.0793,0.924,160.106,4,funk
+389,Barulho da Kikada,Niago e Seltinho,Barulho da Kikada,58,145684,2019-01-18,1,0.806,0.842,0,-5.291,1,0.313,0.00223,0.000143,0.0842,0.686,188.044,4,funk
+390,Pivete Também Ama,Aldair Playboy,Batidão Do Playboy 2,41,164970,2019-01-18,4,0.601,0.669,2,-3.522,0,0.0386,0.113,4.29e-05,0.212,0.769,153.965,4,funk
+391,Cobertor,Dadá Boladão,Cobertor,42,95555,2018-10-29,1,0.875,0.475,3,-5.354,0,0.181,0.0948,0.0,0.262,0.822,140.163,4,funk
+392,Quando Eu Te Pegar,Menor,Quando Eu Te Pegar,45,164140,2018-10-12,1,0.753,0.633,0,-7.006,1,0.0421,0.201,0.0,0.154,0.73,154.979,4,funk
+393,Estilo de Vida,Ruanzinho,Estilo de Vida,44,170506,2019-04-19,1,0.726,0.626,3,-5.809,0,0.0396,0.0273,0.0,0.0886,0.656,149.975,4,funk
+394,Não Fala Não pra Mim,Humberto & Ronaldo,Não Fala Não pra Mim,70,196613,2018-06-15,1,0.741,0.794,3,-2.555,1,0.0402,0.591,0.0,0.236,0.765,157.987,4,funk
+395,Não Se Apaixona,Jerry Smith,Não Se Apaixona,57,210731,2018-04-27,1,0.794,0.727,6,-0.323,1,0.121,0.117,0.0,0.0506,0.959,163.935,4,funk
+396,Perto de Mim,Dadá Boladão,Perto de Mim,41,166950,2018-08-10,1,0.769,0.542,7,-5.81,1,0.0344,0.00235,0.0,0.0885,0.546,129.964,4,funk
+397,Vamos Ficar Velhinhos,Mc Elvis,Vamos Ficar Velhinhos,38,157727,2018-08-31,1,0.802,0.719,2,-4.451,1,0.0329,0.198,0.0,0.0474,0.879,139.914,4,funk
+398,Amante da Noite,Dadá Boladão,Amante da Noite,39,196806,2018-07-24,1,0.699,0.512,7,-6.045,1,0.0349,0.34,0.0,0.0694,0.709,150.03,4,funk
+399,Ta Com Raivinha Be,Mc Elvis,Ta Com Raivinha Be,42,147928,2018-06-25,1,0.911,0.617,7,-4.225,1,0.211,0.0528,0.0,0.0682,0.931,148.095,4,funk
+400,Dá uma Chance,Ruanzinho,Dá uma Chance,52,164937,2018-10-11,1,0.676,0.697,11,-4.36,1,0.0315,0.0162,0.0,0.0897,0.74,150.005,4,funk
+401,Amor Falso,Aldair Playboy,Amor Falso,62,177815,2018-03-23,1,0.767,0.55,4,-11.498,1,0.0554,0.279,0.0,0.0548,0.9,153.963,4,funk
+402,Tá Bebo Tá Doido,Mc R1,Tá Bebo Tá Doido,27,176800,2019-04-01,1,0.891,0.856,0,-2.556,1,0.0649,0.076,0.00314,0.168,0.934,149.965,4,funk
+403,Malemolência,Dynho Alves,Malemolência,74,135053,2018-10-31,1,0.829,0.64,6,-5.537,0,0.231,0.553,0.000214,0.131,0.848,160.025,4,funk
+404,Jogo do Amor,MC Bruninho,Jogo do Amor,63,144039,2018-05-08,1,0.758,0.52,1,-6.405,1,0.0866,0.212,0.0,0.071,0.857,154.06,4,funk
+405,Bum Bum Tey Tey,MC Japa,Bum Bum Tey Tey,36,196231,2018-07-12,1,0.547,0.737,0,-9.212,1,0.123,0.135,0.000253,0.323,0.504,180.402,4,funk
+406,Movimento,Mc Troia,Movimento,33,125204,2018-07-25,1,0.812,0.702,1,-5.653,0,0.176,0.0737,0.00487,0.273,0.91,165.056,4,funk
+407,Sou Favela,Ruanzinho,Sou Favela,0,171088,2018-07-29,1,0.721,0.651,7,-4.692,0,0.0633,0.0378,0.0,0.32,0.77,150.102,4,funk
+408,Confesso,Mc Elvis,Confesso,45,257214,2018-04-18,1,0.773,0.449,5,-6.59,1,0.0592,0.121,0.0,0.122,0.867,157.969,4,funk
+409,Manoel,La Furia,Manoel,42,166293,2018-07-05,1,0.784,0.793,6,-7.202,0,0.0622,0.599,0.0,0.086,0.973,129.512,4,funk
+410,Machucando o Coleguinha,MC Cego,Machucando o Coleguinha,0,139586,2017-10-18,1,0.84,0.779,6,-3.374,0,0.0873,0.0726,8.83e-06,0.0828,0.961,80.002,4,funk
+411,Vai Virar Meme,MC PR,Vai Virar Meme,29,140875,2018-07-19,1,0.824,0.806,7,-8.55,1,0.188,0.111,0.00265,0.224,0.937,159.968,4,funk
+412,O Rei Mandou,Mc Jhey,O Rei Mandou,34,207046,2018-06-22,1,0.78,0.567,9,-7.134,1,0.067,0.0804,0.0639,0.0934,0.961,159.967,4,funk
+413,Menina da Quadrilha,Dadá Boladão,Menina da Quadrilha,36,199360,2018-04-16,1,0.741,0.887,9,-2.888,1,0.085,0.0498,0.000235,0.495,0.877,150.029,4,funk
+414,Privê,Mateus Carrilho,Privê,54,148800,2018-05-28,1,0.732,0.83,10,-3.648,0,0.0551,0.129,0.0,0.0572,0.964,150.016,4,funk
+415,Não Insista,Mc Tocha,Não Insista,36,188656,2018-06-01,1,0.588,0.592,8,-4.087,1,0.0543,0.166,0.0,0.335,0.884,82.975,4,funk
+416,Senta Devagar,MC Tubah,Senta Devagar,30,131806,2017-08-04,1,0.743,0.764,1,-5.697,1,0.055,0.0417,1.05e-06,0.0641,0.964,74.988,4,funk
+417,Flexiona e Sarradinha,Mc Troia,Flexiona e Sarradinha,31,178503,2018-06-15,1,0.849,0.826,8,-4.237,1,0.245,0.0425,0.0,0.347,0.971,160.101,4,funk
+418,Seu Jeito,Mc Duda,Seu Jeito,38,150097,2018-06-25,1,0.809,0.454,6,-5.809,0,0.0626,0.331,0.0,0.118,0.69,153.996,4,funk
+419,Tá Rocheda,Dodô Pressão,O Trator Chegou,38,187850,2018-07-04,6,0.793,0.65,9,-7.546,1,0.072,0.286,0.0,0.141,0.924,159.985,4,funk
+420,Taca Catuaba,Mc Troia,Taca Catuaba,33,205479,2018-01-12,1,0.866,0.558,0,-6.085,1,0.283,0.0574,0.00024,0.214,0.805,160.008,4,funk
+421,Preta,Mc Roginho,Preta,0,162145,2018-05-18,1,0.862,0.471,1,-6.82,0,0.15,0.445,4.08e-05,0.0504,0.914,159.913,4,funk
+422,Deixa Eu Te Fazer Feliz,Márcia Fellipe,Deixa Eu Te Fazer Feliz,58,161287,2018-06-08,1,0.786,0.787,4,-4.682,0,0.0393,0.232,0.0,0.0463,0.794,150.049,4,funk
+423,Arrocha da Penha,MC Flavinho,Arrocha da Penha,39,188308,2015-11-27,1,0.784,0.739,1,-5.217,1,0.216,0.122,0.0,0.108,0.829,80.049,4,funk
+424,Seu Zé,Mc Elvis,Seu Zé,37,219491,2018-05-18,1,0.726,0.524,9,-6.114,1,0.0626,0.106,0.0,0.316,0.872,159.914,4,funk
+425,Ritmo da Flauta,MC Hollywood,Ritmo da Flauta,34,172500,2018-04-25,1,0.88,0.877,4,-1.824,1,0.0495,0.671,2.89e-06,0.058,0.94,96.784,4,funk
+426,De Ladin,Dadá Boladão,De Ladin,45,110785,2017-08-25,1,0.803,0.872,10,-5.354,0,0.326,0.0117,0.0,0.153,0.935,82.586,4,funk
+427,Paralisa,MC Loma e As Gêmeas Lacração,Paralisa,55,141375,2018-03-13,1,0.848,0.934,2,-1.055,1,0.0916,0.0498,0.000891,0.0896,0.971,160.015,4,funk
+428,Popozão,MC Petter,Popozão,39,128039,2018-02-21,1,0.799,0.697,9,-3.935,1,0.0598,0.0332,0.000191,0.0532,0.621,180.122,4,funk
+429,Vai Descendo,Mc Troia,Vai Descendo,33,245225,2017-01-26,1,0.802,0.723,1,-7.047,1,0.133,0.0242,1.43e-05,0.201,0.798,77.485,4,funk
+430,Paralisou,Mc Tocha,O Estourado dos Paredões,35,208770,2017-05-01,1,0.805,0.807,10,-5.618,0,0.0773,0.0817,0.199,0.0866,0.735,150.008,4,funk
+431,Lacração,MC Loma e As Gêmeas Lacração,Lacração,45,195604,2018-04-13,1,0.832,0.933,11,-0.764,0,0.123,0.0202,7.37e-06,0.127,0.923,162.144,4,funk
+432,Pode Se Soltar,Jerry Smith,Pode Se Soltar - Single,58,180114,2017-04-05,1,0.855,0.506,6,-5.303,1,0.345,0.00579,0.0,0.101,0.699,160.088,4,funk
+433,Quando a vontade bater (Participação especial de PK Delas),Pk,Quando a vontade bater (Participação especial de PK Delas),77,166400,2019-03-04,1,0.621,0.7,8,-5.502,1,0.247,0.539,0.0,0.152,0.704,149.902,4,funk
+434,Não sou obrigada,Mc Pocahontas,Não sou obrigada,76,148340,2019-03-29,1,0.819,0.951,6,-2.896,0,0.141,0.356,0.0,0.145,0.963,153.963,4,funk
+435,Fica à vontade,Pedro Sampaio,Fica à vontade,59,140000,2019-05-10,1,0.724,0.911,11,-2.01,0,0.245,0.393,1.27e-05,0.296,0.947,150.132,4,funk
+436,"Garupa, Pt. 2",Dj Henrique de ferraz,"Garupa, Pt. 2",71,142499,2019-03-18,1,0.947,0.921,7,-2.988,1,0.378,0.705,0.0035,0.0621,0.738,130.022,4,funk
+437,Só Socadinha,MC Cyclope,Só Socadinha,60,156969,2019-01-18,1,0.76,0.715,0,0.706,1,0.0417,0.0531,8.29e-05,0.118,0.767,130.075,4,funk
+438,,,,0,190070,2017-12-28,1,0.866,0.464,11,-9.579,0,0.327,0.103,3.23e-05,0.0779,0.644,86.688,5,funk
+439,Vai Faz a Fila,Mc Denny,Vai Faz a Fila,0,201744,2017-12-07,1,0.894,0.75,5,-1.14,1,0.151,0.0669,0.0,0.0894,0.875,86.685,5,funk
+440,Ela É do Tipo,MC Kevin o Chris,Ela É do Tipo,83,204930,2019-03-07,1,0.632,0.398,6,-6.615,1,0.373,0.945,0.0,0.228,0.633,90.695,4,funk
+441,Vem amor,Ludmilla,Vem amor,67,132000,2019-02-07,1,0.62,0.704,7,-2.182,1,0.226,0.133,0.0,0.135,0.689,86.453,5,funk
+442,Disputa Pra Qual Mais Kika,Dj Guuga,Baile do Guga,61,163891,2018-07-27,5,0.834,0.878,9,-1.595,1,0.115,0.419,0.00216,0.084,0.926,159.977,4,funk
+443,Tome na Pepeka,Biel Excamoso,Tome na Pepeka,2,117323,2019-01-02,1,0.693,0.878,5,-6.45,0,0.0659,0.467,0.0,0.153,0.546,85.027,4,funk
+444,Vai menina,Pedro Sampaio,Vai menina,76,122435,2019-01-25,1,0.795,0.878,1,-3.261,0,0.278,0.413,0.0,0.0968,0.963,149.971,4,funk
+445,Onda diferente (feat. Papatinho),Anitta,Kisses,79,160900,2019-04-05,3,0.705,0.721,1,-5.545,0,0.514,0.333,0.0,0.101,0.574,75.132,4,funk
+446,Leitada,Dj Henrique de ferraz,Hit dos Fluxos,55,192055,2018-05-25,2,0.943,0.804,11,-1.253,1,0.422,0.78,0.0001,0.181,0.652,130.019,4,funk
+447,Os Penetra,Dj Guuga,Baile do Guga,60,202557,2018-07-27,11,0.664,0.85,9,-1.238,1,0.377,0.125,0.0,0.212,0.907,79.062,4,funk
+448,Vamos pra Gaiola,MC Kevin o Chris,Vamos pra Gaiola,78,161600,2019-01-11,1,0.872,0.971,6,-5.576,1,0.281,0.917,0.00143,0.121,0.521,149.987,4,funk
+449,Brota Na Penha,Mc Livinho,Brota Na Penha,65,153652,2018-11-03,1,0.572,0.531,5,-9.603,1,0.492,0.207,0.0,0.0734,0.766,181.809,5,funk
+450,Sobe Balão Desce Princesa,MC Kevin o Chris,Sobe Balão Desce Princesa,68,211200,2018-12-18,1,0.682,0.401,0,-6.139,1,0.485,0.11,1.88e-06,0.0388,0.676,150.062,4,funk
+451,Malemolência,Dynho Alves,Malemolência,74,135053,2018-10-31,1,0.829,0.64,6,-5.537,0,0.231,0.553,0.000214,0.131,0.848,160.025,4,funk
+452,Elas Tão Pedindo Obrigado,Dj Guuga,Baile do Guga,53,162481,2018-07-27,8,0.741,0.798,0,-3.35,0,0.347,0.0245,0.0,0.0418,0.644,80.232,4,funk
+453,Bota pra Tremer,Pedro Sampaio,Bota pra Tremer,66,120400,2018-08-24,1,0.872,0.399,9,-11.145,1,0.245,0.353,8.32e-05,0.106,0.915,149.936,4,funk
+454,É rave que fala né,MC Hollywood,É rave que fala né,69,169769,2019-02-22,1,0.655,0.726,1,-6.687,1,0.313,0.233,8.49e-06,0.0846,0.381,149.919,4,funk
+455,Helicóptero,Dj Guuga,Helicóptero,55,157648,2019-02-07,1,0.722,0.936,9,-0.441,0,0.388,0.113,0.0,0.127,0.756,159.773,4,funk
+456,Só Depois do Carnaval,Lexa,Só Depois do Carnaval,73,166666,2019-01-31,1,0.833,0.917,8,-3.189,0,0.0752,0.388,2.39e-05,0.293,0.882,143.986,4,funk
+457,Provocar,Lexa,Provocar,73,168138,2018-11-22,1,0.682,0.826,8,-4.854,0,0.0528,0.182,0.0,0.052,0.688,134.067,4,funk
+458,Senta Vai Cachorra,Mc 2k,Senta Vai Cachorra,43,189000,2018-09-04,1,0.764,0.943,7,-2.25,1,0.105,0.00995,0.00295,0.1,0.844,159.91,4,funk
+459,Bola Rebola,Tropkillaz,Bola Rebola,83,193440,2019-02-22,1,0.834,0.777,5,-4.538,0,0.0593,0.22,0.00609,0.335,0.865,129.984,4,funk
+460,Vai Maldita,Mc Kitinho,Vai Maldita,52,208561,2018-05-20,1,0.91,0.918,0,-1.935,1,0.223,0.483,0.00631,0.791,0.216,130.07,4,funk
+461,Turbulência,Mc Leléto,Turbulência,53,154029,2018-12-17,1,0.658,0.28,8,-4.374,1,0.0714,0.0988,2.96e-05,0.101,0.422,89.375,3,funk
+462,Terremoto,Anitta,Terremoto,76,146276,2019-02-01,1,0.891,0.805,8,-5.836,0,0.0898,0.329,0.0,0.277,0.967,95.045,4,funk
+463,Agora é Tudo Meu,Dennis DJ,Agora é Tudo Meu,77,171998,2018-12-07,1,0.848,0.933,5,-3.306,0,0.106,0.7,2.81e-06,0.184,0.506,139.998,4,funk
+464,To Gostando Tanto de Você,Mc Don Juan,To Gostando Tanto de Você,72,158383,2018-09-14,1,0.869,0.681,8,-1.796,1,0.0941,0.481,0.0,0.457,0.905,133.939,4,funk
+465,Vai Sentando Sem Compromisso - Radio Edit,Mc Alysson,Vai Sentando Sem Compromisso (Radio Edit),57,192052,2018-09-24,1,0.833,0.881,8,-7.294,1,0.454,0.679,0.000135,0.0793,0.682,149.962,4,funk
+466,Hoje Eu Vou Parar Na Gaiola,Mc Livinho,Hoje Eu Vou Parar Na Gaiola,77,177093,2018-10-17,1,0.65,0.361,2,-7.153,1,0.404,0.0331,0.0,0.0978,0.844,89.803,4,funk
+467,Parado no Bailão,MC L da Vinte,Parado no Bailão,74,171692,2018-07-23,1,0.828,0.599,11,-1.624,1,0.149,0.381,0.0,0.0775,0.478,86.533,5,funk
+468,Flexiona,Mc Troia,"Arrocha Com Troinha, Vol. 4",49,166504,2017-12-06,4,0.897,0.628,11,-3.89,0,0.202,0.0411,0.0,0.237,0.508,150.001,4,funk
+469,Tu Ja Sabe o Que Eu Faço Lá No Meu Barraco,MC Nego da Marcone,Tu Ja Sabe o Que Eu Faço Lá No Meu Barraco,63,173400,2018-09-28,1,0.714,0.557,0,-4.8,1,0.534,0.0932,4.77e-05,0.127,0.497,130.323,1,funk
+470,Dentro do Carro,MC Kevin o Chris,Dentro do Carro,71,226847,2018-09-24,1,0.848,0.896,4,-8.107,0,0.213,0.793,0.0418,0.1,0.727,150.064,4,funk
+471,Eu Vou Tu Vai,Tirullipa,Eu Vou Tu Vai,53,141665,2019-02-04,1,0.844,0.943,9,-4.415,1,0.0402,0.524,2.94e-05,0.171,0.963,135.012,4,funk
+472,Tu Tá na Gaiola - Radio Edit,MC Kevin o Chris,Tu Tá na Gaiola (Radio Edit),58,96104,2018-02-01,1,0.874,0.959,2,-5.787,0,0.632,0.754,0.00025,0.0646,0.536,152.035,4,funk
+473,Eu Vou pro Baile da Gaiola,MC Kevin o Chris,Eu Vou pro Baile da Gaiola,63,123219,2018-09-14,1,0.832,0.957,4,-3.212,0,0.105,0.824,0.000372,0.0673,0.642,152.073,4,funk
+474,Toma na Tcheka Vara,MC Gomes,Toma na Tcheka Vara,47,163555,2018-05-03,1,0.902,0.476,7,-3.478,0,0.358,0.626,0.0,0.0635,0.851,135.138,4,funk
+475,Come Quieto,Mc Kevin,Come Quieto,52,217547,2018-02-10,1,0.96,0.823,11,-2.446,1,0.0499,0.742,4.22e-06,0.139,0.908,130.02,4,funk
+476,Arebunda,MC Lan,Arebunda,52,263471,2018-05-25,1,0.606,0.577,9,-4.315,1,0.411,0.367,5.43e-05,0.725,0.537,88.685,5,funk
+477,Forte pra Dar Sorte,Mc Neguinho do ITR,Forte pra Dar Sorte,58,224000,2018-03-23,1,0.961,0.611,11,-0.138,1,0.151,0.0481,0.000615,0.314,0.702,130.047,4,funk
+478,Zé Droguinha - DJ Tezinho,Matheus Yurley,Zé Droguinha - DJ Tezinho,58,153234,2018-05-11,1,0.899,0.656,1,-3.396,0,0.0853,0.442,0.0,0.168,0.96,132.023,4,funk
+479,Cai de Boca,Mc Rebecca,Cai de Boca,55,129963,2018-07-26,1,0.846,0.674,8,-5.557,0,0.429,0.402,2.52e-06,0.151,0.676,150.045,4,funk
+480,Assim Tu Mata Papai,Mc Pedrinho,Assim Tu Mata Papai,41,174000,2018-04-28,1,0.928,0.558,8,-6.948,1,0.329,0.298,0.0,0.0374,0.85,100.008,4,funk
+481,Cavucada,Mc Gw,Cavucada,50,257985,2017-07-12,1,0.625,0.481,8,-2.922,1,0.561,0.694,2.74e-05,0.239,0.461,178.017,3,funk
+482,Mandelinha,MC MM,Mandelinha,49,155141,2017-11-03,1,0.954,0.652,7,-1.484,1,0.199,0.328,1.44e-06,0.0799,0.555,130.004,4,funk
+483,De Copão Na Mão,MC Novinho da Praça,De Copão Na Mão,56,273319,2018-01-17,1,0.919,0.53,8,-9.402,1,0.11,0.542,0.0,0.267,0.645,130.02,4,funk
+484,Os Opostos Se Atraem,Mc Don Juan,Os Opostos Se Atraem,57,160052,2018-03-22,1,0.836,0.786,6,-2.414,1,0.048,0.0186,1.57e-06,0.0928,0.677,132.059,4,funk
+485,Vou Falar Pra Tu,Jerry Smith,Vou Falar Pra Tu,61,147795,2018-08-03,1,0.964,0.329,5,-0.355,1,0.0922,0.038,0.0,0.111,0.563,130.01,4,funk
+486,Só Você,Dennis DJ,Só Você,70,161444,2018-05-04,1,0.834,0.751,11,-0.787,1,0.117,0.447,0.0,0.112,0.697,129.935,4,funk
+487,A Escolhida,Mc Pedrinho,A Escolhida,54,210913,2018-07-11,1,0.841,0.694,11,-4.51,0,0.0571,0.502,3.77e-05,0.082,0.729,131.992,4,funk
+488,Eu Vou Te Pegar,Mc Pedrinho,Eu Vou Te Pegar,54,203012,2018-01-16,1,0.885,0.533,2,-8.624,0,0.119,0.112,0.0,0.104,0.622,132.081,4,funk
+489,Suave Suavão,MC Arraia,Suave Suavão,52,169820,2018-06-08,1,0.65,0.628,2,-3.257,1,0.314,0.131,0.0,0.0505,0.752,90.783,3,funk
+490,Toma Tapa Na Cara,Mc Pedrinho,Toma Tapa Na Cara,58,160679,2018-05-02,1,0.723,0.618,0,-0.016,1,0.365,0.722,0.0166,0.0913,0.334,129.583,4,funk
+491,Ela Tira o Pau da Tcheca Pra Botar Na Boca,MC Theuzyn,Ela Tira o Pau da Tcheca Pra Botar Na Boca,58,126436,2018-08-22,1,0.916,0.901,10,-3.836,0,0.281,0.121,0.0,0.317,0.891,132.926,4,funk
+492,Posso Te Empurrar,MC Arraia,Posso Te Empurrar,57,140387,2018-03-01,1,0.957,0.632,11,-3.007,0,0.342,0.0802,0.0,0.0659,0.93,130.05,4,funk
+493,Bailão,Mc Leléto,Bailão,52,136951,2017-08-21,1,0.971,0.479,10,-2.768,0,0.0785,0.0188,1.1e-05,0.0583,0.613,129.988,4,funk
+494,Beat do Megatron,Mc Kitinho,Putaria do Kitinho,57,173139,2018-02-02,4,0.63,0.757,1,-2.208,1,0.301,0.521,0.000223,0.0588,0.726,83.005,5,funk
+495,Rabão que sobe e desce (Participação especial de MC Delano),MC Lan,Rabão que sobe e desce (Participação especial de MC Delano),54,152946,2018-06-22,1,0.922,0.464,7,-2.17,1,0.191,0.42,0.000175,0.686,0.601,134.938,4,funk
+496,Me Solta,Nego do Borel,Me Solta,60,161096,2018-06-04,1,0.66,0.958,9,-5.406,1,0.239,0.191,0.0,0.125,0.484,144.64,4,funk
+497,Novinha Você É uma Flor,MCs Thin e Alexandre,Novinha Você É uma Flor,62,143971,2018-06-22,1,0.86,0.469,7,-6.262,1,0.109,0.23,0.0,0.0988,0.769,130.126,4,funk
+498,Din Din Din (Participação especial de MC Pupio e MC Doguinha),Ludmilla,Din Din Din (Participação especial de MC Pupio e MC Doguinha),62,184607,2018-06-06,1,0.869,0.622,5,-5.841,1,0.23,0.214,0.0,0.0527,0.887,140.039,4,funk
+499,Menina Braba,Jerry Smith,Menina Braba,57,180976,2018-03-23,1,0.887,0.573,1,0.612,1,0.121,0.0457,0.0,0.0936,0.652,129.951,4,funk
+500,Vou Pegar,Dennis DJ,Vou Pegar,59,142153,2018-03-02,1,0.884,0.57,7,-2.451,1,0.0503,0.225,0.0,0.2,0.817,129.967,4,funk
+501,Só Quer Vrau,MC MM,Só Quer Vrau,63,160666,2018-04-06,1,0.673,0.76,2,-6.847,1,0.186,0.111,0.00169,0.15,0.934,150.225,4,funk
+502,Cheio de piranha querendo me dar (Participação especial de MC W1 e MC Nando DK),MC Lan,Cheio de piranha querendo me dar (Participação especial de MC W1 e MC Nando DK),58,189988,2018-02-16,1,0.806,0.654,8,-8.77,1,0.532,0.0586,0.000133,0.0984,0.815,89.035,5,funk
+503,Ritmo do Pam Pam,MC Rafa 22,Ritmo do Pam Pam,57,155141,2018-01-18,1,0.956,0.727,9,-1.074,1,0.221,0.382,0.682,0.0515,0.932,129.966,4,funk
+504,Bumbum Bate a Pampa,MC WM,Bumbum Bate a Pampa,54,212416,2017-09-13,1,0.926,0.596,1,-1.19,1,0.104,0.138,0.00154,0.0496,0.647,132.06,4,funk
+505,Abusadamente,MC Gustta,Abusadamente,66,215937,2017-07-25,1,0.685,0.648,11,-3.536,0,0.149,0.812,0.0019,0.21,0.389,122.599,4,funk
+506,Pancadão,MC WM,Nós É Pika,47,158223,2017-08-10,2,0.953,0.427,10,-5.818,0,0.0746,0.65,0.0,0.0607,0.62,131.991,4,funk
+507,Aquecimento das Potrancas,MC's Jhowzinho & Kadinho,Aquecimento das Potrancas,51,189231,2017-07-19,1,0.879,0.701,1,-3.194,1,0.181,0.00653,9.03e-06,0.143,0.802,160.018,4,funk
+508,Todo Dia,Pabllo Vittar,Vai Passar Mal,0,144000,2017-01-12,6,0.803,0.657,1,-5.136,1,0.0455,0.0683,0.0,0.127,0.128,130.013,4,funk
+509,Tchuk Tchuk,Mc Gui,Tchuk Tchuk,0,195685,2016-10-07,1,0.964,0.738,8,-3.454,1,0.129,0.227,0.0,0.0809,0.843,130.068,4,funk
+510,Só para as Meninas,MC Menor da VG,Só para as Meninas,0,169389,2014-10-31,1,0.86,0.499,1,-9.439,1,0.131,0.315,0.0,0.0706,0.662,129.938,4,funk
+511,Taca Essa Tabaca,Os Cretinos,Taca Essa Tabaca,0,135418,2017-11-27,1,0.883,0.439,2,-3.493,1,0.261,0.00689,0.000181,0.069,0.754,160.046,4,funk
+512,"Bonita, Lindinha e Sagaz",Mc Davi,"Bonita, Lindinha e Sagaz",64,155076,2018-01-18,1,0.712,0.465,1,-7.143,1,0.462,0.306,0.0,0.0783,0.829,129.98,4,funk
+513,"Luz, Camera e Ação",Mc 2k,"Luz, Camera e Ação",34,133003,2018-08-02,1,0.895,0.945,7,0.174,1,0.188,0.344,1.48e-05,0.0745,0.943,80.037,4,funk
+514,Sapequinha,Lexa,Sapequinha,72,134106,2018-08-03,1,0.677,0.984,11,-3.539,0,0.286,0.211,0.0,0.0632,0.906,150.086,4,funk
+515,Finalidade Era Ficar em Casa,MC Kevin o Chris,Finalidade Era Ficar em Casa,65,185652,2018-10-12,1,0.81,0.978,6,-3.949,1,0.198,0.571,0.212,0.0846,0.703,149.888,4,funk
+516,Chacoalhando,Mc Leléto,Chacoalhando,63,128287,2018-05-30,1,0.95,0.4,5,-1.359,0,0.465,0.109,0.00915,0.0577,0.583,131.03,4,funk
+517,Tipo Rave Balança o Popô,MC Hollywood,Tipo Rave Balança o Popô,56,160601,2018-07-13,1,0.841,0.79,11,-4.513,0,0.152,0.0165,0.000315,0.0847,0.198,135.084,4,funk
+518,Que Maravilha,Mc Zaac,Que Maravilha,41,211155,2018-10-15,1,0.948,0.343,11,-13.035,1,0.235,0.184,3.91e-05,0.0804,0.87,132.995,4,funk
+519,Você É Gostosa,Mc Livinho,Você É Gostosa,58,214153,2018-10-05,1,0.809,0.441,8,-9.932,1,0.0942,0.388,0.00146,0.0727,0.763,130.067,4,funk
+520,Encosta,Os Hawaianos,Encosta,44,162612,2017-08-23,1,0.912,0.779,4,-5.154,0,0.238,0.567,1.14e-05,0.113,0.923,130.014,4,funk
+521,Seja Bem-Vinda na Gaiola,MC Kevin o Chris,Seja Bem-Vinda na Gaiola,60,176587,2018-10-03,1,0.788,0.575,1,-9.979,1,0.427,0.787,2.01e-05,0.0837,0.332,149.812,4,funk
+522,Bandido Não Namora,MC Vitinho Avassalador,Bandido Não Namora,57,243278,2018-05-08,1,0.766,0.392,0,-12.279,1,0.514,0.364,1.88e-06,0.235,0.512,86.841,5,funk
+523,Vício,Mc Davi,Vício,52,151440,2017-08-18,1,0.859,0.506,11,-2.937,0,0.054,0.23,5.3e-06,0.143,0.5,130.038,4,funk
+524,Vou Passar Sarrando,Mc Kitinho,Vou Passar Sarrando,46,150312,2018-08-04,1,0.897,0.841,9,-7.718,0,0.258,0.316,5.39e-05,0.277,0.837,130.146,4,funk
+525,Vai perereca,MC Levin,Vai perereca,65,108804,2018-11-14,1,0.66,0.824,9,-4.097,1,0.53,0.0441,0.0,0.0556,0.766,88.621,5,funk
+526,Rabetão no Chão,Mc Th,Rabetão no Chão,65,179076,2018-09-07,1,0.935,0.35,3,-3.423,1,0.444,0.103,0.315,0.0784,0.582,130.126,4,funk
+527,Bailão,Mc Davi,Bailão,56,218181,2018-09-19,1,0.551,0.445,0,-5.419,1,0.0816,0.556,0.000107,0.121,0.598,83.062,5,funk
+528,É Tudo Puta,MC Maneirinho,É Tudo Puta,49,142841,2018-01-30,1,0.961,0.623,10,-5.488,0,0.131,0.0951,0.0756,0.0678,0.728,130.092,4,funk
+529,Bota a Palma da Mão No Chão,Mc Kitinho,Putaria do Kitinho,53,180976,2018-02-02,5,0.898,0.495,6,-6.969,1,0.366,0.831,0.0,0.0591,0.662,130.071,4,funk
+530,"Oi Tudo Bem, Maravilha",Mc Kitinho,"Oi Tudo Bem, Maravilha",49,186932,2017-08-31,1,0.843,0.818,1,-2.406,1,0.184,0.00418,0.0,0.107,0.735,131.045,4,funk
+531,Sexta Do Mal,Mc Zaac,Sexta Do Mal,67,207768,2018-12-07,1,0.893,0.567,6,-2.417,1,0.11,0.341,4.61e-05,0.268,0.815,133.077,4,funk
+532,3 Dias Virado,Various Artists,Só Explosão,70,207157,2017-12-22,5,0.823,0.474,2,-9.29,0,0.0503,0.0202,0.0,0.201,0.833,95.05,4,funk

@@ -1,0 +1,669 @@
+,track,artist,album,popularity,time,release_date,track_number,danceability,energy,key,loudness,mode,speechiness,acoustincess,instrumentalness,liveness,valence,tempo,time_signature,genre
+0,Sucker,Jonas Brothers,Sucker,95,181040,2019-03-01,1,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,pop
+1,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),97,219946,2019-05-10,1,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,4,pop
+2,Youngblood,5 Seconds of Summer,Youngblood (Deluxe),84,203417,2018-06-15,1,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,4,pop
+3,I Like Me Better,Lauv,I Like Me Better,85,197436,2017-05-19,1,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,pop
+4,This Feeling (feat. Kelsea Ballerini),The Chainsmokers,Sick Boy...Beach House,29,199226,2018-11-16,1,0.539,0.651,1,-5.304,1,0.0432,0.0651,0.0,0.0662,0.474,105.159,4,pop
+5,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,ME!,93,193040,2019-04-26,1,0.614,0.839,0,-4.143,1,0.0702,0.0291,0.0,0.112,0.657,182.123,4,pop
+6,2002,Anne-Marie,Speak Your Mind (Deluxe),83,186986,2018-04-27,10,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,4,pop
+7,Happier,Marshmello,Happier,92,214289,2018-08-17,1,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,pop
+8,i'm so tired...,Lauv,i'm so tired...,91,162582,2019-01-24,1,0.599,0.733,11,-7.058,1,0.203,0.176,0.0,0.242,0.534,102.211,4,pop
+9,Who Do You Love,The Chainsmokers,Who Do You Love,74,226746,2019-02-07,1,0.51,0.835,3,-4.673,1,0.0447,0.00791,0.0,0.219,0.435,140.024,4,pop
+10,"thank u, next",Ariana Grande,"thank u, next",90,207320,2019-02-08,11,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966,4,pop
+11,The Middle,Zedd,The Middle,85,184732,2018-01-23,1,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,4,pop
+12,"Hey Look Ma, I Made It",Panic! At The Disco,Pray For The Wicked,85,169666,2018-06-22,3,0.577,0.833,5,-3.337,1,0.0695,0.0137,0.0,0.121,0.58,107.936,4,pop
+13,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,Back To You (From 13 Reasons Why – Season 2 Soundtrack),81,207904,2018-05-10,1,0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,4,pop
+14,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",84,174800,2017-09-08,1,0.663,0.708,8,-4.154,1,0.0473,0.0337,0.0,0.0841,0.742,103.073,4,pop
+15,7 rings,Ariana Grande,"thank u, next",89,178626,2019-02-08,10,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,4,pop
+16,No Brainer,DJ Khaled,No Brainer,81,260000,2018-07-27,1,0.552,0.76,0,-4.706,1,0.342,0.0733,0.0,0.0865,0.639,135.702,5,pop
+17,High Hopes,Panic! At The Disco,Pray For The Wicked,90,190946,2018-06-22,4,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,4,pop
+18,Delicate,Taylor Swift,reputation (Big Machine Radio Release Special),74,232253,2017-11-08,10,0.75,0.404,9,-10.178,0,0.0682,0.216,0.000357,0.0911,0.0499,95.045,4,pop
+19,Most Girls,Hailee Steinfeld,Most Girls,77,204400,2017-04-28,1,0.76,0.588,9,-7.082,1,0.0775,0.0485,0.0,0.0847,0.384,102.974,4,pop
+20,Body,Loud Luxury,Body,81,163216,2017-10-27,1,0.752,0.764,1,-4.399,1,0.038,0.0476,9.44e-05,0.0543,0.582,121.958,4,pop
+21,Sweet but Psycho,Ava Max,Sweet but Psycho,92,187436,2018-08-17,1,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,4,pop
+22,Rewrite The Stars,Zac Efron,Rewrite The Stars,73,217440,2017-11-17,1,0.684,0.619,10,-7.005,1,0.0386,0.0716,0.0,0.122,0.284,125.046,4,pop
+23,Sorry Not Sorry,Demi Lovato,Tell Me You Love Me (Deluxe),19,203760,2017-09-29,1,0.704,0.633,11,-6.923,0,0.241,0.0214,0.0,0.29,0.863,144.021,4,pop
+24,IDGAF,Dua Lipa,Dua Lipa (Deluxe),84,217946,2017-06-02,5,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,4,pop
+25,What I Like About You (feat. Theresa Rex),Jonas Blue,What I Like About You (feat. Theresa Rex),86,220396,2019-03-22,1,0.46,0.8,1,-3.584,1,0.05,0.289,6.16e-06,0.121,0.553,102.46,4,pop
+26,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",100,194087,2019-03-29,2,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+27,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,Pretty Girl (Cheat Codes X CADE Remix),77,193613,2017-03-02,1,0.703,0.868,7,-4.661,0,0.0291,0.15,0.132,0.104,0.733,121.03,4,pop
+28,Remind Me to Forget,Kygo,Kids in Love,74,217293,2017-11-03,9,0.689,0.505,0,-6.389,1,0.0933,0.158,0.0,0.138,0.312,99.017,4,pop
+29,Jackie Chan,Tiësto,Jackie Chan,82,215759,2018-05-18,1,0.747,0.834,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.005,4,pop
+30,Do You Mean (with Ty Dolla $ign & bülow),The Chainsmokers,World War Joy...Do You Mean,83,193175,2019-04-26,1,0.6,0.666,11,-9.827,1,0.0394,0.102,0.0,0.118,0.566,99.989,4,pop
+31,Wait,Maroon 5,Red Pill Blues (Deluxe),27,190642,2017-11-03,3,0.655,0.603,8,-5.014,1,0.0555,0.0959,0.0,0.107,0.452,126.088,4,pop
+32,Better Not (with Wafia),Louis The Child,Kids At Play- EP,73,222865,2018-10-26,3,0.783,0.537,9,-2.921,1,0.0795,0.278,0.0,0.229,0.393,113.988,4,pop
+33,Capital Letters,Hailee Steinfeld,"Capital Letters [From ""Fifty Shades Freed (Original Motion Picture Soundtrack)""]",47,219386,2018-01-12,1,0.666,0.814,0,-5.536,1,0.0736,0.0333,7.02e-06,0.0535,0.478,99.913,4,pop
+34,SOS,Avicii,SOS,95,157202,2019-04-10,1,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,4,pop
+35,I Miss You (feat. Julia Michaels),Clean Bandit,I Miss You (feat. Julia Michaels),29,205747,2017-10-26,1,0.638,0.658,3,-6.318,1,0.0456,0.245,3.77e-06,0.0919,0.33,105.076,4,pop
+36,TOOTIMETOOTIMETOOTIME,The 1975,TOOTIMETOOTIMETOOTIME,14,208741,2018-08-15,1,0.662,0.827,8,-5.891,1,0.0624,0.166,0.0165,0.086,0.477,115.014,4,pop
+37,Electricity (with Dua Lipa),Silk City,Electricity (with Dua Lipa),83,238173,2018-09-06,1,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,4,pop
+38,Not A Love Song,bülow,Damaged Vol. 1,69,192293,2017-11-03,2,0.74,0.533,7,-10.294,1,0.0824,0.138,4.99e-05,0.127,0.313,92.005,4,pop
+39,FRIENDS,Marshmello,FRIENDS,84,202620,2018-02-09,1,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,pop
+40,Party For One,Carly Rae Jepsen,Now That I Found You / No Drug Like Me,66,183894,2019-02-27,3,0.685,0.638,6,-6.539,1,0.0367,0.0371,0.0,0.0987,0.414,123.442,4,pop
+41,Starving,Hailee Steinfeld,HAIZ,45,181933,2016-08-19,5,0.668,0.613,4,-4.225,1,0.102,0.414,0.0,0.102,0.498,99.852,4,pop
+42,Feel Good (feat. Daya),Gryffin,Feel Good (feat. Daya),71,248156,2017-03-03,1,0.625,0.707,2,-4.761,1,0.0337,0.22,0.0,0.213,0.479,138.064,4,pop
+43,Back & Forth,MK,Back & Forth,74,196214,2018-09-07,1,0.684,0.816,10,-5.211,0,0.0322,0.0181,0.0,0.0222,0.702,121.993,4,pop
+44,Blank Space,Taylor Swift,1989 (Big Machine Radio Release Special),68,231826,2014-10-26,4,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,4,pop
+45,She Looks So Perfect,5 Seconds of Summer,5 Seconds Of Summer,68,202496,2014-06-27,1,0.493,0.956,1,-4.221,0,0.138,0.000668,0.0,0.416,0.47,160.006,4,pop
+46,Love Myself,Hailee Steinfeld,HAIZ,47,218746,2016-08-19,1,0.617,0.759,0,-6.785,0,0.0677,0.0026,0.0,0.42,0.324,122.925,4,pop
+47,Stay,Zedd,Stay +,53,210400,2017-12-29,1,0.671,0.628,5,-5.049,0,0.0759,0.221,0.0,0.114,0.537,102.037,4,pop
+48,No Promises (feat. Demi Lovato),Cheat Codes,No Promises (feat. Demi Lovato),72,223503,2017-03-31,1,0.741,0.667,10,-5.445,1,0.134,0.0575,0.0,0.106,0.595,112.956,4,pop
+49,What Lovers Do,Maroon 5,Red Pill Blues (Deluxe),35,199849,2017-11-03,2,0.799,0.597,5,-5.131,0,0.0611,0.0788,5.66e-06,0.1,0.419,110.001,4,pop
+50,No New Friends,Sia,No New Friends,71,175823,2019-03-14,1,0.724,0.702,7,-4.622,1,0.0429,0.0648,0.000256,0.121,0.688,106.044,4,pop
+51,Kill This Love,BLACKPINK,KILL THIS LOVE,87,189052,2019-04-05,1,0.738,0.861,2,-4.141,1,0.237,0.32,0.00175,0.325,0.58,131.974,4,pop
+52,Symphony (feat. Zara Larsson),Clean Bandit,Symphony (feat. Zara Larsson),78,212459,2017-03-16,1,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863,4,pop
+53,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),85,217466,2018-11-30,1,0.601,0.794,7,-5.844,0,0.0671,0.00987,1.36e-06,0.388,0.244,114.066,4,pop
+54,Blame It On Your Love (feat. Lizzo),Charli XCX,Blame It On Your Love (feat. Lizzo),74,191113,2019-05-15,1,0.716,0.757,5,-2.666,1,0.0487,0.0249,0.0,0.286,0.558,100.007,4,pop
+55,Do It Again,Pia Mia,Do It Again,75,207746,2015-05-04,1,0.714,0.559,8,-6.543,1,0.0515,0.0299,0.0,0.088,0.411,95.979,4,pop
+56,One Last Time,Ariana Grande,My Everything (Deluxe),81,197266,2014-08-25,3,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,pop
+57,New Rules,Dua Lipa,Dua Lipa (Complete Edition),51,209320,2015,10,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,pop
+58,All The Stars (with SZA),Kendrick Lamar,All The Stars (with SZA),14,235540,2018-01-04,1,0.715,0.62,5,-5.428,0,0.0507,0.0322,0.0142,0.0881,0.456,96.812,4,pop
+59,Closer,The Chainsmokers,Closer,84,244960,2016-07-29,1,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4,pop
+60,Havana (feat. Young Thug),Camila Cabello,Camila,85,217306,2018-01-12,4,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,4,pop
+61,SICKO MODE - Skrillex Remix,Travis Scott,SICKO MODE (Skrillex Remix),72,304512,2018-11-28,1,0.651,0.833,1,-3.356,1,0.172,0.0214,0.0,0.14,0.443,155.051,4,pop
+62,One Kiss (with Dua Lipa),Calvin Harris,One Kiss (with Dua Lipa),85,214846,2018-04-06,1,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,4,pop
+63,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,Grateful,76,288600,2017-06-22,4,0.609,0.668,7,-4.284,1,0.0367,0.0552,0.0,0.167,0.811,80.924,4,pop
+64,Take Her Place (feat. A R I Z O N A),Don Diablo,Take Her Place (feat. A R I Z O N A),64,209659,2017-10-27,1,0.603,0.744,0,-5.724,1,0.0458,0.279,4.87e-06,0.106,0.605,101.991,4,pop
+65,Attention,Charlie Puth,Voicenotes,81,208786,2018-05-11,2,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,4,pop
+66,Thunder,Imagine Dragons,Evolve,85,187146,2017-06-23,10,0.605,0.822,0,-4.833,1,0.0438,0.00671,0.134,0.147,0.288,167.997,4,pop
+67,Capsize,FRENSHIP,Truce - EP,74,237706,2016-09-02,2,0.683,0.708,5,-6.244,0,0.0305,0.0398,0.155,0.686,0.355,92.991,4,pop
+68,Friends (with BloodPop®),Justin Bieber,Friends (with BloodPop®),76,189466,2017-08-17,1,0.743,0.733,8,-5.337,1,0.0375,0.00402,0.0,0.304,0.622,104.977,4,pop
+69,Piece Of Your Heart,MEDUZA,Piece Of Your Heart,81,152913,2019-02-01,1,0.677,0.744,10,-6.806,0,0.0295,0.0404,0.00016,0.074,0.631,124.08,4,pop
+70,Dusk Till Dawn - Radio Edit,ZAYN,Dusk Till Dawn (Radio Edit),82,239000,2017-09-07,1,0.258,0.437,11,-6.593,0,0.039,0.101,1.27e-06,0.106,0.0967,180.043,4,pop
+71,Mama,Jonas Blue,Blue,73,184133,2018-11-09,2,0.738,0.794,11,-4.118,0,0.0416,0.101,0.0,0.0533,0.566,104.014,4,pop
+72,Clarity,Zedd,Clarity,73,271426,2012-01-01,5,0.509,0.781,8,-3.48,1,0.072,0.0398,0.0,0.0749,0.176,128.0,4,pop
+73,Scared to Be Lonely,Martin Garrix,Scared to Be Lonely,80,220883,2017-01-27,1,0.584,0.54,1,-7.786,0,0.0576,0.0895,0.0,0.261,0.195,137.972,4,pop
+74,Story of My Life,One Direction,Midnight Memories (Deluxe),78,245493,2013-11-25,2,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,4,pop
+75,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),97,219946,2019-05-10,1,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,4,pop
+76,Lie To Me,5 Seconds of Summer,Lie To Me,28,149877,2018-12-21,1,0.611,0.52,0,-5.445,1,0.0346,0.0132,0.0,0.105,0.771,159.927,4,pop
+77,i'm so tired...,Lauv,i'm so tired...,91,162582,2019-01-24,1,0.599,0.733,11,-7.058,1,0.203,0.176,0.0,0.242,0.534,102.211,4,pop
+78,Use Somebody - Recorded at Spotify Studios NYC,Shawn Mendes,Spotify Singles,72,176586,2018-11-14,2,0.366,0.519,5,-6.066,1,0.0331,0.35,0.0,0.145,0.308,124.632,4,pop
+79,"Fire On Fire - From ""Watership Down""",Sam Smith,"Fire On Fire (From ""Watership Down"")",81,246735,2018-12-21,1,0.584,0.407,1,-7.356,0,0.046,0.476,0.0,0.18,0.341,115.124,4,pop
+80,No One Compares To You,Jack & Jack,No One Compares To You,39,184080,2018-10-05,1,0.703,0.748,1,-6.047,1,0.0435,0.123,0.0,0.0642,0.625,111.943,4,pop
+81,What A Time (feat. Niall Horan),Julia Michaels,Inner Monologue Part 1,80,173306,2019-01-24,6,0.518,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.854,4,pop
+82,Rewrite The Stars (with James Arthur & Anne-Marie),James Arthur,Rewrite The Stars (with James Arthur & Anne-Marie),74,218293,2018-10-25,1,0.67,0.743,10,-4.993,1,0.0393,0.237,0.0,0.465,0.571,125.944,4,pop
+83,Fallin' All In You,Shawn Mendes,Shawn Mendes,20,235746,2018-05-25,6,0.853,0.477,8,-6.697,1,0.0362,0.401,0.0,0.111,0.8,92.03,4,pop
+84,Dancing With A Stranger (with Normani),Sam Smith,Dancing With A Stranger (with Normani),92,171029,2019-01-11,1,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,4,pop
+85,Let Me Down Slowly,Alec Benjamin,Let Me Down Slowly,25,169180,2018-05-25,1,0.649,0.548,1,-5.692,0,0.0318,0.733,0.0,0.136,0.506,150.036,4,pop
+86,There's No Way (feat. Julia Michaels),Lauv,There's No Way (feat. Julia Michaels),82,174860,2018-09-27,1,0.755,0.625,2,-7.114,1,0.0896,0.49,0.0,0.157,0.374,147.02,4,pop
+87,Good Years,ZAYN,Good Years,25,180120,2018-12-06,1,0.638,0.411,2,-5.979,1,0.042,0.55,0.0,0.141,0.158,96.969,4,pop
+88,You & Me,James TW,You & Me,74,231653,2019-01-18,1,0.714,0.683,11,-6.333,1,0.0443,0.196,7.73e-06,0.102,0.824,127.021,4,pop
+89,Be Alright,Dean Lewis,Be Alright,87,196373,2018-06-29,1,0.553,0.586,11,-6.319,1,0.0362,0.697,0.0,0.0813,0.443,126.684,4,pop
+90,Ruin My Life,Zara Larsson,Ruin My Life,82,190931,2018-10-18,1,0.665,0.699,11,-5.265,1,0.0578,0.423,0.0,0.0969,0.585,124.896,4,pop
+91,Big Plans,Why Don't We,Big Plans,81,179929,2019-01-17,1,0.693,0.604,11,-5.279,1,0.0427,0.0668,0.0,0.114,0.651,75.014,4,pop
+92,There You Are,ZAYN,Icarus Falls,66,199600,2018-12-14,11,0.452,0.685,0,-4.828,0,0.0385,0.0257,0.0,0.11,0.305,76.986,4,pop
+93,Peer Pressure (feat. Julia Michaels),James Bay,Peer Pressure (feat. Julia Michaels),76,176880,2019-02-22,1,0.631,0.715,1,-6.083,0,0.0277,0.0299,0.0,0.121,0.42,135.826,4,pop
+94,Say Love,James TW,Say Love,27,219440,2018-03-30,1,0.753,0.457,1,-7.533,1,0.0541,0.119,1.15e-06,0.355,0.549,84.038,4,pop
+95,Happier,Ed Sheeran,÷ (Deluxe),84,207520,2017-03-03,7,0.522,0.385,0,-7.355,1,0.0288,0.536,0.0,0.135,0.236,89.792,4,pop
+96,"Never Seen Anything ""Quite Like You"" - Acoustic",The Script,Acoustic Sessions,67,228146,2018-04-18,2,0.444,0.398,6,-8.01,1,0.03,0.799,0.0,0.114,0.361,79.874,3,pop
+97,You Are The Reason - Duet Version,Calum Scott,You Are The Reason (Duet Version),21,190299,2018-02-09,1,0.379,0.329,10,-8.796,1,0.0301,0.447,0.0,0.148,0.127,171.09,3,pop
+98,The Story Never Ends,Lauv,I met you when I was 18. (the playlist),70,229029,2018-05-31,7,0.614,0.126,9,-9.403,1,0.0376,0.911,0.0,0.148,0.351,119.945,4,pop
+99,Patient,Charlie Puth,Voicenotes,72,190533,2018-05-11,6,0.675,0.604,1,-6.266,1,0.193,0.752,0.0,0.111,0.456,168.034,4,pop
+100,Naked,James Arthur,Naked,79,234106,2017-11-24,1,0.529,0.607,6,-6.781,1,0.0574,0.104,0.0,0.0631,0.238,101.966,4,pop
+101,I Can't Fall in Love Without You,Zara Larsson,So Good,75,180640,2017-03-17,14,0.485,0.332,4,-9.244,1,0.0338,0.784,0.000122,0.146,0.273,130.813,4,pop
+102,I Am Falling In Love,Isak Danielson,Yours,26,248000,2018-10-19,7,0.67,0.396,5,-7.967,1,0.03,0.256,0.0,0.112,0.359,77.988,4,pop
+103,Too Good At Goodbyes,Sam Smith,Too Good At Goodbyes,21,201000,2017-09-08,1,0.515,0.378,5,-8.264,1,0.065,0.618,0.0,0.172,0.536,91.883,4,pop
+104,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,ME!,93,193040,2019-04-26,1,0.614,0.839,0,-4.143,1,0.0702,0.0291,0.0,0.112,0.657,182.123,4,pop
+105,At My Weakest,James Arthur,You Deserve Better / At My Weakest,68,217293,2018-06-01,2,0.636,0.433,10,-8.346,1,0.0614,0.536,0.0,0.123,0.234,75.02,3,pop
+106,7 Minutes,Dean Lewis,7 Minutes,78,211453,2019-01-18,1,0.613,0.739,10,-6.478,1,0.0311,0.526,0.0,0.149,0.712,104.966,4,pop
+107,All These Years,Camila Cabello,Camila,71,164373,2018-01-12,2,0.732,0.436,1,-7.409,0,0.117,0.609,0.0,0.108,0.475,94.852,4,pop
+108,Hurt Somebody,Noah Kahan,Hurt Somebody,65,168640,2018-01-12,1,0.633,0.559,6,-5.135,1,0.313,0.338,0.0,0.262,0.473,114.983,4,pop
+109,You Say,Lauren Daigle,You Say,22,274693,2018-07-13,1,0.494,0.637,5,-6.381,1,0.0333,0.669,0.0,0.0882,0.1,147.924,4,pop
+110,Can I Be Him - Acoustic Live Version,James Arthur,Can I Be Him (Acoustic Live Version),62,305160,2017-05-26,1,0.483,0.248,9,-9.368,1,0.0502,0.91,0.0,0.713,0.415,98.136,4,pop
+111,Wild Enough,Elina,Wild Enough,67,186658,2018-04-20,1,0.501,0.229,11,-8.081,1,0.0728,0.891,0.0,0.148,0.286,80.876,3,pop
+112,Turn Back Time,Daniel Schulz,Turn Back Time,66,223561,2017-11-03,1,0.68,0.346,7,-6.533,1,0.0302,0.231,0.0,0.26,0.224,95.952,4,pop
+113,Too Much To Ask,Niall Horan,Too Much To Ask,19,223043,2017-09-14,1,0.517,0.552,0,-6.401,1,0.039,0.375,0.0,0.106,0.196,153.747,4,pop
+114,I'll Never Love Again - Film Version,Lady Gaga,A Star Is Born Soundtrack,73,281066,2018-10-05,33,0.451,0.34,7,-7.466,1,0.031,0.763,2.49e-06,0.135,0.221,110.502,4,pop
+115,Is It Really Me You're Missing,Nina Nesbitt,"The Sun Will Come up, The Seasons Will Change",47,232800,2019-02-01,7,0.535,0.297,6,-6.043,1,0.0665,0.653,0.0,0.118,0.0492,147.569,4,pop
+116,Before I Lose My Mind - Stripped,Etham,Before I Lose My Mind (Stripped),62,226646,2018-11-16,1,0.635,0.247,0,-11.141,0,0.0387,0.608,0.0,0.111,0.181,124.813,4,pop
+117,Suitcase,James TW,Suitcase,66,214746,2019-02-22,1,0.669,0.396,0,-8.724,1,0.0545,0.267,0.0,0.0913,0.546,86.927,4,pop
+118,Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm,Lukas Graham,Spotify Singles,16,208949,2019-01-25,1,0.624,0.441,9,-8.366,0,0.0355,0.034,0.0,0.119,0.227,85.929,4,pop
+119,Punchline (Acoustic),Aidan Martin,Punchline,57,242442,2018-03-30,2,0.395,0.422,1,-5.931,1,0.038,0.709,0.0,0.111,0.34,95.509,4,pop
+120,Two Punks In Love,bülow,Two Punks In Love,67,195346,2018-09-21,1,0.498,0.418,0,-6.294,1,0.0539,0.881,0.0,0.113,0.796,190.078,4,pop
+121,come out and play,Billie Eilish,come out and play,80,210375,2018-11-20,1,0.64,0.321,0,-14.604,1,0.0931,0.693,0.0307,0.114,0.177,145.045,4,pop
+122,When You Love Someone,James TW,First Impressions,27,216373,2016-04-15,3,0.68,0.446,7,-6.039,1,0.0281,0.256,0.0,0.0515,0.339,125.863,4,pop
+123,I Miss You (feat. Julia Michaels),Clean Bandit,I Miss You (feat. Julia Michaels),29,205747,2017-10-26,1,0.638,0.658,3,-6.318,1,0.0456,0.245,3.77e-06,0.0919,0.33,105.076,4,pop
+124,Head Above Water,Avril Lavigne,Head Above Water,46,220850,2018-09-19,1,0.578,0.694,5,-5.351,1,0.0706,0.0112,0.0,0.102,0.268,129.921,4,pop
+125,Slide,James Bay,Slide,19,203866,2018-05-07,1,0.488,0.227,7,-8.098,1,0.0422,0.893,3.25e-06,0.095,0.331,128.131,4,pop
+126,Say You Won't Let Go,James Arthur,Say You Won't Let Go,77,211240,2016-09-09,1,0.4,0.564,10,-7.444,1,0.0523,0.693,0.0,0.0863,0.483,99.269,4,pop
+127,Get You The Moon (feat. Snøw),Kina,Get You The Moon (feat. Snøw),85,179080,2018-10-08,1,0.498,0.235,1,-16.541,0,0.188,0.72,0.0,0.144,0.0895,118.917,4,pop
+128,It's Gotta Be You,Isaiah,It's Gotta Be You,64,191433,2016-11-21,1,0.322,0.732,8,-4.903,1,0.0442,0.225,0.0,0.11,0.587,92.132,4,pop
+129,Never Be Alone,Shawn Mendes,Handwritten (Deluxe),13,215813,2015-04-13,3,0.376,0.466,10,-6.927,1,0.0353,0.514,5.8e-05,0.0781,0.276,199.835,4,pop
+130,Tebrikler,Merve Özbey,Devran,41,234330,2019-05-24,2,0.825,0.764,1,-6.699,0,0.0396,0.0282,3.89e-06,0.29,0.347,126.989,4,pop
+131,Nasılsın Aşkta?,Aleyna Tilki,Nasılsın Aşkta?,73,171080,2019-05-04,1,0.71,0.782,8,-6.703,0,0.0466,0.118,1.92e-06,0.106,0.216,139.932,4,pop
+132,Nokta,Ersay Üner,Nokta,46,240587,2019-05-16,1,0.76,0.57,0,-8.352,1,0.056,0.477,0.0,0.103,0.305,108.013,4,pop
+133,Gülü Soldurmam - Aşkın'ın Şarkıları,Tuğçe Kandemir,Gülü Soldurmam (Aşkın'ın Şarkıları),68,206482,2019-04-26,1,0.611,0.532,1,-8.633,1,0.0355,0.144,0.0,0.239,0.487,143.958,3,pop
+134,Ara Beni,Emrah Karaduman,Ara Beni,62,192779,2019-03-08,1,0.902,0.824,10,-4.518,0,0.0814,0.00509,2.15e-05,0.295,0.676,121.02,4,pop
+135,Felaket,Ezhel,Felaket,60,194772,2019-02-01,1,0.769,0.556,9,-5.375,0,0.082,0.115,0.000294,0.117,0.607,149.972,4,pop
+136,Bana da Söyle,Ziynet Sali,Bana da Söyle,54,246674,2019-03-14,1,0.693,0.695,4,-7.906,1,0.0581,0.00982,2.9e-05,0.127,0.724,106.007,4,pop
+137,İçimden Gelmiyor,Bilal Sonses,İçimden Gelmiyor,65,255000,2019-04-12,1,0.578,0.607,9,-6.191,0,0.0357,0.629,0.0,0.135,0.619,149.946,4,pop
+138,Napıyorsan Yap,Demet Akalın,Napıyorsan Yap,51,173000,2019-04-19,1,0.721,0.748,5,-8.564,0,0.132,0.0218,0.0,0.0707,0.625,170.054,4,pop
+139,Kabahat Bende,Buray,Kehanet,65,206700,2018-10-19,3,0.572,0.718,11,-5.771,0,0.0556,0.413,0.0,0.112,0.877,79.839,4,pop
+140,Aşkın Olayım,Simge,Ben Bazen,62,251780,2018-06-01,7,0.556,0.582,5,-8.368,0,0.0414,0.23,0.0,0.327,0.561,75.976,4,pop
+141,Son Liman,Murat Dalkılıç,Son Liman,65,172850,2019-01-25,1,0.669,0.915,10,-5.904,0,0.0719,0.0139,0.0,0.131,0.608,120.973,4,pop
+142,Yok Yok,Feride Hilal Akın,Yok Yok,51,184857,2019-05-17,1,0.698,0.422,0,-7.899,0,0.0598,0.66,0.0,0.142,0.142,75.803,4,pop
+143,Bir İhtimal Biliyorum,Gülşen,Bir İhtimal Biliyorum,67,210232,2018-12-07,1,0.692,0.518,1,-9.391,1,0.0407,0.0183,0.0,0.284,0.326,98.02,4,pop
+144,Gel Bana,Mustafa Sandal,Gel Bana,64,183337,2019-01-14,1,0.867,0.583,4,-8.782,0,0.359,0.18,5.05e-05,0.147,0.451,90.017,4,pop
+145,Seni Sever Miydim?,Hande Ünsal,Seni Sever Miydim?,63,205088,2018-11-09,1,0.696,0.872,11,-5.967,0,0.045,0.0496,2.09e-06,0.361,0.717,128.007,4,pop
+146,Selam,Ersay Üner,Nokta,40,265994,2019-05-16,3,0.802,0.691,7,-7.511,0,0.0292,0.0672,0.0137,0.0724,0.781,101.999,4,pop
+147,Salla,Aynur Aydın,Salla,62,209961,2018-10-30,1,0.673,0.855,6,-6.786,0,0.0477,0.114,0.0,0.283,0.383,94.969,4,pop
+148,Var Git,Burak King,Var Git,61,172099,2018-12-21,1,0.462,0.39,9,-11.17,0,0.294,0.161,0.000726,0.219,0.428,178.605,4,pop
+149,Nasıl Diye Sorma,Emre Kaya,Nasıl Diye Sorma,56,181428,2019-02-22,1,0.759,0.806,1,-5.673,0,0.0683,0.0537,1.63e-06,0.0961,0.47,126.0,4,pop
+150,Nerdesin?,Hande Ünsal,Nerdesin?,53,172226,2019-05-15,1,0.702,0.723,9,-5.806,0,0.0413,0.169,1.08e-06,0.195,0.428,123.049,4,pop
+151,Deva Bize Sevişler,Yalın,Deva Bize Sevişler,65,218740,2019-02-19,1,0.528,0.811,8,-7.147,0,0.0651,0.304,2.21e-05,0.0565,0.748,166.022,4,pop
+152,Allah'tan Kork,Aşkın Nur Yengi,Allah'tan Kork,46,208485,2019-05-24,1,0.575,0.563,10,-6.376,0,0.0586,0.434,8.15e-05,0.227,0.329,77.006,4,pop
+153,Yazık,Bengü,Yazık,63,235000,2019-02-15,1,0.567,0.575,9,-6.393,0,0.0333,0.0181,1.3e-05,0.397,0.339,115.015,4,pop
+154,Ay Tenli Kadın,Ufuk Beydemir,Sevda Gibi,72,197967,2018-03-23,2,0.533,0.541,6,-7.854,1,0.0252,0.217,4.39e-06,0.11,0.335,144.135,4,pop
+155,Dik Yokuş,Banu Parlak,Dik Yokuş,56,214190,2019-02-13,1,0.829,0.743,7,-4.851,0,0.0714,0.176,2.01e-06,0.105,0.551,100.027,4,pop
+156,Banane,Edis,An,59,226104,2018-03-07,7,0.73,0.763,11,-8.318,0,0.0812,0.0797,3.05e-05,0.727,0.629,128.029,4,pop
+157,Aşk Dediğin,Hadise,Şampiyon,55,213086,2017-07-07,4,0.744,0.786,7,-7.189,0,0.0378,0.244,0.0,0.0844,0.812,144.96,4,pop
+158,Derdim Olsun,Reynmen,Derdim Olsun,67,195483,2019-01-25,1,0.629,0.581,1,-7.541,0,0.0577,0.548,0.0,0.127,0.388,123.982,4,pop
+159,Ayrılmam,Berkay,Ayrılmam,42,213698,2019-05-03,1,0.725,0.526,2,-8.724,1,0.0356,0.219,1.39e-05,0.245,0.835,145.931,4,pop
+160,Aşk Layık Olanda Kalmalı,Various Artists,İlhan Şeşen: Hediyem,58,185568,2018-10-05,4,0.711,0.79,9,-5.654,0,0.0637,0.228,1.07e-05,0.137,0.785,94.006,4,pop
+161,Her Şey Fani - Mahmut Orhan Remix,Tarkan,Her Şey Fani (Mahmut Orhan Remix),49,310606,2019-04-04,1,0.69,0.679,7,-7.461,0,0.0331,0.281,4.3e-06,0.17,0.229,113.019,4,pop
+162,Deliler,Berkay,Deliler,46,223310,2019-01-18,1,0.707,0.636,5,-11.797,0,0.0695,0.0284,0.0,0.165,0.33,95.005,4,pop
+163,Devlerin Aşkı Büyük Olur - Aşkın'ın Şarkıları,Betül Demir,Devlerin Aşkı Büyük Olur (Aşkın'ın Şarkıları),49,237917,2019-05-13,1,0.728,0.75,11,-5.206,0,0.167,0.121,0.0,0.206,0.524,104.961,4,pop
+164,Bırak,Sancak,Gözyaşı,58,254031,2018-06-01,3,0.577,0.719,7,-7.141,1,0.042,0.309,0.0,0.0939,0.386,90.021,4,pop
+165,Sükut-u Hayal,Oğuzhan Koç,Sükut-u Hayal,59,260588,2019-01-18,1,0.622,0.76,11,-7.062,0,0.0478,0.163,0.0,0.0996,0.764,127.771,4,pop
+166,Esiyor,Demet Akalın,Ateş,58,211250,2019-04-23,3,0.756,0.826,0,-6.624,1,0.154,0.0654,0.0,0.0893,0.599,127.966,4,pop
+167,Tarifi Zor,Soner Sarıkabadayı,Boza Boza,63,212015,2018-06-29,2,0.732,0.68,0,-6.097,1,0.102,0.42,3.44e-06,0.107,0.421,137.965,4,pop
+168,İnat Keçi,Bilal Sonses,İnat Keçi,55,210176,2019-03-21,1,0.712,0.727,0,-4.156,0,0.125,0.678,0.0,0.126,0.798,169.93,4,pop
+169,Âşık,Ebru Gündeş,Âşık,62,241001,2019-01-31,2,0.452,0.642,8,-6.772,0,0.0509,0.438,0.0,0.371,0.423,124.198,5,pop
+170,Bundan Sonra,Cem Belevi,Bundan Sonra,54,222666,2019-04-19,1,0.63,0.739,2,-6.692,0,0.0403,0.0297,2.27e-06,0.126,0.462,90.024,4,pop
+171,Sabır,Sıla,Acı,60,195886,2019-03-01,2,0.749,0.893,9,-5.612,0,0.0855,0.525,0.0,0.13,0.779,120.021,4,pop
+172,Katakulli,Ayse Hatun Onal,Katakulli,44,221419,2019-04-05,1,0.742,0.809,0,-6.13,0,0.055,0.0563,2.08e-05,0.255,0.953,116.0,4,pop
+173,Ben Ölmeden Önce,Emrah Karaduman,Ben Ölmeden Önce,42,188078,2019-04-30,1,0.55,0.906,2,-2.872,1,0.0362,6.21e-05,0.000347,0.343,0.326,91.989,4,pop
+174,Güneşe Dokundum,BKE,Güneşe Dokundum,50,173986,2019-05-03,1,0.808,0.525,6,-9.391,0,0.0467,0.331,0.000555,0.105,0.279,99.995,4,pop
+175,Gururdan Gömlek,Aydın Kurtoğlu,Gururdan Gömlek,48,174693,2019-05-10,1,0.713,0.736,6,-5.198,1,0.084,0.00438,4.18e-05,0.417,0.54,100.026,4,pop
+176,Niye Bu Sevda?,Can Yüce,Niye Bu Sevda?,44,211263,2019-02-28,1,0.631,0.726,11,-5.566,0,0.0549,0.27,0.0,0.307,0.655,95.039,4,pop
+177,Bu da Geçecek,Göksel,Bu da Geçecek,60,205811,2019-02-08,1,0.809,0.782,3,-3.533,0,0.0346,0.135,0.0,0.303,0.812,112.01,4,pop
+178,Öldür Beni Sevgilim - Orijinal Film Müziği,Murat Boz,Öldür Beni Sevgilim (Orijinal Film Müziği),56,218137,2019-02-22,1,0.709,0.788,3,-5.66,0,0.0496,0.252,0.0,0.128,0.864,94.032,4,pop
+179,Buz Yanığı,Cem Belevi,Bundan Sonra,49,190517,2019-04-19,2,0.722,0.605,10,-9.531,0,0.0718,0.161,0.000462,0.128,0.545,95.001,4,pop
+180,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),79,206186,2019-05-24,1,0.746,0.787,4,-6.373,1,0.12,0.214,0.0,0.0669,0.607,95.005,4,pop
+181,Rescue Me,OneRepublic,Rescue Me,82,158899,2019-05-17,1,0.759,0.605,7,-7.737,1,0.0433,0.156,0.0,0.694,0.64,121.049,4,pop
+182,Easier,5 Seconds of Summer,Easier,78,157492,2019-05-23,1,0.648,0.433,2,-5.533,0,0.147,0.496,0.0,0.0996,0.614,87.997,4,pop
+183,If I Can't Have You,Shawn Mendes,If I Can't Have You,94,190800,2019-05-03,1,0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,4,pop
+184,Love Me Less (feat. Quinn XCII),MAX,Love Me Less (feat. Quinn XCII),82,177669,2019-04-05,1,0.732,0.856,11,-2.2,0,0.0929,0.0828,0.0,0.323,0.771,145.034,4,pop
+185,Civil War,Russ,Civil War,76,143880,2019-05-08,1,0.913,0.608,7,-6.764,1,0.259,0.116,0.0,0.109,0.496,101.002,4,pop
+186,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),89,163804,2019-04-25,1,0.661,0.723,5,-6.976,0,0.0566,0.179,1.23e-05,0.14,0.316,113.778,4,pop
+187,Do You Mean (with Ty Dolla $ign & bülow),The Chainsmokers,World War Joy...Do You Mean,83,193175,2019-04-26,1,0.6,0.666,11,-9.827,1,0.0394,0.102,0.0,0.118,0.566,99.989,4,pop
+188,Just Us (feat. SZA),DJ Khaled,Father Of Asahd,80,221378,2019-05-17,4,0.639,0.859,9,-2.758,0,0.147,0.135,0.0,0.129,0.566,93.132,4,pop
+189,Nightmare,Halsey,Nightmare,86,231998,2019-05-17,1,0.611,0.622,9,-5.075,0,0.0734,0.0188,0.0,0.359,0.538,146.11,4,pop
+190,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),97,219946,2019-05-10,1,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,4,pop
+191,La La Land (feat. YG),Bryce Vine,La La Land (feat. YG),74,177117,2019-03-01,1,0.781,0.469,1,-5.107,0,0.0569,0.223,0.0,0.19,0.412,98.013,4,pop
+192,Not Ok,Kygo,Not Ok,74,210943,2019-05-23,1,0.618,0.66,11,-8.14,0,0.0372,0.0292,2.07e-06,0.325,0.408,105.0,4,pop
+193,EARFQUAKE,"Tyler, The Creator",IGOR,88,190066,2019-05-17,2,0.554,0.498,9,-8.866,1,0.0685,0.23,5.98e-06,0.795,0.413,79.635,4,pop
+194,The London (feat. J. Cole & Travis Scott),Young Thug,The London (feat. J. Cole & Travis Scott),80,200106,2019-05-23,1,0.796,0.586,4,-6.946,0,0.147,0.0247,0.0,0.132,0.179,97.981,4,pop
+195,Hold Me While You Wait,Lewis Capaldi,Hold Me While You Wait,81,205686,2019-05-03,1,0.688,0.53,11,-5.507,1,0.0333,0.443,0.0,0.0995,0.162,106.958,4,pop
+196,Too Much,Carly Rae Jepsen,Dedicated,67,197093,2019-05-17,8,0.733,0.522,5,-6.853,1,0.0593,0.0603,0.0,0.097,0.729,179.837,4,pop
+197,Truth Hurts,Lizzo,Truth Hurts,73,173325,2017-09-19,1,0.715,0.624,4,-3.046,0,0.114,0.11,0.0,0.123,0.412,158.087,4,pop
+198,Suge,DaBaby,Baby On Baby,88,163320,2019-03-01,2,0.876,0.662,2,-6.482,0,0.426,0.0608,0.0,0.127,0.844,75.445,4,pop
+199,One Touch,Jess Glynne,One Touch,68,197875,2019-05-24,1,0.686,0.693,0,-6.245,0,0.131,0.329,0.0,0.136,0.699,124.206,4,pop
+200,Hurt People (with Aloe Blacc),Gryffin,Hurt People (with Aloe Blacc),69,226966,2019-05-17,1,0.626,0.822,1,-3.645,1,0.0623,0.286,0.0,0.136,0.529,138.056,4,pop
+201,"A Whole New World (End Title) - From ""Aladdin""",ZAYN,"A Whole New World (End Title) [From ""Aladdin""]",83,242956,2019-05-09,1,0.302,0.414,2,-8.16,1,0.0319,0.0575,0.0,0.0861,0.105,110.508,4,pop
+202,Arcade,Duncan Laurence,Arcade,85,183624,2019-03-07,1,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,3,pop
+203,Blame It On Your Love (feat. Lizzo),Charli XCX,Blame It On Your Love (feat. Lizzo),74,191113,2019-05-15,1,0.716,0.757,5,-2.666,1,0.0487,0.0249,0.0,0.286,0.558,100.007,4,pop
+204,NASA,Ariana Grande,"thank u, next",82,182000,2019-02-08,3,0.747,0.458,6,-6.891,1,0.303,0.451,0.0,0.252,0.47,75.029,4,pop
+205,Dear Society,Madison Beer,Dear Society,52,179576,2019-05-17,1,0.65,0.594,7,-6.374,0,0.0492,0.161,0.0,0.133,0.416,145.944,4,pop
+206,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,ME!,93,193040,2019-04-26,1,0.614,0.839,0,-4.143,1,0.0702,0.0291,0.0,0.112,0.657,182.123,4,pop
+207,Bitter Love,Pia Mia,Bitter Love,76,217809,2019-03-22,1,0.365,0.652,7,-2.666,1,0.0356,0.146,0.0,0.114,0.143,101.65,3,pop
+208,Tough Love,Avicii,Tough Love,84,191248,2019-05-09,1,0.402,0.754,8,-4.837,1,0.0432,0.143,0.0,0.358,0.621,108.17,4,pop
+209,Purple Emoji (feat. J. Cole),Ty Dolla $ign,Purple Emoji (feat. J. Cole),72,163754,2019-05-20,1,0.707,0.543,8,-4.61,1,0.279,0.151,0.0,0.384,0.824,144.18,4,pop
+210,One,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,76,179907,2019-05-17,7,0.708,0.339,9,-7.085,1,0.0409,0.834,0.0,0.128,0.512,117.995,4,pop
+211,Unbelievable,Why Don't We,Unbelievable,71,189384,2019-05-16,1,0.532,0.66,7,-7.138,1,0.0825,0.105,0.000222,0.0996,0.676,130.013,4,pop
+212,Honesty,Pink Sweat$,Honesty,77,191000,2018-07-12,1,0.616,0.204,6,-11.421,0,0.0331,0.919,0.0,0.106,0.419,79.826,4,pop
+213,Doin' Time,Lana Del Rey,Doin' Time,79,201996,2019-05-17,1,0.621,0.692,7,-5.837,0,0.0435,0.336,0.000458,0.0877,0.446,144.968,4,pop
+214,About You,FLETCHER,About You,59,183264,2019-05-24,1,0.402,0.645,7,-4.738,1,0.108,0.359,4.38e-05,0.0717,0.291,157.577,5,pop
+215,WOW,Zara Larsson,WOW,75,179675,2019-04-17,1,0.748,0.79,6,-4.788,0,0.17,0.492,0.0,0.0901,0.277,77.486,4,pop
+216,I Miss Myself (with HRVY),NOTD,I Miss Myself (with HRVY),72,191611,2019-05-03,1,0.72,0.864,0,-3.249,1,0.208,0.0856,0.0,0.16,0.659,96.048,4,pop
+217,Falling like the Stars,James Arthur,Falling like the Stars,81,212720,2019-05-10,1,0.296,0.351,6,-9.538,1,0.0351,0.823,1.5e-06,0.11,0.19,177.596,3,pop
+218,Speechless,Dan + Shay,Speechless,76,212745,2018-05-18,1,0.631,0.44,1,-5.948,1,0.028,0.328,0.0,0.239,0.418,136.033,4,pop
+219,Tu Vecina (feat. Ty Dolla $ign),Maluma,11:11,67,199279,2019-05-17,13,0.869,0.581,2,-4.847,1,0.0765,0.00935,1.4e-06,0.131,0.511,120.016,4,pop
+220,All This Love (feat. Harlœ),Robin Schulz,All This Love (feat. Harlœ),75,164797,2019-05-03,1,0.469,0.801,5,-5.635,1,0.0834,0.0715,0.0,0.49,0.425,124.068,4,pop
+221,Good Things Fall Apart (with Jon Bellion),ILLENIUM,Good Things Fall Apart (with Jon Bellion),74,216668,2019-05-13,1,0.641,0.609,2,-5.489,1,0.0307,0.0143,0.0,0.123,0.453,144.034,4,pop
+222,Can't Take It From Me (feat. Skip Marley),Major Lazer,Can't Take It From Me (feat. Skip Marley),50,175866,2019-05-10,1,0.606,0.847,11,-6.292,1,0.0975,0.0377,7.95e-06,0.14,0.503,144.936,4,pop
+223,Sing It With Me,JP Cooper,Sing It With Me,74,201198,2019-05-03,1,0.54,0.793,5,-4.379,1,0.0493,0.0744,0.0,0.354,0.399,112.219,4,pop
+224,Someone You Loved,Lewis Capaldi,Breach,91,182160,2018-11-08,3,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,4,pop
+225,"Don't Give Up On Me - (From ""Five Feet Apart"")",Andy Grammer,"Don't Give Up On Me (From ""Five Feet Apart"")",81,196187,2019-02-13,1,0.641,0.537,0,-5.452,0,0.0282,0.0875,9.05e-06,0.115,0.0681,112.864,4,pop
+226,Look What God Gave Her,Thomas Rhett,Look What God Gave Her,78,168214,2019-03-01,1,0.732,0.847,2,-3.921,1,0.0307,0.0221,0.0,0.246,0.885,113.012,4,pop
+227,Won't Let You Go,FRENSHIP,Vacation,62,234410,2019-05-17,8,0.655,0.782,1,-7.167,1,0.0381,0.459,0.0896,0.132,0.605,140.074,4,pop
+228,I THINK,"Tyler, The Creator",IGOR,84,212013,2019-05-17,3,0.826,0.579,8,-8.241,0,0.0801,0.00881,0.0,0.129,0.431,121.075,4,pop
+229,Hey Julie! (feat. Lil Yachty),KYLE,Hey Julie! (feat. Lil Yachty),82,156442,2018-12-03,1,0.801,0.505,11,-5.829,1,0.293,0.0446,9.52e-06,0.122,0.757,161.059,4,pop
+230,Big Ole Freak,Megan Thee Stallion,Tina Snow,74,214850,2018-12-21,7,0.799,0.699,2,-7.694,1,0.204,0.00867,0.0,0.132,0.627,142.979,4,pop
+231,Post Malone (feat. RANI),Sam Feldt,Magnets EP,62,174444,2019-05-24,5,0.59,0.642,7,-3.87,1,0.122,0.0771,0.0,0.105,0.651,107.356,4,pop
+232,Stay (Don't Go Away) [feat. Raye],David Guetta,Stay (Don't Go Away) [feat. Raye],79,185942,2019-05-09,1,0.669,0.797,9,-5.68,0,0.0624,0.259,0.0,0.199,0.552,119.865,4,pop
+233,take it back,Lila Drew,locket (side one),50,176384,2019-05-24,1,0.737,0.452,8,-7.256,0,0.0628,0.303,0.0,0.12,0.158,117.004,4,pop
+234,emotions,iann dior,emotions,52,132670,2019-04-10,1,0.612,0.498,9,-10.194,1,0.0307,0.0582,0.0,0.124,0.321,80.509,4,pop
+235,Old Town Road - Diplo Remix,Lil Nas X,Old Town Road (Diplo Remix),76,204026,2019-04-29,1,0.766,0.771,6,-9.108,1,0.0576,0.00407,3.76e-06,0.113,0.297,140.036,4,pop
+236,Sunday Best,Surfaces,Where the Light Is,63,158571,2019-01-06,7,0.879,0.536,5,-6.843,1,0.0602,0.192,0.0,0.0716,0.654,112.02,4,pop
+237,Get You The Moon (feat. Snøw),Kina,Get You The Moon (feat. Snøw),85,179080,2018-10-08,1,0.498,0.235,1,-16.541,0,0.188,0.72,0.0,0.144,0.0895,118.917,4,pop
+238,Lips Don't Lie (feat. A Boogie Wit da Hoodie),Ally Brooke,Lips Don't Lie (feat. A Boogie Wit da Hoodie),62,166762,2019-05-24,1,0.644,0.59,6,-6.358,0,0.168,0.0221,0.0,0.18,0.669,87.915,4,pop
+239,GRoCERIES,Chance the Rapper,GRoCERIES,77,226845,2019-05-17,1,0.906,0.596,0,-5.88,0,0.243,0.0578,0.0,0.109,0.701,144.038,4,pop
+240,Goin Baby,DaBaby,Baby On Baby,80,141826,2019-03-01,3,0.755,0.772,6,-5.585,1,0.4,0.128,0.0,0.157,0.678,132.906,4,pop
+241,Like I Love You,Theresa Rex,Like I Love You,52,205164,2019-05-24,1,0.687,0.749,11,-5.198,1,0.12,0.0247,0.0,0.0617,0.694,99.913,4,pop
+242,One Big Party,Gia Woods,One Big Party,60,218070,2019-05-10,1,0.588,0.743,1,-5.672,0,0.0816,0.0537,0.0,0.251,0.73,159.85,4,pop
+243,Back in My Arms,Carlie Hanson,Back in My Arms,65,195200,2019-04-26,1,0.543,0.781,1,-4.854,0,0.0988,0.0879,0.0,0.0868,0.522,150.174,4,pop
+244,Flames (feat. Ruel),SG Lewis,Flames,65,216765,2019-05-10,1,0.555,0.62,9,-5.822,0,0.118,0.0891,0.00306,0.107,0.371,193.924,3,pop
+245,Piece Of Your Heart,MEDUZA,Piece Of Your Heart,81,152913,2019-02-01,1,0.677,0.744,10,-6.806,0,0.0295,0.0404,0.00016,0.074,0.631,124.08,4,pop
+246,Cradles,Sub Urban,Cradles,77,209829,2019-01-04,1,0.663,0.594,1,-1.865,1,0.286,0.263,6.62e-05,0.171,0.626,79.934,4,pop
+247,you were good to me,Jeremy Zucker,you were good to me,74,219173,2019-04-19,1,0.46,0.0834,2,-15.095,1,0.0433,0.909,1.98e-05,0.112,0.21,98.329,4,pop
+248,Water Fountain,Alec Benjamin,Narrated For You,74,218893,2018-11-16,2,0.723,0.504,8,-5.572,1,0.0392,0.388,7.4e-05,0.087,0.551,133.975,4,pop
+249,Falling for U,Peachy!,Falling for U,73,124000,2017-08-14,1,0.516,0.358,8,-12.018,0,0.424,0.741,1.34e-06,0.0813,0.397,79.509,4,pop
+250,Triggered (freestyle),Jhene Aiko,Triggered (freestyle),76,211226,2019-05-08,1,0.471,0.411,0,-9.5,1,0.295,0.81,0.0,0.135,0.363,89.484,1,pop
+251,All That Matters - Acoustic,Tom Walker,All That Matters (Acoustic),63,194874,2019-05-15,1,0.555,0.453,9,-7.566,1,0.0509,0.425,0.0,0.365,0.636,72.776,4,pop
+252,Alice,Jack Curley,Alice,60,159680,2019-04-05,1,0.467,0.317,2,-12.534,1,0.0435,0.628,0.0,0.091,0.418,178.643,4,pop
+253,Moonlight,Ali Gatie,Moonlight,73,228484,2018-08-03,1,0.804,0.479,11,-6.661,1,0.0321,0.494,0.0,0.0994,0.462,120.0,4,pop
+254,Now Or Never 2.0,PnB Rock,TrapStar Turnt PopStar,66,215276,2019-05-03,9,0.752,0.678,8,-4.843,1,0.135,0.0354,0.0,0.157,0.265,75.478,4,pop
+255,i,Lil Skies,Shelby,84,181890,2019-03-01,1,0.649,0.453,6,-7.28,1,0.085,0.627,0.0,0.116,0.431,99.183,4,pop
+256,Imported (with 6LACK),Jessie Reyez,Imported (with 6LACK),75,225040,2019-04-09,1,0.726,0.636,7,-3.615,1,0.0496,0.199,0.0,0.111,0.362,111.097,4,pop
+257,New Eyes,Adam Lambert,New Eyes,63,224659,2019-05-15,1,0.575,0.573,9,-6.73,0,0.0253,0.502,6.74e-06,0.411,0.434,84.014,4,pop
+258,Wrong,Luh Kel,Wrong,79,130876,2019-04-05,1,0.745,0.728,0,-3.39,1,0.0423,0.352,0.0,0.228,0.39,120.099,4,pop
+259,Fast,Sueco the Child,Fast,70,144000,2019-04-02,1,0.877,0.502,7,-10.267,0,0.219,0.162,0.012,0.103,0.541,100.063,4,pop
+260,Throw Fits (feat. City Girls & Juvenile),London On Da Track,Throw Fits (feat. City Girls & Juvenile),48,203930,2019-05-17,1,0.857,0.872,4,-3.759,0,0.173,0.0949,0.0,0.142,0.584,105.984,4,pop
+261,Soltera - Remix,Lunay,Soltera (Remix),90,266086,2019-05-10,1,0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.8,92.016,4,pop
+262,Icy (feat. Gucci Mane),Logic,Confessions of a Dangerous Mind,77,265266,2019-05-10,9,0.827,0.522,7,-4.866,1,0.0845,0.163,1.19e-06,0.109,0.477,151.99,4,pop
+263,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),97,219946,2019-05-10,1,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,4,pop
+264,If I Can't Have You,Shawn Mendes,If I Can't Have You,94,190800,2019-05-03,1,0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,4,pop
+265,All The Lies,Alok,All The Lies,38,179456,2019-03-15,1,0.611,0.835,6,-4.107,1,0.139,0.167,0.0,0.107,0.672,102.023,4,pop
+266,Sucker,Jonas Brothers,Sucker,95,181040,2019-03-01,1,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,pop
+267,7 rings,Ariana Grande,7 rings,90,178640,2019-01-18,1,0.725,0.321,1,-10.744,0,0.323,0.578,0.0,0.0884,0.319,70.142,4,pop
+268,11 PM,Maluma,11:11,81,175733,2019-05-17,1,0.777,0.712,10,-4.84,1,0.277,0.217,0.0,0.091,0.68,95.692,4,pop
+269,Kill This Love,BLACKPINK,KILL THIS LOVE,87,189052,2019-04-05,1,0.738,0.861,2,-4.141,1,0.237,0.32,0.00175,0.325,0.58,131.974,4,pop
+270,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),79,206186,2019-05-24,1,0.746,0.787,4,-6.373,1,0.12,0.214,0.0,0.0669,0.607,95.005,4,pop
+271,Too Bad,Giulia Be,Too Bad,65,198421,2019-02-01,1,0.726,0.704,6,-5.871,0,0.0318,0.0559,1.61e-05,0.132,0.44,113.971,4,pop
+272,SOS,Avicii,SOS,95,157202,2019-04-10,1,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,4,pop
+273,It's Your Life,Zeeba,It's Your Life,52,160909,2019-05-17,1,0.809,0.662,11,-10.496,1,0.0426,0.11,0.000156,0.122,0.529,121.071,4,pop
+274,Not Ok,Kygo,Not Ok,74,210943,2019-05-23,1,0.618,0.66,11,-8.14,0,0.0372,0.0292,2.07e-06,0.325,0.408,105.0,4,pop
+275,Get You The Moon (feat. Snøw),Kina,Get You The Moon (feat. Snøw),85,179080,2018-10-08,1,0.498,0.235,1,-16.541,0,0.188,0.72,0.0,0.144,0.0895,118.917,4,pop
+276,Don't Worry Bout Me,Zara Larsson,Don't Worry Bout Me,81,208811,2019-03-28,1,0.752,0.706,5,-6.274,1,0.0636,0.0797,0.000752,0.129,0.33,125.041,4,pop
+277,Dancing With A Stranger (with Normani),Sam Smith,Dancing With A Stranger (with Normani),92,171029,2019-01-11,1,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,4,pop
+278,Easier,5 Seconds of Summer,Easier,78,157492,2019-05-23,1,0.648,0.433,2,-5.533,0,0.147,0.496,0.0,0.0996,0.614,87.997,4,pop
+279,Poquito,Anitta,Kisses,72,175670,2019-04-05,5,0.701,0.852,0,-4.03,1,0.126,0.509,0.0,0.309,0.607,144.837,4,pop
+280,Hurts 2B Human (feat. Khalid),P!nk,Hurts 2B Human (feat. Khalid),76,202640,2019-04-22,1,0.463,0.62,7,-5.647,1,0.167,0.131,0.0,0.0619,0.158,83.031,1,pop
+281,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Kygo,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",89,215315,2019-04-19,1,0.591,0.705,9,-6.519,0,0.079,0.381,0.000116,0.131,0.27,121.799,4,pop
+282,Stay (Don't Go Away) [feat. Raye],David Guetta,Stay (Don't Go Away) [feat. Raye],79,185942,2019-05-09,1,0.669,0.797,9,-5.68,0,0.0624,0.259,0.0,0.199,0.552,119.865,4,pop
+283,One Touch,Jess Glynne,One Touch,68,197875,2019-05-24,1,0.686,0.693,0,-6.245,0,0.131,0.329,0.0,0.136,0.699,124.206,4,pop
+284,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,ME!,93,193040,2019-04-26,1,0.614,0.839,0,-4.143,1,0.0702,0.0291,0.0,0.112,0.657,182.123,4,pop
+285,MIA (feat. Drake),Bad Bunny,MIA (feat. Drake),88,210367,2018-10-11,1,0.817,0.539,6,-6.349,0,0.0621,0.0141,0.000496,0.099,0.158,97.062,4,pop
+286,Medellín (with Maluma),Madonna,Medellín (with Maluma),78,298164,2019-04-17,1,0.82,0.685,1,-7.093,1,0.288,0.0603,1.82e-05,0.671,0.462,91.98,4,pop
+287,Boy With Luv (feat. Halsey),BTS,MAP OF THE SOUL : PERSONA,94,229773,2019-04-12,2,0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,4,pop
+288,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",100,194087,2019-03-29,2,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+289,Shallow,Lady Gaga,A Star Is Born Soundtrack,92,215733,2018-10-05,12,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,4,pop
+290,Doin' Time,Lana Del Rey,Doin' Time,79,201996,2019-05-17,1,0.621,0.692,7,-5.837,0,0.0435,0.336,0.000458,0.0877,0.446,144.968,4,pop
+291,Do You Mean (with Ty Dolla $ign & bülow),The Chainsmokers,World War Joy...Do You Mean,83,193175,2019-04-26,1,0.6,0.666,11,-9.827,1,0.0394,0.102,0.0,0.118,0.566,99.989,4,pop
+292,R.I.P. (feat. Rita Ora & Anitta),Sofia Reyes,R.I.P. (feat. Rita Ora & Anitta),83,187200,2019-03-15,1,0.764,0.752,8,-3.713,0,0.0711,0.18,0.0,0.0701,0.698,100.066,4,pop
+293,Medicine,Jennifer Lopez,Medicine,71,174159,2019-04-05,1,0.827,0.831,8,-2.446,1,0.0981,0.026,0.0,0.0453,0.457,102.048,4,pop
+294,Outta My Head (with John Mayer),Khalid,Free Spirit,87,177066,2019-04-05,10,0.729,0.545,0,-7.818,1,0.0316,0.0174,0.000274,0.369,0.514,103.012,4,pop
+295,Nightmare,Halsey,Nightmare,86,231998,2019-05-17,1,0.611,0.622,9,-5.075,0,0.0734,0.0188,0.0,0.359,0.538,146.11,4,pop
+296,Can We Pretend (feat. Cash Cash),P!nk,Can We Pretend (feat. Cash Cash),75,224360,2019-04-11,1,0.524,0.806,1,-3.447,0,0.406,0.197,0.0,0.101,0.45,115.172,4,pop
+297,"Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",Sia,"LABRINTH, SIA & DIPLO PRESENT... LSD",74,195746,2019-04-12,8,0.585,0.525,7,-5.915,0,0.0817,0.034,2.6e-05,0.139,0.533,167.811,3,pop
+298,Happier,Marshmello,Happier,92,214289,2018-08-17,1,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,pop
+299,Who Do You Love,The Chainsmokers,Who Do You Love,74,226746,2019-02-07,1,0.51,0.835,3,-4.673,1,0.0447,0.00791,0.0,0.219,0.435,140.024,4,pop
+300,WOW,Zara Larsson,WOW,75,179675,2019-04-17,1,0.748,0.79,6,-4.788,0,0.17,0.492,0.0,0.0901,0.277,77.486,4,pop
+301,No New Friends,Sia,No New Friends,71,175823,2019-03-14,1,0.724,0.702,7,-4.622,1,0.0429,0.0648,0.000256,0.121,0.688,106.044,4,pop
+302,Tough Love,Avicii,Tough Love,84,191248,2019-05-09,1,0.402,0.754,8,-4.837,1,0.0432,0.143,0.0,0.358,0.621,108.17,4,pop
+303,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",89,212500,2018-09-28,1,0.841,0.798,1,-4.206,0,0.229,0.153,3.33e-06,0.0618,0.591,95.948,4,pop
+304,Paradise,Bazzi,Paradise,90,169038,2019-04-04,1,0.844,0.644,11,-6.273,0,0.0479,0.0828,0.0,0.113,0.591,122.061,4,pop
+305,Bola Rebola,Tropkillaz,Bola Rebola,83,193440,2019-02-22,1,0.834,0.777,5,-4.538,0,0.0593,0.22,0.00609,0.335,0.865,129.984,4,pop
+306,In My Mind,Dynoro,In My Mind,86,184560,2018-06-08,1,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,4,pop
+307,Woman Like Me (feat. Nicki Minaj),Little Mix,Woman Like Me (feat. Nicki Minaj),77,228206,2018-10-12,1,0.757,0.849,5,-3.424,0,0.0536,0.173,0.0,0.0878,0.826,150.036,4,pop
+308,So Am I,Ava Max,So Am I,90,184295,2019-03-07,1,0.684,0.677,6,-4.034,1,0.0464,0.0754,0.0,0.133,0.595,130.141,4,pop
+309,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",benny blanco,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",87,158027,2019-02-28,1,0.541,0.468,10,-4.039,0,0.362,0.404,3.65e-06,0.358,0.69,95.266,4,pop
+310,Giant (with Rag'n'Bone Man),Calvin Harris,Giant (with Rag'n'Bone Man),89,229184,2019-01-11,1,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,4,pop
+311,Here With Me,Marshmello,Here With Me,92,156346,2019-03-08,1,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,4,pop
+312,Old Town Road - Remix,Lil Nas X,Old Town Road,98,157066,2019-04-05,1,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,4,pop
+313,No Lo Trates,Pitbull,No Lo Trates,80,198453,2019-04-26,1,0.834,0.808,11,-2.597,1,0.0542,0.0569,0.00052,0.222,0.829,104.026,4,pop
+314,okay,LANY,okay,77,169182,2019-04-23,1,0.71,0.721,8,-7.674,1,0.214,0.0508,2.88e-06,0.152,0.555,119.919,4,pop
+315,My Bad,Khalid,My Bad,82,166101,2019-03-07,1,0.645,0.568,5,-9.127,0,0.0823,0.543,0.266,0.257,0.391,84.999,4,pop
+316,Say My Name,David Guetta,7,84,198946,2018-09-14,5,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.031,4,pop
+317,All This Love (feat. Harlœ),Robin Schulz,All This Love (feat. Harlœ),75,164797,2019-05-03,1,0.469,0.801,5,-5.635,1,0.0834,0.0715,0.0,0.49,0.425,124.068,4,pop
+318,Without Me,Halsey,Without Me,92,201660,2018-10-04,1,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,pop
+319,Drugs & The Internet,Lauv,Drugs & The Internet,82,178549,2019-04-26,1,0.454,0.583,2,-6.596,1,0.133,0.321,1.06e-05,0.332,0.216,89.134,4,pop
+320,Cool,Jonas Brothers,Cool,84,167120,2019-04-05,1,0.681,0.603,0,-5.533,1,0.0458,0.0105,0.0,0.159,0.643,79.007,4,pop
+321,Sunflower - Spider-Man: Into the Spider-Verse,Various Artists,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),95,158040,2018-12-14,2,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,4,pop
+322,Please Me,Cardi B,Please Me,86,200889,2019-02-15,1,0.747,0.57,1,-6.711,1,0.081,0.0642,0.0,0.0832,0.65,133.992,4,pop
+323,Power is Power,SZA,Power is Power,77,211266,2019-04-18,1,0.507,0.644,4,-7.485,1,0.0641,0.00413,0.0,0.217,0.172,179.913,4,pop
+324,moneydontfixlonely,Sophia Messa,moneydontfixlonely,57,206360,2019-03-27,1,0.475,0.707,11,-7.736,0,0.18,0.397,0.0,0.116,0.385,155.611,4,pop
+325,Kiss and Make Up,Dua Lipa,Dua Lipa (Complete Edition),83,189173,2018-10-19,20,0.678,0.729,8,-4.188,1,0.137,0.0658,0.0,0.303,0.643,99.895,4,pop
+326,Favela,Alok,Favela,71,185104,2018-08-17,1,0.777,0.812,2,-3.206,0,0.0598,0.0125,0.00233,0.0264,0.283,103.023,4,pop
+327,Never Go Back,Dennis Lloyd,Never Go Back,80,175424,2019-02-15,1,0.421,0.653,9,-4.85,0,0.398,0.0135,0.0,0.114,0.733,78.6,4,pop
+328,Brisa,IZA,Brisa,70,151500,2019-04-18,1,0.693,0.822,8,-2.478,1,0.259,0.459,0.0,0.261,0.791,159.663,4,pop
+329,Onda diferente (feat. Papatinho),Anitta,Kisses,79,160900,2019-04-05,3,0.705,0.721,1,-5.545,0,0.514,0.333,0.0,0.101,0.574,75.132,4,pop
+330,Pior Que Possa Imaginar,Luísa Sonza,Pior Que Possa Imaginar,68,136406,2019-03-22,1,0.655,0.816,10,-4.604,0,0.0372,0.297,0.000158,0.299,0.644,102.052,4,pop
+331,Café,Vitão,Café,42,190434,2019-03-08,5,0.776,0.5,11,-4.788,1,0.0979,0.0537,0.0,0.344,0.491,92.027,4,pop
+332,Ouvi Dizer,Melim,Melim,77,210889,2018-06-08,2,0.641,0.614,7,-7.847,1,0.0532,0.0745,0.0,0.093,0.727,81.011,4,pop
+333,Andar Sozinho (feat. Jão),Lagum,Andar Sozinho (feat. Jão),63,180213,2019-05-10,1,0.785,0.439,5,-8.223,0,0.0374,0.176,0.0,0.335,0.437,130.021,4,pop
+334,Sei Lá,Projota,Sei Lá,68,190363,2019-04-25,1,0.661,0.43,6,-8.738,1,0.0422,0.519,0.0,0.111,0.962,151.955,3,pop
+335,Combate,UM44K,Combate,56,179253,2019-04-26,1,0.663,0.597,6,-6.116,1,0.145,0.315,0.0,0.0974,0.831,88.04,4,pop
+336,Adrenalizou,Vitor Kley,Adrenalizou,57,177393,2018-10-18,3,0.662,0.908,9,-4.339,1,0.0309,0.0157,4.25e-05,0.198,0.78,127.043,4,pop
+337,Hoje Lembrei Do Teu Amor,Tiago Iorc,Reconstrução,69,243607,2019-05-05,2,0.689,0.531,6,-9.669,0,0.056,0.269,1.25e-05,0.14,0.685,139.923,4,pop
+338,Dizeres,Orgânico,Dizeres,72,257645,2018-12-07,1,0.832,0.484,10,-4.06,1,0.189,0.665,1.02e-05,0.0822,0.83,142.111,4,pop
+339,Idas e Vindas,MTK,Idas e Vindas,62,238763,2019-01-27,1,0.671,0.484,1,-10.339,0,0.047,0.658,0.0,0.0778,0.557,123.866,4,pop
+340,Bola Rebola,Tropkillaz,Bola Rebola,83,193440,2019-02-22,1,0.834,0.777,5,-4.538,0,0.0593,0.22,0.00609,0.335,0.865,129.984,4,pop
+341,Ela É do Tipo,MC Kevin o Chris,Ela É do Tipo,83,204930,2019-03-07,1,0.632,0.398,6,-6.615,1,0.373,0.945,0.0,0.228,0.633,90.695,4,pop
+342,Chega,DUDA BEAT,Chega,60,185544,2019-05-03,1,0.734,0.772,0,-6.816,1,0.0463,0.052,3.21e-05,0.0435,0.75,100.999,4,pop
+343,Terremoto,Anitta,Terremoto,76,146276,2019-02-01,1,0.891,0.805,8,-5.836,0,0.0898,0.329,0.0,0.277,0.967,95.045,4,pop
+344,Dona de mim,IZA,Dona de mim,72,208941,2018-09-28,1,0.412,0.809,9,-3.66,0,0.144,0.0397,0.0,0.0899,0.254,81.47,4,pop
+345,Amor Bandido,Lexa,Amor Bandido,64,208000,2019-04-26,1,0.715,0.537,1,-6.558,1,0.0285,0.589,0.0,0.132,0.455,100.028,4,pop
+346,Chega,Giulia Be,Chega,53,153271,2019-04-26,1,0.702,0.652,5,-11.004,0,0.0432,0.422,0.0,0.164,0.52,94.054,4,pop
+347,Embrazadinha,Tati Zaqui,Embrazadinha,57,144000,2019-04-12,1,0.759,0.713,9,-3.592,0,0.161,0.102,0.000221,0.0533,0.944,150.04,4,pop
+348,Agora é Tudo Meu,Dennis DJ,Agora é Tudo Meu,78,171998,2018-12-07,1,0.848,0.933,5,-3.306,0,0.106,0.7,2.81e-06,0.184,0.506,139.998,4,pop
+349,Meia Noite,Clau,VemK,52,185099,2019-02-15,3,0.883,0.353,11,-6.424,1,0.132,0.597,0.0,0.0859,0.408,116.953,4,pop
+350,Dilema,Malía,Escuta,57,186155,2019-04-18,3,0.691,0.576,5,-6.539,0,0.115,0.166,0.0,0.0986,0.456,97.91,4,pop
+351,Chegou de Manso,Lagum,Chegou de Manso,63,173360,2019-04-26,1,0.768,0.553,4,-9.936,1,0.0386,0.298,0.000212,0.0964,0.379,113.979,4,pop
+352,Grupo bom,UM44K,Grupo bom,67,180669,2018-11-23,1,0.79,0.566,1,-6.402,0,0.0413,0.685,0.0,0.0886,0.587,121.948,4,pop
+353,Praia do Rosa - Acústico,Oriente,Praia do Rosa (Acústico),73,256523,2018-11-23,1,0.57,0.595,9,-8.797,0,0.216,0.273,0.0,0.151,0.779,90.653,4,pop
+354,Miopia Ocular - Versão Estúdio,Thiaguinho,Miopia Ocular (Versão Estúdio),41,187220,2019-05-24,1,0.644,0.608,2,-7.123,1,0.091,0.0107,0.0,0.142,0.582,173.903,4,pop
+355,Clichê (Participação especial de Felipe Araújo),Ludmilla,Clichê (Participação especial de Felipe Araújo),68,190140,2018-11-23,1,0.674,0.53,9,-4.955,1,0.106,0.439,0.0,0.134,0.228,177.998,4,pop
+356,Boa Menina,Luísa Sonza,Boa Menina,67,147501,2018-10-30,1,0.819,0.565,5,-5.87,1,0.0537,0.033,6.71e-06,0.0874,0.58,89.965,4,pop
+357,Provocar,Lexa,Provocar,73,168138,2018-11-22,1,0.682,0.826,8,-4.854,0,0.0528,0.182,0.0,0.052,0.688,134.067,4,pop
+358,Combate,Aldair Playboy,Baile Do Playboy,51,159657,2019-04-26,4,0.952,0.701,11,-2.358,0,0.0491,0.204,3.17e-06,0.0706,0.9,129.984,4,pop
+359,Era uma Vez,Cynthia Luz,Efeito Violeta,27,186627,2019-02-22,5,0.598,0.567,1,-6.337,0,0.058,0.0443,0.0,0.0877,0.966,171.866,4,pop
+360,Me Beija Com Raiva,Jão,Me Beija Com Raiva,63,196658,2018-12-13,1,0.621,0.677,5,-5.739,0,0.0669,0.271,0.0,0.102,0.483,150.027,4,pop
+361,Noite Inteira,Pitty,MATRIZ,54,314893,2019-04-26,2,0.65,0.877,0,-4.03,1,0.0329,0.00905,1.15e-06,0.294,0.787,121.986,4,pop
+362,Pouca Pausa,Clau,Pouca Pausa,70,279756,2018-06-15,1,0.886,0.583,8,-6.639,0,0.149,0.194,0.0,0.0922,0.883,103.006,4,pop
+363,Na Sua Mão,DAY,Na Sua Mão,54,145364,2019-05-10,1,0.664,0.692,10,-8.26,0,0.147,0.201,0.0,0.0813,0.336,99.955,4,pop
+364,Próximo amor,Alok,Próximo amor,67,198012,2018-11-23,1,0.642,0.744,6,-4.261,0,0.0493,0.22,0.0,0.102,0.348,120.091,4,pop
+365,"Dois copos (Participação especial de Ferrugem, MC Kevin O Chris e L7NNON)",Papatinho,Rio,64,180924,2019-02-22,3,0.796,0.561,11,-6.654,1,0.337,0.157,0.0,0.0894,0.42,129.915,4,pop
+366,Trip do Boyzinho,Boyzinho o Rei da Bregadeira,Trip do Boyzinho,59,169903,2019-04-02,1,0.734,0.75,5,-3.072,0,0.0465,0.158,0.048,0.784,0.529,135.974,4,pop
+367,Segue Com A Tua Vida,Carol Biazin,S,55,182914,2019-04-12,1,0.806,0.591,6,-6.817,0,0.214,0.251,0.0,0.149,0.477,87.055,4,pop
+368,Me Desculpa Jay Z,Baco Exu do Blues,Bluesman,69,212436,2018-11-23,3,0.375,0.716,0,-7.51,1,0.685,0.0817,0.0,0.1,0.179,71.18,3,pop
+369,Pra Ninguém Me Ver,Cynthia Luz,Pra Ninguém Me Ver,54,197561,2019-04-26,1,0.654,0.696,1,-5.315,0,0.0596,0.285,0.0,0.0832,0.587,95.014,4,pop
+370,A Voz E O Violão,Projota,A Voz E O Violão,61,203861,2018-10-26,1,0.811,0.628,6,-6.77,0,0.258,0.272,0.0,0.0982,0.891,84.943,4,pop
+371,Eu Tô Zen,MC Kekel,Eu Tô Zen,60,173333,2018-12-07,1,0.484,0.686,2,-4.883,1,0.174,0.00839,1.6e-06,0.119,0.677,179.807,4,pop
+372,Só Depois do Carnaval,Lexa,Só Depois do Carnaval,73,166666,2019-01-31,1,0.833,0.917,8,-3.189,0,0.0752,0.388,2.39e-05,0.293,0.882,143.986,4,pop
+373,Fazendo Amor,MC Hariel,Fazendo Amor,50,244983,2019-04-24,1,0.651,0.741,5,-6.152,0,0.264,0.317,0.0,0.119,0.55,96.956,4,pop
+374,Moreno,Clau,VemK,57,165981,2019-02-15,1,0.599,0.631,11,-5.625,0,0.0813,0.137,0.0,0.373,0.802,175.975,4,pop
+375,Segredo,Agnes Nunes,Segredo,53,191324,2019-03-08,1,0.803,0.422,10,-9.376,1,0.11,0.17,0.0,0.096,0.208,85.304,4,pop
+376,Meu Abrigo,Melim,Melim,9,231616,2017-12-08,1,0.512,0.612,5,-7.322,0,0.0464,0.205,0.0,0.143,0.702,184.016,4,pop
+377,Favela,Alok,Favela,71,185104,2018-08-17,1,0.777,0.812,2,-3.206,0,0.0598,0.0125,0.00233,0.0264,0.283,103.023,4,pop
+378,High Hopes - Don Diablo Remix,Panic! At The Disco,High Hopes (Don Diablo Remix),66,185714,2019-01-11,1,0.59,0.888,5,-2.851,1,0.0765,0.0216,0.0,0.487,0.288,126.094,4,pop
+379,Happy Now - R3HAB Remix,Kygo,Happy Now (R3HAB Remix),67,189268,2019-02-01,1,0.623,0.84,9,-5.446,1,0.123,0.0173,0.0,0.363,0.539,123.068,4,pop
+380,Dancing With A Stranger (With Normani) - Cheat Codes Remix,Sam Smith,Dancing With A Stranger (With Normani) [Cheat Codes Remix],68,159404,2019-03-08,1,0.746,0.557,1,-6.722,1,0.0542,0.103,0.0036,0.138,0.324,111.961,4,pop
+381,Here With Me,Marshmello,Here With Me,92,156346,2019-03-08,1,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,4,pop
+382,Beach House - Ashworth Remix,The Chainsmokers,Beach House (Ashworth Remix),57,204453,2018-12-08,1,0.772,0.707,0,-7.031,1,0.0507,0.0521,3.96e-06,0.0719,0.403,112.032,4,pop
+383,I Found You (with Calvin Harris),benny blanco,I Found You (with Calvin Harris),76,191495,2018-11-02,1,0.775,0.872,6,-4.194,1,0.0469,0.033,0.0579,0.298,0.379,122.994,4,pop
+384,Think About You,Kygo,Think About You,78,208566,2019-02-14,1,0.673,0.596,10,-7.891,1,0.0354,0.166,0.0,0.11,0.19,123.969,4,pop
+385,Close To Me (with Diplo) (feat. Swae Lee) - CID Remix,Ellie Goulding,Close To Me (Remixes),45,175000,2019-02-01,2,0.663,0.905,1,-3.781,0,0.0511,0.0325,0.0,0.333,0.397,125.996,4,pop
+386,Say My Name (feat. Bebe Rexha & J Balvin) - Lucas & Steve Remix,David Guetta,Say My Name (feat. Bebe Rexha & J Balvin) [Lucas & Steve Remix],63,189374,2018-12-28,1,0.678,0.747,10,-5.289,0,0.165,0.0395,0.0,0.174,0.516,120.002,4,pop
+387,Tie Me Down (with Elley Duhé) - Steve Aoki Remix,Gryffin,Tie Me Down (with Elley Duhé) [Steve Aoki Remix],57,189818,2018-12-19,1,0.715,0.788,6,-4.271,1,0.066,0.0874,0.0,0.195,0.372,110.041,4,pop
+388,Giant (with Rag'n'Bone Man) - Audien Remix,Calvin Harris,Giant (with Rag'n'Bone Man) [Remixes],63,213333,2019-03-08,5,0.698,0.792,1,-3.583,0,0.0418,0.0296,3.9e-05,0.0925,0.333,125.976,4,pop
+389,Happier - Matt Medved Remix,Marshmello,Happier (Remixes Pt. 2),58,170163,2018-11-30,4,0.816,0.833,5,-5.972,1,0.0511,0.126,9.09e-06,0.0625,0.793,122.032,4,pop
+390,Mama (feat. Ellie Goulding) - Tiësto’s Big Room Remix,Clean Bandit,Mama (feat. Ellie Goulding) [Tiësto’s Big Room Remix],66,156167,2019-03-08,1,0.684,0.95,1,-2.588,0,0.0809,0.0207,1.25e-06,0.105,0.436,125.974,4,pop
+391,Rise - Retrovision Remix,Jonas Blue,"Rise (Remixes, Pt. 2)",57,190182,2018-08-14,1,0.721,0.745,1,-4.31,1,0.127,0.15,0.0,0.334,0.541,125.088,4,pop
+392,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),89,163804,2019-04-25,1,0.661,0.723,5,-6.976,0,0.0566,0.179,1.23e-05,0.14,0.316,113.778,4,pop
+393,Signs - Eden Prince Remix,Starley,Signs (Eden Prince Remix),54,172000,2018-11-30,1,0.702,0.814,0,-7.51,0,0.0841,0.107,3.03e-05,0.374,0.503,121.993,4,pop
+394,Selfish,Dimitri Vegas & Like Mike,Selfish,71,167857,2019-02-15,1,0.407,0.789,7,-4.229,0,0.282,0.17,0.0,0.126,0.687,92.933,4,pop
+395,I'm With You (feat. Hannah Jane Lewis) - DAZZ Remix,Hight,I'm With You (feat. Hannah Jane Lewis) [Remixes],56,152903,2018-12-03,1,0.376,0.922,9,-3.516,1,0.195,0.00368,1.3e-05,0.359,0.454,123.62,4,pop
+396,Side Effects - Fedde Le Grand Remix,The Chainsmokers,Side Effects - Remixes,66,172360,2018-07-25,1,0.633,0.854,0,-4.046,0,0.0432,0.0382,2.83e-05,0.434,0.659,126.026,4,pop
+397,Body On My,Loud Luxury,Body On My,67,192506,2019-03-29,1,0.744,0.726,1,-4.675,1,0.0463,0.0399,0.0,0.374,0.687,121.985,4,pop
+398,Promises (with Sam Smith) - David Guetta Remix,Calvin Harris,Promises (with Sam Smith) [Remixes],65,190416,2018-10-19,1,0.588,0.697,3,-4.744,0,0.0372,0.186,0.000219,0.103,0.225,125.157,4,pop
+399,Grip - Jay Pryor Remix,Seeb,Grip (Jay Pryor Remix),59,186666,2019-02-08,1,0.664,0.967,1,-2.055,0,0.0757,0.0883,2.42e-05,0.175,0.609,125.943,4,pop
+400,Sixteen - Don Diablo Remix,Ellie Goulding,Sixteen (Don Diablo Remix),65,193548,2019-05-10,1,0.493,0.773,5,-3.791,0,0.157,0.429,7.07e-06,0.0807,0.301,123.149,4,pop
+401,Audio - CID Remix,Sia,Audio (CID Remix),64,161973,2018-06-15,1,0.524,0.913,3,-3.069,0,0.05,0.106,0.000131,0.177,0.644,123.936,4,pop
+402,Done - R3hab Remix,Nikki Vianna,Done (R3hab Remix),34,176220,2018-12-14,1,0.563,0.902,7,-5.922,0,0.413,0.0424,7.26e-05,0.131,0.298,127.255,4,pop
+403,Speechless (feat. Erika Sirola) - MOTi Remix,Robin Schulz,Speechless (feat. Erika Sirola) [MOTi Remix],63,181874,2019-03-22,1,0.609,0.523,1,-12.649,1,0.0796,0.00959,0.000155,0.15,0.342,127.977,4,pop
+404,Only Want You - Sam Feldt Remix,Rita Ora,Only Want You (Sam Feldt Remix),62,179150,2019-04-05,1,0.578,0.786,9,-4.665,1,0.13,0.232,0.000106,0.122,0.347,105.945,4,pop
+405,All The Lies (with Felix Jaehn & The Vamps),Alok,All The Lies (with Felix Jaehn & The Vamps),71,179456,2019-03-15,1,0.611,0.835,6,-4.107,1,0.139,0.167,0.0,0.107,0.672,102.023,4,pop
+406,Sweet but Psycho - Morgan Page Remix,Ava Max,Sweet but Psycho (The Remixes),54,226875,2019-03-04,4,0.645,0.795,1,-5.439,1,0.0343,0.0334,1.05e-05,0.089,0.424,127.959,4,pop
+407,How You Love Me (feat. Conor Maynard & Snoop Dogg) - Mike Williams Remix,Hardwell,How You Love Me (feat. Conor Maynard & Snoop Dogg) [The Remixes],52,174265,2019-02-22,1,0.699,0.837,9,-2.273,0,0.125,0.122,7.67e-05,0.119,0.542,126.029,4,pop
+408,No Matter What - GOLDHOUSE Remix,Calum Scott,No Matter What (GOLDHOUSE Remix),52,290920,2019-02-15,1,0.559,0.727,10,-5.713,1,0.0802,0.0827,7.74e-05,0.334,0.339,130.039,4,pop
+409,365 - Zedd Remix,Zedd,365 (Remixes),61,236286,2019-03-22,1,0.784,0.595,2,-6.816,1,0.0413,0.00476,0.00727,0.059,0.183,124.019,4,pop
+410,Don't Worry Bout Me - Rudimental Remix,Zara Larsson,Don't Worry Bout Me (Rudimental Remix),65,193137,2019-04-24,1,0.728,0.848,5,-6.248,1,0.185,0.0427,4.49e-06,0.118,0.612,124.993,4,pop
+411,No New Friends,Sia,No New Friends,71,175823,2019-03-14,1,0.724,0.702,7,-4.622,1,0.0429,0.0648,0.000256,0.121,0.688,106.044,4,pop
+412,Remember (with ZOHARA) - Madison Mars Remix,Gryffin,Gravity Pt. 1 (Remixes),54,192000,2019-03-01,1,0.621,0.948,11,-1.638,0,0.0653,0.293,9.68e-05,0.423,0.366,125.014,4,pop
+413,Back To You - Riton & Kah-Lo Remix,Selena Gomez,Back To You (Riton & Kah-Lo Remix),59,178346,2018-08-10,1,0.747,0.751,6,-5.053,1,0.0342,0.0283,3.71e-05,0.498,0.772,113.001,4,pop
+414,joy. (R3HAB Remix),for KING & COUNTRY,joy. (R3HAB Remix),56,171500,2019-01-25,1,0.75,0.81,0,-4.607,0,0.0572,0.0917,1.59e-05,0.111,0.48,120.038,4,pop
+415,Woke Up Late (feat. Hailee Steinfeld) - Sam Feldt Remix,Drax Project,Woke Up Late (Sam Feldt Remix),36,196475,2019-05-02,1,0.63,0.726,0,-3.753,1,0.0978,0.0717,0.0,0.108,0.499,122.055,4,pop
+416,Headlights - Madison Mars Remix,Hellberg,Headlights (Madison Mars Remix),54,174773,2019-01-25,1,0.408,0.979,1,-1.501,1,0.136,0.00267,0.00338,0.238,0.315,124.569,4,pop
+417,Deep End (feat. JHart) - Eden Prince Remix,KREAM,Deep End (feat. JHart) [Eden Prince Remix],67,208095,2018-08-24,1,0.677,0.848,7,-6.14,0,0.0741,0.0154,0.00111,0.277,0.469,125.068,4,pop
+418,This Feeling - Tom Staar Remix,The Chainsmokers,This Feeling - Remixes,51,258693,2018-11-09,2,0.607,0.952,1,-4.711,1,0.0337,0.0122,5.5e-05,0.302,0.144,126.017,4,pop
+419,Don't Leave Me Alone (feat. Anne-Marie) - R3hab Remix,David Guetta,Don't Leave Me Alone (feat. Anne-Marie) [Remixes],60,182460,2018-08-17,1,0.618,0.949,4,-2.697,0,0.0903,0.254,2.99e-06,0.488,0.293,127.961,4,pop
+420,Brave,Don Diablo,Brave,71,184026,2019-04-26,1,0.654,0.874,6,-3.885,1,0.0543,0.169,1.77e-06,0.134,0.542,119.85,4,pop
+421,Electricity (feat. Dua Lipa) - MK Remix,Silk City,Electricity (feat. Dua Lipa) [MK Remix],66,346880,2018-11-09,1,0.675,0.894,9,-4.982,0,0.0821,0.000156,0.00856,0.112,0.844,123.995,4,pop
+422,The Way I Am - Eden Prince Remix,Charlie Puth,The Way I Am (Eden Prince Remix),55,192797,2018-07-27,1,0.732,0.877,1,-3.253,1,0.131,0.0991,0.0,0.103,0.65,121.998,4,pop
+423,Bittersweet (ft. Quarterback) - Junior J Remix,Nicky Romero,Bittersweet (ft. Quarterback) [Remixes],45,197857,2019-02-06,1,0.389,0.864,4,-2.032,1,0.0518,0.0887,0.0,0.705,0.441,121.323,4,pop
+424,Ocean (feat. Khalid) - Bart B More Remix,Martin Garrix,Ocean (feat. Khalid) [Remixes Vol. 1],50,185280,2018-07-20,2,0.679,0.88,3,-5.462,1,0.053,0.00577,0.0875,0.0725,0.582,125.005,4,pop
+425,Born To Be Yours,Kygo,Born To Be Yours,68,193320,2018-06-15,1,0.688,0.688,3,-5.84,1,0.0357,0.3,0.0,0.0982,0.451,114.011,4,pop
+426,One Kiss (with Dua Lipa) - Oliver Heldens Remix,Calvin Harris,One Kiss (with Dua Lipa) [Remixes],68,281266,2018-07-13,3,0.717,0.752,0,-6.933,1,0.065,0.251,0.000468,0.0802,0.14,123.97,4,pop
+427,Been There Done That - Toby Green Remix,NOTD,Been There Done That (Remixes),52,152903,2018-10-26,2,0.684,0.744,0,-6.473,0,0.035,0.000362,0.00189,0.548,0.169,124.025,4,pop
+428,I Don't Care (with Justin Bieber),Ed Sheeran,I Don't Care (with Justin Bieber),97,219946,2019-05-10,1,0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,4,pop
+429,Dancin (feat. Luvli) - Krono Remix,Aaron Smith,Dancin (feat. Luvli) [Krono Remix],85,198053,2014-11-07,1,0.72,0.741,10,-6.529,0,0.0287,0.101,1.41e-05,0.289,0.357,119.896,4,pop
+430,Dancing With A Stranger (with Normani),Sam Smith,Dancing With A Stranger (with Normani),92,171029,2019-01-11,1,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,4,pop
+431,Old Town Road - Remix,Lil Nas X,Old Town Road,98,157066,2019-04-05,1,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,4,pop
+432,Sucker,Jonas Brothers,Sucker,95,181040,2019-03-01,1,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,pop
+433,Promises (with Sam Smith),Calvin Harris,Promises (with Sam Smith),86,213309,2018-08-17,1,0.781,0.768,11,-5.991,1,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,4,pop
+434,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,Sunflower (Spider-Man: Into the Spider-Verse),41,158053,2018-10-18,1,0.753,0.498,2,-5.61,1,0.0504,0.551,0.0,0.0706,0.927,89.95,4,pop
+435,In My Mind,Dynoro,In My Mind,86,184560,2018-06-08,1,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,4,pop
+436,Stay (Don't Go Away) [feat. Raye],David Guetta,Stay (Don't Go Away) [feat. Raye],79,185942,2019-05-09,1,0.669,0.797,9,-5.68,0,0.0624,0.259,0.0,0.199,0.552,119.865,4,pop
+437,Talk,Khalid,Talk,89,197487,2019-02-07,1,0.9,0.4,0,-8.443,1,0.124,0.0501,0.0,0.0876,0.338,136.001,4,pop
+438,Does It Matter,Janieck,Does It Matter,66,208016,2017-12-08,1,0.728,0.756,10,-6.167,0,0.0581,0.0158,0.0,0.11,0.292,126.02,4,pop
+439,Girls Like You (feat. Cardi B),Maroon 5,Girls Like You (feat. Cardi B),84,235545,2018-05-30,1,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,4,pop
+440,Happier,Marshmello,Happier,92,214289,2018-08-17,1,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,pop
+441,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),85,217466,2018-11-30,1,0.601,0.794,7,-5.844,0,0.0671,0.00987,1.36e-06,0.388,0.244,114.066,4,pop
+442,One Kiss (with Dua Lipa),Calvin Harris,One Kiss (with Dua Lipa),85,214846,2018-04-06,1,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,4,pop
+443,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",100,194087,2019-03-29,2,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,pop
+444,Get You The Moon (feat. Snøw),Kina,Get You The Moon (feat. Snøw),85,179080,2018-10-08,1,0.498,0.235,1,-16.541,0,0.188,0.72,0.0,0.144,0.0895,118.917,4,pop
+445,Blame It On Your Love (feat. Lizzo),Charli XCX,Blame It On Your Love (feat. Lizzo),74,191113,2019-05-15,1,0.716,0.757,5,-2.666,1,0.0487,0.0249,0.0,0.286,0.558,100.007,4,pop
+446,Don't Call Me Up,Mabel,Ivy To Roses (Mixtape),92,178480,2019-01-18,1,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,4,pop
+447,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Kygo,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",89,215315,2019-04-19,1,0.591,0.705,9,-6.519,0,0.079,0.381,0.000116,0.131,0.27,121.799,4,pop
+448,If I Can't Have You,Shawn Mendes,If I Can't Have You,94,190800,2019-05-03,1,0.692,0.809,2,-4.198,1,0.0602,0.524,0.0,0.147,0.864,123.911,4,pop
+449,Julien,Carly Rae Jepsen,Julien,65,234520,2019-04-19,1,0.754,0.506,9,-5.392,0,0.0929,0.326,0.0,0.0716,0.587,118.99,4,pop
+450,i'm so tired...,Lauv,i'm so tired...,91,162582,2019-01-24,1,0.599,0.733,11,-7.058,1,0.203,0.176,0.0,0.242,0.534,102.211,4,pop
+451,Natural,Imagine Dragons,Natural,30,189466,2018-07-17,1,0.448,0.612,2,-6.106,1,0.0708,0.216,0.0,0.08,0.213,97.773,4,pop
+452,Without Me,Halsey,Without Me,92,201660,2018-10-04,1,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,pop
+453,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,ME!,93,193040,2019-04-26,1,0.614,0.839,0,-4.143,1,0.0702,0.0291,0.0,0.112,0.657,182.123,4,pop
+454,Feel It Still,Portugal. The Man,Woodstock,81,163253,2017-06-16,4,0.801,0.795,1,-5.115,0,0.0504,0.0417,0.000113,0.0717,0.754,79.028,4,pop
+455,Sweet but Psycho,Ava Max,Sweet but Psycho,92,187436,2018-08-17,1,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,4,pop
+456,All This Love (feat. Harlœ),Robin Schulz,All This Love (feat. Harlœ),75,164797,2019-05-03,1,0.469,0.801,5,-5.635,1,0.0834,0.0715,0.0,0.49,0.425,124.068,4,pop
+457,365,Zedd,365,82,181899,2019-02-14,1,0.745,0.693,2,-5.479,0,0.034,0.339,0.0,0.123,0.248,98.039,4,pop
+458,Giant (with Rag'n'Bone Man),Calvin Harris,Giant (with Rag'n'Bone Man),89,229184,2019-01-11,1,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,4,pop
+459,Chlorine,Twenty One Pilots,Trench,83,324466,2018-10-05,5,0.609,0.674,10,-7.388,0,0.0548,0.0735,0.06,0.345,0.315,90.009,4,pop
+460,Tuesday (feat. Danelle Sandoval),Burak Yeter,Tuesday (feat. Danelle Sandoval),74,241874,2016-09-02,1,0.841,0.639,9,-6.052,0,0.0688,0.0156,0.0654,0.0545,0.675,99.002,4,pop
+461,Boy With Luv (feat. Halsey),BTS,MAP OF THE SOUL : PERSONA,94,229773,2019-04-12,2,0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,4,pop
+462,Shallow,Lady Gaga,Shallow,26,215733,2018-09-27,1,0.568,0.401,7,-6.341,1,0.0297,0.382,0.0,0.262,0.296,95.796,4,pop
+463,In My Feelings,Drake,Scorpion,22,217933,2018-06-29,9,0.735,0.482,8,-9.445,1,0.139,0.00623,0.0144,0.448,0.315,181.995,4,pop
+464,Here With Me,Marshmello,Here With Me,92,156346,2019-03-08,1,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,4,pop
+465,Thunderclouds,Sia,Thunderclouds,30,187026,2018-08-09,1,0.691,0.716,7,-5.985,1,0.0351,0.0085,9.06e-06,0.263,0.507,112.035,4,pop
+466,Solo (feat. Demi Lovato),Clean Bandit,Solo (feat. Demi Lovato),83,222653,2018-05-17,1,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,4,pop
+467,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Calvin Harris,Funk Wav Bounces Vol.1,75,223413,2017-06-30,8,0.893,0.745,11,-3.105,0,0.0571,0.0642,0.0,0.0943,0.872,101.018,4,pop
+468,Shape of You,Ed Sheeran,Shape of You,77,233712,2017-01-06,1,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,4,pop
+469,Rock It,Ofenbach,Ofenbach,69,146126,2019-04-12,1,0.801,0.9,1,-3.902,1,0.147,0.013,0.0927,0.064,0.834,122.038,4,pop
+470,"Swan Song (From the Motion Picture ""Alita: Battle Angel"")",Dua Lipa,"Swan Song (From the Motion Picture ""Alita: Battle Angel"")",75,182074,2019-01-24,1,0.588,0.821,5,-6.54,0,0.216,0.00579,0.000275,0.208,0.509,188.098,4,pop
+471,New Light,John Mayer,New Light,82,216014,2018-05-10,1,0.828,0.689,7,-7.878,1,0.0326,0.325,0.0384,0.0808,0.853,123.931,4,pop
+472,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",benny blanco,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",87,158027,2019-02-28,1,0.541,0.468,10,-4.039,0,0.362,0.404,3.65e-06,0.358,0.69,95.266,4,pop
+473,Kill This Love,BLACKPINK,KILL THIS LOVE,87,189052,2019-04-05,1,0.738,0.861,2,-4.141,1,0.237,0.32,0.00175,0.325,0.58,131.974,4,pop
+474,Insomnia,Daya,Insomnia,81,179745,2019-03-08,1,0.754,0.653,7,-5.095,1,0.0611,0.0944,0.0,0.383,0.379,123.084,4,pop
+475,"thank u, next",Ariana Grande,"thank u, next",67,207333,2018-11-03,1,0.724,0.647,1,-5.642,1,0.0658,0.28,0.0,0.102,0.435,106.96,4,pop
+476,Call Out My Name,The Weeknd,"My Dear Melancholy,",79,228373,2018-03-30,1,0.449,0.599,1,-4.892,1,0.0369,0.211,0.0,0.327,0.165,134.144,3,pop
+477,FRIENDS,Marshmello,FRIENDS,84,202620,2018-02-09,1,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,pop
+478,Electricity (with Dua Lipa),Silk City,Electricity (with Dua Lipa),83,238173,2018-09-06,1,0.588,0.67,0,-6.439,1,0.0473,0.0104,3.33e-06,0.338,0.505,118.159,4,pop
+479,7 rings,Ariana Grande,7 rings,90,178640,2019-01-18,1,0.725,0.321,1,-10.744,0,0.323,0.578,0.0,0.0884,0.319,70.142,4,pop
+480,High Hopes,Panic! At The Disco,Pray For The Wicked,90,190946,2018-06-22,4,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,4,pop
+481,Youngblood,5 Seconds of Summer,Youngblood,80,203417,2018-04-12,1,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,4,pop
+482,Mine,Bazzi,Mine,18,133994,2017-10-12,1,0.716,0.805,4,-3.839,1,0.0856,0.014,3.1e-06,0.291,0.719,142.886,4,pop
+483,Lost In Japan - Remix,Shawn Mendes,Lost In Japan (Remix),78,201253,2018-09-27,1,0.694,0.852,7,-5.34,0,0.257,0.0882,0.0,0.334,0.377,107.178,4,pop
+484,The Middle,Zedd,The Middle,85,184732,2018-01-23,1,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,4,pop
+485,Jackie Chan,Tiësto,Jackie Chan,82,215759,2018-05-18,1,0.747,0.834,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.005,4,pop
+486,Who Do You Love,The Chainsmokers,Who Do You Love,74,226746,2019-02-07,1,0.51,0.835,3,-4.673,1,0.0447,0.00791,0.0,0.219,0.435,140.024,4,pop
+487,Friends (with BloodPop®),Justin Bieber,Friends (with BloodPop®),21,189466,2017-08-17,1,0.744,0.739,8,-5.35,1,0.0387,0.00459,0.0,0.306,0.649,104.99,4,pop
+488,bury a friend,Billie Eilish,bury a friend,75,193143,2019-01-30,1,0.905,0.389,8,-14.505,1,0.332,0.74,0.162,0.106,0.196,120.046,4,pop
+489,Burn,Ellie Goulding,Halcyon Days,65,231211,2013-01-01,14,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016,4,pop
+490,Anywhere,Rita Ora,Anywhere,78,215064,2017-10-20,1,0.628,0.797,11,-3.953,0,0.0596,0.0364,0.0,0.104,0.321,106.93,4,pop
+491,I Like It,Cardi B,Invasion of Privacy,86,253390,2018-04-06,7,0.816,0.726,5,-3.998,0,0.129,0.099,0.0,0.372,0.65,136.048,4,pop
+492,Chandelier,Sia,1000 Forms Of Fear,77,216120,2014-07-04,1,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,5,pop
+493,I Found You (with Calvin Harris),benny blanco,I Found You (with Calvin Harris),76,191495,2018-11-02,1,0.775,0.872,6,-4.194,1,0.0469,0.033,0.0579,0.298,0.379,122.994,4,pop
+494,Back to You (feat. Bebe Rexha & Digital Farm Animals),Louis Tomlinson,Back to You (feat. Bebe Rexha & Digital Farm Animals),74,190427,2017-07-21,1,0.683,0.53,5,-4.918,0,0.142,0.207,0.0,0.394,0.645,75.016,4,pop
+495,Better Now,Post Malone,beerbongs & bentleys,89,231266,2018-04-27,9,0.68,0.563,10,-5.843,1,0.0454,0.354,0.0,0.136,0.374,145.028,4,pop
+496,Swim,Alec Benjamin,Narrated For You,64,144386,2018-11-16,5,0.737,0.562,11,-6.117,0,0.0747,0.289,0.000363,0.306,0.532,160.051,4,pop
+497,Wow.,Post Malone,Wow.,93,149520,2018-12-24,1,0.833,0.539,11,-7.399,0,0.178,0.163,2.1e-06,0.101,0.385,99.947,4,pop
+498,Kiss and Make Up,Dua Lipa,Dua Lipa (Complete Edition),83,189173,2018-10-19,20,0.678,0.729,8,-4.188,1,0.137,0.0658,0.0,0.303,0.643,99.895,4,pop
+499,Eastside (with Halsey & Khalid),benny blanco,Eastside (with Halsey & Khalid),87,173799,2018-07-12,1,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,4,pop
+500,Joy,Bastille,Joy,77,192522,2019-05-02,1,0.559,0.915,9,-4.811,1,0.132,0.222,0.0,0.113,0.361,117.914,4,pop
+501,Happy Now,Kygo,Happy Now,83,211362,2018-10-26,1,0.693,0.575,9,-6.998,1,0.0801,0.374,0.0,0.252,0.492,117.999,4,pop
+502,Dusk Till Dawn - Radio Edit,ZAYN,Dusk Till Dawn (Radio Edit),82,239000,2017-09-07,1,0.258,0.437,11,-6.593,0,0.039,0.101,1.27e-06,0.106,0.0967,180.043,4,pop
+503,"Fire On Fire - From ""Watership Down""",Sam Smith,"Fire On Fire (From ""Watership Down"")",81,246735,2018-12-21,1,0.584,0.407,1,-7.356,0,0.046,0.476,0.0,0.18,0.341,115.124,4,pop
+504,Close To Me (with Diplo) (feat. Swae Lee),Ellie Goulding,Close To Me (feat. Swae Lee),87,182623,2018-10-24,1,0.574,0.758,1,-5.029,0,0.0621,0.0969,0.0,0.395,0.492,144.111,4,pop
+505,Beautiful (feat. Camila Cabello),Bazzi,Beautiful (feat. Camila Cabello),84,180000,2018-08-02,1,0.638,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,4,pop
+506,Last Hurrah,Bebe Rexha,Last Hurrah,83,150333,2019-02-15,1,0.514,0.618,11,-4.585,0,0.0317,0.175,0.0,0.117,0.401,84.259,4,pop
+507,Arms Around You (feat. Maluma & Swae Lee),XXXTENTACION,Arms Around You (feat. Maluma & Swae Lee),83,198902,2018-10-25,1,0.703,0.723,9,-5.45,0,0.0412,0.0302,2.06e-06,0.126,0.288,104.969,4,pop
+508,Woman Like Me (feat. Nicki Minaj),Little Mix,Woman Like Me (feat. Nicki Minaj),77,228206,2018-10-12,1,0.757,0.849,5,-3.424,0,0.0536,0.173,0.0,0.0878,0.826,150.036,4,pop
+509,REMEDY,Alesso,REMEDY,80,190295,2018-08-31,1,0.601,0.775,0,-4.612,1,0.0473,0.269,0.0,0.0883,0.483,119.964,4,pop
+510,Let You Down,NF,Let You Down,10,212120,2017-09-15,1,0.661,0.715,5,-5.651,0,0.119,0.316,0.0,0.178,0.411,148.027,4,pop
+511,Right Now,Nick Jonas,Right Now,76,201680,2018-08-24,1,0.597,0.751,6,-4.982,0,0.193,0.0104,0.0,0.0912,0.568,103.956,4,pop
+512,No Roots,Alice Merton,No Roots,60,235813,2017-08-04,1,0.863,0.657,7,-7.295,1,0.105,0.264,0.00619,0.0713,0.829,115.958,4,pop
+513,Glorious (feat. Skylar Grey),Macklemore,GEMINI,78,220454,2017-09-22,2,0.731,0.794,0,-5.126,0,0.0522,0.0323,2.59e-05,0.112,0.356,139.994,4,pop
+514,Late Night Feelings (feat. Lykke Li),Mark Ronson,Late Night Feelings (feat. Lykke Li),76,251028,2019-04-12,1,0.688,0.729,4,-6.56,0,0.0573,0.437,0.00369,0.0928,0.469,110.055,4,pop
+515,Finesse - Remix; feat. Cardi B,Bruno Mars,Finesse (Remix) [feat. Cardi B],79,217288,2017-12-20,1,0.704,0.859,5,-4.877,0,0.0996,0.0185,0.0,0.0215,0.926,105.115,4,pop
+516,Lonely Together (feat. Rita Ora),Avicii,AVĪCI (01),24,181812,2017-08-10,2,0.648,0.667,2,-5.294,0,0.065,0.137,2.1e-05,0.0797,0.217,102.966,4,pop
+517,Nevermind,Dennis Lloyd,Nevermind,82,156600,2017-06-30,1,0.592,0.691,3,-8.354,1,0.196,0.156,9.78e-06,0.418,0.0796,99.976,4,pop
+518,Speechless (feat. Erika Sirola),Robin Schulz,Speechless (feat. Erika Sirola),84,214941,2018-11-16,1,0.574,0.728,1,-4.777,1,0.062,0.0161,1.42e-06,0.0851,0.266,125.047,4,pop
+519,Diamond Heart,Alan Walker,Diamond Heart,76,239834,2018-09-28,1,0.499,0.638,0,-6.145,1,0.0438,0.129,0.0,0.631,0.253,89.98,4,pop
+520,Happy Now,Zedd,Happy Now,80,207029,2018-07-18,1,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,3,pop
+521,Polaroid,Jonas Blue,Polaroid,80,193377,2018-10-05,1,0.652,0.897,7,-4.481,0,0.036,0.293,0.0,0.0722,0.475,114.033,4,pop
+522,Don't Leave Me Alone (feat. Anne-Marie),David Guetta,Don't Leave Me Alone (feat. Anne-Marie),74,183750,2018-07-26,1,0.659,0.738,4,-5.072,0,0.0477,0.118,0.0,0.115,0.481,127.95,4,pop
+523,No Brainer,DJ Khaled,No Brainer,81,260000,2018-07-27,1,0.552,0.76,0,-4.706,1,0.342,0.0733,0.0,0.0865,0.639,135.702,5,pop
+524,All The Lies (with Felix Jaehn & The Vamps),Alok,All The Lies (with Felix Jaehn & The Vamps),71,179456,2019-03-15,1,0.611,0.835,6,-4.107,1,0.139,0.167,0.0,0.107,0.672,102.023,4,pop
+525,Waste It On Me (feat. BTS),Steve Aoki,Waste It On Me (feat. BTS),76,192536,2018-10-25,1,0.669,0.684,7,-4.595,1,0.0585,0.252,0.0,0.72,0.466,96.097,4,pop
+526,The Bones,Maren Morris,GIRL,82,197293,2019-03-08,12,0.612,0.57,11,-6.642,0,0.0347,0.279,0.0,0.0963,0.335,77.004,4,pop
+527,Juice,Lizzo,Juice,66,195333,2019-01-04,1,0.767,0.891,0,-3.01,1,0.0901,0.00615,0.0,0.406,0.824,119.91,4,pop
+528,Te esperaré toda la vida,Dani Fernández,Te esperaré toda la vida,65,226312,2018-05-18,1,0.75,0.63,7,-5.223,1,0.0409,0.22,0.0,0.132,0.85,128.028,4,pop
+529,Déjame Ser,Manuel Carrasco,Déjame Ser,63,232472,2018-11-15,1,0.625,0.854,1,-5.939,1,0.123,0.312,0.0,0.123,0.737,171.957,4,pop
+530,5 Sentidos,Dvicio,5 Sentidos,72,209953,2018-09-27,1,0.644,0.735,5,-5.499,1,0.0473,0.0961,0.0,0.116,0.664,175.913,4,pop
+531,Mi Persona Favorita,Alejandro Sanz,Mi Persona Favorita,74,239972,2019-03-28,1,0.582,0.659,8,-7.511,1,0.114,0.543,0.0,0.0656,0.583,155.957,4,pop
+532,Perdón,David Bisbal,Perdón,71,206497,2018-09-27,1,0.673,0.855,11,-4.528,0,0.0846,0.291,0.0,0.124,0.96,179.984,4,pop
+533,Vivir,Rozalén,Vivir,57,172000,2017-10-19,1,0.715,0.906,8,-5.478,1,0.28,0.353,0.0,0.112,0.777,101.088,4,pop
+534,Tu refugio - Nueva versión,Pablo Alborán,Tu refugio (Nueva versión),58,260700,2018-10-26,1,0.365,0.617,11,-5.536,1,0.037,0.487,0.0,0.105,0.218,140.077,4,pop
+535,Qué Tienes Tú,Dvicio,Qué Tienes Tú,72,212348,2018-05-04,1,0.744,0.836,2,-3.267,1,0.0592,0.0811,4.21e-06,0.166,0.524,91.984,4,pop
+536,Déjala Que Baile,Melendi,Ahora,69,219600,2018-03-09,6,0.831,0.777,11,-4.456,0,0.174,0.356,0.0,0.0796,0.598,95.973,4,pop
+537,Quiero verte,Marta Soto,Quiero verte EP,55,232800,2017-10-13,1,0.581,0.814,8,-4.517,1,0.0557,0.247,0.0,0.0784,0.497,104.962,3,pop
+538,Mirando al cielo (feat. Rozalén) - X Aniversario,Huecco,Mirando al cielo (feat. Rozalén) [X Aniversario],61,243423,2018-04-27,1,0.766,0.661,4,-5.818,1,0.122,0.258,0.0,0.128,0.797,91.027,4,pop
+539,Inventas,Vanesa Martín,Inventas,60,216750,2018-10-19,1,0.606,0.6,8,-7.171,1,0.0908,0.557,0.0,0.116,0.573,172.147,4,pop
+540,Dieciocho,Dani Martín,Dieciocho,62,227835,2018-04-20,1,0.518,0.808,0,-5.578,1,0.0358,0.022,1.69e-05,0.303,0.683,139.939,4,pop
+541,No Tengo Nada,Alejandro Sanz,No Tengo Nada,68,225599,2018-11-29,1,0.509,0.614,10,-6.7,1,0.0427,0.557,0.0,0.201,0.234,147.757,4,pop
+542,Salvajes irracionales,Efecto Pasillo,Barrio Las Banderas,57,238094,2017-09-08,3,0.737,0.829,7,-4.718,1,0.0763,0.0233,0.0,0.347,0.728,100.024,4,pop
+543,La Puerta Violeta,Rozalén,Cuando el Río Suena...,61,202600,2017-09-15,1,0.809,0.712,6,-7.37,0,0.049,0.526,0.0,0.0958,0.895,127.962,4,pop
+544,Vas A Quedarte,Aitana,Tráiler,72,226213,2018-11-29,5,0.395,0.508,7,-3.522,1,0.0326,0.795,3.63e-06,0.0627,0.168,89.859,4,pop
+545,A Partir De Hoy,David Bisbal,A Partir De Hoy,14,196802,2018-03-16,1,0.657,0.843,6,-5.026,1,0.0627,0.186,0.0,0.378,0.488,163.966,4,pop
+546,El Patio,Pablo López,"Camino, Fuego Y Libertad",61,283093,2017-12-15,4,0.491,0.493,11,-7.286,1,0.0282,0.175,3.29e-06,0.13,0.148,138.082,4,pop
+547,Él no soy yo,Blas Cantó,Él no soy yo,63,279240,2018-03-09,1,0.67,0.727,1,-7.679,0,0.0324,0.00953,0.0,0.115,0.405,120.003,4,pop
+548,Hábito de ti,Vanesa Martín,Hábito de ti,56,246619,2017-09-22,1,0.62,0.753,7,-5.097,1,0.0407,0.0837,0.0,0.109,0.477,99.97,4,pop
+549,Cuando Nadie Ve,Morat,Cuando Nadie Ve,75,219184,2018-06-08,1,0.804,0.788,1,-4.586,0,0.0598,0.118,0.0,0.215,0.837,96.005,4,pop
+550,Amasijo de huesos,Sidecars,Cuestión de gravedad,62,275640,2017-10-13,4,0.725,0.725,11,-4.881,1,0.0278,0.232,0.0,0.105,0.494,131.989,4,pop
+551,Dicen,Antonio Orozco,Dicen,62,221992,2018-06-29,1,0.71,0.824,10,-3.87,0,0.147,0.128,0.0,0.399,0.893,88.93,4,pop
+552,Me Dijeron De Pequeño,Manuel Carrasco,Me Dijeron De Pequeño,53,327960,2018-11-01,1,0.381,0.581,3,-6.461,1,0.0813,0.536,0.0,0.093,0.418,164.129,3,pop
+553,Nacidos para Creer,Amaia Montero,Nacidos para Creer,61,226640,2018-06-01,1,0.607,0.599,4,-4.582,1,0.0588,0.639,0.0,0.0946,0.564,90.126,4,pop
+554,Presiento,Morat,Balas Perdidas (Edición Especial),66,174379,2018-10-25,16,0.711,0.727,2,-3.15,1,0.162,0.168,0.0,0.296,0.465,180.039,4,pop
+555,Prometo,Pablo Alborán,Prometo,63,307106,2017-11-17,2,0.4,0.564,9,-8.971,1,0.12,0.454,0.0,0.314,0.327,91.356,4,pop
+556,Estoy Hecho De Pedacitos De Ti,Antonio Orozco,Diez,59,218520,2011-01-01,7,0.534,0.49,2,-6.788,1,0.0309,0.232,0.0,0.119,0.332,144.11,4,pop
+557,Entre otros cien,Marta Soto,Míranos,56,225426,2018-08-31,10,0.447,0.575,1,-4.982,0,0.0627,0.568,0.0,0.186,0.633,175.196,3,pop
+558,Llueve Alegría (with Alejandro Sanz),Malú,Llueve Alegría (with Alejandro Sanz),6,258256,2018-08-31,1,0.554,0.547,11,-6.363,1,0.0461,0.521,0.0,0.0951,0.535,96.558,4,pop
+559,Solo Si Es Contigo (feat. Bebe),Bombai,Solo Si Es Contigo (feat. Bebe),58,216000,2017-03-03,1,0.574,0.59,7,-6.205,1,0.0475,0.329,0.0,0.103,0.96,175.2,4,pop
+560,Nuevo,Laura Pausini,Hazte sentir,52,252960,2018-03-15,2,0.616,0.544,11,-5.108,0,0.118,0.072,3.91e-06,0.12,0.725,184.866,4,pop
+561,No olvidarme de olvidar (feat. Carlos Rivera),Rosana,No olvidarme de olvidar (feat. Carlos Rivera),54,247028,2017-12-01,1,0.471,0.581,9,-6.808,1,0.139,0.312,0.0,0.119,0.238,155.957,4,pop
+562,Ya lo sabes,Marta Soto,Ya lo sabes EP,50,200973,2017-05-26,1,0.495,0.446,2,-8.998,1,0.0387,0.183,0.0,0.068,0.438,101.725,4,pop
+563,Qué Bonito,Soraya,Qué Bonito,5,217516,2018-01-12,1,0.529,0.738,7,-6.057,1,0.109,0.118,0.0,0.25,0.532,126.341,3,pop
+564,Rayando El Sol (feat. Pablo Alborán),Maná,Rayando El Sol (feat. Pablo Alborán),73,258937,2019-04-12,1,0.627,0.456,7,-7.143,1,0.0281,0.314,0.0,0.0901,0.193,122.025,4,pop
+565,Si pudiera - Directo 20 años,David DeMaría,Si pudiera (Directo 20 años),48,217871,2018-02-02,1,0.506,0.778,5,-3.221,1,0.0262,0.0528,0.0,0.166,0.46,95.023,4,pop
+566,Soñar es de valientes,Rosana,Soñar es de valientes,46,228196,2018-05-18,1,0.598,0.809,9,-4.587,1,0.0382,0.0736,0.0,0.11,0.821,134.479,4,pop
+567,Perdonarme (feat. Taburete),Café Quijano,Perdonarme (feat. Taburete),55,212313,2017-06-09,1,0.7,0.866,4,-4.217,1,0.108,0.0401,0.0,0.0593,0.895,96.136,4,pop
+568,Girasoles,Rozalén,Cuando el Río Suena...,56,220000,2017-09-15,3,0.746,0.732,1,-5.543,1,0.182,0.359,2.26e-06,0.0904,0.945,90.03,4,pop
+569,Esta Vez,Cepeda,Esta Vez,60,221942,2018-06-01,1,0.6,0.803,0,-4.038,0,0.0446,0.0319,0.0,0.127,0.414,120.008,4,pop
+570,El Arrepentido,Melendi,El Arrepentido,58,218589,2018-01-19,1,0.804,0.721,6,-6.025,0,0.168,0.0732,0.0,0.434,0.699,99.955,4,pop
+571,No Te Preocupes por Mi,Leiva,No Te Preocupes por Mi,45,228325,2018-12-14,1,0.313,0.608,7,-5.746,1,0.0367,0.114,1.06e-06,0.104,0.341,151.872,4,pop
+572,Lo Hicimos,Conchita,Incendios,37,211105,2016-12-02,1,0.626,0.506,7,-8.723,1,0.0319,0.571,0.0,0.11,0.49,77.002,4,pop
+573,"Y, ¿Si Fuera Ella? - + Es +",Various Artists,"Y, ¿Si Fuera Ella? (+ Es +)",8,250000,2017-05-19,1,0.292,0.535,5,-5.75,1,0.0393,0.325,0.0,0.19,0.188,75.306,4,pop
+574,La tormenta,Pastora Soler,La tormenta,52,219186,2017-07-14,1,0.356,0.672,6,-4.98,1,0.0403,0.392,0.0,0.106,0.566,179.195,3,pop
+575,Por el boulevard de los sueños rotos - Acústico,Los Secretos,Con Cierto Sentido,46,250813,2003-11-17,14,0.57,0.934,4,-6.091,1,0.0539,0.124,1.25e-05,0.983,0.706,125.995,4,pop
+576,La Llamada,Leiva,La Llamada,63,240205,2017-09-27,1,0.623,0.488,2,-8.246,1,0.029,0.5,0.000211,0.131,0.169,114.019,4,pop
+577,Puede Ser (with Amaia Montero),El Canto Del Loco,A Contracorriente,57,181026,2002-03-01,4,0.412,0.591,11,-4.673,1,0.0346,0.398,0.0,0.119,0.344,188.376,4,pop
+578,Siendo Uno Mismo,Manuel Carrasco,Bailar El Viento,4,316946,2015-10-30,4,0.527,0.575,3,-6.087,1,0.0701,0.272,0.0,0.11,0.565,139.391,4,pop
+579,Marzo en febrero (feat. Ana Fernandez),Marlon,Marzo en febrero (feat. Ana Fernandez),53,202177,2018-03-16,1,0.578,0.369,7,-9.376,1,0.0457,0.777,0.0,0.107,0.287,82.147,3,pop
+580,Te has perdido quién soy,Vanesa Martín,Munay,57,236818,2016-11-18,7,0.556,0.566,7,-6.874,1,0.0269,0.397,0.0,0.163,0.231,95.003,3,pop
+581,Lo Saben Mis Zapatos,Various Artists,Cadena Dial (Lo Mejor De Nuestra Música / 2016),46,286173,2016-11-11,4,0.426,0.485,7,-6.595,1,0.0358,0.296,0.0,0.234,0.198,75.118,4,pop
+582,Me Haces Falta,Antonio José,Me Haces Falta,8,208210,2017-10-27,1,0.565,0.867,7,-2.745,1,0.282,0.501,0.0,0.0891,0.52,197.731,4,pop
+583,Precisamente ahora (con Sergio Dalma) - Directo 20 años,David DeMaría,Precisamente ahora (con Sergio Dalma) [Directo 20 años],43,260626,2018-03-16,1,0.428,0.581,8,-5.708,0,0.0333,0.372,0.0,0.0969,0.235,135.695,4,pop
+584,Nadie ha dicho,Laura Pausini,Nadie ha dicho,55,207440,2018-01-26,1,0.567,0.56,6,-5.552,1,0.0326,0.565,0.0,0.102,0.159,129.747,4,pop
+585,Ni una más,Pastora Soler,La calma,51,212226,2017-09-15,3,0.642,0.596,6,-5.317,1,0.0479,0.662,0.0,0.142,0.394,92.07,4,pop
+586,Cuando Nadie Me Ve / Cai - En Directo En El Estadio Vicente Calderón / 2017,Alejandro Sanz,+ Es + (El Concierto / En Directo En El Estadio Vicente Calderón / 2017),2,406640,2017-12-08,10,0.293,0.604,7,-7.355,1,0.286,0.751,0.0,0.971,0.233,59.226,3,pop
+587,Ciudad De Papel,Malú,Ciudad De Papel,53,210561,2018-03-23,1,0.626,0.778,4,-4.802,0,0.0872,0.277,0.0,0.0814,0.525,119.81,4,pop
+588,Yo que no vivo sin tí,Sergio Dalma,Via Dalma III,50,183853,2017-10-06,6,0.278,0.563,10,-4.916,0,0.0301,0.393,0.0,0.109,0.305,68.032,4,pop
+589,Saturno,Pablo Alborán,Saturno,63,253760,2017-09-08,1,0.278,0.572,7,-8.295,1,0.0407,0.392,0.0,0.063,0.311,95.351,3,pop
+590,No Hay Nadie Más,Sebastian Yatra,MANTRA,76,199733,2018-05-18,14,0.695,0.379,6,-9.096,1,0.0339,0.861,0.0,0.106,0.808,105.108,4,pop
+591,No Puedo Vivir Sin Ti,Los Ronaldos,4 Canciones,59,254840,2007-03-19,1,0.593,0.804,0,-4.917,1,0.037,0.412,0.0,0.109,0.596,128.425,4,pop
+592,Invisible,Malú,Invisible,7,190848,2017-09-14,1,0.54,0.64,5,-7.67,0,0.0491,0.399,0.0,0.069,0.192,92.072,4,pop
+593,Este amor no se toca,Sergio Dalma,Este amor no se toca,48,212761,2017-09-15,1,0.75,0.775,0,-4.073,1,0.0252,0.0508,1.38e-06,0.141,0.802,130.006,4,pop
+594,Uno X Uno,Manuel Carrasco,Bailar El Viento,4,229720,2015-10-30,5,0.61,0.678,1,-6.879,0,0.0467,0.456,0.0,0.0648,0.549,89.985,4,pop
+595,Besos En Guerra,Morat,Balas Perdidas,75,231532,2018-10-25,3,0.69,0.973,2,-3.588,1,0.0492,0.126,0.0,0.101,0.772,143.957,4,pop
+596,Que Se Mueran de Envidia,Dani Martín,Que Se Mueran de Envidia,56,251907,2017-05-05,1,0.546,0.496,9,-6.88,1,0.0285,0.766,0.0,0.085,0.266,147.619,4,pop
+597,No vaya a ser,Pablo Alborán,No vaya a ser,58,198053,2017-09-08,1,0.731,0.687,1,-7.399,0,0.0586,0.232,2.33e-05,0.265,0.577,99.995,4,pop
+598,Imaginando,Sergio Dalma,Dalma,54,261763,2015-10-30,2,0.614,0.707,4,-5.329,1,0.0282,0.249,0.0,0.112,0.325,119.967,4,pop
+599,Te Lo Mereces,Merche,De Otra Manera,54,183939,2017-10-27,3,0.702,0.784,1,-5.135,1,0.231,0.0382,0.0,0.0662,0.571,98.955,4,pop
+600,Contradicción,Malú,Contradicción,5,175443,2018-06-29,1,0.731,0.784,4,-4.981,0,0.0851,0.304,2.96e-05,0.0867,0.749,97.013,4,pop
+601,Barcos de papel (con Manuel Carrasco) - Directo 20 años,David DeMaría,Barcos de papel (con Manuel Carrasco) [Directo 20 años],51,228426,2018-02-16,1,0.522,0.823,11,-5.374,0,0.0708,0.107,0.0,0.169,0.355,135.044,4,pop
+602,La llave,Pablo Alborán,Prometo,50,196853,2017-06-01,8,0.431,0.671,7,-7.586,0,0.0738,0.489,0.0,0.113,0.327,88.569,4,pop
+603,Insoportable,El Canto Del Loco,Estados de Animo,58,248720,2003,4,0.615,0.763,9,-4.142,1,0.0294,0.0119,0.0,0.0648,0.426,131.022,4,pop
+604,Mi Héroe,Antonio Orozco,Destino,2,234964,2015-12-04,5,0.51,0.683,9,-7.39,0,0.0379,0.356,0.0,0.0736,0.237,100.536,4,pop
+605,Aguasanta,India Martinez,Te Cuento un Secreto,47,191878,2016-10-21,4,0.673,0.928,9,-2.383,1,0.0272,0.0335,6.24e-05,0.0688,0.951,99.978,4,pop
+606,Llámame Loco,Manuel Carrasco,La Cruz Del Mapa,58,272181,2018-12-07,8,0.461,0.541,0,-8.633,1,0.106,0.587,0.0,0.109,0.394,132.748,4,pop
+607,Cuando Todas las Historias Se Acaban,Maldita Nerea,Bailarina,57,223640,2017-09-08,2,0.615,0.879,7,-4.637,0,0.0388,0.00866,3.89e-05,0.0993,0.889,99.998,4,pop
+608,Hacia Adentro,Camila,Hacia Adentro,57,220786,2019-05-17,4,0.366,0.609,0,-5.252,1,0.0483,0.0842,1.11e-06,0.159,0.363,183.429,3,pop
+609,Eres Tú,Matisse,Eres Tú,71,218232,2019-04-05,1,0.566,0.486,9,-8.583,1,0.0299,0.268,0.0,0.111,0.349,145.923,4,pop
+610,Si Tú Te Vas,Ximena Sariñana,Si Tú Te Vas,62,188783,2018-11-09,1,0.66,0.725,11,-4.147,0,0.223,0.132,0.000572,0.2,0.532,184.317,4,pop
+611,Mala Fama,Danna Paola,Mala Fama,73,182466,2019-03-28,1,0.763,0.578,6,-3.894,0,0.0852,0.2,5.12e-06,0.0595,0.818,175.959,4,pop
+612,Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged,Los Auténticos Decadentes,Fiesta Nacional (MTV Unplugged),71,249306,2018-10-05,18,0.587,0.639,7,-8.065,1,0.0357,0.395,0.0,0.68,0.789,116.499,4,pop
+613,Te Vi,Piso 21,Te Vi,88,231848,2018-12-14,1,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-05,0.0863,0.706,102.02,4,pop
+614,Mañana Es Too Late,Jesse & Joy,Mañana Es Too Late,77,195213,2019-04-12,1,0.71,0.772,11,-3.291,0,0.162,0.262,0.0,0.357,0.867,183.957,4,pop
+615,Rayando El Sol (feat. Pablo Alborán),Maná,Rayando El Sol (feat. Pablo Alborán),73,258937,2019-04-12,1,0.627,0.456,7,-7.143,1,0.0281,0.314,0.0,0.0901,0.193,122.025,4,pop
+616,Presiento,Morat,Presiento,80,174379,2019-04-12,1,0.711,0.727,2,-3.15,1,0.162,0.168,0.0,0.296,0.465,180.039,4,pop
+617,Un Año,Sebastian Yatra,Un Año,86,164440,2019-01-18,1,0.771,0.382,1,-6.808,0,0.0514,0.148,0.0,0.104,0.535,94.931,4,pop
+618,Andan Diciendo,Ventino,Andan Diciendo,65,221345,2019-05-03,1,0.779,0.744,1,-5.548,0,0.12,0.0134,0.0,0.134,0.419,95.977,4,pop
+619,R.I.P. (feat. Rita Ora & Anitta),Sofia Reyes,R.I.P. (feat. Rita Ora & Anitta),83,187200,2019-03-15,1,0.764,0.752,8,-3.713,0,0.0711,0.18,0.0,0.0701,0.698,100.066,4,pop
+620,A Mí Me Gusta,El Freaky,A Mí Me Gusta,58,218706,2019-05-03,1,0.683,0.91,6,-3.718,1,0.162,0.0547,1.77e-05,0.352,0.715,190.008,4,pop
+621,Duele,Reik,Duele,76,238360,2019-03-20,1,0.684,0.842,7,-4.54,0,0.201,0.0356,0.0,0.204,0.483,174.051,4,pop
+622,Te Esperaba,Carlos Rivera,Guerra (+ Sessions Recorded at Abbey Road),65,213493,2018-09-07,2,0.44,0.464,6,-6.722,1,0.0268,0.655,0.0,0.109,0.24,83.922,3,pop
+623,La Boca,Mau y Ricky,Para Aventuras y Curiosidades,79,206279,2019-05-03,1,0.618,0.795,2,-1.8,1,0.113,0.0655,0.0,0.309,0.76,185.901,4,pop
+624,La Mejor Version de Mi,Natti Natasha,ilumiNATTI,63,134653,2019-02-15,16,0.513,0.429,2,-5.856,1,0.0384,0.707,0.0,0.0956,0.355,132.328,4,pop
+625,Algo Especial,Río Roma,Algo Especial,61,227353,2019-04-19,1,0.607,0.803,6,-4.358,1,0.216,0.115,0.0,0.084,0.31,93.956,4,pop
+626,Te Confieso,Camila,Te Confieso,66,195710,2019-01-25,1,0.483,0.338,2,-9.28,1,0.0313,0.118,0.0,0.276,0.19,143.677,4,pop
+627,Todo Lo Que Está Pasando Me Gusta,Reyli Barba,Todo Lo Que Está Pasando Me Gusta,40,224055,2019-05-24,1,0.809,0.728,9,-5.999,0,0.047,0.187,0.00112,0.0921,0.611,95.015,4,pop
+628,Un Millón Como Tú,Lasso,Un Millón Como Tú,67,275026,2019-02-01,1,0.435,0.745,0,-4.613,1,0.0431,0.492,0.0,0.08,0.552,179.988,3,pop
+629,Te Equivocaste (Primera Fila) - En Vivo,Yuridia,Primera Fila (En Vivo),58,246546,2017-11-24,6,0.546,0.646,3,-5.6,1,0.0417,0.218,0.0,0.77,0.398,145.853,4,pop
+630,AY! (feat. VICE MENTA),Mario Bautista,AY! (feat. VICE MENTA),68,188133,2019-03-29,1,0.823,0.795,1,-3.428,0,0.0708,0.092,6.96e-06,0.0621,0.661,100.039,4,pop
+631,Funeral,Maena,Funeral,49,250500,2019-04-26,1,0.682,0.728,10,-6.618,0,0.0281,0.00441,0.00296,0.0613,0.832,115.016,4,pop
+632,La solución (feat. Carlos Rivera),Laura Pausini,Hazte sentir más,65,233800,2018-03-16,3,0.617,0.466,1,-5.223,1,0.0356,0.828,0.0,0.132,0.344,125.967,4,pop
+633,Tú Me Obligaste,Edith Márquez,Contigo,52,179013,2018-08-24,2,0.488,0.655,0,-4.775,1,0.0693,0.347,0.0,0.363,0.528,153.722,3,pop
+634,Un Nuevo Amor - En Vivo,María José,Un Nuevo Amor,53,253492,2019-04-05,1,0.561,0.945,2,-3.683,1,0.0894,0.0122,0.0,0.962,0.324,139.901,4,pop
+635,Caderas Blancas,Mon Laferte,Norma,63,225400,2018-11-09,5,0.652,0.834,8,-6.072,0,0.112,0.244,9.25e-06,0.122,0.643,94.999,4,pop
+636,Ábranse Perras,Gloria Trevi,Ábranse Perras,62,200306,2019-05-03,1,0.552,0.916,0,-3.397,1,0.133,0.097,0.0,0.124,0.776,178.109,4,pop
+637,Qué Bueno Que Fuiste Tú,Carolina Ross,Qué Bueno Que Fuiste Tú,57,179240,2019-04-10,1,0.726,0.268,4,-7.829,1,0.0717,0.921,0.0,0.0989,0.301,134.012,4,pop
+638,Mientes Tan Bien (Versión Dueto),Pandora,Mientes Tan Bien (Versión Dueto),27,209600,2019-01-18,1,0.588,0.53,11,-5.914,1,0.0306,0.793,0.0,0.0902,0.608,143.772,4,pop
+639,¿Dónde Guardo El Corazón?,Kalimba,¿Dónde Guardo El Corazón?,63,251640,2019-02-01,1,0.586,0.572,1,-5.817,1,0.0276,0.618,0.0,0.102,0.369,138.999,4,pop
+640,Ojos Noche,Elsa Y Elmar,Ojos Noche,61,240295,2019-02-28,1,0.794,0.47,8,-7.311,1,0.0361,0.00945,2.79e-05,0.112,0.618,120.018,4,pop
+641,Ese No Sé Qué,Caztro,Ese No Sé Qué,59,198727,2019-04-09,1,0.725,0.73,6,-5.392,1,0.0318,0.0602,1.09e-05,0.107,0.769,92.01,4,pop
+642,Maldita Felicidad,Los Claxons,Maldita Felicidad,59,168858,2018-09-07,1,0.794,0.576,9,-6.333,1,0.073,0.22,1.17e-06,0.0648,0.554,97.926,4,pop
+643,Dime (feat. Reik),Noel Schajris,Dime (feat. Reik),62,205430,2018-11-30,1,0.499,0.659,6,-10.187,0,0.059,0.00632,0.0,0.112,0.478,150.965,4,pop
+644,"Adiós Amor - Recorded at Panoram Studios, Mexico",Ha*Ash,Spotify Singles,66,202867,2018-10-03,2,0.505,0.438,6,-7.433,1,0.0299,0.656,0.0,0.118,0.205,90.146,4,pop
+645,Dolerá,KURT,Dolerá,57,239760,2019-01-25,1,0.553,0.587,7,-7.405,0,0.051,0.012,7.2e-05,0.385,0.294,75.708,4,pop
+646,No Tengo Nada,Alejandro Sanz,No Tengo Nada,68,225599,2018-11-29,1,0.509,0.614,10,-6.7,1,0.0427,0.557,0.0,0.201,0.234,147.757,4,pop
+647,No Sé Decirte No,Marco Mares,No Sé Decirte No,58,231366,2018-10-26,1,0.387,0.662,10,-8.195,1,0.0569,0.299,1.44e-06,0.197,0.689,95.754,4,pop
+648,Rompecabezas (feat. Emmanuel),Mijares,Rompecabezas (feat. Emmanuel),61,223184,2018-11-16,1,0.631,0.736,9,-6.417,1,0.11,0.498,0.0,0.109,0.576,83.013,4,pop
+649,Ya No Me Engañas,Paulina Rubio,Ya No Me Engañas,56,194619,2019-04-02,1,0.677,0.871,0,-3.823,0,0.033,0.00268,0.0,0.214,0.726,136.997,4,pop
+650,Cuenta Hasta 20,Playa Limbo,Cuenta Hasta 20,52,219032,2019-04-12,1,0.615,0.769,11,-5.67,0,0.0887,0.123,0.0,0.0682,0.797,93.067,4,pop
+651,La La La,LemonGrass,La La La,53,172053,2019-04-05,1,0.632,0.739,9,-5.266,1,0.0337,0.154,0.0,0.132,0.602,119.968,4,pop
+652,Cuánto más,Sandoval,7/11,50,236101,2018-12-07,10,0.759,0.663,10,-7.111,0,0.029,0.0574,4.24e-05,0.0633,0.826,114.975,4,pop
+653,Entre Nosotros Dos,Yahir,Entre Nosotros Dos,55,210438,2019-02-01,1,0.807,0.883,8,-4.453,1,0.0653,0.1,0.0,0.0914,0.738,98.017,4,pop
+654,Soñar Contigo,Charlie Rodd,Soñar Contigo,58,167562,2019-03-01,1,0.705,0.415,0,-9.899,1,0.0302,0.73,0.000128,0.113,0.289,119.909,4,pop
+655,Llama,Ana Torroja,Llama,55,235001,2019-02-15,1,0.907,0.603,1,-7.54,0,0.06,0.128,0.00243,0.101,0.378,109.979,4,pop
+656,Lindo Pero Bruto,Thalía,Valiente,71,177346,2018-11-09,2,0.708,0.78,4,-4.403,0,0.189,0.204,0.0,0.17,0.601,169.705,4,pop
+657,Como la Primera Vez,Bolela,Como la Primera Vez,51,168121,2018-11-03,1,0.82,0.744,0,-6.859,1,0.249,0.117,0.0,0.336,0.472,89.989,4,pop
+658,Sin Etiquetas,Mœnia,Sin Etiquetas,51,221160,2019-04-05,1,0.597,0.878,8,-4.066,1,0.0346,0.0408,0.0426,0.234,0.451,127.977,4,pop
+659,Bailando,Maria Daniela Y Su Sonido Lasser,Bailando,51,195507,2019-03-29,1,0.638,0.806,6,-7.654,1,0.03,0.00333,0.138,0.0839,0.399,133.023,4,pop
+660,Solo,Esteman,Amor Libre,54,223920,2019-02-14,1,0.825,0.66,1,-5.125,0,0.052,0.00819,7.59e-06,0.0733,0.848,92.982,4,pop
+661,Ojos Bengala,Marissa Mur,Ojos Bengala,50,186405,2019-03-01,1,0.65,0.434,9,-9.273,1,0.0326,0.815,0.00187,0.107,0.6,129.997,4,pop
+662,Quiero que me quieras,Espumas y Terciopelo,Canciones para una película de boda,47,148533,2019-02-14,1,0.643,0.655,4,-10.032,1,0.0465,0.143,3.44e-06,0.135,0.847,132.093,4,pop
+663,No Me Importa,Jary Franco,No Me Importa,57,173271,2018-10-12,1,0.617,0.382,9,-8.965,1,0.0408,0.208,0.0,0.0897,0.729,82.357,4,pop
+664,Waze,Saak,Waze,58,193600,2019-01-04,1,0.72,0.734,8,-3.505,0,0.0639,0.223,0.0,0.0835,0.679,132.025,4,pop
+665,Caballero,Mr. Pig,Caballero,55,224400,2019-02-22,1,0.703,0.726,4,-8.135,0,0.0668,0.266,4.24e-05,0.278,0.408,100.01,4,pop
+666,No Soy Asi (Bailando),Camy G,No Soy Asi (Bailando),48,191752,2019-02-01,1,0.743,0.706,8,-5.219,0,0.106,0.00623,0.000175,0.0873,0.345,96.961,4,pop
+667,Quimeras,Tessa Ia,Quimeras,50,174548,2019-03-22,1,0.582,0.729,11,-8.599,0,0.0412,0.319,4.65e-05,0.293,0.383,145.105,4,pop
