@@ -1,0 +1,46 @@
+CAPSTONE I GUIDE 
+
+PROPOSAL
+First, you need to write a proposal and get your project ok'd by the instructors.
+Your proposal should contain:
+
+1. Your question
+2. A description of your data AND evidence that you have looked at it
+3. The Minimum Viable Product (MVP)
+
+It should be 1 page (a little over/under ok), exported to pdf, and named 
+first_last_proposal_1.pdf
+
+We will provide a Dropbox link to upload your proposal.
+
+It will be due in the Dropbox folder Thursday, May 23rd by 9 am.
+
+PRESENTATION OF RESULTS
+You'll be presenting your results from your README.md in ~ 10 minute presentation
+Friday, May 31st.
+
+Examples of nice READMEs: 
+
+Nikki Aldeborgh
+https://github.com/naldeborgh7575/brain_segmentation
+
+Steve Harshman
+https://github.com/sjh226/ClimateCapstone
+
+More READMEs from all campuses here:
+https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md
+
+Potential sources of data:
+https://toolbox.google.com/datasetsearch
+
+https://registry.opendata.aws/
+
+https://www.denvergov.org/opendata
+
+https://bouldercolorado.gov/open-data
+
+https://archive.ics.uci.edu/ml/index.php
+
+
+
+
