@@ -14,12 +14,21 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
 def create_spotify_instance(client_id, client_secret):
+    '''Initializes an instance with the Spotify API Web Client'
+
+    Input: Client Id, Client Secret --> both given to developer from Spotify API
+    Output: Spotify Instance --> Alias all Spotify Functions with this obect
+    '''
+
     client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
     return sp
 
 
 class SpotifyPlaylist(object):
+    '''
+    SpotifyPlaylist is a list of lists and each list represents one track from the playlist; the list of list is one full playlist
+    '''
     def __init__(self, client_id, client_secret, user_id, playlist_id, id_list=[]):
         self.client_id = client_id
         self.client_secret = client_secret
@@ -30,6 +39,9 @@ class SpotifyPlaylist(object):
 
 
     def create_list_of_ids_for_playlist(self):
+        '''
+        Returns list of track Ids for all of the tracks in one playlist from Spotify
+        '''
         playlist_content = self.sp.user_playlist(self.user_id, self.playlist_id)
 
         for key,val in enumerate(playlist_content['tracks']['items']):
@@ -40,8 +52,8 @@ class SpotifyPlaylist(object):
 
     def get_data_on_one_track(self, track_id):
         ''''
-        input: track_id to analyze
-        output: a list of audio featusp.Spotify(client_credentials_manager=SpotifyClientCredentialsres for the track
+        Input: Track_ID to analyze
+        Output: A list of audio features for the track
         '''
         data = self.sp.track(track_id)
         features = self.sp.audio_features(track_id)[0]
@@ -74,6 +86,9 @@ class SpotifyPlaylist(object):
 
 
     def compile_all_track_data(self):
+        '''
+        Returns a list of lists --> Final product for a SpotifyPlaylist
+        '''
         self.id_list = []
         self.id_list = self.create_list_of_ids_for_playlist()
         list_track_info = []
@@ -93,35 +108,33 @@ class SpotifyPlaylist(object):
 
 
 def SpotifyPlaylists_by_genre(client_id, client_secret, genre):
+    '''
+    Input: ClientID, ClientSecret, playlist genre
+    Output: Returns a 10 SpotifyPlaylists merged together in a Pandas DataFrame to create a larger SpotifyPlaylist based on the genre provided by the user
+    '''
     five_playlist_ids = [sp.search(q=str(genre), limit=10, type='playlist')['playlists']['items'][num]['id'] for num in range(10)]
     five_playlist_usernames = [(client_id, client_secret, sp.search(q=str(genre), limit=10, type='playlist')['playlists']['items'][num]['owner']['id']) for num in range(10)]
     d_genre_playlists = dict(zip(five_playlist_ids, five_playlist_usernames))
 
-    # five_SpotifyPlaylists = [SpotifyPlaylist(d_genre_playlists[key][0], d_genre_playlists[key][1], d_genre_playlists[key][2], key).compile_all_track_data() for key in d_genre_playlists]
-    playlist_1 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[0]).compile_all_track_data()
-    playlist_2 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[1]).compile_all_track_data()
-    playlist_3 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[2]).compile_all_track_data()
-    playlist_4 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[3]).compile_all_track_data()
-    playlist_5 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[4]).compile_all_track_data()
-    playlist_6 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[5]).compile_all_track_data()
-    playlist_7 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[6]).compile_all_track_data()
-    playlist_8 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[7]).compile_all_track_data()
-    playlist_9 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[8]).compile_all_track_data()
-    playlist_10 = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[9]).compile_all_track_data()
+    final_playlist = []
 
-    final_playlist = playlist_1 + playlist_2 + playlist_3 + playlist_4 + playlist_5 + playlist_6 + playlist_7 + playlist_8 + playlist_9 + playlist_10
+    for i in range(0, 10):
+        playlist = SpotifyPlaylist(client_id, client_secret, d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[i]).compile_all_track_data()
+        final_playlist += playlist
 
     df = pd.DataFrame(final_playlist, columns=['track', 'artist', 'album', 'popularity', 'time', 'release_date',
                                                 'track_number', 'danceability', 'energy', 'key', 'loudness', 'mode',
                                                 'speechiness', 'acoustincess', 'instrumentalness', 'liveness',
                                                 'valence', 'tempo', 'time_signature'])
-
     df['genre'] = genre
 
     return(df)
 
 
 def DataFrame_to_CSV(df, path):
+    '''
+    Converts the DataFrame for the large SpotifyPlaylist into an exported CSV file
+    '''
     return df.to_csv(path)
 
 def main():
@@ -140,34 +153,8 @@ def main():
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'folk'),"~/galvanize/capstones/capstone_1/folk.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'indie'),"~/galvanize/capstones/capstone_1/indie.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'alternative'),"~/galvanize/capstones/capstone_1/alternative.csv")
-    DataFrame_to_CSV(SpotifyPlaylists_by_genre('f1e0972287e94005ab6fe832983b376c','daf5efbba5044c5cb1362a8a3609ab2d', 'world'),"~/galvanize/capstones/capstone_1/world.csv")
+    DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'world'),"~/galvanize/capstones/capstone_1/world.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'funk'),"~/galvanize/capstones/capstone_1/funk.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'show tune'),"~/galvanize/capstones/capstone_1/show_tune.csv")
 if __name__ == "__main__":
     main()
-
-
-
-#list of genres:
-    #rock and roll, R+B, Pop, Country, Latin, Electronic, Christian, Jazz, Classical, Seasonal
-
-
-
-
-
-
-
-
-# def list_of_SpotifyPlaylists_by_genre(client_id, client_secret, genre):
-#     ten_playlist_ids = [sp.search(q=str(genre), limit=10, type='playlist')['playlists']['items'][num]['id'] for num in range(5)]
-#     ten_playlist_usernames = [(client_id, client_secret, sp.search(q=str(genre), limit=10, type='playlist')['playlists']['items'][num]['owner']['id']) for num in range(5)]
-#     d_genre_playlists = dict(zip(ten_playlist_ids, ten_playlist_usernames))
-#
-#     # first_playlist = SpotifyPlaylist(d_genre_playlists[list(d_genre_playlists.keys())[0]][0], d_genre_playlists[list(d_genre_playlists.keys())[0]][1], d_genre_playlists[list(d_genre_playlists.keys())[0]][2], list(d_genre_playlists.keys())[0]).compile_all_track_data()
-#     # five_spotify_playlists = [SpotifyPlaylist(d_genre_playlists[key][0], d_genre_playlists[key][1], d_genre_playlists[key][2], key).compile_all_track_data() for key in d_genre_playlists]
-#     list_objects = np.array([SpotifyPlaylist(d_genre_playlists[key][0], d_genre_playlists[key][1], d_genre_playlists[key][2], key) for key in d_genre_playlists])
-#     playlist_func = lambda x: x.compile_all_track_data()
-#     vec_func = np.vectorize(playlist_func)
-#     Spotify_list = vec_func(list_objects)
-#     # ten_SpotifyPlaylists = [SpotifyPlaylist(d_genre_playlists[key][0], d_genre_playlists[key][1], d_genre_playlists[key][2], key).compile_all_track_data() for key in d_genre_playlists]
-#     return Spotify_list
