@@ -51,12 +51,18 @@ Soon after I examined the first few rows of data and changed datatypes that I ne
 
 I created two bar charts to get a better look and feel for what my dataset had to offer. The first chart shows the number of tracks that each genre has represented in the dataset. Rythym and Blues songs came in on top with more than 700 songs represented and Latin was in last place with less than 450 songs represented in the data base. 
 
-<img alt="NumberTracksGenre" src="images/NumberTracksGenre.png" width='400'>
-<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>
-<img alt="PopularPairPlot" src="images/Pairplot.png" width='400'>
-<img alt="PopularDistPlot" src="images/DistributionOfPopularity.png" width='400'>
-<img alt="PopularTop10Dist" src="images/Distribution of PopularityWTop10.png" width='400'>
-<img alt="AvgPopOverYears" src="images/average_popularity_over_the_years.png" width='400'>
+![NumberTracksGenre](images/NumberTracksGenre.png)
+
+![AveragePopularity](images/AvgPopularityPerGenre.png)
+
+![PopularDistPlot](images/DistributionOfPopularity.png)
+
+![PopularTop10Dist](images/Distribution of PopularityWTop10.png)
+
+![AvgPopOverYears](images/average_popularity_over_the_years.png)
+
+![PairPlot](images/Pairplot.png)
+
                                                                                      
                                                                                      
 ### Bootstrapping for R Values
