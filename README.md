@@ -12,6 +12,9 @@
     2. [Duplicates](#duplicates)
     3. [Data Exploration and Visualization](#dandv)
 4. [Bootstrapping to Find R Value Confidence Intervals](#Bootstrap)
+    1. [Bootstrap Histogram Results](#Histogram)
+    2. [Interpretation](#Interpretation)
+5. [References](#References)
 
 #### Question: Are any of the Spotify track attributes significantly correlated with track popularity? <a name="Question"></a>
 What makes a song popular? I would say a fast, energetic funky song that gets me up and jumping on the dance floor; my mother would say a 
@@ -131,10 +134,13 @@ I wanted to know if any of the track attributes were statistically significantly
 the central limit theorem to provide the sampling distribution, so I proceeded using bootstrap sampling. Using this type of sampling, I created a 95% confidence interval for R values for all individual track attributes vs. popularity. For each attribute I drew 10,000 bootstrap samples from my main sample, computed my R values for each bootstrap sample, and found the 
 95% confidence interval by finding the 0.025 and 0.975 percentiles of the bootstrapped R values. 
 
-#### Results: 
+#### Results: <a name="Histogram"></a>
 With 95% confidence, I can conclude that only one track feature has a statistically significant relationship with popularity: danceability. The resulting danceability confidence interval: 
 >Bootstrap Confidence Interval for Population R Value: [0.02, 0.40]
 
 ![DanceabilityBootstrap](images/danceability_bootstrap.png)
 
-The way I interpreted my boo
+#### Interpretation <a name="Interpretation"></a>
+I concluded with 95% confidence that danceability is the only track attribute with a statistically significant correlation with popularity. The reason I can do that is because 0 is not in the 95% confidence interval that I created for the bootstrap sampling distribution. An R value of zero means that there is no correlation between the variables being compared. Every other attribute contained zero in its confidence interval, so I could not conclude that there was a statistically significant correlation between those attributes and popularity. 
+
+### References <a name="References"></a>
