@@ -20,7 +20,7 @@ The track attributes I will be using to find significant relationships with song
   
 
 
-<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>  
+|<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>|<img alt="AveragePopularity" src="images/NumberTracksGenre.png" width='400'>|
 
   
 ### Class Creation and Data Cleaning: 
