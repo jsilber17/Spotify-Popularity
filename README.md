@@ -103,16 +103,21 @@ The pairplot made it very clear that every attribute had a different distributio
     
 
  
-
+##### Popularity Distribution Plots
 
 After looking at the descriptive information above, I wanted to see how popularity scores were distributed across all genres. To answer this question, I created a histogram with a KDE line plot to help me understand the distribution of the popularity scores.
 
 ![PopularDistPlot](images/DistributionOfPopularity.png)
+
 The popularity score distribution appears to be normally distributed skewed slightly to the right with a mean of 45.6 popularity and a standard deviation of 22.6. 
 
 To dig deeper into this distribution, I found the proportion of songs from my sample that are very popular. I decided that a popularity score of 90 or more made a song very popular. Below is the same histogram as above, only the proportion of very popular songs is filled in with red. 
 
 >Proportion of songs with a popularity rating of 90 or more: '0.49'%
+
+0.49% of the population of songs is
+
+!RegPlot]images/danceabilityvspopularity.png)
 
 ![PopularTop10Dist](images/Top10.png)
 
