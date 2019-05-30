@@ -117,7 +117,7 @@ To dig deeper into this distribution, I found the proportion of songs from my sa
 
 0.49% of the population of songs is
 
-![RegPlot]images/danceabilityvspopularity.png)
+![RegPlot](images/danceabilityvspopularity.png)
 
 ![PopularTop10Dist](images/Top10.png)
 
