@@ -4,6 +4,7 @@ What makes a song popular? I would say a fast, energetic funky song that gets me
 a beautiful classical serenade that she can listen to while she drifts off to sleep. Spotify says that a popular based 
 on how many times the song has been streamed since its inception on Spotify and how recently that song has been streamed. 
 
+
 My goal for this project is to analyze data that I have pulled from the Spotify API and see if there are any track attributes 
 that are significantly correlated with track popularity. 
 The track attributes I will be using to find significant relationships with song popularity: 
@@ -53,9 +54,43 @@ I created two bar charts to get a better look and feel for what my dataset had t
 
 ![NumberTracksGenre](images/NumberTracksGenre.png)
 
+The second chart shows the average popularity score for a genre. Not surprisingly, the Pop song genre had the highest average popularity score and Rythym and Blues had the lowest score for average popularity.
+
 ![AveragePopularity](images/AvgPopularityPerGenre.png)
 
+To familiarize myself with the track attribute data, I created a pairplot of all the attributes across all genres. Below is the resulting pairplot. Many of the relationships that I saw on this chart were random and not helpful. However, there were some scatterplots on this pairplot that I kept in mind while I continued on with my analysis: 
+![PairPlot](images/Pairplot.png)
+  
+
+  - Positive Correlations: 
+    - Loudness and Danceability
+    - Loudness and Energy 
+    
+  - Negative Correlations:
+    - Energy and Liveness 
+    - Danceability and Liveness 
+    - Energy and Livness 
+    
+   - Attribute Distributions 
+     - Declining Exponentially 
+           - Speechiness, Acousticness, Instrumentalness, and Liveness 
+     - Normally Distributed 
+            - Danceability, Energy, Loudness, Valence 
+     - Bimodal
+            - Mode, Key
+
+The pairplot made it very clear that every attribute had a different distribution.
+    
+
+ 
+
+
+After looking at the descriptive information above, I wanted to see how popularity scores were distributed across all genres. To answer this question, I created a histogram with a KDE line plot to help me understand the distribution of the popularity scores.
+
 ![PopularDistPlot](images/DistributionOfPopularity.png)
+The popularity score distribution appears to be normally distributed skewed slightly to the right with a mean of 45.6 popularity and a standard deviation of 22.6. 
+
+To dig deeper into this distribution, I found the proportion of songs from my sample that are very popular. I decided that a popularity score of 90 or more made a song very popular. Below is the same histogram as above, only the proportion of very popular songs is filled in with red. 
 
 >Proportion of songs with a popularity rating of 90 or more: '0.49'%
 
