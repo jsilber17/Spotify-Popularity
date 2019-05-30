@@ -1,5 +1,15 @@
 ## Spotify Data Captsone
-#### Question: Are any of the Spotify track attributes significantly correlated with track popularity? 
+
+### Table of Contents
+1. [Question](#Question)
+2. [Data Cleaning](#Cleaning)
+3. [Data and Visualization](#Visualization)
+    1. [Release Date](#release_date)
+    2. [Duplicates](#duplicates)
+    3. [Data Exploration and Visualization](#dandv)
+4. [Bootstrapping to Find R Value Confidence Intervals](#Bootstrap)
+
+#### Question: Are any of the Spotify track attributes significantly correlated with track popularity? <a name="Question"></a>:
 What makes a song popular? I would say a fast, energetic funky song that gets me up and jumping on the dance floor; my mother would say a 
 a beautiful classical serenade that she can listen to while she drifts off to sleep. Spotify says that a popular based 
 on how many times the song has been streamed since its inception on Spotify and how recently that song has been streamed. 
@@ -19,7 +29,7 @@ The track attributes I will be using to find significant relationships with song
   - Valence
   - Tempo
   
-### Class Creation and Data Cleaning: 
+### Class Creation and Data Cleaning:  <a name="Cleaning"></a>:
 I recieved my data from the Spotify Developer API. I applied for my credentials and recieved a key and secret key to request 
 data from the API. To get data from the API, I created a class called "SpotifyPlaylist" that creates a list of lists from 
 user-created playlists on Spotify. I used the user_playlist function from the Spotify API documentation to create single instances of 
@@ -35,20 +45,20 @@ to create 10 SpotifyPlaylists and then added them together to create the final p
 I put them into a Pandas DataFrame and exported them all individually to my computer. I then uploaded all of the CSVs 
 to a jupyter notebook and concatenated all of the CSVs to create one DataFrame. 
 
-### Data: 
+### Data and Visualization: <a name="Visualization"></a>:
 In the final DataFrame, there are 20 columns. The first few columns describe the track information: track name, artist, album, release date, etc.
 The rest of the columns are the track attributes that are mentioned above. All of the attributes are measured quantitatively and can be interpreted 
 at this link: [Attribute Descriptions](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
 
-#### Release Date
+#### Release Date <a name="release_date"></a>:
 
 To begin my EDA, I examined the datatypes of each column in my DataFrame. Every column was either a float, int, or object which falls in line with what the columns are representing. However, while looking at the release_date column, I realized that some dates were just the year of the release_date and others included the day, month, and year of the release_date. To mitigate this, I grabbed the first four characters of release_date to ensure that I would only be doing analysis on the year of the release date. 
 
-#### Duplicates 
+#### Duplicates <a name="duplicates"></a>:
 
 Soon after I examined the first few rows of data and changed datatypes that I needed to, I realized that there might be duplicate rows in my data. I split the data by genre, but that doesn't mean that there wouldn't be repeated songs and artists in the same genre or even across multiple genres. I found the duplicated rows using Pandas and deleted the first instance of those duplicates which reduced my list of 747 rows.
 
-#### Basic Information About the Dataset
+#### Basic Information About the Dataset <a name="dandv"></a>:
 
 I created two bar charts to get a better look and feel for what my dataset had to offer. The first chart shows the number of tracks that each genre has represented in the dataset. Rythym and Blues songs came in on top with more than 700 songs represented and Latin was in last place with less than 450 songs represented in the data base. 
 
@@ -104,7 +114,7 @@ To dig deeper into this distribution, I found the proportion of songs from my sa
 
                                                                                      
                                                                                      
-### Bootstrapping for R Values
+### Bootstrapping for R Values <a name="Bootstrap"></a>:
 I wanted to know if any of the track attributes were statistically significantly correlated with popularity. I could not use 
 the central limit theorem to provide the sampling distribution, so I proceeded using bootstrap sampling. Using this type of sampling, I created a 95% confidence interval for R values for all individual track attributes vs. popularity. For each attribute I drew 10,000 bootstrap samples from my main sample, computed my R values for each bootstrap sample, and found the 
 95% confidence interval by finding the 0.025 and 0.975 percentiles of the bootstrapped R values. 
