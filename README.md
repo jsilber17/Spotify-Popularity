@@ -144,4 +144,6 @@ With 95% confidence, I can conclude that only one track feature has a statistica
 I concluded with 95% confidence that danceability is the only track attribute with a statistically significant correlation with popularity. The reason I can do that is because 0 is not in the 95% confidence interval that I created for the bootstrap sampling distribution. An R value of zero means that there is no correlation between the variables being compared. Every other attribute contained zero in its confidence interval, so I could not conclude that there was a statistically significant correlation between those attributes and popularity. 
 
 ### References <a name="References"></a>
-Spotify API Logo - [SpotifyWeb](https://www.google.com/search?q=spotify+api+logo&client=ubuntu&hs=4hl&source=lnms&tbm=isch&sa=X&ved=0ahUKEwijq5y31sPiAhVumK0KHSAxDwMQ_AUIDigB&biw=927&bih=921#imgrc=N_b8qbtlBrN3iM:)
+Spotify API Webpage - [Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
+
+Spotify API Logo - [Spotify API Logo](https://www.google.com/search?q=spotify+api+logo&client=ubuntu&hs=4hl&source=lnms&tbm=isch&sa=X&ved=0ahUKEwijq5y31sPiAhVumK0KHSAxDwMQ_AUIDigB&biw=927&bih=921#imgrc=N_b8qbtlBrN3iM:)
