@@ -18,11 +18,6 @@ The track attributes I will be using to find significant relationships with song
   - Valence
   - Tempo
   
-
-
-|<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>|<img alt="AveragePopularity" src="images/NumberTracksGenre.png" width='400'>|
-
-  
 ### Class Creation and Data Cleaning: 
 I recieved my data from the Spotify Developer API. I applied for my credentials and recieved a key and secret key to request 
 data from the API. To get data from the API, I created a class called "SpotifyPlaylist" that creates a list of lists from 
@@ -43,6 +38,8 @@ to a jupyter notebook and concatenated all of the CSVs to create one DataFrame.
 In the final DataFrame, there are 20 columns. The first few columns describe the track information: track name, artist, album, release date, etc.
 The next rows are the track attributes that are mentioned above. All of the attributes are measured quantitatively and can be interpreted 
 at this link: [Attribute Descriptions](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
+
+|<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>|<img alt="AveragePopularity" src="images/NumberTracksGenre.png" width='400'>|
 
 ### Bootstrapping for R Values
 I wanted to know if any of the track attributes were statistically significantly correlated with popularity. I could not use 
