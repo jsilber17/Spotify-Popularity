@@ -23,7 +23,7 @@ The track attributes I will be using to find significant relationships with song
 <img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>  
 
   
-#### Class Creation and Data Cleaning: 
+### Class Creation and Data Cleaning: 
 I recieved my data from the Spotify Developer API. I applied for my credentials and recieved a key and secret key to request 
 data from the API. To get data from the API, I created a class called "SpotifyPlaylist" that creates a list of lists from 
 user-created playlists on Spotify. I used the user_playlist function from the Spotify API documentation to create single instances of 
@@ -39,8 +39,21 @@ to create 10 SpotifyPlaylists and then added them together to create the final p
 I put them into a Pandas DataFrame and exported them all individually to my computer. I then uploaded all of the CSVs 
 to a jupyter notebook and concatenated all of the CSVs to create one DataFrame. 
 
-#### Data: 
+### Data: 
 In the final DataFrame, there are 20 columns. The first few columns describe the track information: track name, artist, album, release date, etc.
 The next rows are the track attributes that are mentioned above. All of the attributes are measured quantitatively and can be interpreted 
 at this link: [Attribute Descriptions](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
 
+### Bootstrapping for R Values
+I wanted to know if any of the track attributes were statistically significantly correlated with popularity. I could not use 
+the central limit theorem to provide the sampling distribution, so I proceeded using bootstrap sampling. Using this type of sampling, I created a 95% confidence interval for R values for all individual track attributes vs. popularity. For each attribute I drew 10,000 bootstrap samples from my main sample, computed my R values for each bootstrap sample, and found the 
+95% confidence interval by finding the 0.025 and 0.975 percentiles of the bootstrapped R values. 
+
+#### Results: 
+With 95% confidence, I can conclude that only one track feature has a statistically significant relationship with popularity: danceability. The resulting danceability confidence interval: 
+>Bootstrap Confidence Interval for Population R Value: [0.02, 0.40]
+
+<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'> 
+<img alt="AveragePopularity" src="images/danceability_bootstrap.png" width='400'> 
+
+The way I interpreted my boo
