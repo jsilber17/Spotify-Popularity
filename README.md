@@ -117,17 +117,15 @@ To dig deeper into this distribution, I found the proportion of songs from my sa
 
 >Proportion of songs with a popularity rating of 90 or more: '0.49'%
 
-0.49% of the population of songs is
+##### Popularity Scatterplots 
+
+The goal of my project was to find if there are any there were any track attributes that were correlated with popularity. I decided the best subset of songs to use for creating scatterplots of popularity vs. track attributes was the DataFrame I created above with songs that had a popularity of 90 or more. I created scatterplots for all track attributes and popularity for the Popularity DataFrame and also found the R values associated with both arrays. The highest R value that I found was for danceability with an R value of 0.36. The scatterplot for Danceability vs. Popularity is below: 
+
+>R value for Danceability vs. Popularity: 0.3576259487457735 
 
 ![RegPlot](images/danceabilityvspopularity.png)
 
-![AvgPopOverYears](images/average_popularity_over_the_years.png)
 
-
-
-
-                                                                                     
-                                                                                     
 ### Bootstrapping for R Values <a name="Bootstrap"></a>:
 I wanted to know if any of the track attributes were statistically significantly correlated with popularity. I could not use 
 the central limit theorem to provide the sampling distribution, so I proceeded using bootstrap sampling. Using this type of sampling, I created a 95% confidence interval for R values for all individual track attributes vs. popularity. For each attribute I drew 10,000 bootstrap samples from my main sample, computed my R values for each bootstrap sample, and found the 
