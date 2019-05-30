@@ -74,6 +74,6 @@ the central limit theorem to provide the sampling distribution, so I proceeded u
 With 95% confidence, I can conclude that only one track feature has a statistically significant relationship with popularity: danceability. The resulting danceability confidence interval: 
 >Bootstrap Confidence Interval for Population R Value: [0.02, 0.40]
 
-<img alt="DanceabilityBootstrap" src="images/danceability_bootstrap.png" width='400'> 
+![DanceabilityBootstrap](images/danceability_bootstrap.png)
 
 The way I interpreted my boo
