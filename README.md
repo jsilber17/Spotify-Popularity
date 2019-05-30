@@ -18,7 +18,10 @@ The track attributes I will be using to find significant relationships with song
   - Valence
   - Tempo
   
-![here](images/AvgPopularityPerGenre.png)
+
+
+<img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>  
+
   
 #### Class Creation and Data Cleaning: 
 I recieved my data from the Spotify Developer API. I applied for my credentials and recieved a key and secret key to request 
