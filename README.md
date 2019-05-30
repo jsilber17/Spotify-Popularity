@@ -15,7 +15,7 @@
 
 #### Question: Are any of the Spotify track attributes significantly correlated with track popularity? <a name="Question"></a>
 What makes a song popular? I would say a fast, energetic funky song that gets me up and jumping on the dance floor; my mother would say a 
-a beautiful classical serenade that she can listen to while she drifts off to sleep. Spotify says that a popular based 
+a beautiful classical serenade that she can listen to while she drifts off to sleep. Spotify says that a popularity based 
 on how many times the song has been streamed since its inception on Spotify and how recently that song has been streamed. 
 
 
