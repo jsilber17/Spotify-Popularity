@@ -57,6 +57,8 @@ I created two bar charts to get a better look and feel for what my dataset had t
 
 ![PopularDistPlot](images/DistributionOfPopularity.png)
 
+>Proportion of songs with a popularity rating of 90 or more: '0.49'%
+
 ![PopularTop10Dist](images/Top10.png)
 
 ![AvgPopOverYears](images/average_popularity_over_the_years.png)
