@@ -52,11 +52,13 @@ Soon after I examined the first few rows of data and changed datatypes that I ne
 I created two bar charts to get a better look and feel for what my dataset had to offer. The first chart shows the number of tracks that each genre has represented in the dataset. Rythym and Blues songs came in on top with more than 700 songs represented and Latin was in last place with less than 450 songs represented in the data base. 
 
 <img alt="NumberTracksGenre" src="images/NumberTracksGenre.png" width='400'>
-
-
-
 <img alt="AveragePopularity" src="images/AvgPopularityPerGenre.png" width='400'>
-
+<img alt="PopularPairPlot" src="images/Pairplot.png" width='400'>
+<img alt="PopularDistPlot" src="images/DistributionOfPopularity.png" width='400'>
+<img alt="PopularTop10Dist" src="images/Distribution of PopularityWTop10.png" width='400'>
+<img alt="AvgPopOverYears" src="images/average_popularity_over_the_years.png" width='400'>
+                                                                                     
+                                                                                     
 ### Bootstrapping for R Values
 I wanted to know if any of the track attributes were statistically significantly correlated with popularity. I could not use 
 the central limit theorem to provide the sampling distribution, so I proceeded using bootstrap sampling. Using this type of sampling, I created a 95% confidence interval for R values for all individual track attributes vs. popularity. For each attribute I drew 10,000 bootstrap samples from my main sample, computed my R values for each bootstrap sample, and found the 
