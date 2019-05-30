@@ -61,6 +61,8 @@ I created two bar charts to get a better look and feel for what my dataset had t
 
 ![AvgPopOverYears](images/average_popularity_over_the_years.png)
 
+![Top10Popularity](images/Distribution of PopularityWTop10.png)
+
 ![PairPlot](images/Pairplot.png)
 
                                                                                      
