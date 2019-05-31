@@ -149,7 +149,6 @@ def main():
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'classical'),"~/galvanize/capstones/capstone_1/classical.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'seasonal'),"~/galvanize/capstones/capstone_1/seasonal.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'metal'),"~/galvanize/capstones/capstone_1/metal.csv")
-    DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'metal'),"~/galvanize/capstones/capstone_1/metal.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'folk'),"~/galvanize/capstones/capstone_1/folk.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'indie'),"~/galvanize/capstones/capstone_1/indie.csv")
     DataFrame_to_CSV(SpotifyPlaylists_by_genre(client_id, client_secret, 'alternative'),"~/galvanize/capstones/capstone_1/alternative.csv")
