@@ -18,8 +18,8 @@
 
 ### Question: Are any of the Spotify track attributes significantly correlated with track popularity? <a name="Question"></a>
 What makes a song popular? I would say a fast, energetic funky song that gets me up and jumping on the dance floor; my mother would say a 
-a beautiful classical serenade that she can listen to while she drifts off to sleep. Spotify says that a popularity based 
-on how many times the song has been streamed since its inception on Spotify and how recently that song has been streamed. 
+a beautiful classical serenade that she can listen to while she drifts off to sleep. Spotify says that popularity is based 
+on how many times a song has been streamed since its inception on Spotify and how recently that song has been streamed. 
 
 
 My goal for this project is to analyze data that I have pulled from the Spotify API and see if there are any track attributes 
@@ -42,7 +42,7 @@ data from the API. To get data from the API, I created a class called "SpotifyPl
 user-created playlists on Spotify. I used the user_playlist function from the Spotify API documentation to create single instances of 
 SpotifyPlaylist. The user_playlist function returns a json type object (a list of dictionaries embedded within dictionaries).
 The functions in the SpotifyPlaylist:create_list_of_ids_for_playlists, get_data_on_one_track, and compile_all_track_data
-parse through the json-like user_playlist object, pull out unique identifiers for each track on the playlis and compile 
+parse through the json-like user_playlist object, pull out unique identifiers for each track on the playlist and compile 
 all of the attributes and features of playlist into a list of lists. 
 
 After I created the SpotifyPlaylist class, I created a function that returns SpotifyPlaylists based on genre. I utilized the 
@@ -63,7 +63,7 @@ To begin my EDA, I examined the datatypes of each column in my DataFrame. Every 
 
 #### Duplicates <a name="duplicates"></a>
 
-Soon after I examined the first few rows of data and changed datatypes that I needed to, I realized that there might be duplicate rows in my data. I split the data by genre, but that doesn't mean that there wouldn't be repeated songs and artists in the same genre or even across multiple genres. I found the duplicated rows using Pandas and deleted the first instance of those duplicates which reduced my list of 747 rows.
+Soon after I examined the first few rows of data and changed datatypes that I needed to, I realized that there might be duplicate rows in my data. I split the data by genre, but that did not mean that there wouldn't be repeated songs and artists in the same genre or even across multiple genres. I found the duplicated rows using Pandas and deleted the first instance of those duplicates which reduced my list of 747 rows.
 
 #### Basic Information About the Dataset <a name="dandv"></a>
 
@@ -92,7 +92,6 @@ To familiarize myself with the track attribute data, I created a pairplot of all
   - **Negative Correlations:**
     - Energy and Liveness 
     - Danceability and Liveness 
-    - Energy and Livness 
     
    - **Attribute Distributions** 
      - Declining Exponentially 
@@ -135,7 +134,7 @@ the central limit theorem to provide the sampling distribution, so I proceeded u
 95% confidence interval by finding the 0.025 and 0.975 percentiles of the bootstrapped R values. 
 
 #### Results: <a name="Histogram"></a>
-With 95% confidence, I can conclude that only one track feature has a statistically significant relationship with popularity: danceability. The resulting danceability confidence interval: 
+With 95% confidence, I can conclude that only one track attribute has a statistically significant relationship with popularity: danceability. The resulting danceability confidence interval: 
 >Bootstrap Confidence Interval for Population R Value: [0.02, 0.40]
 
 ![DanceabilityBootstrap](images/danceability_bootstrap.png)
