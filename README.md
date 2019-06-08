@@ -1,4 +1,4 @@
-## Spotify Data Captsone
+## SPOTIFY POPULARITY
 
 <p align="center">
   <img width="800" height="400" src="images/WebAPI_intro.png">
